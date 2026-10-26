@@ -5,7 +5,7 @@ daangn_cafe.py
 당근카페 무인 자동 발행 CLI 및 통신 모듈
 
 보안 규칙:
-- 당근 세션 쿠키(DAANGN_COOKIE)는 반드시 .env 파일에서만 로드하며,
+- 당근 세션 쿠키(DAANGN_COOKIE)는 반드시 .env 파일(또는 GitHub Secrets 환경변수)에서만 로드하며,
   절대로 표준 출력(stdout), 에러 출력(stderr), 로그 파일에 노출하지 않습니다.
 """
 
@@ -14,6 +14,7 @@ import json
 import mimetypes
 import os
 import re
+import struct
 import sys
 import time
 from pathlib import Path
@@ -53,20 +54,69 @@ def load_env(env_path: Path) -> Dict[str, str]:
             ):
                 val = val[1:-1]
             env_vars[key] = val
-            if key not in os.environ:
+            if key not in os.environ or not os.environ[key]:
                 os.environ[key] = val
     return env_vars
+
+
+def normalize_cookie(raw_cookie: str) -> str:
+    """쿠키 값에 __Secure-authjs.session-token= 접두사가 누락된 경우 자동으로 보정합니다."""
+    c = raw_cookie.strip().strip('"').strip("'")
+    if not c:
+        return ""
+    if "session-token=" not in c and c.startswith("eyJ"):
+        return f"__Secure-authjs.session-token={c}"
+    return c
 
 
 def mask_sensitive(text: str, cookie: str) -> str:
     """로그나 에러 메시지에서 쿠키 원문이 절대 출력되지 않도록 마스킹합니다."""
     if not text:
         return text
-    if cookie and cookie in text:
-        text = text.replace(cookie, "[REDACTED_COOKIE]")
-    # 일반적인 세션 토큰 패턴 마스킹
+    if cookie:
+        raw_val = cookie.replace("__Secure-authjs.session-token=", "")
+        if cookie in text:
+            text = text.replace(cookie, "[REDACTED_COOKIE]")
+        if raw_val and len(raw_val) > 15 and raw_val in text:
+            text = text.replace(raw_val, "[REDACTED_TOKEN]")
     text = re.sub(r"(?i)(cookie\s*[:=]\s*)([^\r\n]+)", r"\1[REDACTED]", text)
+    text = re.sub(r"eyJ[A-Za-z0-9_-]+\.[A-Za-z0-9_.-]+", "[REDACTED_JWT]", text)
     return text
+
+
+def get_image_dimensions(image_path: Path) -> Tuple[int, int]:
+    """외부 라이브러리(PIL) 없이 JPEG/PNG/WEBP 이미지의 가로/세로 해상도(width, height)를 추출합니다."""
+    try:
+        with open(image_path, "rb") as f:
+            head = f.read(32)
+            if len(head) < 24:
+                return 1080, 1080
+            # PNG
+            if head.startswith(b"\x89PNG\r\n\x1a\n") and head[12:16] == b"IHDR":
+                w, h = struct.unpack(">LL", head[16:24])
+                return int(w), int(h)
+            # GIF
+            if head[:6] in (b"GIF87a", b"GIF89a"):
+                w, h = struct.unpack("<HH", head[6:10])
+                return int(w), int(h)
+            # JPEG
+            if head[:2] == b"\xff\xd8":
+                f.seek(0)
+                size = 2
+                ftype = 0
+                while not 0xC0 <= ftype <= 0xCF or ftype in (0xC4, 0xC8, 0xCC):
+                    f.seek(size, 1)
+                    byte = f.read(1)
+                    while ord(byte) == 0xFF:
+                        byte = f.read(1)
+                    ftype = ord(byte)
+                    size = struct.unpack(">H", f.read(2))[0] - 2
+                f.seek(1, 1)
+                h, w = struct.unpack(">HH", f.read(4))
+                return int(w), int(h)
+    except Exception:
+        pass
+    return 1080, 1080
 
 
 class DaangnCafeError(Exception):
@@ -81,27 +131,30 @@ class DaangnCafeClient:
         self.env_path = env_path or (base_dir / ".env")
         load_env(self.env_path)
 
-        self.slug = slug
-        self.cookie = os.environ.get("DAANGN_COOKIE", "").strip()
-        if not self.cookie or self.cookie == "YOUR_DAANGN_SESSION_COOKIE_HERE":
+        self.slug = slug.strip().lstrip("/")
+        raw_cookie = os.environ.get("DAANGN_COOKIE", "")
+        self.cookie = normalize_cookie(raw_cookie)
+        if not self.cookie or "YOUR_DAANGN_SESSION_COOKIE_HERE" in self.cookie:
             raise DaangnCafeError(
-                "[오류] .env 파일에 유효한 DAANGN_COOKIE가 설정되어 있지 않습니다.",
+                "[오류] .env 또는 환경변수에 유효한 DAANGN_COOKIE가 설정되어 있지 않습니다.",
                 EXIT_AUTH_EXPIRED,
             )
 
         self.base_url = os.environ.get("DAANGN_BASE_URL", DEFAULT_BASE_URL).rstrip("/")
-        self.cafe_path_prefix = os.environ.get("DAANGN_CAFE_PREFIX", "/cafes").rstrip("/")
+        self.cafe_path_prefix = os.environ.get("DAANGN_CAFE_PREFIX", "").rstrip("/")
         self.post_action_id = os.environ.get("DAANGN_POST_ACTION_ID", DEFAULT_POST_ACTION_ID).strip()
         self.image_action_id = os.environ.get("DAANGN_IMAGE_ACTION_ID", DEFAULT_IMAGE_ACTION_ID).strip()
         self.max_retries = int(os.environ.get("DAANGN_MAX_RETRIES", "3"))
         self.rate_limit_wait = int(os.environ.get("DAANGN_RATE_LIMIT_WAIT", "60"))
         self.user_agent = os.environ.get(
             "DAANGN_USER_AGENT",
-            "Mozilla/5.0 (Linux; Android 14; SM-S928N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36 DaangnCafeBot/1.0",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
         )
+        self._cached_cafe_html: Optional[str] = None
+        self._cached_cafe_id: Optional[int] = None
 
     def _cafe_url(self, subpath: str = "") -> str:
-        path = f"{self.cafe_path_prefix}/{self.slug}"
+        path = f"{self.cafe_path_prefix}/{self.slug}" if self.cafe_path_prefix else f"/{self.slug}"
         if subpath:
             path = f"{path}/{subpath.lstrip('/')}"
         return f"{self.base_url}{path}"
@@ -114,10 +167,6 @@ class DaangnCafeClient:
         headers: Optional[Dict[str, str]] = None,
         include_cookie: bool = True,
     ) -> Tuple[int, Dict[str, str], str]:
-        """
-        지정된 헤더 규격 및 재시도 정책("요청이 너무 많아요" -> 60초 대기, 유한 재시도)을 준수하여
-        HTTP 요청을 수행합니다.
-        """
         req_headers = {
             "User-Agent": self.user_agent,
         }
@@ -147,7 +196,7 @@ class DaangnCafeClient:
                 safe_reason = mask_sensitive(str(e.reason), self.cookie)
                 raise DaangnCafeError(f"[네트워크 오류] 서버에 연결할 수 없습니다: {safe_reason}")
 
-            # 1) "요청이 너무 많아요" 또는 HTTP 429 처리 (60초 대기 후 최대 max_retries 재시도, 무한 재시도 금지)
+            # 1) "요청이 너무 많아요" 또는 HTTP 429 처리 (60초 대기 후 최대 max_retries 재시도)
             if status == 429 or "요청이 너무 많아요" in body_text or "Too Many Requests" in body_text:
                 if attempt > self.max_retries:
                     raise DaangnCafeError(
@@ -167,7 +216,7 @@ class DaangnCafeClient:
                 for kw in ("로그인이 필요", "세션이 만료", "UNAUTHENTICATED", "UNAUTHORIZED", "login_required")
             ):
                 raise DaangnCafeError(
-                    "[인증 만료] 당근 세션 쿠키가 만료되었거나 권한이 없습니다. 새 쿠키를 .env에 설정해 주세요.",
+                    "[인증 만료] 당근 세션 쿠키가 만료되었거나 권한이 없습니다. 새 쿠키를 설정해 주세요.",
                     EXIT_AUTH_EXPIRED,
                 )
 
@@ -181,7 +230,7 @@ class DaangnCafeClient:
                 if req_headers.get("Next-Action"):
                     raise DaangnCafeError(
                         f"[액션 ID 확인 필요] Next-Action ID({req_headers.get('Next-Action')})가 서버에서 거부되었습니다. "
-                        "당근 서버 배포로 액션 ID가 변경되었는지 재확인해 주세요.",
+                        "액션 ID 변경 여부를 재확인해 주세요.",
                         EXIT_ACTION_ID_CHANGED,
                     )
 
@@ -198,6 +247,8 @@ class DaangnCafeClient:
             "Accept": "text/x-component",
             "Content-Type": "text/plain;charset=UTF-8",
             "Next-Action": action_id,
+            "Origin": self.base_url,
+            "Referer": url,
         }
         data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
         status, _, body = self._request("POST", url, data=data, headers=headers, include_cookie=True)
@@ -219,7 +270,6 @@ class DaangnCafeClient:
                 continue
             _, raw_json = line.split(":", 1)
             raw_json = raw_json.strip()
-            # 일부 RSC 프리픽스(예: I[...], E{...}) 제거 시도
             if raw_json and raw_json[0].isalpha() and len(raw_json) > 1 and raw_json[1] in "[{":
                 raw_json = raw_json[1:]
             try:
@@ -228,23 +278,41 @@ class DaangnCafeClient:
                 continue
         return parsed_chunks
 
-    def check_membership(self) -> Dict[str, Any]:
-        """
-        3. 연결 확인: membership
-        자격: 회원 상태 super_host 확인.
-        """
+    def _fetch_cafe_page_decoded(self) -> str:
+        if self._cached_cafe_html is not None:
+            return self._cached_cafe_html
         url = self._cafe_url()
         headers = {
-            "Accept": "text/x-component, text/html;q=0.9",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         }
         status, _, body = self._request("GET", url, headers=headers, include_cookie=True)
         if status >= 400:
             raise DaangnCafeError(f"[연결 실패] 카페 페이지 조회 실패 (HTTP {status})", EXIT_GENERAL_ERROR)
 
-        # 응답 본문(RSC 페이로드 또는 내장 JSON)에서 role / membership 상태 추출
-        is_super_host = "super_host" in body or '"role":"SUPER_HOST"' in body.upper()
-        role_match = re.search(r'"(?:role|memberRole|membershipStatus|status)"\s*:\s*"([^"]+)"', body)
-        detected_role = "super_host" if is_super_host else (role_match.group(1) if role_match else "unknown")
+        # Next.js RSC 스트림 디코딩 병합
+        decoded = body.replace('\\"', '"').replace("\\\\", "\\")
+        self._cached_cafe_html = decoded
+
+        cafe_id_match = re.search(r'"cafeId"\s*:\s*(\d+)', decoded)
+        if cafe_id_match:
+            self._cached_cafe_id = int(cafe_id_match.group(1))
+
+        return decoded
+
+    def check_membership(self) -> Dict[str, Any]:
+        """
+        3. 연결 확인: membership
+        자격: 회원 상태 super_host 확인.
+        """
+        decoded = self._fetch_cafe_page_decoded()
+
+        is_super_host = (
+            '"permissionLevel":"super_host"' in decoded
+            or '"role":"super_host"' in decoded
+            or "super_host" in decoded
+        )
+        perm_match = re.search(r'"permissionLevel"\s*:\s*"([^"]+)"', decoded)
+        detected_role = "super_host" if is_super_host else (perm_match.group(1) if perm_match else "unknown")
 
         if not is_super_host:
             raise DaangnCafeError(
@@ -255,6 +323,7 @@ class DaangnCafeClient:
 
         return {
             "slug": self.slug,
+            "cafeId": self._cached_cafe_id,
             "role": "super_host",
             "status": "active",
         }
@@ -264,149 +333,150 @@ class DaangnCafeClient:
         3. 게시판 확인: boards
         카페의 게시판(카테고리) 목록을 조회합니다.
         """
-        url = self._cafe_url()
-        headers = {
-            "Accept": "text/x-component, text/html;q=0.9",
-        }
-        status, _, body = self._request("GET", url, headers=headers, include_cookie=True)
-        if status >= 400:
-            raise DaangnCafeError(f"[조회 실패] 게시판 목록 조회 실패 (HTTP {status})", EXIT_GENERAL_ERROR)
-
+        decoded = self._fetch_cafe_page_decoded()
         boards: List[Dict[str, str]] = []
         seen_ids = set()
 
-        # RSC / JSON 내 boards 배열 패턴 탐색
-        board_array_matches = re.findall(r'"boards"\s*:\s*(\[[^\]]+\])', body)
-        for raw_arr in board_array_matches:
-            try:
-                items = json.loads(raw_arr)
-                for item in items:
-                    if isinstance(item, dict):
-                        b_id = str(item.get("id") or item.get("boardId") or item.get("slug") or "")
-                        b_name = str(item.get("name") or item.get("title") or b_id)
-                        if b_id and b_id not in seen_ids:
-                            seen_ids.add(b_id)
-                            boards.append({"id": b_id, "name": b_name})
-            except Exception:
-                continue
+        # 1) boardCategories 배열에서 추출: {"id":2252190,"type":"default","category":"자유 게시판"...}
+        cat_pattern = re.compile(
+            r'\{\s*"id"\s*:\s*(\d+)\s*,\s*"type"\s*:\s*"([^"]+)"\s*,\s*"category"\s*:\s*"([^"]+)"'
+        )
+        for m in cat_pattern.finditer(decoded):
+            b_id, b_type, b_name = m.group(1), m.group(2), m.group(3)
+            if b_id not in seen_ids:
+                seen_ids.add(b_id)
+                boards.append({"id": b_id, "name": b_name, "type": b_type})
 
-        # 개별 board 객체 정규식 백업 탐색
+        # 2) sections items 배열에서 추출: {"id":"2252190","label":"자유 게시판","href":...}
         if not boards:
-            pattern = re.compile(
-                r'\{\s*"id"\s*:\s*"([^"]+)"\s*,\s*"name"\s*:\s*"([^"]+)"[^{}]*\}',
+            item_pattern = re.compile(
+                r'\{\s*"id"\s*:\s*"([^"]+)"\s*,\s*"label"\s*:\s*"([^"]+)"'
             )
-            for m in pattern.finditer(body):
+            for m in item_pattern.finditer(decoded):
                 b_id, b_name = m.group(1), m.group(2)
-                if b_id not in seen_ids:
+                if b_id != "all" and b_id not in seen_ids:
                     seen_ids.add(b_id)
                     boards.append({"id": b_id, "name": b_name})
 
         return boards
 
+    def resolve_board_id(self, board_arg: str) -> str:
+        """사용자가 게시판 번호, 이름, 일부 키워드, 혹은 'free'를 입력하더라도 정확한 숫자 게시판 ID로 변환합니다."""
+        boards = self.list_boards()
+        if not boards:
+            return board_arg
+
+        arg = board_arg.strip()
+        # 1) 이미 정확한 ID인 경우
+        for b in boards:
+            if b["id"] == arg:
+                return b["id"]
+
+        # 2) 이름 정확 일치 또는 부분 일치 (이모지 제외 비교 포함)
+        for b in boards:
+            if arg in b["name"] or b["name"] in arg:
+                return b["id"]
+
+        # 3) 'free' 또는 빈 값인 경우 default(자유 게시판) 또는 첫 번째 일반 게시판 자동 선택
+        if arg.lower() in ("", "free", "default", "자유", "자유게시판"):
+            for b in boards:
+                if b.get("type") == "default" or "자유" in b["name"]:
+                    return b["id"]
+            return boards[0]["id"]
+
+        return arg
+
     def upload_image(self, image_path: Path) -> str:
         """
-        이미지 업로드:
-        1) 액션 ID (40a64c6f3424be009d7225054055934226e1de89b9)로 Presigned URL 발급 요청 (POST)
-        2) 발급된 Presigned URL로 이미지 바이너리 직접 업로드 (PUT)
-        3) 최종 이미지 URL(또는 미디어 키) 반환
+        이미지 업로드 규격:
+        1) 액션 ID (40a64c6f3424be009d7225054055934226e1de89b9, getImageUploadUrl) 호출:
+           payload: [{"contentType": mime_type, "width": width, "height": height}]
+        2) 응답의 uploadUrl 로 PUT 요청 (헤더: Content-Type, x-amz-meta-id: o.image.id)
+        3) 업로드된 image.id 반환
         """
         if not image_path.exists():
             raise DaangnCafeError(f"[파일 오류] 첨부할 이미지 파일을 찾을 수 없습니다: {image_path}")
 
         mime_type, _ = mimetypes.guess_type(str(image_path))
         mime_type = mime_type or "image/jpeg"
-        file_size = image_path.stat().st_size
+        width, height = get_image_dimensions(image_path)
 
-        # 1단계: 이미지 업로드 액션 호출 (POST, Accept: text/x-component, Content-Type: text/plain;charset=UTF-8)
         action_url = self._cafe_url("posts/new")
         payload = [
             {
-                "cafeSlug": self.slug,
-                "fileName": image_path.name,
                 "contentType": mime_type,
-                "fileSize": file_size,
+                "width": width,
+                "height": height,
             }
         ]
         body = self.request_server_action(action_url, self.image_action_id, payload)
         chunks = self.parse_rsc_flight_response(body)
 
         upload_url: Optional[str] = None
-        final_image_url: Optional[str] = None
+        image_id: Optional[str] = None
 
         for chunk in chunks:
             if isinstance(chunk, dict):
-                upload_url = upload_url or chunk.get("uploadUrl") or chunk.get("presignedUrl") or chunk.get("putUrl")
-                final_image_url = (
-                    final_image_url
-                    or chunk.get("imageUrl")
-                    or chunk.get("url")
-                    or chunk.get("publicUrl")
-                    or chunk.get("fileUrl")
-                )
-                if isinstance(chunk.get("data"), dict):
-                    d = chunk["data"]
-                    upload_url = upload_url or d.get("uploadUrl") or d.get("presignedUrl")
-                    final_image_url = final_image_url or d.get("imageUrl") or d.get("url") or d.get("publicUrl")
+                upload_url = upload_url or chunk.get("uploadUrl") or chunk.get("presignedUrl")
+                if isinstance(chunk.get("image"), dict):
+                    image_id = image_id or str(chunk["image"].get("id") or "")
+                image_id = image_id or (str(chunk["id"]) if chunk.get("id") else None)
 
-        if not upload_url:
-            # 정규식 폴백 추출
-            urls = re.findall(r'https?://[^\s"\'<>]+', body)
-            for u in urls:
-                if "s3" in u or "storage" in u or "upload" in u or "X-Amz-Signature" in u:
-                    upload_url = u
-                    break
-            for u in urls:
-                if u != upload_url and any(ext in u.lower() for ext in (".jpg", ".jpeg", ".png", ".webp", "dn.daangn")):
-                    final_image_url = u
-                    break
-
-        if not upload_url and not final_image_url:
+        if not upload_url or not image_id:
             raise DaangnCafeError(
-                f"[이미지 업로드 실패] 업로드 URL을 응답에서 찾을 수 없습니다. "
+                f"[이미지 업로드 실패] 업로드 URL 또는 이미지 ID를 응답에서 찾을 수 없습니다. "
                 f"액션 ID({self.image_action_id}) 변경 여부를 확인해 주세요.",
                 EXIT_ACTION_ID_CHANGED,
             )
 
-        # 2단계: Presigned URL이 있는 경우 PUT 요청으로 바이너리 업로드
-        if upload_url:
-            with open(image_path, "rb") as img_f:
-                img_bytes = img_f.read()
-            put_headers = {
-                "Content-Type": mime_type,
-                "Content-Length": str(len(img_bytes)),
-            }
-            put_status, _, _ = self._request(
-                "PUT", upload_url, data=img_bytes, headers=put_headers, include_cookie=False
-            )
-            if put_status >= 400:
-                raise DaangnCafeError(f"[이미지 PUT 실패] 스토리지 업로드 실패 (HTTP {put_status})")
+        with open(image_path, "rb") as img_f:
+            img_bytes = img_f.read()
 
-        return final_image_url or upload_url.split("?", 1)[0]
+        put_headers = {
+            "Content-Type": mime_type,
+            "x-amz-meta-id": image_id,
+            "Content-Length": str(len(img_bytes)),
+        }
+        put_status, _, _ = self._request(
+            "PUT", upload_url, data=img_bytes, headers=put_headers, include_cookie=False
+        )
+        if put_status >= 400:
+            raise DaangnCafeError(f"[이미지 PUT 실패] 스토리지 업로드 실패 (HTTP {put_status})")
+
+        return image_id
 
     def create_post(
         self,
         board: str,
         title: str,
         content: str,
-        image_urls: Optional[List[str]] = None,
+        image_ids: Optional[List[str]] = None,
     ) -> str:
         """
         글 발행:
         - 액션 ID: 403124fa9b0adc7ba42c71ac4d738e7b78c62e47bc
         - 헤더: Accept: text/x-component, Content-Type: text/plain;charset=UTF-8
-        - 성공 시 최종 글 URL만 반환 (발행된 글 수정/삭제 기능은 일절 지원하지 않음)
+        - 성공 시 최종 글 URL만 반환
         """
-        # 사전 자격 확인 (super_host 여부 검증)
         self.check_membership()
+        resolved_board_id = self.resolve_board_id(board)
+        board_int_or_str: Any = int(resolved_board_id) if resolved_board_id.isdigit() else resolved_board_id
 
         action_url = self._cafe_url("posts/new")
+
+        # 당근카페 게시글 생성 Server Action 페이로드 전송
         payload = [
             {
                 "cafeSlug": self.slug,
-                "boardId": board,
+                "cafeId": self._cached_cafe_id,
+                "boardId": board_int_or_str,
+                "boardCategoryId": board_int_or_str,
                 "title": title,
                 "content": content,
-                "images": image_urls or [],
+                "body": content,
+                "imageIds": image_ids or [],
+                "images": image_ids or [],
+                "publishType": "public",
             }
         ]
         body = self.request_server_action(action_url, self.post_action_id, payload)
@@ -417,40 +487,48 @@ class DaangnCafeClient:
 
         for chunk in chunks:
             if isinstance(chunk, dict):
-                if chunk.get("error") or chunk.get("status") == "error":
-                    err_msg = str(chunk.get("message") or chunk.get("error"))
+                if chunk.get("success") is False or chunk.get("error") or chunk.get("status") == "error":
+                    err_msg = str(chunk.get("message") or chunk.get("error") or chunk)
                     raise DaangnCafeError(f"[글 발행 거부] {err_msg}")
-                post_url = post_url or chunk.get("url") or chunk.get("postUrl") or chunk.get("redirectUrl")
-                post_id = post_id or chunk.get("id") or chunk.get("postId") or chunk.get("articleId")
+                post_url = (
+                    post_url
+                    or chunk.get("url")
+                    or chunk.get("postUrl")
+                    or chunk.get("href")
+                    or chunk.get("redirectUrl")
+                )
+                post_id = post_id or chunk.get("id") or chunk.get("postId") or chunk.get("slug")
+                if isinstance(chunk.get("post"), dict):
+                    p = chunk["post"]
+                    post_url = post_url or p.get("href") or p.get("url")
+                    post_id = post_id or p.get("id") or p.get("slug")
                 if isinstance(chunk.get("data"), dict):
                     d = chunk["data"]
-                    post_url = post_url or d.get("url") or d.get("postUrl")
-                    post_id = post_id or d.get("id") or d.get("postId")
+                    post_url = post_url or d.get("url") or d.get("postUrl") or d.get("href")
+                    post_id = post_id or d.get("id") or d.get("postId") or d.get("slug")
 
-        # Next.js Server Action redirect 헤더 또는 본문 내 NEXT_REDIRECT 추출
+        # NEXT_REDIRECT 추출
         if not post_url:
             redirect_match = re.search(r"NEXT_REDIRECT;[^;]*;([^;]+);", body)
             if redirect_match:
                 redirect_target = redirect_match.group(1).strip()
-                if redirect_target.startswith("http"):
-                    post_url = redirect_target
-                else:
-                    post_url = f"{self.base_url}{redirect_target}"
+                post_url = redirect_target if redirect_target.startswith("http") else f"{self.base_url}{redirect_target}"
+
+        if post_url and not post_url.startswith("http"):
+            post_url = f"{self.base_url}/{post_url.lstrip('/')}"
 
         if not post_url and post_id:
             post_url = self._cafe_url(f"posts/{post_id}")
 
         if not post_url:
-            # 본문 내 게시글 URL 패턴 탐색
-            url_match = re.search(
-                rf"(https?://[^\s\"'<>]*{re.escape(self.slug)}/posts/[^\s\"'<>]+)", body
-            )
-            if url_match:
-                post_url = url_match.group(1)
+            path_match = re.search(rf"(/{re.escape(self.slug)}/posts/[^\s\"'<>\\]+)", body)
+            if path_match:
+                post_url = f"{self.base_url}{path_match.group(1)}"
 
         if not post_url:
+            safe_preview = mask_sensitive(body[:300], self.cookie)
             raise DaangnCafeError(
-                f"[발행 확인 실패] 응답에서 최종 게시글 URL을 확인할 수 없습니다. "
+                f"[발행 확인 실패] 응답에서 최종 게시글 URL을 확인할 수 없습니다 (응답: {safe_preview}). "
                 f"액션 ID({self.post_action_id}) 변경 여부를 확인해 주세요.",
                 EXIT_ACTION_ID_CHANGED,
             )
@@ -463,7 +541,6 @@ def parse_manuscript(manuscript_path: Path) -> Tuple[str, str, List[Path]]:
     원고 파일 파싱 규격:
     - 첫 줄: `제목: [제목내용]`
     - 그 아래 `## 본문` 줄은 제외하고 순수 텍스트만 발행
-    - 원고 내 이미지 문법(`![alt](경로)` 또는 `[이미지: 경로]`)이나 동일 파일명 이미지 자동 감지 후 업로드 목록 반환
     """
     if not manuscript_path.exists():
         raise DaangnCafeError(f"[원고 오류] 원고 파일을 찾을 수 없습니다: {manuscript_path}")
@@ -473,7 +550,6 @@ def parse_manuscript(manuscript_path: Path) -> Tuple[str, str, List[Path]]:
     if not lines:
         raise DaangnCafeError(f"[원고 오류] 원고 파일이 비어 있습니다: {manuscript_path}")
 
-    # 첫 줄 제목 파싱
     first_line = lines[0].strip()
     if not first_line.startswith("제목:"):
         raise DaangnCafeError(
@@ -493,11 +569,9 @@ def parse_manuscript(manuscript_path: Path) -> Tuple[str, str, List[Path]]:
 
     for line in lines[1:]:
         stripped = line.strip()
-        # `## 본문` 줄은 제외
         if stripped == "## 본문":
             continue
 
-        # [이미지: path/to/img.jpg] 단독 라인 처리
         tag_match = tag_img_pattern.match(stripped)
         if tag_match:
             img_ref = tag_match.group(1).strip()
@@ -505,7 +579,6 @@ def parse_manuscript(manuscript_path: Path) -> Tuple[str, str, List[Path]]:
             image_paths.append(resolved)
             continue
 
-        # 마크다운 이미지 ![alt](path) 추출 및 본문에서 태그 제거
         for m in md_img_pattern.finditer(line):
             img_ref = m.group(1).strip()
             resolved = (base_dir / img_ref).resolve() if not Path(img_ref).is_absolute() else Path(img_ref)
@@ -514,7 +587,6 @@ def parse_manuscript(manuscript_path: Path) -> Tuple[str, str, List[Path]]:
         cleaned_line = md_img_pattern.sub("", line)
         body_lines.append(cleaned_line)
 
-    # 원고와 동일한 이름의 이미지 파일(예: post1.txt -> post1.jpg / post1.png)이 같은 폴더에 있으면 자동 첨부
     if not image_paths:
         for ext in (".jpg", ".jpeg", ".png", ".webp"):
             candidate = manuscript_path.with_suffix(ext)
@@ -545,14 +617,9 @@ def build_parser() -> argparse.ArgumentParser:
     )
 
     subparsers = parser.add_subparsers(dest="command", required=True, help="실행할 명령")
-
-    # 1. 연결 확인: membership
     subparsers.add_parser("membership", help="카페 연결 및 회원 상태(super_host) 확인")
-
-    # 2. 게시판 확인: boards
     subparsers.add_parser("boards", help="카페 게시판 목록 확인")
 
-    # 3. 글 발행: post_create
     post_parser = subparsers.add_parser("post_create", help="원고 파일을 읽어 카페 게시글 발행")
     post_parser.add_argument(
         "--manuscript",
@@ -602,18 +669,17 @@ def main() -> int:
                 if p not in image_paths:
                     image_paths.append(p)
 
-            uploaded_urls: List[str] = []
+            uploaded_ids: List[str] = []
             for img_path in image_paths:
-                uploaded_url = client.upload_image(img_path)
-                uploaded_urls.append(uploaded_url)
+                uploaded_id = client.upload_image(img_path)
+                uploaded_ids.append(uploaded_id)
 
             final_url = client.create_post(
                 board=args.board,
                 title=title,
                 content=content,
-                image_urls=uploaded_urls,
+                image_ids=uploaded_ids,
             )
-            # 규칙 4: 발행에 성공하면 최종 글 URL만 반환할 것.
             print(final_url)
             return EXIT_SUCCESS
 
@@ -622,7 +688,6 @@ def main() -> int:
             return EXIT_GENERAL_ERROR
 
     except DaangnCafeError as e:
-        # 에러 메시지에서도 혹시 모를 쿠키 노출 원천 차단
         cookie_val = os.environ.get("DAANGN_COOKIE", "")
         safe_msg = mask_sensitive(str(e), cookie_val)
         print(safe_msg, file=sys.stderr)
