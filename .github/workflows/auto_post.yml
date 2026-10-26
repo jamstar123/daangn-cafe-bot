@@ -1,0 +1,38 @@
+name: Daangn Cafe Auto Post
+
+on:
+  schedule:
+    - cron: '0 1,6,11 * * *'
+  workflow_dispatch:
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 코드 가져오기
+        uses: actions/checkout@v4
+
+      - name: Python 3.10 환경 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 당근카페 자동 발행 실행
+        env:
+          DAANGN_COOKIE: ${{ secrets.DAANGN_COOKIE }}
+          DAANGN_CAFE_SLUG: ${{ secrets.DAANGN_CAFE_SLUG || 'oneul-ui-jeotan' }}
+          DAANGN_BOARD_ID: ${{ secrets.DAANGN_BOARD_ID }}
+        run: |
+          bash cron_runner.sh
+
+      - name: 발행 완료된 원고 이동 내역 저장
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add manuscripts/ logs/ || true
+          if git diff --staged --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "Auto: 글 발행 완료 및 원고 이동"
+            git push
+          fi
