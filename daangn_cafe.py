@@ -17,6 +17,7 @@ import re
 import struct
 import sys
 import time
+import uuid
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 import urllib.request
@@ -85,21 +86,18 @@ def mask_sensitive(text: str, cookie: str) -> str:
 
 
 def get_image_dimensions(image_path: Path) -> Tuple[int, int]:
-    """외부 라이브러리(PIL) 없이 JPEG/PNG/WEBP 이미지의 가로/세로 해상도(width, height)를 추출합니다."""
+    """외부 라이브러리(PIL) 없이 JPEG/PNG/GIF 이미지의 가로/세로 해상도(width, height)를 추출합니다."""
     try:
         with open(image_path, "rb") as f:
             head = f.read(32)
             if len(head) < 24:
                 return 1080, 1080
-            # PNG
             if head.startswith(b"\x89PNG\r\n\x1a\n") and head[12:16] == b"IHDR":
                 w, h = struct.unpack(">LL", head[16:24])
                 return int(w), int(h)
-            # GIF
             if head[:6] in (b"GIF87a", b"GIF89a"):
                 w, h = struct.unpack("<HH", head[6:10])
                 return int(w), int(h)
-            # JPEG
             if head[:2] == b"\xff\xd8":
                 f.seek(0)
                 size = 2
@@ -289,7 +287,6 @@ class DaangnCafeClient:
         if status >= 400:
             raise DaangnCafeError(f"[연결 실패] 카페 페이지 조회 실패 (HTTP {status})", EXIT_GENERAL_ERROR)
 
-        # Next.js RSC 스트림 디코딩 병합
         decoded = body.replace('\\"', '"').replace("\\\\", "\\")
         self._cached_cafe_html = decoded
 
@@ -337,7 +334,6 @@ class DaangnCafeClient:
         boards: List[Dict[str, str]] = []
         seen_ids = set()
 
-        # 1) boardCategories 배열에서 추출: {"id":2252190,"type":"default","category":"자유 게시판"...}
         cat_pattern = re.compile(
             r'\{\s*"id"\s*:\s*(\d+)\s*,\s*"type"\s*:\s*"([^"]+)"\s*,\s*"category"\s*:\s*"([^"]+)"'
         )
@@ -347,7 +343,6 @@ class DaangnCafeClient:
                 seen_ids.add(b_id)
                 boards.append({"id": b_id, "name": b_name, "type": b_type})
 
-        # 2) sections items 배열에서 추출: {"id":"2252190","label":"자유 게시판","href":...}
         if not boards:
             item_pattern = re.compile(
                 r'\{\s*"id"\s*:\s*"([^"]+)"\s*,\s*"label"\s*:\s*"([^"]+)"'
@@ -360,31 +355,25 @@ class DaangnCafeClient:
 
         return boards
 
-    def resolve_board_id(self, board_arg: str) -> str:
-        """사용자가 게시판 번호, 이름, 일부 키워드, 혹은 'free'를 입력하더라도 정확한 숫자 게시판 ID로 변환합니다."""
+    def resolve_board_id(self, board_arg: str) -> int:
+        """사용자가 게시판 번호, 이름, 일부 키워드, 혹은 'free'를 입력하더라도 정확한 숫자 게시판 ID(int)로 변환합니다."""
         boards = self.list_boards()
-        if not boards:
-            return board_arg
-
         arg = board_arg.strip()
-        # 1) 이미 정확한 ID인 경우
-        for b in boards:
-            if b["id"] == arg:
-                return b["id"]
 
-        # 2) 이름 정확 일치 또는 부분 일치 (이모지 제외 비교 포함)
-        for b in boards:
-            if arg in b["name"] or b["name"] in arg:
-                return b["id"]
-
-        # 3) 'free' 또는 빈 값인 경우 default(자유 게시판) 또는 첫 번째 일반 게시판 자동 선택
-        if arg.lower() in ("", "free", "default", "자유", "자유게시판"):
+        if boards:
             for b in boards:
-                if b.get("type") == "default" or "자유" in b["name"]:
-                    return b["id"]
-            return boards[0]["id"]
+                if b["id"] == arg:
+                    return int(b["id"])
+            for b in boards:
+                if arg and (arg in b["name"] or b["name"] in arg):
+                    return int(b["id"])
+            if arg.lower() in ("", "free", "default", "자유", "자유게시판"):
+                for b in boards:
+                    if b.get("type") == "default" or "자유" in b["name"]:
+                        return int(b["id"])
+                return int(boards[0]["id"])
 
-        return arg
+        return int(arg) if arg.isdigit() else 2252190
 
     def upload_image(self, image_path: Path) -> str:
         """
@@ -445,6 +434,59 @@ class DaangnCafeClient:
 
         return image_id
 
+    @staticmethod
+    def build_block_content(content: str, image_ids: Optional[List[str]] = None) -> Dict[str, List[Dict[str, Any]]]:
+        """
+        당근카페 createPostAction (403124fa9b0adc7ba42c71ac4d738e7b78c62e47bc)의
+        정확한 blockContent.blocks 스키마를 생성합니다.
+        """
+        blocks: List[Dict[str, Any]] = []
+        default_attrs = {
+            "bold": False,
+            "italic": False,
+            "underline": False,
+            "strikethrough": False,
+        }
+
+        for line in content.splitlines():
+            text_val = line.strip("\r")
+            if text_val:
+                blocks.append(
+                    {
+                        "id": str(uuid.uuid4()),
+                        "type": "paragraph",
+                        "contents": [
+                            {
+                                "id": str(uuid.uuid4()),
+                                "type": "text",
+                                "text": text_val,
+                                "attributes": dict(default_attrs),
+                            }
+                        ],
+                    }
+                )
+            else:
+                blocks.append(
+                    {
+                        "id": str(uuid.uuid4()),
+                        "type": "paragraph",
+                    }
+                )
+
+        if image_ids:
+            for img_id in image_ids:
+                blocks.append(
+                    {
+                        "id": str(uuid.uuid4()),
+                        "type": "image",
+                        "imageAttribute": {
+                            "imageId": str(img_id),
+                        },
+                    }
+                )
+
+        return {"blocks": blocks}
+
     def create_post(
         self,
         board: str,
@@ -454,60 +496,47 @@ class DaangnCafeClient:
     ) -> str:
         """
         글 발행:
-        - 액션 ID: 403124fa9b0adc7ba42c71ac4d738e7b78c62e47bc
+        - 액션 ID: 403124fa9b0adc7ba42c71ac4d738e7b78c62e47bc (createPostAction)
         - 헤더: Accept: text/x-component, Content-Type: text/plain;charset=UTF-8
+        - 페이로드: [{cafeSlug, title, blockContent: {blocks}, visibility: "public", searchable: True, boardCategoryId}]
         - 성공 시 최종 글 URL만 반환
         """
         self.check_membership()
-        resolved_board_id = self.resolve_board_id(board)
-        board_int_or_str: Any = int(resolved_board_id) if resolved_board_id.isdigit() else resolved_board_id
+        board_category_id = self.resolve_board_id(board)
+        block_content = self.build_block_content(content, image_ids)
 
         action_url = self._cafe_url("posts/new")
-
-        # 당근카페 게시글 생성 Server Action 페이로드 전송
         payload = [
             {
                 "cafeSlug": self.slug,
-                "cafeId": self._cached_cafe_id,
-                "boardId": board_int_or_str,
-                "boardCategoryId": board_int_or_str,
-                "title": title,
-                "content": content,
-                "body": content,
-                "imageIds": image_ids or [],
-                "images": image_ids or [],
-                "publishType": "public",
+                "title": title.strip(),
+                "blockContent": block_content,
+                "visibility": "public",
+                "searchable": True,
+                "boardCategoryId": board_category_id,
             }
         ]
         body = self.request_server_action(action_url, self.post_action_id, payload)
         chunks = self.parse_rsc_flight_response(body)
 
         post_url: Optional[str] = None
-        post_id: Optional[str] = None
+        post_slug: Optional[str] = None
 
         for chunk in chunks:
             if isinstance(chunk, dict):
-                if chunk.get("success") is False or chunk.get("error") or chunk.get("status") == "error":
-                    err_msg = str(chunk.get("message") or chunk.get("error") or chunk)
+                if chunk.get("success") is False or chunk.get("error"):
+                    err_msg = str(chunk.get("error") or chunk.get("message") or chunk)
+                    if "요청이 너무 많아요" in err_msg:
+                        raise DaangnCafeError(f"[제한 초과] {err_msg}", EXIT_RATE_LIMIT_FAILED)
                     raise DaangnCafeError(f"[글 발행 거부] {err_msg}")
-                post_url = (
-                    post_url
-                    or chunk.get("url")
-                    or chunk.get("postUrl")
-                    or chunk.get("href")
-                    or chunk.get("redirectUrl")
-                )
-                post_id = post_id or chunk.get("id") or chunk.get("postId") or chunk.get("slug")
-                if isinstance(chunk.get("post"), dict):
-                    p = chunk["post"]
-                    post_url = post_url or p.get("href") or p.get("url")
-                    post_id = post_id or p.get("id") or p.get("slug")
-                if isinstance(chunk.get("data"), dict):
-                    d = chunk["data"]
-                    post_url = post_url or d.get("url") or d.get("postUrl") or d.get("href")
-                    post_id = post_id or d.get("id") or d.get("postId") or d.get("slug")
+                post_slug = post_slug or chunk.get("postSlug") or chunk.get("id") or chunk.get("postId")
+                post_url = post_url or chunk.get("url") or chunk.get("postUrl") or chunk.get("href")
+                if chunk.get("success") is True and not post_slug and not post_url:
+                    post_url = self._cafe_url("posts")
 
-        # NEXT_REDIRECT 추출
+        if post_slug and not post_url:
+            post_url = self._cafe_url(f"posts/{post_slug}")
+
         if not post_url:
             redirect_match = re.search(r"NEXT_REDIRECT;[^;]*;([^;]+);", body)
             if redirect_match:
@@ -516,14 +545,6 @@ class DaangnCafeClient:
 
         if post_url and not post_url.startswith("http"):
             post_url = f"{self.base_url}/{post_url.lstrip('/')}"
-
-        if not post_url and post_id:
-            post_url = self._cafe_url(f"posts/{post_id}")
-
-        if not post_url:
-            path_match = re.search(rf"(/{re.escape(self.slug)}/posts/[^\s\"'<>\\]+)", body)
-            if path_match:
-                post_url = f"{self.base_url}{path_match.group(1)}"
 
         if not post_url:
             safe_preview = mask_sensitive(body[:300], self.cookie)
