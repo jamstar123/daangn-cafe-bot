@@ -16,6 +16,7 @@ import os
 import re
 import struct
 import sys
+import tempfile
 import time
 import uuid
 from pathlib import Path
@@ -85,33 +86,37 @@ def mask_sensitive(text: str, cookie: str) -> str:
     return text
 
 
-def get_image_dimensions(image_path: Path) -> Tuple[int, int]:
-    """외부 라이브러리(PIL) 없이 JPEG/PNG/GIF 이미지의 가로/세로 해상도(width, height)를 추출합니다."""
+def get_image_dimensions_from_bytes(img_bytes: bytes) -> Tuple[int, int]:
+    """외부 라이브러리(PIL) 없이 이미지 바이트에서 가로/세로 해상도(width, height)를 추출합니다."""
     try:
-        with open(image_path, "rb") as f:
-            head = f.read(32)
-            if len(head) < 24:
-                return 1080, 1080
-            if head.startswith(b"\x89PNG\r\n\x1a\n") and head[12:16] == b"IHDR":
-                w, h = struct.unpack(">LL", head[16:24])
-                return int(w), int(h)
-            if head[:6] in (b"GIF87a", b"GIF89a"):
-                w, h = struct.unpack("<HH", head[6:10])
-                return int(w), int(h)
-            if head[:2] == b"\xff\xd8":
-                f.seek(0)
-                size = 2
-                ftype = 0
-                while not 0xC0 <= ftype <= 0xCF or ftype in (0xC4, 0xC8, 0xCC):
-                    f.seek(size, 1)
-                    byte = f.read(1)
-                    while ord(byte) == 0xFF:
-                        byte = f.read(1)
-                    ftype = ord(byte)
-                    size = struct.unpack(">H", f.read(2))[0] - 2
-                f.seek(1, 1)
-                h, w = struct.unpack(">HH", f.read(4))
-                return int(w), int(h)
+        head = img_bytes[:32]
+        if len(head) < 24:
+            return 1080, 1080
+        if head.startswith(b"\x89PNG\r\n\x1a\n") and head[12:16] == b"IHDR":
+            w, h = struct.unpack(">LL", head[16:24])
+            return int(w), int(h)
+        if head[:6] in (b"GIF87a", b"GIF89a"):
+            w, h = struct.unpack("<HH", head[6:10])
+            return int(w), int(h)
+        if head[:2] == b"\xff\xd8":
+            idx = 2
+            length = len(img_bytes)
+            while idx < length:
+                while idx < length and img_bytes[idx] == 0xFF:
+                    idx += 1
+                if idx >= length:
+                    break
+                ftype = img_bytes[idx]
+                idx += 1
+                if ftype in (0xD8, 0xD9) or (0xD0 <= ftype <= 0xD7):
+                    continue
+                if idx + 2 > length:
+                    break
+                size = struct.unpack(">H", img_bytes[idx : idx + 2])[0]
+                if 0xC0 <= ftype <= 0xCF and ftype not in (0xC4, 0xC8, 0xCC):
+                    h, w = struct.unpack(">HH", img_bytes[idx + 3 : idx + 7])
+                    return int(w), int(h)
+                idx += size
     except Exception:
         pass
     return 1080, 1080
@@ -373,22 +378,37 @@ class DaangnCafeClient:
                         return int(b["id"])
                 return int(boards[0]["id"])
 
-        return int(arg) if arg.isdigit() else 2252190
+        return int(arg) if arg.isdigit() else 2252250
 
-    def upload_image(self, image_path: Path) -> str:
+    def upload_image(self, image_ref: str, base_dir: Optional[Path] = None) -> str:
         """
         이미지 업로드 규격:
+        - 로컬 파일 경로뿐만 아니라 https:// 웹 이미지 URL도 자동 다운로드하여 당근 서버로 업로드 지원
         1) 액션 ID (40a64c6f3424be009d7225054055934226e1de89b9, getImageUploadUrl) 호출:
            payload: [{"contentType": mime_type, "width": width, "height": height}]
         2) 응답의 uploadUrl 로 PUT 요청 (헤더: Content-Type, x-amz-meta-id: o.image.id)
         3) 업로드된 image.id 반환
         """
-        if not image_path.exists():
-            raise DaangnCafeError(f"[파일 오류] 첨부할 이미지 파일을 찾을 수 없습니다: {image_path}")
+        ref = str(image_ref).strip()
+        if ref.startswith("http://") or ref.startswith("https://"):
+            req = urllib.request.Request(ref, headers={"User-Agent": self.user_agent})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                img_bytes = resp.read()
+                content_type = resp.info().get_content_type() or "image/jpeg"
+            if content_type not in ("image/jpeg", "image/png", "image/webp", "image/avif"):
+                content_type = "image/jpeg"
+            mime_type = content_type
+        else:
+            img_path = Path(ref)
+            if not img_path.is_absolute() and base_dir:
+                img_path = (base_dir / img_path).resolve()
+            if not img_path.exists():
+                raise DaangnCafeError(f"[파일 오류] 첨부할 이미지 파일을 찾을 수 없습니다: {img_path}")
+            mime_type, _ = mimetypes.guess_type(str(img_path))
+            mime_type = mime_type or "image/jpeg"
+            img_bytes = img_path.read_bytes()
 
-        mime_type, _ = mimetypes.guess_type(str(image_path))
-        mime_type = mime_type or "image/jpeg"
-        width, height = get_image_dimensions(image_path)
+        width, height = get_image_dimensions_from_bytes(img_bytes)
 
         action_url = self._cafe_url("posts/new")
         payload = [
@@ -418,9 +438,6 @@ class DaangnCafeClient:
                 EXIT_ACTION_ID_CHANGED,
             )
 
-        with open(image_path, "rb") as img_f:
-            img_bytes = img_f.read()
-
         put_headers = {
             "Content-Type": mime_type,
             "x-amz-meta-id": image_id,
@@ -434,11 +451,15 @@ class DaangnCafeClient:
 
         return image_id
 
-    @staticmethod
-    def build_block_content(content: str, image_ids: Optional[List[str]] = None) -> Dict[str, List[Dict[str, Any]]]:
+    def build_blocks_from_items(
+        self,
+        body_items: List[Tuple[str, str]],
+        base_dir: Optional[Path] = None,
+        extra_images: Optional[List[str]] = None,
+    ) -> Dict[str, List[Dict[str, Any]]]:
         """
-        당근카페 createPostAction (403124fa9b0adc7ba42c71ac4d738e7b78c62e47bc)의
-        정확한 blockContent.blocks 스키마를 생성합니다.
+        원고 본문 아이템 리스트([('text', '문단'), ('image', '경로/URL'), ...])를 순서대로 처리하여
+        문단 중간에도 사진이 자연스럽게 배치되는 blockContent.blocks를 생성합니다.
         """
         blocks: List[Dict[str, Any]] = []
         default_attrs = {
@@ -448,62 +469,68 @@ class DaangnCafeClient:
             "strikethrough": False,
         }
 
-        for line in content.splitlines():
-            text_val = line.strip("\r")
-            if text_val:
-                blocks.append(
-                    {
-                        "id": str(uuid.uuid4()),
-                        "type": "paragraph",
-                        "contents": [
-                            {
-                                "id": str(uuid.uuid4()),
-                                "type": "text",
-                                "text": text_val,
-                                "attributes": dict(default_attrs),
-                            }
-                        ],
-                    }
-                )
-            else:
-                blocks.append(
-                    {
-                        "id": str(uuid.uuid4()),
-                        "type": "paragraph",
-                    }
-                )
-
-        if image_ids:
-            for img_id in image_ids:
+        for item_type, item_val in body_items:
+            if item_type == "image":
+                uploaded_id = self.upload_image(item_val, base_dir=base_dir)
                 blocks.append(
                     {
                         "id": str(uuid.uuid4()),
                         "type": "image",
                         "imageAttribute": {
-                            "imageId": str(img_id),
+                            "imageId": str(uploaded_id),
+                        },
+                    }
+                )
+            elif item_type == "text":
+                text_val = item_val.strip()
+                if text_val:
+                    blocks.append(
+                        {
+                            "id": str(uuid.uuid4()),
+                            "type": "paragraph",
+                            "contents": [
+                                {
+                                    "id": str(uuid.uuid4()),
+                                    "type": "text",
+                                    "text": text_val,
+                                    "attributes": dict(default_attrs),
+                                }
+                            ],
+                        }
+                    )
+
+        if extra_images:
+            for extra_ref in extra_images:
+                uploaded_id = self.upload_image(extra_ref, base_dir=base_dir)
+                blocks.append(
+                    {
+                        "id": str(uuid.uuid4()),
+                        "type": "image",
+                        "imageAttribute": {
+                            "imageId": str(uploaded_id),
                         },
                     }
                 )
 
         return {"blocks": blocks}
 
-    def create_post(
+    def create_post_from_items(
         self,
         board: str,
         title: str,
-        content: str,
-        image_ids: Optional[List[str]] = None,
+        body_items: List[Tuple[str, str]],
+        base_dir: Optional[Path] = None,
+        extra_images: Optional[List[str]] = None,
     ) -> str:
         """
         글 발행:
         - 액션 ID: 403124fa9b0adc7ba42c71ac4d738e7b78c62e47bc (createPostAction)
         - 헤더: Accept: text/x-component, Content-Type: text/plain;charset=UTF-8
-        - 페이로드: [{cafeSlug, title, blockContent: {blocks}, visibility: "public", searchable: True, boardCategoryId}]
         - 성공 시 최종 글 URL만 반환
         """
         self.check_membership()
         board_category_id = self.resolve_board_id(board)
-        block_content = self.build_block_content(content, image_ids)
+        block_content = self.build_blocks_from_items(body_items, base_dir=base_dir, extra_images=extra_images)
 
         action_url = self._cafe_url("posts/new")
         payload = [
@@ -557,11 +584,13 @@ class DaangnCafeClient:
         return post_url
 
 
-def parse_manuscript(manuscript_path: Path) -> Tuple[str, str, List[Path]]:
+def parse_manuscript_items(manuscript_path: Path) -> Tuple[str, List[Tuple[str, str]], Optional[str]]:
     """
     원고 파일 파싱 규격:
     - 첫 줄: `제목: [제목내용]`
-    - 그 아래 `## 본문` 줄은 제외하고 순수 텍스트만 발행
+    - 선택 줄: `게시판: [게시판이름 또는 ID]` (지정 시 해당 게시판 우선 적용)
+    - 그 아래 `## 본문` 줄은 제외하고, 텍스트 문단과 이미지(`[이미지: 경로/URL]` 또는 `![](경로/URL)`)의
+      순서를 그대로 유지하여 반환합니다.
     """
     if not manuscript_path.exists():
         raise DaangnCafeError(f"[원고 오류] 원고 파일을 찾을 수 없습니다: {manuscript_path}")
@@ -581,44 +610,47 @@ def parse_manuscript(manuscript_path: Path) -> Tuple[str, str, List[Path]]:
     if not title:
         raise DaangnCafeError("[원고 형식 오류] 제목 내용이 비어 있습니다.")
 
-    body_lines: List[str] = []
-    image_paths: List[Path] = []
-    base_dir = manuscript_path.parent
+    board_override: Optional[str] = None
+    items: List[Tuple[str, str]] = []
+    has_image = False
 
     md_img_pattern = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
     tag_img_pattern = re.compile(r"^\[(?:이미지|IMAGE)\s*:\s*([^\]]+)\]$", re.IGNORECASE)
 
     for line in lines[1:]:
         stripped = line.strip()
-        if stripped == "## 본문":
+        if not stripped or stripped == "## 본문":
+            continue
+
+        if stripped.startswith("게시판:") and not items:
+            board_override = stripped[len("게시판:") :].strip()
             continue
 
         tag_match = tag_img_pattern.match(stripped)
         if tag_match:
             img_ref = tag_match.group(1).strip()
-            resolved = (base_dir / img_ref).resolve() if not Path(img_ref).is_absolute() else Path(img_ref)
-            image_paths.append(resolved)
+            items.append(("image", img_ref))
+            has_image = True
             continue
 
-        for m in md_img_pattern.finditer(line):
-            img_ref = m.group(1).strip()
-            resolved = (base_dir / img_ref).resolve() if not Path(img_ref).is_absolute() else Path(img_ref)
-            image_paths.append(resolved)
+        md_matches = list(md_img_pattern.finditer(line))
+        cleaned_line = md_img_pattern.sub("", line).strip()
+        if cleaned_line:
+            items.append(("text", cleaned_line))
+        for m in md_matches:
+            items.append(("image", m.group(1).strip()))
+            has_image = True
 
-        cleaned_line = md_img_pattern.sub("", line)
-        body_lines.append(cleaned_line)
-
-    if not image_paths:
+    if not has_image:
         for ext in (".jpg", ".jpeg", ".png", ".webp"):
             candidate = manuscript_path.with_suffix(ext)
             if candidate.exists():
-                image_paths.append(candidate.resolve())
+                items.append(("image", str(candidate.resolve())))
 
-    content = "\n".join(body_lines).strip()
-    if not content:
+    if not any(t == "text" for t, _ in items):
         raise DaangnCafeError("[원고 형식 오류] 본문 텍스트가 비어 있습니다.")
 
-    return title, content, image_paths
+    return title, items, board_override
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -683,23 +715,15 @@ def main() -> int:
 
         elif args.command == "post_create":
             manuscript_path = Path(args.manuscript).resolve()
-            title, content, image_paths = parse_manuscript(manuscript_path)
+            title, body_items, board_override = parse_manuscript_items(manuscript_path)
+            target_board = board_override or args.board
 
-            for extra_img in args.images:
-                p = Path(extra_img).resolve()
-                if p not in image_paths:
-                    image_paths.append(p)
-
-            uploaded_ids: List[str] = []
-            for img_path in image_paths:
-                uploaded_id = client.upload_image(img_path)
-                uploaded_ids.append(uploaded_id)
-
-            final_url = client.create_post(
-                board=args.board,
+            final_url = client.create_post_from_items(
+                board=target_board,
                 title=title,
-                content=content,
-                image_ids=uploaded_ids,
+                body_items=body_items,
+                base_dir=manuscript_path.parent,
+                extra_images=args.images,
             )
             print(final_url)
             return EXIT_SUCCESS
