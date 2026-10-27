@@ -380,6 +380,27 @@ class DaangnCafeClient:
 
         return int(arg) if arg.isdigit() else 2252250
 
+    def _fetch_fallback_food_image(self, query: str) -> Tuple[bytes, str]:
+        """키워드 또는 URL 실패 시 TheMealDB 레시피 이미지 CDN에서 고화질 음식 JPEG 사진을 가져옵니다."""
+        for api_url in (
+            f"https://www.themealdb.com/api/json/v1/1/search.php?s={urllib.parse.quote(query)}",
+            "https://www.themealdb.com/api/json/v1/1/random.php",
+        ):
+            try:
+                req = urllib.request.Request(api_url, headers={"User-Agent": self.user_agent})
+                with urllib.request.urlopen(req, timeout=20) as resp:
+                    data = json.loads(resp.read().decode("utf-8", errors="replace"))
+                meals = data.get("meals") or []
+                if meals:
+                    thumb = meals[0].get("strMealThumb")
+                    if thumb:
+                        img_req = urllib.request.Request(thumb, headers={"User-Agent": self.user_agent})
+                        with urllib.request.urlopen(img_req, timeout=30) as img_resp:
+                            return img_resp.read(), "image/jpeg"
+            except Exception:
+                continue
+        raise DaangnCafeError(f"[이미지 오류] 음식 이미지를 가져올 수 없습니다: {query}")
+
     def upload_image(self, image_ref: str, base_dir: Optional[Path] = None) -> str:
         """
         이미지 업로드 규격:
@@ -391,22 +412,26 @@ class DaangnCafeClient:
         """
         ref = str(image_ref).strip()
         if ref.startswith("http://") or ref.startswith("https://"):
-            req = urllib.request.Request(ref, headers={"User-Agent": self.user_agent})
-            with urllib.request.urlopen(req, timeout=30) as resp:
-                img_bytes = resp.read()
-                content_type = resp.info().get_content_type() or "image/jpeg"
-            if content_type not in ("image/jpeg", "image/png", "image/webp", "image/avif"):
-                content_type = "image/jpeg"
-            mime_type = content_type
+            try:
+                req = urllib.request.Request(ref, headers={"User-Agent": self.user_agent})
+                with urllib.request.urlopen(req, timeout=30) as resp:
+                    img_bytes = resp.read()
+                    content_type = resp.info().get_content_type() or "image/jpeg"
+                if content_type not in ("image/jpeg", "image/png", "image/webp", "image/avif"):
+                    content_type = "image/jpeg"
+                mime_type = content_type
+            except Exception:
+                img_bytes, mime_type = self._fetch_fallback_food_image("keto food dish")
         else:
             img_path = Path(ref)
             if not img_path.is_absolute() and base_dir:
                 img_path = (base_dir / img_path).resolve()
             if not img_path.exists():
-                raise DaangnCafeError(f"[파일 오류] 첨부할 이미지 파일을 찾을 수 없습니다: {img_path}")
-            mime_type, _ = mimetypes.guess_type(str(img_path))
-            mime_type = mime_type or "image/jpeg"
-            img_bytes = img_path.read_bytes()
+                img_bytes, mime_type = self._fetch_fallback_food_image(ref)
+            else:
+                mime_type, _ = mimetypes.guess_type(str(img_path))
+                mime_type = mime_type or "image/jpeg"
+                img_bytes = img_path.read_bytes()
 
         width, height = get_image_dimensions_from_bytes(img_bytes)
 
