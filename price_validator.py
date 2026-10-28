@@ -288,51 +288,45 @@ class PriceValidator:
         market_ref = self.fetch_market_reference_price(title, sale_price)
 
         # 판매자 주장 정가가 시중가보다 과도하게 뻥튀기(2.5배 초과)되어 있으면 시중가로 강제 보정
-        if market_ref and market_ref > sale_price:
-            real_normal_price = market_ref
-        elif claimed_regular_price and sale_price < claimed_regular_price <= int(sale_price * 2.5):
+        has_real_market_ref = bool(market_ref and market_ref >= int(sale_price * 1.32))
+        if has_real_market_ref:
+            real_normal_price = int(market_ref)
+        elif claimed_regular_price and int(sale_price * 1.35) <= claimed_regular_price <= int(sale_price * 2.5):
             real_normal_price = claimed_regular_price
+        elif upvotes >= 10:
+            real_normal_price = int(round(sale_price * 1.65, -2))
+        elif upvotes >= 4 and downvotes == 0:
+            real_normal_price = int(round(sale_price * 1.48, -2))
+        elif ("역대가" in (title + body_text) or "최저가" in (title + body_text)) and views >= 400 and downvotes == 0:
+            real_normal_price = int(round(sale_price * 1.42, -2))
         else:
-            # 커뮤니티 추천수/본문 언급 기반 보수적 시중가 추정
-            pct_match = re.search(r"(\d{2})\s*%\s*(?:할인|세일|특가)", title + " " + body_text)
-            if pct_match:
-                pct = min(int(pct_match.group(1)), 75)
-                real_normal_price = int(round(sale_price / max(1 - pct / 100.0, 0.25), -2))
-            elif upvotes >= 15 or "역대가" in (title + body_text) or "무지성" in (title + body_text):
-                real_normal_price = int(round(sale_price * 1.65, -2))
-            elif upvotes >= 5 or views >= 600:
-                real_normal_price = int(round(sale_price * 1.48, -2))
-            else:
-                real_normal_price = int(round(sale_price * 1.38, -2))
+            return {
+                "valid": False,
+                "reason": f"시중가 대비 실할인폭 미검증 및 추천수 부족 (추천 {upvotes}, 비추천 {downvotes}, 조회 {views})",
+            }
 
         discount_rate = int(round((1 - (sale_price / max(real_normal_price, 1))) * 100))
         combined_text = f"{title} {body_text}"
 
         # 등급 결정 로직
         if (
-            discount_rate >= 68
+            discount_rate >= 65
             or "가격오류" in combined_text
             or "대란" in combined_text
-            or (upvotes >= 30 and discount_rate >= 50)
+            or (upvotes >= 25 and discount_rate >= 50)
         ):
             tier_tag = "🚨 [가격오류급]"
             discount_rate = max(discount_rate, 65)
         elif (
-            discount_rate >= 48
+            discount_rate >= 45
             or "무지성" in combined_text
             or "품절임박" in combined_text
-            or upvotes >= 12
-            or (upvotes >= 4 and views >= 700)
+            or upvotes >= 10
+            or (upvotes >= 4 and views >= 700 and downvotes == 0)
         ):
             tier_tag = "⚡ [무지성 구매급]"
             discount_rate = max(discount_rate, 45)
-        elif (
-            discount_rate >= 33
-            or "역대가" in combined_text
-            or "최저가" in combined_text
-            or upvotes >= 1
-            or views >= 350
-        ):
+        elif discount_rate >= 30:
             tier_tag = "🔥 [역대가]"
             discount_rate = max(discount_rate, 35)
         else:
