@@ -146,6 +146,14 @@ class RealtimeDealMonitor:
         }
 
     @staticmethod
+    def _decode_auto(raw_bytes: bytes) -> str:
+        """UTF-8(RSS 등)을 우선 시도하고, 실패 시 CP949/EUC-KR(상세페이지 등)로 자동 디코딩합니다."""
+        try:
+            return raw_bytes.decode("utf-8")
+        except UnicodeDecodeError:
+            return raw_bytes.decode("cp949", errors="replace")
+
+    @staticmethod
     def _strip_cdata(raw: str) -> str:
         val = (raw or "").strip()
         val = re.sub(r"^<!\[CDATA\[", "", val, flags=re.IGNORECASE).strip()
@@ -159,20 +167,22 @@ class RealtimeDealMonitor:
         with urllib.request.urlopen(req, timeout=15) as resp:
             raw_bytes = resp.read()
 
-        xml_text = raw_bytes.decode("euc-kr", errors="replace")
+        xml_text = self._decode_auto(raw_bytes)
         items: List[Dict[str, Any]] = []
 
         for item_m in re.finditer(r"<item>(.*?)</item>", xml_text, re.DOTALL):
             block = item_m.group(1)
             title_m = re.search(r"<title>(.*?)</title>", block, re.DOTALL | re.IGNORECASE)
             link_m = re.search(r"<link>(.*?)</link>", block, re.DOTALL | re.IGNORECASE)
+            desc_m = re.search(r"<description>(.*?)</description>", block, re.DOTALL | re.IGNORECASE)
             hits_m = re.search(r"<hits>\s*\[(\d+)\|(\d+)\|(\d+)\|(\d+)\]\s*</hits>", block, re.IGNORECASE)
 
             if not title_m or not link_m:
                 continue
 
             raw_title = self._strip_cdata(title_m.group(1))
-            link = self._strip_cdata(link_m.group(1))
+            link = html.unescape(self._strip_cdata(link_m.group(1)))
+            rss_desc = html.unescape(self._strip_cdata(desc_m.group(1))) if desc_m else ""
             if link.startswith("http://"):
                 link = "https://" + link[len("http://") :]
             no_m = re.search(r"no=(\d+)", link)
@@ -195,6 +205,7 @@ class RealtimeDealMonitor:
                     "source": "ppomppu",
                     "raw_title": raw_title,
                     "source_url": link,
+                    "rss_description": rss_desc,
                     "upvotes": upvotes,
                     "downvotes": downvotes,
                     "views": views,
@@ -234,7 +245,7 @@ class RealtimeDealMonitor:
                 url = f"{url}{sep}lptag={urllib.parse.quote(self.partners_id)}"
         return url, is_coupang
 
-    def fetch_deal_detail(self, source_url: str) -> Dict[str, str]:
+    def fetch_deal_detail(self, source_url: str, fallback_desc: str = "") -> Dict[str, str]:
         """
         상세 페이지에서 원본 쇼핑몰 구매 직링크, 상품 대표 이미지 URL, 본문 설명 텍스트를 추출합니다.
         """
@@ -242,7 +253,7 @@ class RealtimeDealMonitor:
         with urllib.request.urlopen(req, timeout=15) as resp:
             raw_bytes = resp.read()
 
-        html_text = raw_bytes.decode("euc-kr", errors="replace")
+        html_text = self._decode_auto(raw_bytes)
 
         # 1. 원본 쇼핑몰 링크 추출
         shop_url = ""
@@ -287,6 +298,11 @@ class RealtimeDealMonitor:
         clean_body = re.sub(r"<[^>]+>", "\n", clean_body)
         clean_body = html.unescape(clean_body)
         lines = [ln.strip() for ln in clean_body.splitlines() if ln.strip()]
+        if fallback_desc:
+            for fln in fallback_desc.splitlines():
+                fln_s = fln.strip()
+                if fln_s and fln_s not in lines:
+                    lines.append(fln_s)
         body_summary = "\n".join(lines[:12])
 
         return {
@@ -390,16 +406,18 @@ class RealtimeDealMonitor:
         if not dry_run:
             client = DaangnCafeClient(slug=self.slug, env_path=self.env_path)
 
-        for deal in feed_items:
-            if len(published_urls) >= max_posts:
-                break
+        qualifying_candidates: List[Tuple[Tuple[int, int, int, int], Dict[str, Any], Dict[str, Any], Dict[str, str]]] = []
 
+        for deal in feed_items:
             deal_id = deal["deal_id"]
             if deal_id in self.posted_deals:
                 continue
 
             try:
-                detail = self.fetch_deal_detail(deal["source_url"])
+                detail = self.fetch_deal_detail(
+                    deal["source_url"],
+                    fallback_desc=deal.get("rss_description", ""),
+                )
             except Exception as e:
                 print(f"[스킵] 상세페이지 조회 실패 ({deal_id}): {e}", file=sys.stderr)
                 continue
@@ -420,6 +438,17 @@ class RealtimeDealMonitor:
                 )
                 continue
 
+            tier_tag = eval_res["tier_tag"]
+            tier_rank = 3 if "가격오류급" in tier_tag else (2 if "무지성" in tier_tag else 1)
+            has_unit = 1 if eval_res.get("unit_summary") else 0
+            score = (tier_rank, has_unit, int(eval_res["discount_rate"]), int(deal["upvotes"]))
+            qualifying_candidates.append((score, deal, eval_res, detail))
+
+        # 가장 메리트가 큰 핫딜(가격오류급 > 무지성 구매급 > 역대가, 단위당 팩트체크 통과 우선) 순으로 정렬
+        qualifying_candidates.sort(key=lambda x: x[0], reverse=True)
+
+        for _, deal, eval_res, detail in qualifying_candidates[:max_posts]:
+            deal_id = deal["deal_id"]
             post_title, body_items = self.build_hotdeal_post_content(deal, eval_res, detail)
             print(
                 f"[조건 충족! 즉시 발행 대상] {post_title} | 사유: {eval_res.get('reason')}",
