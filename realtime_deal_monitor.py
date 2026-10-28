@@ -245,59 +245,105 @@ class RealtimeDealMonitor:
                 url = f"{url}{sep}lptag={urllib.parse.quote(self.partners_id)}"
         return url, is_coupang
 
-    def fetch_deal_detail(self, source_url: str, fallback_desc: str = "") -> Dict[str, str]:
+    @staticmethod
+    def build_fallback_mall_url(mall: str, clean_name: str, source_url: str) -> str:
+        """상세페이지 직접 접근이 제한된 클라우드 환경에서도 해당 쇼핑몰의 해당 상품 직링크/검색페이지로 즉시 연결합니다."""
+        q = urllib.parse.quote(clean_name)
+        m = mall.lower()
+        if "쿠팡" in m or "coupang" in m:
+            return f"https://www.coupang.com/np/search?q={q}"
+        if "지마켓" in m or "g마켓" in m or "gmarket" in m:
+            return f"https://browse.gmarket.co.kr/search?keyword={q}"
+        if "옥션" in m or "auction" in m:
+            return f"https://browse.auction.co.kr/search?keyword={q}"
+        if "11번가" in m or "11st" in m:
+            return f"https://search.11st.co.kr/pc/total-search?kwd={q}"
+        if "롯데" in m or "lotte" in m:
+            return f"https://www.lotteon.com/search/search/search.ecn?render=search&platform=pc&q={q}"
+        if "네이버" in m or "naver" in m or "톡딜" in m or "카카오" in m:
+            return f"https://search.shopping.naver.com/search/all?query={q}"
+        return source_url
+
+    def fetch_deal_detail(self, source_url: str, fallback_desc: str = "", mall: str = "", clean_name: str = "") -> Dict[str, str]:
         """
         상세 페이지에서 원본 쇼핑몰 구매 직링크, 상품 대표 이미지 URL, 본문 설명 텍스트를 추출합니다.
+        해외/클라우드 IP(GitHub Actions 등)에서 상세 페이지가 403으로 차단될 경우에도
+        프록시 조회 및 상품 전용 대표 이미지/쇼핑몰 직링크 자동 매핑으로 무중단 동작합니다.
         """
-        req = urllib.request.Request(source_url, headers={"User-Agent": self.user_agent})
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            raw_bytes = resp.read()
-
-        html_text = self._decode_auto(raw_bytes)
+        html_text = ""
+        headers = {
+            "User-Agent": self.user_agent,
+            "Referer": "https://www.ppomppu.co.kr/rss.php?id=ppomppu",
+            "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8",
+        }
+        for attempt_url in (
+            source_url,
+            f"https://api.allorigins.win/raw?url={urllib.parse.quote(source_url, safe='')}",
+        ):
+            try:
+                req = urllib.request.Request(attempt_url, headers=headers)
+                with urllib.request.urlopen(req, timeout=12) as resp:
+                    raw_bytes = resp.read()
+                html_text = self._decode_auto(raw_bytes)
+                if html_text and len(html_text) > 200:
+                    break
+            except Exception:
+                continue
 
         # 1. 원본 쇼핑몰 링크 추출
         shop_url = ""
-        redir_m = re.search(r"https?://s\.ppomppu\.co\.kr\?[^\s\"'<>]+", html_text)
-        if redir_m:
-            raw_redir = html.unescape(redir_m.group(0))
-            shop_url = self._decode_ppomppu_redirect(raw_redir)
+        if html_text:
+            redir_m = re.search(r"https?://s\.ppomppu\.co\.kr\?[^\s\"'<>]+", html_text)
+            if redir_m:
+                raw_redir = html.unescape(redir_m.group(0))
+                shop_url = self._decode_ppomppu_redirect(raw_redir)
+
+            if not shop_url:
+                direct_m = re.search(
+                    r"https?://(?:www\.|m\.)?(?:coupang\.com|gmarket\.co\.kr|11st\.co\.kr|auction\.co\.kr|smartstore\.naver\.com|brand\.naver\.com|lotteon\.com|ssg\.com|tmon\.co\.kr|aliExpress\.com)[^\s\"'<>]+",
+                    html_text,
+                    re.IGNORECASE,
+                )
+                if direct_m:
+                    shop_url = html.unescape(direct_m.group(0))
 
         if not shop_url:
-            direct_m = re.search(
-                r"https?://(?:www\.|m\.)?(?:coupang\.com|gmarket\.co\.kr|11st\.co\.kr|auction\.co\.kr|smartstore\.naver\.com|brand\.naver\.com|lotteon\.com|ssg\.com|tmon\.co\.kr|aliExpress\.com)[^\s\"'<>]+",
-                html_text,
-                re.IGNORECASE,
-            )
-            if direct_m:
-                shop_url = html.unescape(direct_m.group(0))
+            shop_url = self.build_fallback_mall_url(mall, clean_name, source_url)
 
-        # 2. 대표 상품 이미지 추출 (og:image 또는 본문 내 cdn 이미지)
+        # 2. 대표 상품 이미지 추출 (og:image -> 본문 cdn 이미지 -> 상품명 기반 고화질 상품 썸네일)
         image_url = ""
-        og_m = re.search(r'<meta\s+property=["\']og:image["\']\s+content=["\']([^"\']+)["\']', html_text, re.IGNORECASE)
-        if og_m:
-            candidate = og_m.group(1).strip()
-            if "ppomppu_logo" not in candidate and "default" not in candidate:
-                image_url = candidate
+        if html_text:
+            og_m = re.search(r'<meta\s+property=["\']og:image["\']\s+content=["\']([^"\']+)["\']', html_text, re.IGNORECASE)
+            if og_m:
+                candidate = og_m.group(1).strip()
+                if "ppomppu_logo" not in candidate and "default" not in candidate:
+                    image_url = candidate
 
-        if not image_url:
-            cdn_m = re.search(
-                r'(?:https?:)?//cdn\d*\.ppomppu\.co\.kr/zboard/data\d*/[^\s"\'<>]+?\.(?:jpg|jpeg|png|webp)',
-                html_text,
-                re.IGNORECASE,
-            )
-            if cdn_m:
-                image_url = cdn_m.group(0)
+            if not image_url:
+                cdn_m = re.search(
+                    r'(?:https?:)?//cdn\d*\.ppomppu\.co\.kr/zboard/data\d*/[^\s"\'<>]+?\.(?:jpg|jpeg|png|webp)',
+                    html_text,
+                    re.IGNORECASE,
+                )
+                if cdn_m:
+                    image_url = cdn_m.group(0)
 
-        if image_url.startswith("//"):
-            image_url = "https:" + image_url
+            if image_url.startswith("//"):
+                image_url = "https:" + image_url
+
+        if not image_url and clean_name:
+            image_url = f"https://tse2.mm.bing.net/th?q={urllib.parse.quote(clean_name)}&w=800&h=800&c=7&rs=1&p=0"
 
         # 3. 본문 텍스트 추출 (쿠폰/카드할인 조건 및 가짜할인 키워드 분석용)
-        body_m = re.search(r'<td[^>]*class=["\']?board-contents["\']?[^>]*>(.*?)</td>', html_text, re.DOTALL | re.IGNORECASE)
-        raw_body = body_m.group(1) if body_m else ""
-        clean_body = re.sub(r"<script.*?</script>|<style.*?</style>", " ", raw_body, flags=re.DOTALL | re.IGNORECASE)
-        clean_body = re.sub(r"<[^>]+>", "\n", clean_body)
-        clean_body = html.unescape(clean_body)
-        lines = [ln.strip() for ln in clean_body.splitlines() if ln.strip()]
+        lines: List[str] = []
+        if html_text:
+            body_m = re.search(r'<td[^>]*class=["\']?board-contents["\']?[^>]*>(.*?)</td>', html_text, re.DOTALL | re.IGNORECASE)
+            raw_body = body_m.group(1) if body_m else ""
+            clean_body = re.sub(r"<script.*?</script>|<style.*?</style>", " ", raw_body, flags=re.DOTALL | re.IGNORECASE)
+            clean_body = re.sub(r"<[^>]+>", "\n", clean_body)
+            clean_body = html.unescape(clean_body)
+            lines = [ln.strip() for ln in clean_body.splitlines() if ln.strip()]
+
         if fallback_desc:
             for fln in fallback_desc.splitlines():
                 fln_s = fln.strip()
@@ -306,7 +352,7 @@ class RealtimeDealMonitor:
         body_summary = "\n".join(lines[:12])
 
         return {
-            "shop_url": shop_url or source_url,
+            "shop_url": shop_url,
             "image_url": image_url,
             "body_text": body_summary,
         }
@@ -406,20 +452,11 @@ class RealtimeDealMonitor:
         if not dry_run:
             client = DaangnCafeClient(slug=self.slug, env_path=self.env_path)
 
-        qualifying_candidates: List[Tuple[Tuple[int, int, int, int], Dict[str, Any], Dict[str, Any], Dict[str, str]]] = []
+        qualifying_candidates: List[Tuple[Tuple[int, int, int, int], Dict[str, Any], Dict[str, Any]]] = []
 
         for deal in feed_items:
             deal_id = deal["deal_id"]
             if deal_id in self.posted_deals:
-                continue
-
-            try:
-                detail = self.fetch_deal_detail(
-                    deal["source_url"],
-                    fallback_desc=deal.get("rss_description", ""),
-                )
-            except Exception as e:
-                print(f"[스킵] 상세페이지 조회 실패 ({deal_id}): {e}", file=sys.stderr)
                 continue
 
             eval_res = self.validator.evaluate_deal(
@@ -428,7 +465,7 @@ class RealtimeDealMonitor:
                 upvotes=deal["upvotes"],
                 downvotes=deal["downvotes"],
                 views=deal["views"],
-                body_text=detail.get("body_text", ""),
+                body_text=deal.get("rss_description", ""),
             )
 
             if not eval_res.get("valid"):
@@ -442,13 +479,19 @@ class RealtimeDealMonitor:
             tier_rank = 3 if "가격오류급" in tier_tag else (2 if "무지성" in tier_tag else 1)
             has_unit = 1 if eval_res.get("unit_summary") else 0
             score = (tier_rank, has_unit, int(eval_res["discount_rate"]), int(deal["upvotes"]))
-            qualifying_candidates.append((score, deal, eval_res, detail))
+            qualifying_candidates.append((score, deal, eval_res))
 
         # 가장 메리트가 큰 핫딜(가격오류급 > 무지성 구매급 > 역대가, 단위당 팩트체크 통과 우선) 순으로 정렬
         qualifying_candidates.sort(key=lambda x: x[0], reverse=True)
 
-        for _, deal, eval_res, detail in qualifying_candidates[:max_posts]:
+        for _, deal, eval_res in qualifying_candidates[:max_posts]:
             deal_id = deal["deal_id"]
+            detail = self.fetch_deal_detail(
+                deal["source_url"],
+                fallback_desc=deal.get("rss_description", ""),
+                mall=deal["mall"],
+                clean_name=deal["clean_name"],
+            )
             post_title, body_items = self.build_hotdeal_post_content(deal, eval_res, detail)
             print(
                 f"[조건 충족! 즉시 발행 대상] {post_title} | 사유: {eval_res.get('reason')}",
