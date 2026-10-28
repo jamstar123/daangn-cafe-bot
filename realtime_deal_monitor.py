@@ -51,9 +51,11 @@ class RealtimeDealMonitor:
 
         self.slug = slug
         self.board_id = board_id
-        self.posted_db_path = self.base_dir / "posted_deals.json"
+        log_dir = self.base_dir / "logs"
+        log_dir.mkdir(parents=True, exist_ok=True)
+        self.posted_db_path = log_dir / "posted_deals.json"
         self.posted_deals: Dict[str, Any] = self._load_posted_db()
-        self.validator = PriceValidator(self.base_dir / "price_baseline_db.json")
+        self.validator = PriceValidator(log_dir / "price_baseline_db.json")
         self.partners_id = os.environ.get("COUPANG_PARTNERS_ID", "").strip()
         self.user_agent = (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
