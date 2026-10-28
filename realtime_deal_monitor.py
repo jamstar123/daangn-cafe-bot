@@ -532,7 +532,7 @@ class RealtimeDealMonitor:
         # 3) 핵심 가격 & 체감단가 요약 박스 (판매처 라인 제거, 체감단가로 표기)
         body_items.append(("text", "━━━━━━━━━━━━━━━"))
         body_items.append(("text", f"📦 상품명 : {clean_name}"))
-        body_items.append(("text", f"💸 평소 실거래가 : 약 {real_normal:,}원"))
+        body_items.append(("text", f"💸 쿠팡 평소 판매가 : 약 {real_normal:,}원"))
         body_items.append(
             ("text", f"🔥 핫딜 특가 : {sale_price:,}원 ({shipping} / 약 {discount_rate}% 혜택)")
         )
