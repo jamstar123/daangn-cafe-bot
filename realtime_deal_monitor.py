@@ -1,0 +1,497 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+realtime_deal_monitor.py
+'핫딜은 여기' (https://cafe.daangn.com/hasdil-eun-ye-1) 전용
+실시간 조건 충족형 핫딜 탐지 · 가짜 할인(정가 뻥튀기) 팩트체크 · 즉시 자동 발행 봇
+
+주요 기능:
+1. 실시간 핫딜 피드 및 오픈마켓 특가 정보를 상시 스캔합니다.
+2. 단순 주기별 무조건 발행이 아니라, PriceValidator의 '단위당 절대 가격 기준표'와
+   '시중 실거래가(네이버 쇼핑 중위가) 교차 검증'을 통과한 진짜 핫딜만 즉시 발행합니다.
+3. 통과한 딜의 메리트 수준에 따라 제목 말머리를 자동으로 분류합니다:
+   - 🚨 [가격오류급] : 전산 실수/중복 쿠폰 대란 수준 (65%+ 할인 또는 단위당 가격오류 커트라인 이하)
+   - ⚡ [무지성 구매급] : 몇 분 내 품절될 수준의 초특가 생필품/인기템 (45%+ 할인 또는 추천 폭주)
+   - 🔥 [역대가] : 평소 실판매가 대비 확실한 메리트가 검증된 최저가 (35%+ 할인)
+4. 본문 구성은 네이버 대표 핫딜 카페('핫딜은 못참지') 스타일의 직관적 3줄 요약 + 팩트체크 리포트 + 구매 직링크로 구성됩니다.
+"""
+
+import argparse
+import base64
+import html
+import json
+import os
+import re
+import sys
+import time
+import urllib.parse
+import urllib.request
+from datetime import datetime
+from pathlib import Path
+from typing import Any, Dict, List, Optional, Tuple
+
+from daangn_cafe import DaangnCafeClient, DaangnCafeError, load_env, mask_sensitive
+from price_validator import PriceValidator
+
+
+DEFAULT_HOTDEAL_CAFE_SLUG = "hasdil-eun-ye-1"
+DEFAULT_HOTDEAL_BOARD_ID = "2293448"  # 🔥 오늘의 핫딜
+
+
+class RealtimeDealMonitor:
+    def __init__(
+        self,
+        slug: str = DEFAULT_HOTDEAL_CAFE_SLUG,
+        board_id: str = DEFAULT_HOTDEAL_BOARD_ID,
+        env_path: Optional[Path] = None,
+    ):
+        self.base_dir = Path(__file__).resolve().parent
+        self.env_path = env_path or (self.base_dir / ".env")
+        load_env(self.env_path)
+
+        self.slug = slug
+        self.board_id = board_id
+        self.posted_db_path = self.base_dir / "posted_deals.json"
+        self.posted_deals: Dict[str, Any] = self._load_posted_db()
+        self.validator = PriceValidator(self.base_dir / "price_baseline_db.json")
+        self.partners_id = os.environ.get("COUPANG_PARTNERS_ID", "").strip()
+        self.user_agent = (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        )
+
+    def _load_posted_db(self) -> Dict[str, Any]:
+        if self.posted_db_path.exists():
+            try:
+                return json.loads(self.posted_db_path.read_text(encoding="utf-8"))
+            except Exception:
+                return {}
+        return {}
+
+    def save_posted_db(self) -> None:
+        try:
+            self.posted_db_path.write_text(
+                json.dumps(self.posted_deals, ensure_ascii=False, indent=2),
+                encoding="utf-8",
+            )
+        except Exception:
+            pass
+
+    @staticmethod
+    def parse_title_metadata(raw_title: str) -> Optional[Dict[str, Any]]:
+        """
+        예: '[쿠팡] 신라면 120g 20봉 (11,500원/무료)' ->
+        mall='쿠팡', clean_name='신라면 120g 20봉', sale_price=11500, shipping='무료배송'
+        """
+        title = html.unescape(raw_title).strip()
+        # 품절/종료된 딜 즉시 제외
+        if any(kw in title for kw in ("품절", "종료", "마감", "취소")):
+            return None
+
+        mall = "특가몰"
+        mall_match = re.match(r"^\[([^\]]+)\]\s*(.+)$", title)
+        if mall_match:
+            mall = mall_match.group(1).strip()
+            product_part = mall_match.group(2).strip()
+        else:
+            product_part = title
+
+        # 괄호 안 가격/배송비 추출: (13,180원/무료), (9,900원 / 무배) 등
+        price_Matches = list(
+            re.finditer(
+                r"\(\s*([0-9,]{3,10})\s*원?\s*(?:[/·,~-]\s*([^)]+))?\)",
+                product_part,
+            )
+        )
+        sale_price: Optional[int] = None
+        shipping = "상세페이지 참고"
+
+        if price_Matches:
+            last_m = price_Matches[-1]
+            price_str = last_m.group(1).replace(",", "")
+            if price_str.isdigit():
+                sale_price = int(price_str)
+            ship_raw = (last_m.group(2) or "").strip()
+            if any(k in ship_raw for k in ("무료", "무배", "0원", "와우")):
+                shipping = "무료배송"
+            elif ship_raw:
+                shipping = ship_raw
+            product_part = (
+                product_part[: last_m.start()].strip()
+                + " "
+                + product_part[last_m.end() :].strip()
+            ).strip()
+        else:
+            # 괄호 없이 '13,500원' 형태가 있는 경우
+            fallback_m = re.search(r"([0-9]{1,3}(?:,[0-9]{3})+)\s*원", product_part)
+            if fallback_m:
+                sale_price = int(fallback_m.group(1).replace(",", ""))
+                product_part = product_part.replace(fallback_m.group(0), "").strip()
+
+        if not sale_price or sale_price < 1000:
+            return None
+
+        # 상품권/기프티콘/현금성 딜 제외 (실물 핫딜 위주 선별)
+        if any(kw in product_part for kw in ("상품권", "기프트카드", "깊카", "해피머니", "컬쳐랜드")):
+            return None
+
+        clean_name = re.sub(r"\s+", " ", product_part).strip()
+        return {
+            "mall": mall,
+            "clean_name": clean_name,
+            "sale_price": sale_price,
+            "shipping": shipping,
+        }
+
+    def fetch_ppomppu_realtime_feed(self) -> List[Dict[str, Any]]:
+        """뽐뿌 실시간 핫딜 RSS 피드에서 최신 딜 목록과 추천/비추천/조회수를 가져옵니다."""
+        rss_url = "https://www.ppomppu.co.kr/rss.php?id=ppomppu"
+        req = urllib.request.Request(rss_url, headers={"User-Agent": self.user_agent})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            raw_bytes = resp.read()
+
+        xml_text = raw_bytes.decode("euc-kr", errors="replace")
+        items: List[Dict[str, Any]] = []
+
+        for item_m in re.finditer(r"<item>(.*?)</item>", xml_text, re.DOTALL):
+            block = item_m.group(1)
+            title_m = re.search(r"<title><!\[CDATA\[(.*?)\]\]></title>|<title>(.*?)</title>", block, re.DOTALL)
+            link_m = re.search(r"<link>(.*?)</link>", block)
+            hits_m = re.search(r"<hits>\s*\[(\d+)\|(\d+)\|(\d+)\|(\d+)\]\s*</hits>", block)
+
+            if not title_m or not link_m:
+                continue
+
+            raw_title = (title_m.group(1) or title_m.group(2) or "").strip()
+            link = link_m.group(1).strip()
+            no_m = re.search(r"no=(\d+)", link)
+            deal_id = f"ppomppu_{no_m.group(1)}" if no_m else link
+
+            upvotes, views, scraps, downvotes = 0, 0, 0, 0
+            if hits_m:
+                upvotes = int(hits_m.group(1))
+                views = int(hits_m.group(2))
+                scraps = int(hits_m.group(3))
+                downvotes = int(hits_m.group(4))
+
+            parsed = self.parse_title_metadata(raw_title)
+            if not parsed:
+                continue
+
+            items.append(
+                {
+                    "deal_id": deal_id,
+                    "source": "ppomppu",
+                    "raw_title": raw_title,
+                    "source_url": link,
+                    "upvotes": upvotes,
+                    "downvotes": downvotes,
+                    "views": views,
+                    "mall": parsed["mall"],
+                    "clean_name": parsed["clean_name"],
+                    "sale_price": parsed["sale_price"],
+                    "shipping": parsed["shipping"],
+                }
+            )
+        return items
+
+    @staticmethod
+    def _decode_ppomppu_redirect(url: str) -> str:
+        """s.ppomppu.co.kr 리다이렉트 URL에서 base64로 인코딩된 원본 쇼핑몰 직링크를 복원합니다."""
+        if "s.ppomppu.co.kr" not in url:
+            return url
+        try:
+            parsed = urllib.parse.urlparse(url)
+            qs = urllib.parse.parse_qs(parsed.query)
+            target_b64 = (qs.get("target") or [""])[0]
+            if target_b64:
+                # 패딩 보정
+                pad = (-len(target_b64)) % 4
+                decoded = base64.b64decode(target_b64 + ("=" * pad)).decode("utf-8", errors="ignore")
+                if decoded.startswith("http"):
+                    return decoded.strip()
+        except Exception:
+            pass
+        return url
+
+    def apply_affiliate_tag(self, url: str) -> Tuple[str, bool]:
+        """쿠팡 링크인 경우 사용자의 쿠팡파트너스 트래킹 파라미터를 부착합니다."""
+        is_coupang = "coupang.com" in url.lower()
+        if is_coupang and self.partners_id:
+            sep = "&" if "?" in url else "?"
+            if "lptag=" not in url:
+                url = f"{url}{sep}lptag={urllib.parse.quote(self.partners_id)}"
+        return url, is_coupang
+
+    def fetch_deal_detail(self, source_url: str) -> Dict[str, str]:
+        """
+        상세 페이지에서 원본 쇼핑몰 구매 직링크, 상품 대표 이미지 URL, 본문 설명 텍스트를 추출합니다.
+        """
+        req = urllib.request.Request(source_url, headers={"User-Agent": self.user_agent})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            raw_bytes = resp.read()
+
+        html_text = raw_bytes.decode("euc-kr", errors="replace")
+
+        # 1. 원본 쇼핑몰 링크 추출
+        shop_url = ""
+        redir_m = re.search(r"https?://s\.ppomppu\.co\.kr\?[^\s\"'<>]+", html_text)
+        if redir_m:
+            raw_redir = html.unescape(redir_m.group(0))
+            shop_url = self._decode_ppomppu_redirect(raw_redir)
+
+        if not shop_url:
+            direct_m = re.search(
+                r"https?://(?:www\.|m\.)?(?:coupang\.com|gmarket\.co\.kr|11st\.co\.kr|auction\.co\.kr|smartstore\.naver\.com|brand\.naver\.com|lotteon\.com|ssg\.com|tmon\.co\.kr|aliExpress\.com)[^\s\"'<>]+",
+                html_text,
+                re.IGNORECASE,
+            )
+            if direct_m:
+                shop_url = html.unescape(direct_m.group(0))
+
+        # 2. 대표 상품 이미지 추출 (og:image 또는 본문 내 cdn 이미지)
+        image_url = ""
+        og_m = re.search(r'<meta\s+property=["\']og:image["\']\s+content=["\']([^"\']+)["\']', html_text, re.IGNORECASE)
+        if og_m:
+            candidate = og_m.group(1).strip()
+            if "ppomppu_logo" not in candidate and "default" not in candidate:
+                image_url = candidate
+
+        if not image_url:
+            cdn_m = re.search(
+                r'(?:https?:)?//cdn\d*\.ppomppu\.co\.kr/zboard/data\d*/[^\s"\'<>]+?\.(?:jpg|jpeg|png|webp)',
+                html_text,
+                re.IGNORECASE,
+            )
+            if cdn_m:
+                image_url = cdn_m.group(0)
+
+        if image_url.startswith("//"):
+            image_url = "https:" + image_url
+
+        # 3. 본문 텍스트 추출 (쿠폰/카드할인 조건 및 가짜할인 키워드 분석용)
+        body_m = re.search(r'<td[^>]*class=["\']?board-contents["\']?[^>]*>(.*?)</td>', html_text, re.DOTALL | re.IGNORECASE)
+        raw_body = body_m.group(1) if body_m else ""
+        clean_body = re.sub(r"<script.*?</script>|<style.*?</style>", " ", raw_body, flags=re.DOTALL | re.IGNORECASE)
+        clean_body = re.sub(r"<[^>]+>", "\n", clean_body)
+        clean_body = html.unescape(clean_body)
+        lines = [ln.strip() for ln in clean_body.splitlines() if ln.strip()]
+        body_summary = "\n".join(lines[:12])
+
+        return {
+            "shop_url": shop_url or source_url,
+            "image_url": image_url,
+            "body_text": body_summary,
+        }
+
+    def build_hotdeal_post_content(
+        self,
+        deal: Dict[str, Any],
+        eval_result: Dict[str, Any],
+        detail: Dict[str, str],
+    ) -> Tuple[str, List[Tuple[str, str]]]:
+        """
+        '핫딜은 못참지' 카페 스타일의 직관적 제목 + 가독성 높은 문단 블록을 생성합니다.
+        """
+        tier_tag = eval_result["tier_tag"]  # 🚨 [가격오류급] / ⚡ [무지성 구매급] / 🔥 [역대가]
+        mall = deal["mall"]
+        clean_name = deal["clean_name"]
+        sale_price = eval_result["sale_price"]
+        real_normal = eval_result["real_normal_price"]
+        discount_rate = eval_result["discount_rate"]
+        unit_summary = eval_result.get("unit_summary")
+        shipping = deal["shipping"]
+
+        shop_url, is_coupang = self.apply_affiliate_tag(detail["shop_url"])
+        image_url = detail.get("image_url") or ""
+
+        # 제목 구성: ⚡ [무지성 구매급] [쿠팡] 신라면 20봉 11,500원 (시중가 대비 46%↓)
+        post_title = f"{tier_tag} [{mall}] {clean_name} — {sale_price:,}원 ({discount_rate}%↓)"
+
+        body_items: List[Tuple[str, str]] = []
+
+        # 1) 상품 대표 이미지 (가장 위에 배치하여 클릭 시 한눈에 상품 확인)
+        if image_url:
+            body_items.append(("image", image_url))
+
+        # 2) 도입부 한 줄 코멘트
+        if "가격오류급" in tier_tag:
+            intro = f"🚨 지금 바로 탑승하세요! 시중 실거래가 대비 약 {discount_rate}% 이상 빠진 가격오류/대란급 딜이 떴습니다. 재고 소진 시 예고 없이 바로 종료됩니다!"
+        elif "무지성 구매급" in tier_tag:
+            intro = f"⚡ 고민하면 품절되는 무지성 구매급 특가입니다! 평소 자주 쓰는 품목이라면 지금 쟁여두시는 걸 강력 추천드려요."
+        else:
+            intro = f"🔥 가짜 할인(정가 뻥튀기) 검증을 완료한 찐 역대가 딜입니다! 평소 눈여겨보셨던 분들은 이번 기회에 득템하세요."
+        body_items.append(("text", intro))
+
+        # 3) 핵심 가격 & 팩트체크 요약 박스
+        body_items.append(("text", "━━━━━━━━━━━━━━━"))
+        body_items.append(("text", f"📦 상품명 : {clean_name}"))
+        body_items.append(("text", f"🏬 판매처 : {mall}"))
+        body_items.append(("text", f"💸 평소 실거래가 : 약 {real_normal:,}원"))
+        body_items.append(
+            ("text", f"🔥 현재 핫딜가 : {sale_price:,}원 ({shipping} / 약 {discount_rate}% 할인!)")
+        )
+        if unit_summary:
+            body_items.append(("text", f"📊 체감 단가 팩트체크 : {unit_summary}"))
+        body_items.append(("text", "━━━━━━━━━━━━━━━"))
+
+        # 4) 본문 내 추가 할인 팁(쿠폰/카드 안내 등)이 있으면 깔끔하게 정리하여 포함
+        extra_lines = []
+        for ln in (detail.get("body_text") or "").splitlines():
+            ln_clean = ln.strip()
+            if len(ln_clean) < 4 or ln_clean.startswith("http"):
+                continue
+            if any(w in ln_clean for w in ("쿠폰", "카드", "할인", "적립", "와우", "체감", "박스로", "개당", "원")):
+                if ln_clean not in extra_lines:
+                    extra_lines.append(ln_clean)
+            if len(extra_lines) >= 3:
+                break
+
+        if extra_lines:
+            body_items.append(("text", "💡 구매 참고 포인트"))
+            for tip in extra_lines:
+                body_items.append(("text", f"• {tip}"))
+
+        # 5) 구매 직링크
+        body_items.append(("text", "👇 품절 전 바로 구매하러 가기"))
+        body_items.append(("text", shop_url))
+
+        # 6) 마감 안내 및 파트너스 문구
+        body_items.append(
+            ("text", "※ 실시간 핫딜 특성상 준비된 재고가 소진되면 가격이 원래대로 인상되거나 품절될 수 있습니다.")
+        )
+        if is_coupang or "coupang" in mall.lower() or "쿠팡" in mall:
+            body_items.append(
+                ("text", "※ 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.")
+            )
+
+        return post_title, body_items
+
+    def scan_and_publish(self, max_posts: int = 1, dry_run: bool = False) -> List[str]:
+        """
+        실시간 피드를 스캔하여 조건을 충족한 진짜 핫딜만 당근카페에 즉시 발행합니다.
+        """
+        feed_items = self.fetch_ppomppu_realtime_feed()
+        published_urls: List[str] = []
+
+        client: Optional[DaangnCafeClient] = None
+        if not dry_run:
+            client = DaangnCafeClient(slug=self.slug, env_path=self.env_path)
+
+        for deal in feed_items:
+            if len(published_urls) >= max_posts:
+                break
+
+            deal_id = deal["deal_id"]
+            if deal_id in self.posted_deals:
+                continue
+
+            try:
+                detail = self.fetch_deal_detail(deal["source_url"])
+            except Exception as e:
+                print(f"[스킵] 상세페이지 조회 실패 ({deal_id}): {e}", file=sys.stderr)
+                continue
+
+            eval_res = self.validator.evaluate_deal(
+                title=deal["raw_title"],
+                sale_price=deal["sale_price"],
+                upvotes=deal["upvotes"],
+                downvotes=deal["downvotes"],
+                views=deal["views"],
+                body_text=detail.get("body_text", ""),
+            )
+
+            if not eval_res.get("valid"):
+                print(
+                    f"[필터 탈락] {deal['raw_title']} -> {eval_res.get('reason')}",
+                    file=sys.stderr,
+                )
+                continue
+
+            post_title, body_items = self.build_hotdeal_post_content(deal, eval_res, detail)
+            print(
+                f"[조건 충족! 즉시 발행 대상] {post_title} | 사유: {eval_res.get('reason')}",
+                file=sys.stderr,
+            )
+
+            if dry_run:
+                published_urls.append(f"[DRY-RUN] {post_title} -> {detail.get('shop_url')}")
+                continue
+
+            assert client is not None
+            post_url = client.create_post_from_items(
+                board=self.board_id,
+                title=post_title,
+                body_items=body_items,
+                base_dir=self.base_dir,
+            )
+            published_urls.append(post_url)
+            print(post_url)
+
+            self.posted_deals[deal_id] = {
+                "title": post_title,
+                "sale_price": deal["sale_price"],
+                "tier_tag": eval_res["tier_tag"],
+                "discount_rate": eval_res["discount_rate"],
+                "shop_url": detail.get("shop_url"),
+                "daangn_post_url": post_url,
+                "published_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            }
+            self.save_posted_db()
+
+            if len(published_urls) < max_posts:
+                time.sleep(5)
+
+        return published_urls
+
+
+def build_parser() -> argparse.ArgumentParser:
+    p = argparse.ArgumentParser(
+        prog="realtime_deal_monitor.py",
+        description="실시간 핫딜 탐지 및 가짜 할인 차단 자동 발행 봇",
+    )
+    p.add_argument("--slug", default=DEFAULT_HOTDEAL_CAFE_SLUG, help="대상 당근카페 slug")
+    p.add_argument("--board", default=DEFAULT_HOTDEAL_BOARD_ID, help="대상 게시판 ID (기본: 2293448 🔥 오늘의 핫딜)")
+    p.add_argument("--max-posts", type=int, default=1, help="1회 스캔 시 최대 발행 건수")
+    p.add_argument("--once", action="store_true", help="1회 실시간 스캔 후 조건 충족 딜 즉시 발행 및 종료")
+    p.add_argument("--daemon", action="store_true", help="백그라운드에서 상시 실시간 감시 루프 실행")
+    p.add_argument("--interval", type=int, default=90, help="상시 감시 모드 스캔 주기(초)")
+    p.add_argument("--dry-run", action="store_true", help="실제 발행 없이 필터링 및 원고 생성 결과만 검증")
+    return p
+
+
+def main() -> int:
+    parser = build_parser()
+    args = parser.parse_args()
+
+    try:
+        monitor = RealtimeDealMonitor(slug=args.slug, board_id=args.board)
+        if args.daemon:
+            print(
+                f"[실시간 감시 시작] 카페={args.slug}, 게시판={args.board}, 스캔주기={args.interval}초",
+                file=sys.stderr,
+            )
+            while True:
+                try:
+                    monitor.scan_and_publish(max_posts=args.max_posts, dry_run=args.dry_run)
+                except DaangnCafeError as de:
+                    if de.exit_code == 2:
+                        raise
+                    print(f"[일시 오류] {de}", file=sys.stderr)
+                time.sleep(max(args.interval, 30))
+        else:
+            monitor.scan_and_publish(max_posts=args.max_posts, dry_run=args.dry_run)
+        return 0
+
+    except DaangnCafeError as e:
+        cookie_val = os.environ.get("DAANGN_COOKIE", "")
+        print(mask_sensitive(str(e), cookie_val), file=sys.stderr)
+        return e.exit_code
+    except Exception as e:
+        cookie_val = os.environ.get("DAANGN_COOKIE", "")
+        print(mask_sensitive(f"[오류] {e}", cookie_val), file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())
