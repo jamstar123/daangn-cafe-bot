@@ -34,10 +34,8 @@ TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
 echo "[${TIMESTAMP}] 24시간 실시간 핫딜 감시 데몬을 시작합니다 (주기 30초, 세션 5.5시간)..."
 
 pip install -q curl_cffi beautifulsoup4 || true
-python3 test_coupang_azure.py || true
-git add logs/test_coupang_result.txt || true
-git commit -m "Auto: Update coupang test result" || true
-git push || true
+python3 probe_coupang.py
+
 
 # 30초마다 상시 실시간 감시 (한 세션당 5.5시간 = 19,800초 지속)
 python3 "${BASE_DIR}/realtime_deal_monitor.py" \
