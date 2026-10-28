@@ -31,6 +31,8 @@ HOTDEAL_SLUG="${HOTDEAL_CAFE_SLUG:-hasdil-eun-ye-1}"
 HOTDEAL_BOARD="${HOTDEAL_BOARD_ID:-2293448}"
 TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
 
+git config --global user.name "github-actions[bot]"
+git config --global user.email "github-actions[bot]@users.noreply.github.com"
 echo "[${TIMESTAMP}] 24시간 실시간 핫딜 감시 데몬을 시작합니다 (주기 30초, 세션 5.5시간)..."
 
 pip install -q curl_cffi beautifulsoup4 || true
