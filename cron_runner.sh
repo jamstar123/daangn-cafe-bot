@@ -16,7 +16,6 @@ if [[ -f "${LOCK_FILE}" ]]; then
     exit 0
 fi
 
-# .env 파일이 있으면 읽되, 이미 환경변수(GitHub Secrets 등)로 설정된 값이 있으면 덮어쓰지 않음
 if [[ -f "${ENV_FILE}" ]]; then
     while IFS='=' read -r key val; do
         [[ -z "${key}" || "${key}" =~ ^# ]] && continue
@@ -32,38 +31,44 @@ HOTDEAL_SLUG="${HOTDEAL_CAFE_SLUG:-hasdil-eun-ye-1}"
 HOTDEAL_BOARD="${HOTDEAL_BOARD_ID:-2293448}"
 TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
 
-# [핫딜은 여기] 실시간 조건 충족 핫딜 탐지 & 가짜 할인 필터링 후 즉시 발행
-TEMP_ERR=$(mktemp)
-HOTDEAL_URL=$(python3 "${BASE_DIR}/realtime_deal_monitor.py" --slug "${HOTDEAL_SLUG}" --board "${HOTDEAL_BOARD}" --once --max-posts 1 2>"${TEMP_ERR}")
-EXIT_CODE=$?
-ERR_CONTENT=$(cat "${TEMP_ERR}")
-rm -f "${TEMP_ERR}"
+echo "[${TIMESTAMP}] 24시간 실시간 핫딜 감시 데몬을 시작합니다 (주기 30초, 세션 5.5시간)..."
 
-if [[ -n "${ERR_CONTENT}" ]]; then
-    echo "${ERR_CONTENT}" >&2
-fi
+# 30초마다 상시 실시간 감시 (한 세션당 5.5시간 = 19,800초 지속)
+python3 "${BASE_DIR}/realtime_deal_monitor.py" \
+    --slug "${HOTDEAL_SLUG}" \
+    --board "${HOTDEAL_BOARD}" \
+    --daemon \
+    --interval 30 \
+    --max-runtime 19800
+EXIT_CODE=$?
+
+TIMESTAMP_END=$(date '+%Y-%m-%d %H:%M:%S')
 
 if [[ ${EXIT_CODE} -eq 0 ]]; then
-    if [[ -n "${HOTDEAL_URL}" ]]; then
-        echo "${HOTDEAL_URL}"
-        echo "[${TIMESTAMP}] [실시간 핫딜] ${HOTDEAL_URL}" >> "${URL_LOG}"
-    else
-        echo "[${TIMESTAMP}] 현재 기준(역대가/무지성구매급/가격오류급)을 충족한 신규 핫딜이 없어 대기합니다."
-    fi
+    echo "[${TIMESTAMP_END}] 5.5시간 실시간 감시 세션이 안전하게 종료되었습니다. 다음 세션으로 자동 인계합니다."
+    
+    # 깃 변경사항 저장
+    git add logs/ || true
+    git commit -m "Auto: 실시간 감시 세션 상태 저장" || true
+    git push || true
+
+    # 다음 5.5시간 실시간 세션을 즉시 클라우드에 자동 트리거 (24시간 무중단 연속 감시)
+    GH_TOKEN="${GH_PAT:-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}"
+    curl -s -X POST \
+        -H "Authorization: token ${GH_TOKEN}" \
+        -H "Accept: application/vnd.github.v3+json" \
+        https://api.github.com/repos/jamstar123/daangn-cafe-bot/actions/workflows/397122068/dispatches \
+        -d '{"ref":"main"}' || true
     exit 0
 elif [[ ${EXIT_CODE} -eq 2 ]]; then
-    echo "[${TIMESTAMP}] [쿠키 만료 중단] ${ERR_CONTENT}" >> "${ERROR_LOG}"
+    echo "[${TIMESTAMP_END}] [쿠키 만료 중단]" >> "${ERROR_LOG}"
     touch "${LOCK_FILE}"
     cat <<EOF > "${ALERT_FILE}"
-[긴급 알림] 당근 세션 쿠키가 만료되어 자동 발행 스케줄러가 중단되었습니다. (${TIMESTAMP})
-사유: ${ERR_CONTENT}
+[긴급 알림] 당근 세션 쿠키가 만료되어 자동 감시가 중단되었습니다. (${TIMESTAMP_END})
 새 쿠키를 발급받아 DAANGN_COOKIE를 갱신한 뒤 COOKIE_EXPIRED.lock 파일을 삭제해 주세요.
 EOF
-    if command -v crontab >/dev/null 2>&1; then
-        crontab -l 2>/dev/null | grep -v "cron_runner.sh" | crontab - || true
-    fi
     exit 2
 else
-    echo "[${TIMESTAMP}] [실시간 핫딜 스캔 알림] ${ERR_CONTENT}" >> "${ERROR_LOG}"
+    echo "[${TIMESTAMP_END}] [에러 종료 코드 ${EXIT_CODE}]" >> "${ERROR_LOG}"
     exit ${EXIT_CODE}
 fi
