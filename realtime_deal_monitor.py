@@ -275,8 +275,9 @@ class RealtimeDealMonitor:
             except Exception:
                 pass
 
-        # 2) 파트너스 ID (AFxxxxxxx) 상품 상세 직통 링크 자동 변환
-        # (re/AFFSDP는 '고객님을 위한 상품' 추천 화면으로 빠지므로, 곧바로 [바로구매] 상품 상세 페이지가 열리도록 직통 URL로 생성)
+        # 2) 모바일 쿠팡 앱 직통 딥링크 (2번 화면: 장바구니 담기/바로구매 상세 화면) 자동 변환
+        # 당근 인앱 웹뷰에서 일반 웹 주소를 열면 웹브라우저로만 열리므로,
+        # coupang:// 앱 스킴을 즉시 트리거하는 GitHub Pages 딥링크 브릿지를 적용합니다.
         if self.partners_id:
             prod_match = re.search(r"/products/(\d+)", url)
             if prod_match:
@@ -285,12 +286,13 @@ class RealtimeDealMonitor:
                 qs = urllib.parse.parse_qs(parsed.query)
                 item_id = (qs.get("itemId") or [""])[0]
                 vendor_id = (qs.get("vendorItemId") or [""])[0]
-                direct_url = f"https://www.coupang.com/vp/products/{page_key}?lptag={urllib.parse.quote(self.partners_id)}&subid=daangncafe"
+
+                deeplink_url = f"https://jamstar123.github.io/daangn-cafe-bot/?p={page_key}&lptag={urllib.parse.quote(self.partners_id)}&subid=daangncafe"
                 if item_id:
-                    direct_url += f"&itemId={item_id}"
+                    deeplink_url += f"&itemId={urllib.parse.quote(item_id)}"
                 if vendor_id:
-                    direct_url += f"&vendorItemId={vendor_id}"
-                return direct_url, True
+                    deeplink_url += f"&vendorItemId={urllib.parse.quote(vendor_id)}"
+                return deeplink_url, True
 
             sep = "&" if "?" in url else "?"
             if "lptag=" not in url:
