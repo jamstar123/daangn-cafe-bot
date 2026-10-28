@@ -203,11 +203,11 @@ class PriceValidator:
                 unit_summary = f"{rule['unit_label']} 약 {int(round(unit_price)):,}원 (시중 평균 {rule['normal']:,}원)"
 
                 if unit_price <= rule["error_level"]:
-                    return True, "🚨 [가격오류급]", normal_total, max(discount_rate, 65), unit_summary
+                    return True, "[가격오류급]", normal_total, max(discount_rate, 65), unit_summary
                 elif unit_price <= rule["mujisung"]:
-                    return True, "⚡ [무지성 구매급]", normal_total, max(discount_rate, 48), unit_summary
+                    return True, "[무지성 구매급]", normal_total, max(discount_rate, 48), unit_summary
                 elif unit_price <= rule["yeokdaega"]:
-                    return True, "🔥 [역대가]", normal_total, max(discount_rate, 35), unit_summary
+                    return True, "[역대가]", normal_total, max(discount_rate, 35), unit_summary
                 else:
                     # 기준 단가보다 비싸면 판매자가 아무리 70% 세일이라고 우겨도 가짜 할인으로 판정하여 탈락!
                     return False, "탈락(단위당 가격 미달)", normal_total, discount_rate, unit_summary
@@ -308,31 +308,24 @@ class PriceValidator:
         discount_rate = int(round((1 - (sale_price / max(real_normal_price, 1))) * 100))
         combined_text = f"{title} {body_text}"
 
-        # 등급 결정 로직
+        # 등급 결정 로직 (엄격한 기준 적용: [무지성 구매급] 오남용 원천 차단)
         if (
             discount_rate >= 65
-            or "가격오류" in combined_text
-            or "대란" in combined_text
-            or (upvotes >= 25 and discount_rate >= 50)
+            or (discount_rate >= 55 and ("가격오류" in combined_text or "대란" in combined_text))
+            or (upvotes >= 30 and discount_rate >= 50)
         ):
-            tier_tag = "🚨 [가격오류급]"
-            discount_rate = max(discount_rate, 65)
+            tier_tag = "[가격오류급]"
         elif (
             discount_rate >= 45
-            or "무지성" in combined_text
-            or "품절임박" in combined_text
-            or upvotes >= 10
-            or (upvotes >= 4 and views >= 700 and downvotes == 0)
+            or (discount_rate >= 40 and ("무지성" in combined_text or upvotes >= 15))
         ):
-            tier_tag = "⚡ [무지성 구매급]"
-            discount_rate = max(discount_rate, 45)
+            tier_tag = "[무지성 구매급]"
         elif discount_rate >= 30:
-            tier_tag = "🔥 [역대가]"
-            discount_rate = max(discount_rate, 35)
+            tier_tag = "[역대가]"
         else:
             return {
                 "valid": False,
-                "reason": f"할인율({discount_rate}%) 및 화제성(추천 {upvotes}, 조회 {views}) 기준 미달",
+                "reason": f"실질 할인율({discount_rate}%) 기준 미달 (최소 30% 이상이어야 핫딜 인정)",
             }
 
         return {
