@@ -275,7 +275,8 @@ class RealtimeDealMonitor:
             except Exception:
                 pass
 
-        # 2) 파트너스 ID (AFxxxxxxx) 공식 딥링크/리다이렉트(link.coupang.com/re/AFFSDP) 자동 변환
+        # 2) 파트너스 ID (AFxxxxxxx) 상품 상세 직통 링크 자동 변환
+        # (re/AFFSDP는 '고객님을 위한 상품' 추천 화면으로 빠지므로, 곧바로 [바로구매] 상품 상세 페이지가 열리도록 직통 URL로 생성)
         if self.partners_id:
             prod_match = re.search(r"/products/(\d+)", url)
             if prod_match:
@@ -284,13 +285,12 @@ class RealtimeDealMonitor:
                 qs = urllib.parse.parse_qs(parsed.query)
                 item_id = (qs.get("itemId") or [""])[0]
                 vendor_id = (qs.get("vendorItemId") or [""])[0]
-                aff_url = f"https://link.coupang.com/re/AFFSDP?lptag={urllib.parse.quote(self.partners_id)}&subid=daangncafe&pageKey={page_key}"
+                direct_url = f"https://www.coupang.com/vp/products/{page_key}?lptag={urllib.parse.quote(self.partners_id)}&subid=daangncafe"
                 if item_id:
-                    aff_url += f"&itemId={item_id}"
+                    direct_url += f"&itemId={item_id}"
                 if vendor_id:
-                    aff_url += f"&vendorItemId={vendor_id}"
-                aff_url += "&traceid=V0-153"
-                return aff_url, True
+                    direct_url += f"&vendorItemId={vendor_id}"
+                return direct_url, True
 
             sep = "&" if "?" in url else "?"
             if "lptag=" not in url:
