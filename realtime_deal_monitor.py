@@ -452,16 +452,15 @@ class RealtimeDealMonitor:
             intro = f"🔥 가짜 할인(정가 뻥튀기) 검증을 완료한 찐 역대가 딜입니다! 평소 눈여겨보셨던 분들은 이번 기회에 득템하세요."
         body_items.append(("text", intro))
 
-        # 3) 핵심 가격 & 팩트체크 요약 박스
+        # 3) 핵심 가격 & 체감단가 요약 박스 (판매처 라인 제거, 체감단가로 표기)
         body_items.append(("text", "━━━━━━━━━━━━━━━"))
         body_items.append(("text", f"📦 상품명 : {clean_name}"))
-        body_items.append(("text", f"🏬 판매처 : {mall}"))
         body_items.append(("text", f"💸 평소 실거래가 : 약 {real_normal:,}원"))
         body_items.append(
             ("text", f"🔥 현재 핫딜가 : {sale_price:,}원 ({shipping} / 약 {discount_rate}% 할인!)")
         )
         if unit_summary:
-            body_items.append(("text", f"📊 체감 단가 팩트체크 : {unit_summary}"))
+            body_items.append(("text", f"📊 체감단가 : {unit_summary}"))
         body_items.append(("text", "━━━━━━━━━━━━━━━"))
 
         # 4) 본문 내 추가 할인 팁(쿠폰/카드 안내 등)이 있으면 깔끔하게 정리하여 포함
