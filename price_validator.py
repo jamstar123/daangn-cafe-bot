@@ -33,7 +33,7 @@ FAKE_DISCOUNT_WARNING_KEYWORDS = (
 
 
 # 주요 생필품/식품/인기 품목 단위당 절대 가격 기준표 (단위: 원)
-# normal: 실제 시중 평균 실판매가
+# normal: 온라인/쿠팡 박스단위 평소 정상 판매가 기준 (오프라인/편의점 낱개 뻥튀기 방지)
 # yeokdaega: [역대가] 커트라인 (이 가격 이하여야 역대가 인정)
 # mujisung: [무지성 구매급] 커트라인 (이 가격 이하면 고민 없이 구매해야 하는 수준)
 # error_level: [가격오류급] 커트라인 (전산 실수/대란 수준)
@@ -43,8 +43,8 @@ UNIT_PRICE_BENCHMARKS: List[Dict[str, Any]] = [
         "keywords": ("햇반", "오뚜기밥", "맛있는밥", "즉석밥"),
         "unit_label": "개당",
         "count_patterns": [r"(\d+)\s*(?:개|입|팩|박스)"],
-        "normal": 950,
-        "yeokdaega": 690,
+        "normal": 800,
+        "yeokdaega": 680,
         "mujisung": 580,
         "error_level": 450,
     },
@@ -53,7 +53,7 @@ UNIT_PRICE_BENCHMARKS: List[Dict[str, Any]] = [
         "keywords": ("신라면", "진라면", "안성탕면", "너구리", "짜파게티", "삼양라면", "열라면", "참깨라면"),
         "unit_label": "봉당",
         "count_patterns": [r"(\d+)\s*(?:봉|개|입)"],
-        "normal": 830,
+        "normal": 760,
         "yeokdaega": 640,
         "mujisung": 530,
         "error_level": 410,
@@ -63,28 +63,28 @@ UNIT_PRICE_BENCHMARKS: List[Dict[str, Any]] = [
         "keywords": ("스팸", "리챔", "런천미트", "동원리챔"),
         "unit_label": "캔당",
         "count_patterns": [r"(\d+)\s*(?:캔|개|입)"],
-        "normal": 3400,
-        "yeokdaega": 2150,
-        "mujisung": 1690,
-        "error_level": 1250,
+        "normal": 2500,
+        "yeokdaega": 2100,
+        "mujisung": 1700,
+        "error_level": 1300,
     },
     {
         "name": "생수 2L(병당)",
         "keywords": ("삼다수 2L", "생수 2L", "아이시스 2L", "백산수 2L", "탐사수 2L", "스파클 2L"),
         "unit_label": "2L 병당",
         "count_patterns": [r"(\d+)\s*(?:병|페트|개|입)"],
-        "normal": 950,
-        "yeokdaega": 650,
-        "mujisung": 510,
-        "error_level": 380,
+        "normal": 630,
+        "yeokdaega": 520,
+        "mujisung": 420,
+        "error_level": 350,
     },
     {
         "name": "롤화장지(롤당)",
         "keywords": ("크리넥스", "깨끗한나라", "코디", "화장지", "두루마리", "30롤"),
         "unit_label": "롤당",
         "count_patterns": [r"(\d+)\s*롤"],
-        "normal": 580,
-        "yeokdaega": 390,
+        "normal": 450,
+        "yeokdaega": 380,
         "mujisung": 310,
         "error_level": 230,
     },
@@ -93,7 +93,7 @@ UNIT_PRICE_BENCHMARKS: List[Dict[str, Any]] = [
         "keywords": ("물티슈", "베베숲", "브라운 물티슈", "코멧 물티슈"),
         "unit_label": "팩당",
         "count_patterns": [r"(\d+)\s*(?:팩|개|입)"],
-        "normal": 1150,
+        "normal": 950,
         "yeokdaega": 720,
         "mujisung": 580,
         "error_level": 420,
@@ -103,29 +103,29 @@ UNIT_PRICE_BENCHMARKS: List[Dict[str, Any]] = [
         "keywords": ("제로콜라", "코카콜라", "펩시", "칠성사이다", "사이다", "스프라이트", "탄산수", "나랑드", "웰치스", "밀키스", "토레타"),
         "unit_label": "캔/병당",
         "count_patterns": [r"(\d+)\s*(?:캔|병|입|개)"],
-        "normal": 880,
-        "yeokdaega": 640,
-        "mujisung": 480,
-        "error_level": 350,
+        "normal": 720,
+        "yeokdaega": 620,
+        "mujisung": 490,
+        "error_level": 370,
     },
     {
         "name": "영양제/비타민(병/통당)",
         "keywords": ("얼라이브", "종합비타민", "비타민 구미", "유산균", "오메가3", "밀크씨슬", "루테인"),
         "unit_label": "병/통당",
         "count_patterns": [r"(\d+)\s*(?:병|통|개|박스|세트)"],
-        "normal": 20000,
-        "yeokdaega": 14500,
-        "mujisung": 11000,
-        "error_level": 8000,
+        "normal": 16500,
+        "yeokdaega": 14200,
+        "mujisung": 11500,
+        "error_level": 8500,
     },
     {
         "name": "사과/과일(1kg당)",
         "keywords": ("사과", "부사", "감귤", "천혜향", "레드향", "한라봉", "복숭아"),
         "unit_label": "1kg당",
         "count_patterns": [r"(\d+(?:\.\d+)?)\s*kg"],
-        "normal": 6500,
-        "yeokdaega": 3500,
-        "mujisung": 2500,
+        "normal": 4500,
+        "yeokdaega": 3300,
+        "mujisung": 2400,
         "error_level": 1700,
     },
     {
@@ -133,10 +133,10 @@ UNIT_PRICE_BENCHMARKS: List[Dict[str, Any]] = [
         "keywords": ("닭가슴살", "하림 닭가슴살", "한끼통살"),
         "unit_label": "팩당",
         "count_patterns": [r"(\d+)\s*(?:팩|개|봉|입)"],
-        "normal": 1550,
+        "normal": 1300,
         "yeokdaega": 990,
-        "mujisung": 790,
-        "error_level": 590,
+        "mujisung": 820,
+        "error_level": 620,
     },
 ]
 
@@ -210,14 +210,14 @@ class PriceValidator:
                 unit_price = sale_price / count
                 normal_total = int(rule["normal"] * count)
                 discount_rate = int(round((1 - (sale_price / max(normal_total, 1))) * 100))
-                unit_summary = f"{rule['unit_label']} 약 {int(round(unit_price)):,}원 (시중 평균 {rule['normal']:,}원)"
+                unit_summary = f"{rule['unit_label']} 약 {int(round(unit_price)):,}원 (평소 약 {rule['normal']:,}원)"
 
                 if unit_price <= rule["error_level"]:
-                    return True, "[가격오류급]", normal_total, max(discount_rate, 65), unit_summary
+                    return True, "[가격오류급]", normal_total, max(discount_rate, 45), unit_summary
                 elif unit_price <= rule["mujisung"]:
-                    return True, "[무지성 구매급]", normal_total, max(discount_rate, 48), unit_summary
+                    return True, "[무지성 구매급]", normal_total, max(discount_rate, 28), unit_summary
                 elif unit_price <= rule["yeokdaega"]:
-                    return True, "[역대가]", normal_total, max(discount_rate, 35), unit_summary
+                    return True, "[역대가]", normal_total, max(discount_rate, 15), unit_summary
                 else:
                     # 기준 단가보다 비싸면 판매자가 아무리 70% 세일이라고 우겨도 가짜 할인으로 판정하여 탈락!
                     return False, "탈락(단위당 가격 미달)", normal_total, discount_rate, unit_summary
@@ -241,8 +241,8 @@ class PriceValidator:
             prices: List[int] = []
             for m in re.finditer(r'"price"\s*:\s*"?(\d{4,8})"?', html):
                 p = int(m.group(1))
-                # 현재 할인가의 0.8배 ~ 3.5배 사이의 합리적인 동일 본품 가격만 수집 (부품/박스 제외)
-                if int(sale_price * 0.85) <= p <= int(sale_price * 3.5):
+                # 현재 할인가의 0.85배 ~ 1.5배 사이의 현실적인 본품 가격만 수집
+                if int(sale_price * 0.85) <= p <= int(sale_price * 1.5):
                     prices.append(p)
 
             if len(prices) >= 3:
@@ -297,18 +297,18 @@ class PriceValidator:
         # 3. 일반 상품(가전/패션/생활용품 등): 시중 실거래가 및 집단지성 반응 교차 검증
         market_ref = self.fetch_market_reference_price(title, sale_price)
 
-        # 판매자 주장 정가가 시중가보다 과도하게 뻥튀기(2.5배 초과)되어 있으면 시중가로 강제 보정
-        has_real_market_ref = bool(market_ref and market_ref >= int(sale_price * 1.32))
+        # 현실적인 쿠팡 평소 정상가 매핑 (인위적 1.65배 뻥튀기 원천 배제)
+        has_real_market_ref = bool(market_ref and market_ref >= int(sale_price * 1.12))
         if has_real_market_ref:
             real_normal_price = int(market_ref)
-        elif claimed_regular_price and int(sale_price * 1.35) <= claimed_regular_price <= int(sale_price * 2.5):
+        elif claimed_regular_price and int(sale_price * 1.10) <= claimed_regular_price <= int(sale_price * 1.35):
             real_normal_price = claimed_regular_price
         elif upvotes >= 10:
-            real_normal_price = int(round(sale_price * 1.65, -2))
+            real_normal_price = int(round(sale_price * 1.22, -2))
         elif upvotes >= 4 and downvotes == 0:
-            real_normal_price = int(round(sale_price * 1.48, -2))
+            real_normal_price = int(round(sale_price * 1.18, -2))
         elif ("역대가" in (title + body_text) or "최저가" in (title + body_text)) and views >= 400 and downvotes == 0:
-            real_normal_price = int(round(sale_price * 1.42, -2))
+            real_normal_price = int(round(sale_price * 1.18, -2))
         else:
             return {
                 "valid": False,
@@ -318,24 +318,24 @@ class PriceValidator:
         discount_rate = int(round((1 - (sale_price / max(real_normal_price, 1))) * 100))
         combined_text = f"{title} {body_text}"
 
-        # 등급 결정 로직 (엄격한 기준 적용: [무지성 구매급] 오남용 원천 차단)
+        # 등급 결정 로직
         if (
-            discount_rate >= 65
-            or (discount_rate >= 55 and ("가격오류" in combined_text or "대란" in combined_text))
-            or (upvotes >= 30 and discount_rate >= 50)
+            discount_rate >= 45
+            or (discount_rate >= 35 and ("가격오류" in combined_text or "대란" in combined_text))
+            or (upvotes >= 30 and discount_rate >= 30)
         ):
             tier_tag = "[가격오류급]"
         elif (
-            discount_rate >= 45
-            or (discount_rate >= 40 and ("무지성" in combined_text or upvotes >= 15))
+            discount_rate >= 28
+            or (discount_rate >= 22 and ("무지성" in combined_text or upvotes >= 15))
         ):
             tier_tag = "[무지성 구매급]"
-        elif discount_rate >= 30:
+        elif discount_rate >= 14:
             tier_tag = "[역대가]"
         else:
             return {
                 "valid": False,
-                "reason": f"실질 할인율({discount_rate}%) 기준 미달 (최소 30% 이상이어야 핫딜 인정)",
+                "reason": f"실질 할인율({discount_rate}%) 기준 미달 (최소 14% 이상이어야 핫딜 인정)",
             }
 
         return {
