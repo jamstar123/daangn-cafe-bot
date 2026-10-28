@@ -30,35 +30,24 @@ if [[ -f "${ENV_FILE}" ]]; then
     done < "${ENV_FILE}"
 fi
 
-CAFE_SLUG="${DAANGN_CAFE_SLUG:-oneul-ui-jeotan}"
-BOARD_ID="${DAANGN_BOARD_ID:-2252190}"
+HOTDEAL_SLUG="${HOTDEAL_CAFE_SLUG:-hasdil-eun-ye-1}"
+HOTDEAL_BOARD="${HOTDEAL_BOARD_ID:-2293448}"
+TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
 
-# 1. 연결 및 super_host 자격 확인
-python3 "${BASE_DIR}/daangn_cafe.py" --slug "${CAFE_SLUG}" membership >/dev/null
-
-# 2. 발행할 원고 파일 탐색
-NEXT_MANUSCRIPT=$(find "${MANUSCRIPTS_DIR}" -maxdepth 1 -type f \( -name "*.txt" -o -name "*.md" \) | sort | head -n 1)
-
-if [[ -z "${NEXT_MANUSCRIPT}" ]]; then
-    echo "대기 중인 새 원고가 없습니다."
-    exit 0
-fi
-
-# 3. 글 발행 실행
+# 1. [핫딜은 여기] 실시간 조건 충족 핫딜 탐지 & 가짜 할인 필터링 후 즉시 발행
 TEMP_ERR=$(mktemp)
-POST_URL=$(python3 "${BASE_DIR}/daangn_cafe.py" --slug "${CAFE_SLUG}" post_create --manuscript "${NEXT_MANUSCRIPT}" --board "${BOARD_ID}" 2>"${TEMP_ERR}")
+HOTDEAL_URL=$(python3 "${BASE_DIR}/realtime_deal_monitor.py" --slug "${HOTDEAL_SLUG}" --board "${HOTDEAL_BOARD}" --once --max-posts 1 2>"${TEMP_ERR}")
 EXIT_CODE=$?
 ERR_CONTENT=$(cat "${TEMP_ERR}")
 rm -f "${TEMP_ERR}"
 
-TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
-
 if [[ ${EXIT_CODE} -eq 0 ]]; then
-    # 규칙 4: 발행에 성공하면 최종 글 URL만 반환
-    echo "${POST_URL}"
-    echo "[${TIMESTAMP}] ${POST_URL} (원고: $(basename "${NEXT_MANUSCRIPT}"))" >> "${URL_LOG}"
-    mv "${NEXT_MANUSCRIPT}" "${PUBLISHED_DIR}/"
-    exit 0
+    if [[ -n "${HOTDEAL_URL}" ]]; then
+        echo "${HOTDEAL_URL}"
+        echo "[${TIMESTAMP}] [실시간 핫딜] ${HOTDEAL_URL}" >> "${URL_LOG}"
+    else
+        echo "[${TIMESTAMP}] 현재 기준(역대가/무지성구매급/가격오류급)을 충족한 신규 핫딜이 없어 대기합니다."
+    fi
 elif [[ ${EXIT_CODE} -eq 2 ]]; then
     echo "${ERR_CONTENT}" >&2
     echo "[${TIMESTAMP}] [쿠키 만료 중단] ${ERR_CONTENT}" >> "${ERROR_LOG}"
@@ -74,6 +63,25 @@ EOF
     exit 2
 else
     echo "${ERR_CONTENT}" >&2
-    echo "[${TIMESTAMP}] [실패 코드 ${EXIT_CODE}] ${ERR_CONTENT} (원고: $(basename "${NEXT_MANUSCRIPT}"))" >> "${ERROR_LOG}"
-    exit ${EXIT_CODE}
+    echo "[${TIMESTAMP}] [실시간 핫딜 스캔 알림] ${ERR_CONTENT}" >> "${ERROR_LOG}"
 fi
+
+# 2. 수동/예약 원고(manuscripts)가 대기 중이면 함께 발행
+CAFE_SLUG="${DAANGN_CAFE_SLUG:-oneul-ui-jeotan}"
+BOARD_ID="${DAANGN_BOARD_ID:-2252190}"
+NEXT_MANUSCRIPT=$(find "${MANUSCRIPTS_DIR}" -maxdepth 1 -type f \( -name "*.txt" -o -name "*.md" \) | sort | head -n 1)
+
+if [[ -n "${NEXT_MANUSCRIPT}" ]]; then
+    TEMP_ERR2=$(mktemp)
+    POST_URL=$(python3 "${BASE_DIR}/daangn_cafe.py" --slug "${CAFE_SLUG}" post_create --manuscript "${NEXT_MANUSCRIPT}" --board "${BOARD_ID}" 2>"${TEMP_ERR2}")
+    M_EXIT=$?
+    M_ERR=$(cat "${TEMP_ERR2}")
+    rm -f "${TEMP_ERR2}"
+    if [[ ${M_EXIT} -eq 0 ]]; then
+        echo "${POST_URL}"
+        echo "[${TIMESTAMP}] ${POST_URL} (원고: $(basename "${NEXT_MANUSCRIPT}"))" >> "${URL_LOG}"
+        mv "${NEXT_MANUSCRIPT}" "${PUBLISHED_DIR}/"
+    fi
+fi
+
+exit 0
