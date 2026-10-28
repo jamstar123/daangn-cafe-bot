@@ -413,7 +413,18 @@ class DaangnCafeClient:
         ref = str(image_ref).strip()
         if ref.startswith("http://") or ref.startswith("https://"):
             try:
-                req = urllib.request.Request(ref, headers={"User-Agent": self.user_agent})
+                parsed_img = urllib.parse.urlparse(ref)
+                referer = (
+                    "https://www.ppomppu.co.kr/"
+                    if "ppomppu.co.kr" in parsed_img.netloc
+                    else f"{parsed_img.scheme}://{parsed_img.netloc}/"
+                )
+                img_headers = {
+                    "User-Agent": self.user_agent,
+                    "Referer": referer,
+                    "Accept": "image/avif,image/webp,image/apng,image/*,*/*;q=0.8",
+                }
+                req = urllib.request.Request(ref, headers=img_headers)
                 with urllib.request.urlopen(req, timeout=30) as resp:
                     img_bytes = resp.read()
                     content_type = resp.info().get_content_type() or "image/jpeg"
