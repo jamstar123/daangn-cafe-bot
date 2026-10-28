@@ -56,7 +56,7 @@ class RealtimeDealMonitor:
         self.posted_db_path = log_dir / "posted_deals.json"
         self.posted_deals: Dict[str, Any] = self._load_posted_db()
         self.validator = PriceValidator(log_dir / "price_baseline_db.json")
-        self.partners_id = os.environ.get("COUPANG_PARTNERS_ID", "").strip()
+        self.partners_id = os.environ.get("COUPANG_PARTNERS_ID", "AF2017901").strip() or "AF2017901"
         self.partners_cookie = os.environ.get("COUPANG_PARTNERS_COOKIE", "").strip()
         raw_malls = os.environ.get("ALLOWED_MALLS", "쿠팡,coupang")
         self.allowed_malls = [m.strip().lower() for m in raw_malls.split(",") if m.strip()]
@@ -275,8 +275,23 @@ class RealtimeDealMonitor:
             except Exception:
                 pass
 
-        # 2) 파트너스 ID (AFxxxxxxx) 트래킹 파라미터(lptag) 부착
+        # 2) 파트너스 ID (AFxxxxxxx) 공식 딥링크/리다이렉트(link.coupang.com/re/AFFSDP) 자동 변환
         if self.partners_id:
+            prod_match = re.search(r"/products/(\d+)", url)
+            if prod_match:
+                page_key = prod_match.group(1)
+                parsed = urllib.parse.urlparse(url)
+                qs = urllib.parse.parse_qs(parsed.query)
+                item_id = (qs.get("itemId") or [""])[0]
+                vendor_id = (qs.get("vendorItemId") or [""])[0]
+                aff_url = f"https://link.coupang.com/re/AFFSDP?lptag={urllib.parse.quote(self.partners_id)}&subid=daangncafe&pageKey={page_key}"
+                if item_id:
+                    aff_url += f"&itemId={item_id}"
+                if vendor_id:
+                    aff_url += f"&vendorItemId={vendor_id}"
+                aff_url += "&traceid=V0-153"
+                return aff_url, True
+
             sep = "&" if "?" in url else "?"
             if "lptag=" not in url:
                 url = f"{url}{sep}lptag={urllib.parse.quote(self.partners_id)}&subid=daangncafe"
