@@ -57,6 +57,9 @@ class RealtimeDealMonitor:
         self.posted_deals: Dict[str, Any] = self._load_posted_db()
         self.validator = PriceValidator(log_dir / "price_baseline_db.json")
         self.partners_id = os.environ.get("COUPANG_PARTNERS_ID", "").strip()
+        self.partners_cookie = os.environ.get("COUPANG_PARTNERS_COOKIE", "").strip()
+        raw_malls = os.environ.get("ALLOWED_MALLS", "쿠팡,coupang")
+        self.allowed_malls = [m.strip().lower() for m in raw_malls.split(",") if m.strip()]
         self.user_agent = (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
             "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
@@ -237,13 +240,47 @@ class RealtimeDealMonitor:
         return url
 
     def apply_affiliate_tag(self, url: str) -> Tuple[str, bool]:
-        """쿠팡 링크인 경우 사용자의 쿠팡파트너스 트래킹 파라미터를 부착합니다."""
+        """
+        쿠팡 링크를 사용자의 쿠팡파트너스 수익 링크로 자동 변환합니다.
+        1) COUPANG_PARTNERS_COOKIE가 설정되어 있으면 쿠팡파트너스 내부 링크 생성 엔드포인트를 통해
+           API 최종승인(15만원) 전이라도 공식 단축링크(https://link.coupang.com/...)로 변환을 시도합니다.
+        2) COUPANG_PARTNERS_ID(예: AF1234567)가 설정되어 있으면 모든 쿠팡 URL에 lptag=AF...&subid=daangncafe를 부착합니다.
+        """
         is_coupang = "coupang.com" in url.lower()
-        if is_coupang and self.partners_id:
+        if not is_coupang:
+            return url, False
+
+        # 1) 쿠팡파트너스 웹 세션 기반 단축링크 변환 (선택)
+        if self.partners_cookie and "link.coupang.com" not in url.lower():
+            try:
+                api_url = "https://partners.coupang.com/api/v1/url"
+                payload = json.dumps({"coupangUrls": [url]}).encode("utf-8")
+                req = urllib.request.Request(
+                    api_url,
+                    data=payload,
+                    headers={
+                        "Content-Type": "application/json;charset=UTF-8",
+                        "Cookie": self.partners_cookie,
+                        "User-Agent": self.user_agent,
+                        "Origin": "https://partners.coupang.com",
+                        "Referer": "https://partners.coupang.com/",
+                    },
+                    method="POST",
+                )
+                with urllib.request.urlopen(req, timeout=10) as resp:
+                    res_data = json.loads(resp.read().decode("utf-8", errors="ignore"))
+                short_urls = (res_data.get("data") or {}).get("urls") or []
+                if short_urls and isinstance(short_urls[0], dict) and short_urls[0].get("shortenUrl"):
+                    return str(short_urls[0]["shortenUrl"]), True
+            except Exception:
+                pass
+
+        # 2) 파트너스 ID (AFxxxxxxx) 트래킹 파라미터(lptag) 부착
+        if self.partners_id:
             sep = "&" if "?" in url else "?"
             if "lptag=" not in url:
-                url = f"{url}{sep}lptag={urllib.parse.quote(self.partners_id)}"
-        return url, is_coupang
+                url = f"{url}{sep}lptag={urllib.parse.quote(self.partners_id)}&subid=daangncafe"
+        return url, True
 
     @staticmethod
     def build_fallback_mall_url(mall: str, clean_name: str, source_url: str) -> str:
@@ -461,6 +498,19 @@ class RealtimeDealMonitor:
         for deal in feed_items:
             deal_id = deal["deal_id"]
             if deal_id in self.posted_deals:
+                continue
+
+            mall_lower = deal["mall"].lower()
+            title_lower = deal["raw_title"].lower()
+            desc_lower = deal.get("rss_description", "").lower()
+            if self.allowed_malls and not any(
+                am in mall_lower or am in title_lower or am in desc_lower
+                for am in self.allowed_malls
+            ):
+                print(
+                    f"[쇼핑몰 제외] {deal['raw_title']} -> 허용 쇼핑몰({','.join(self.allowed_malls)}) 아님",
+                    file=sys.stderr,
+                )
                 continue
 
             eval_res = self.validator.evaluate_deal(
