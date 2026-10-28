@@ -608,7 +608,8 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--max-posts", type=int, default=1, help="1회 스캔 시 최대 발행 건수")
     p.add_argument("--once", action="store_true", help="1회 실시간 스캔 후 조건 충족 딜 즉시 발행 및 종료")
     p.add_argument("--daemon", action="store_true", help="백그라운드에서 상시 실시간 감시 루프 실행")
-    p.add_argument("--interval", type=int, default=90, help="상시 감시 모드 스캔 주기(초)")
+    p.add_argument("--interval", type=int, default=30, help="상시 감시 모드 스캔 주기(초, 기본 30초)")
+    p.add_argument("--max-runtime", type=int, default=0, help="데몬 1회 최대 실행 시간(초, 0이면 무제한)")
     p.add_argument("--dry-run", action="store_true", help="실제 발행 없이 필터링 및 원고 생성 결과만 검증")
     return p
 
@@ -621,17 +622,23 @@ def main() -> int:
         monitor = RealtimeDealMonitor(slug=args.slug, board_id=args.board)
         if args.daemon:
             print(
-                f"[실시간 감시 시작] 카페={args.slug}, 게시판={args.board}, 스캔주기={args.interval}초",
+                f"[실시간 감시 시작] 카페={args.slug}, 게시판={args.board}, 스캔주기={args.interval}초, 최대런타임={args.max_runtime}초",
                 file=sys.stderr,
             )
+            start_time = time.time()
             while True:
+                if args.max_runtime > 0 and (time.time() - start_time) >= args.max_runtime:
+                    print(f"[세션 교대] 최대 런타임({args.max_runtime}초)에 도달하여 다음 세션으로 자동 인계합니다.", file=sys.stderr)
+                    break
                 try:
-                    monitor.scan_and_publish(max_posts=args.max_posts, dry_run=args.dry_run)
+                    pub_urls = monitor.scan_and_publish(max_posts=args.max_posts, dry_run=args.dry_run)
+                    if pub_urls and not args.dry_run:
+                        os.system('git add logs/ && git commit -m "Auto: 실시간 핫딜 발행" && git push || true')
                 except DaangnCafeError as de:
                     if de.exit_code == 2:
                         raise
                     print(f"[일시 오류] {de}", file=sys.stderr)
-                time.sleep(max(args.interval, 30))
+                time.sleep(max(args.interval, 15))
         else:
             monitor.scan_and_publish(max_posts=args.max_posts, dry_run=args.dry_run)
         return 0
