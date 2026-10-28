@@ -534,11 +534,14 @@ class RealtimeDealMonitor:
         body_items.append(("text", f"📦 상품명 : {clean_name}"))
         body_items.append(("text", f"💸 평소 실거래가 : 약 {real_normal:,}원"))
         body_items.append(
-            ("text", f"🔥 현재 핫딜가 : {sale_price:,}원 ({shipping} / 약 {discount_rate}% 할인!)")
+            ("text", f"🔥 핫딜 특가 : {sale_price:,}원 ({shipping} / 약 {discount_rate}% 혜택)")
         )
         if unit_summary:
             body_items.append(("text", f"📊 체감단가 : {unit_summary}"))
         body_items.append(("text", "━━━━━━━━━━━━━━━"))
+        body_items.append(
+            ("text", "※ 쿠팡 접속 시 기본 판매가에 와우회원 혜택, 즉시할인 쿠폰 또는 카드사 결제 할인이 적용된 최종 체감가입니다.")
+        )
 
         # 4) 본문 내 추가 할인 팁(쿠폰/카드 안내 등)이 있으면 깔끔하게 정리하여 포함
         extra_lines = []
