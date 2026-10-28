@@ -430,10 +430,18 @@ class RealtimeDealMonitor:
         shop_url, is_coupang = self.apply_affiliate_tag(detail["shop_url"])
         image_url = detail.get("image_url") or ""
 
-        # 제목 구성 (이모티콘 제거, [로켓배송] 표기, 당근카페 50자 제한 준수)
+        # 제목 구성 (이모티콘 제거, '로켓배송' 단어 완전 제거, [쿠팡] 표기, 당근카페 50자 제한 준수)
         clean_tier = re.sub(r"^[^\w\[]+", "", tier_tag).strip()
-        mall_label = "[로켓배송]" if (is_coupang or "로켓" in deal.get("raw_title", "")) else f"[{mall}]"
-        prefix = f"{clean_tier} {mall_label} "
+        # 상품명 및 쇼핑몰명에서 '로켓배송' / '로켓' 단어 완전 제거
+        clean_name = re.sub(r"\[?로켓배송\]?|\(?로켓배송\)?|로켓배송|\[?로켓와우\]?|\(?로켓와우\)?|로켓와우", "", clean_name).strip()
+        clean_name = re.sub(r"\s+", " ", clean_name).strip()
+
+        clean_mall = "쿠팡" if (is_coupang or "coupang" in mall.lower() or "쿠팡" in mall) else mall
+        clean_mall = re.sub(r"\[?로켓배송\]?|\(?로켓배송\)?|로켓배송", "", clean_mall).strip()
+        if not clean_mall:
+            clean_mall = "쿠팡"
+
+        prefix = f"{clean_tier} [{clean_mall}] "
         suffix = f" {sale_price:,}원({discount_rate}%↓)"
         max_name_len = max(44 - len(prefix) - len(suffix), 8)
         short_name = clean_name if len(clean_name) <= max_name_len else clean_name[:max_name_len].rstrip()
