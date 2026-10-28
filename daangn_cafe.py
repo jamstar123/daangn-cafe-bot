@@ -569,10 +569,11 @@ class DaangnCafeClient:
         block_content = self.build_blocks_from_items(body_items, base_dir=base_dir, extra_images=extra_images)
 
         action_url = self._cafe_url("posts/new")
+        safe_title = title.strip()[:48].rstrip()
         payload = [
             {
                 "cafeSlug": self.slug,
-                "title": title.strip(),
+                "title": safe_title,
                 "blockContent": block_content,
                 "visibility": "public",
                 "searchable": True,
