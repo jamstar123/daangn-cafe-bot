@@ -145,6 +145,13 @@ class RealtimeDealMonitor:
             "shipping": shipping,
         }
 
+    @staticmethod
+    def _strip_cdata(raw: str) -> str:
+        val = (raw or "").strip()
+        val = re.sub(r"^<!\[CDATA\[", "", val, flags=re.IGNORECASE).strip()
+        val = re.sub(r"\]\]>$", "", val).strip()
+        return val
+
     def fetch_ppomppu_realtime_feed(self) -> List[Dict[str, Any]]:
         """뽐뿌 실시간 핫딜 RSS 피드에서 최신 딜 목록과 추천/비추천/조회수를 가져옵니다."""
         rss_url = "https://www.ppomppu.co.kr/rss.php?id=ppomppu"
@@ -157,15 +164,17 @@ class RealtimeDealMonitor:
 
         for item_m in re.finditer(r"<item>(.*?)</item>", xml_text, re.DOTALL):
             block = item_m.group(1)
-            title_m = re.search(r"<title><!\[CDATA\[(.*?)\]\]></title>|<title>(.*?)</title>", block, re.DOTALL)
-            link_m = re.search(r"<link>(.*?)</link>", block)
-            hits_m = re.search(r"<hits>\s*\[(\d+)\|(\d+)\|(\d+)\|(\d+)\]\s*</hits>", block)
+            title_m = re.search(r"<title>(.*?)</title>", block, re.DOTALL | re.IGNORECASE)
+            link_m = re.search(r"<link>(.*?)</link>", block, re.DOTALL | re.IGNORECASE)
+            hits_m = re.search(r"<hits>\s*\[(\d+)\|(\d+)\|(\d+)\|(\d+)\]\s*</hits>", block, re.IGNORECASE)
 
             if not title_m or not link_m:
                 continue
 
-            raw_title = (title_m.group(1) or title_m.group(2) or "").strip()
-            link = link_m.group(1).strip()
+            raw_title = self._strip_cdata(title_m.group(1))
+            link = self._strip_cdata(link_m.group(1))
+            if link.startswith("http://"):
+                link = "https://" + link[len("http://") :]
             no_m = re.search(r"no=(\d+)", link)
             deal_id = f"ppomppu_{no_m.group(1)}" if no_m else link
 
@@ -374,6 +383,7 @@ class RealtimeDealMonitor:
         실시간 피드를 스캔하여 조건을 충족한 진짜 핫딜만 당근카페에 즉시 발행합니다.
         """
         feed_items = self.fetch_ppomppu_realtime_feed()
+        print(f"[스캔] 실시간 피드에서 가격 포함 후보 딜 {len(feed_items)}건을 감지했습니다.", file=sys.stderr)
         published_urls: List[str] = []
 
         client: Optional[DaangnCafeClient] = None
