@@ -430,8 +430,10 @@ class RealtimeDealMonitor:
         shop_url, is_coupang = self.apply_affiliate_tag(detail["shop_url"])
         image_url = detail.get("image_url") or ""
 
-        # 제목 구성 (당근카페 제목 최대 50자 제한 준수 -> 안전하게 45자 이내로 자동 맞춤)
-        prefix = f"{tier_tag} [{mall}] "
+        # 제목 구성 (이모티콘 제거, [로켓배송] 표기, 당근카페 50자 제한 준수)
+        clean_tier = re.sub(r"^[^\w\[]+", "", tier_tag).strip()
+        mall_label = "[로켓배송]" if (is_coupang or "로켓" in deal.get("raw_title", "")) else f"[{mall}]"
+        prefix = f"{clean_tier} {mall_label} "
         suffix = f" {sale_price:,}원({discount_rate}%↓)"
         max_name_len = max(44 - len(prefix) - len(suffix), 8)
         short_name = clean_name if len(clean_name) <= max_name_len else clean_name[:max_name_len].rstrip()
