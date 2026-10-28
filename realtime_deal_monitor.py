@@ -378,8 +378,12 @@ class RealtimeDealMonitor:
         shop_url, is_coupang = self.apply_affiliate_tag(detail["shop_url"])
         image_url = detail.get("image_url") or ""
 
-        # 제목 구성: ⚡ [무지성 구매급] [쿠팡] 신라면 20봉 11,500원 (시중가 대비 46%↓)
-        post_title = f"{tier_tag} [{mall}] {clean_name} — {sale_price:,}원 ({discount_rate}%↓)"
+        # 제목 구성 (당근카페 제목 최대 50자 제한 준수 -> 안전하게 45자 이내로 자동 맞춤)
+        prefix = f"{tier_tag} [{mall}] "
+        suffix = f" {sale_price:,}원({discount_rate}%↓)"
+        max_name_len = max(44 - len(prefix) - len(suffix), 8)
+        short_name = clean_name if len(clean_name) <= max_name_len else clean_name[:max_name_len].rstrip()
+        post_title = f"{prefix}{short_name}{suffix}"
 
         body_items: List[Tuple[str, str]] = []
 
