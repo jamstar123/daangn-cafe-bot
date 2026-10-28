@@ -220,6 +220,56 @@ class RealtimeDealMonitor:
             )
         return items
 
+    def fetch_ruliweb_realtime_feed(self) -> List[Dict[str, Any]]:
+        """루리웹 실시간 핫딜마당 RSS 피드(28건)에서 최신 딜 목록을 가져옵니다."""
+        rss_url = "https://bbs.ruliweb.com/market/board/1020/rss"
+        try:
+            req = urllib.request.Request(rss_url, headers={"User-Agent": self.user_agent})
+            with urllib.request.urlopen(req, timeout=12) as resp:
+                raw_bytes = resp.read()
+            xml_text = self._decode_auto(raw_bytes)
+        except Exception:
+            return []
+
+        items: List[Dict[str, Any]] = []
+        for item_m in re.finditer(r"<item>(.*?)</item>", xml_text, re.DOTALL):
+            block = item_m.group(1)
+            title_m = re.search(r"<title>(.*?)</title>", block, re.DOTALL | re.IGNORECASE)
+            link_m = re.search(r"<link>(.*?)</link>", block, re.DOTALL | re.IGNORECASE)
+            desc_m = re.search(r"<description>(.*?)</description>", block, re.DOTALL | re.IGNORECASE)
+
+            if not title_m or not link_m:
+                continue
+
+            raw_title = self._strip_cdata(title_m.group(1))
+            link = html.unescape(self._strip_cdata(link_m.group(1)))
+            rss_desc = html.unescape(self._strip_cdata(desc_m.group(1))) if desc_m else ""
+
+            read_m = re.search(r"/read/(\d+)", link)
+            deal_id = f"ruliweb_{read_m.group(1)}" if read_m else link
+
+            parsed = self.parse_title_metadata(raw_title)
+            if not parsed:
+                continue
+
+            items.append(
+                {
+                    "deal_id": deal_id,
+                    "source": "ruliweb",
+                    "raw_title": raw_title,
+                    "source_url": link,
+                    "rss_description": rss_desc,
+                    "upvotes": 5,
+                    "downvotes": 0,
+                    "views": 600,
+                    "mall": parsed["mall"],
+                    "clean_name": parsed["clean_name"],
+                    "sale_price": parsed["sale_price"],
+                    "shipping": parsed["shipping"],
+                }
+            )
+        return items
+
     @staticmethod
     def _decode_ppomppu_redirect(url: str) -> str:
         """s.ppomppu.co.kr 리다이렉트 URL에서 base64로 인코딩된 원본 쇼핑몰 직링크를 복원합니다."""
@@ -347,10 +397,20 @@ class RealtimeDealMonitor:
         # 1. 원본 쇼핑몰 링크 추출
         shop_url = ""
         if html_text:
-            redir_m = re.search(r"https?://s\.ppomppu\.co\.kr\?[^\s\"'<>]+", html_text)
-            if redir_m:
-                raw_redir = html.unescape(redir_m.group(0))
-                shop_url = self._decode_ppomppu_redirect(raw_redir)
+            if "ruliweb.com" in source_url:
+                c_m = re.search(r"https?://(?:www\.)?coupang\.com/vp/products/\d+[^\s\"'<>]*", html_text)
+                if c_m:
+                    shop_url = html.unescape(c_m.group(0))
+                else:
+                    ol_m = re.search(r"link\.php\?ol=([^&\"'<>]+)", html_text)
+                    if ol_m:
+                        shop_url = urllib.parse.unquote(ol_m.group(1))
+
+            if not shop_url:
+                redir_m = re.search(r"https?://s\.ppomppu\.co\.kr\?[^\s\"'<>]+", html_text)
+                if redir_m:
+                    raw_redir = html.unescape(redir_m.group(0))
+                    shop_url = self._decode_ppomppu_redirect(raw_redir)
 
             if not shop_url:
                 direct_m = re.search(
@@ -364,13 +424,18 @@ class RealtimeDealMonitor:
         if not shop_url:
             shop_url = self.build_fallback_mall_url(mall, clean_name, source_url)
 
-        # 2. 대표 상품 이미지 추출 (og:image -> 본문 cdn 이미지 -> 상품명 기반 고화질 상품 썸네일)
+        # 2. 대표 상품 이미지 추출 (rss img -> og:image -> 본문 cdn 이미지 -> 상품명 기반 고화질 상품 썸네일)
         image_url = ""
-        if html_text:
+        if fallback_desc and "<img" in fallback_desc:
+            desc_img_m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', fallback_desc, re.IGNORECASE)
+            if desc_img_m:
+                image_url = desc_img_m.group(1).strip()
+
+        if not image_url and html_text:
             og_m = re.search(r'<meta\s+property=["\']og:image["\']\s+content=["\']([^"\']+)["\']', html_text, re.IGNORECASE)
             if og_m:
                 candidate = og_m.group(1).strip()
-                if "ppomppu_logo" not in candidate and "default" not in candidate:
+                if "ppomppu_logo" not in candidate and "default" not in candidate and "ruli_200" not in candidate:
                     image_url = candidate
 
             if not image_url:
@@ -509,10 +574,12 @@ class RealtimeDealMonitor:
 
     def scan_and_publish(self, max_posts: int = 1, dry_run: bool = False) -> List[str]:
         """
-        실시간 피드를 스캔하여 조건을 충족한 진짜 핫딜만 당근카페에 즉시 발행합니다.
+        실시간 피드(뽐뿌 + 루리웹 핫딜 교차)를 스캔하여 조건을 충족한 진짜 핫딜만 당근카페에 즉시 발행합니다.
         """
-        feed_items = self.fetch_ppomppu_realtime_feed()
-        print(f"[스캔] 실시간 피드에서 가격 포함 후보 딜 {len(feed_items)}건을 감지했습니다.", file=sys.stderr)
+        ppomppu_items = self.fetch_ppomppu_realtime_feed()
+        ruliweb_items = self.fetch_ruliweb_realtime_feed()
+        feed_items = ppomppu_items + ruliweb_items
+        print(f"[스캔] 실시간 피드(뽐뿌 {len(ppomppu_items)}건 + 루리웹 {len(ruliweb_items)}건 = 총 {len(feed_items)}건)에서 후보 딜을 감지했습니다.", file=sys.stderr)
         published_urls: List[str] = []
 
         client: Optional[DaangnCafeClient] = None
