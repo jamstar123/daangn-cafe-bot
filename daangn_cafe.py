@@ -32,8 +32,8 @@ EXIT_AUTH_EXPIRED = 2       # 쿠키 만료 또는 super_host 권한 없음 -> �
 EXIT_ACTION_ID_CHANGED = 3  # Next-Action ID 불일치/변경 감지 -> 재확인 필요
 EXIT_RATE_LIMIT_FAILED = 4  # 요청 제한 대기 후 재시도 초과
 
-DEFAULT_POST_ACTION_ID = "403124fa9b0adc7ba42c71ac4d738e7b78c62e47bc"
-DEFAULT_IMAGE_ACTION_ID = "40a64c6f3424be009d7225054055934226e1de89b9"
+DEFAULT_POST_ACTION_ID = "40ec4883aa4a0be726249db944264360e828b02bb2"
+DEFAULT_IMAGE_ACTION_ID = "40c9d529704d23a3514ffcea26bda581a58a0672ca"
 DEFAULT_BASE_URL = "https://cafe.daangn.com"
 
 
@@ -239,7 +239,44 @@ class DaangnCafeClient:
 
             return status, resp_headers, body_text
 
-    def request_server_action(self, url: str, action_id: str, payload: Any) -> str:
+    def auto_refresh_server_action_ids(self) -> bool:
+        """
+        당근 마켓이 프론트엔드를 신규 배포하여 Next-Action ID가 변경된 경우,
+        posts/new 페이지 및 dynamic chunk를 자동으로 추적하여 최신 action ID로 자가 갱신합니다.
+        """
+        try:
+            url = f"{self.base_url}/{self.slug}/posts/new"
+            headers = {"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"}
+            _, _, html = self._request("GET", url, headers=headers, include_cookie=True)
+            w_match = re.search(r'\"([^\"]*static/chunks/[^\"]+)\"[^\]]*WritePageClient', html)
+            if not w_match:
+                return False
+            w_url = w_match.group(1)
+            if not w_url.startswith("http"):
+                w_url = urllib.parse.urljoin(self.base_url, w_url)
+
+            _, _, w_js = self._request("GET", w_url, include_cookie=False)
+            chunk_matches = re.findall(r'\"([^\"]*static/chunks/[^\"]+\.js)\"', w_js)
+            found = False
+            for chunk_path in chunk_matches:
+                c_url = chunk_path if chunk_path.startswith("http") else urllib.parse.urljoin(w_url, chunk_path)
+                try:
+                    _, _, c_js = self._request("GET", c_url, include_cookie=False)
+                    post_m = re.search(r'\"(4[a-f0-9]{39})\".*?createPostAction', c_js)
+                    img_m = re.search(r'\"(4[a-f0-9]{39})\".*?getImageUploadUrl', c_js)
+                    if post_m:
+                        self.post_action_id = post_m.group(1)
+                        found = True
+                    if img_m:
+                        self.image_action_id = img_m.group(1)
+                        found = True
+                except Exception:
+                    continue
+            return found
+        except Exception:
+            return False
+
+    def request_server_action(self, url: str, action_id: str, payload: Any, retry_on_changed: bool = True) -> str:
         """
         통신 규격 2번:
         - 브라우저 없이 당근 서버에 직접 POST 요청
@@ -255,7 +292,13 @@ class DaangnCafeClient:
         }
         data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
         status, _, body = self._request("POST", url, data=data, headers=headers, include_cookie=True)
-        if status >= 400:
+        if status >= 400 or "Server Action unavailable" in body:
+            if retry_on_changed and self.auto_refresh_server_action_ids():
+                new_action_id = self.post_action_id if "cafeSlug" in str(payload) else self.image_action_id
+                headers["Next-Action"] = new_action_id
+                status, _, body = self._request("POST", url, data=data, headers=headers, include_cookie=True)
+                if status < 400 and "Server Action unavailable" not in body:
+                    return body
             safe_body = mask_sensitive(body[:300], self.cookie)
             raise DaangnCafeError(
                 f"[요청 실패] HTTP {status} (Action ID: {action_id}) 변경 여부를 재확인해 주세요. 응답 요약: {safe_body}",
