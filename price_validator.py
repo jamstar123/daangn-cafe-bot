@@ -305,14 +305,15 @@ class PriceValidator:
             real_normal_price = claimed_regular_price
         elif upvotes >= 10:
             real_normal_price = int(round(sale_price * 1.22, -2))
-        elif upvotes >= 4 and downvotes == 0:
-            real_normal_price = int(round(sale_price * 1.18, -2))
-        elif ("역대가" in (title + body_text) or "최저가" in (title + body_text)) and views >= 400 and downvotes == 0:
+        elif upvotes >= 3:
+            real_normal_price = int(round(sale_price * 1.20, -2))
+        elif downvotes == 0:
+            # 실시간 신규 등록 딜: 추천수가 쌓이기 전(0~2개)이라도 비추천이 없으면 쿠팡 기본 마진(18%) 정상가 산출하여 실시간 즉시 발행!
             real_normal_price = int(round(sale_price * 1.18, -2))
         else:
             return {
                 "valid": False,
-                "reason": f"시중가 대비 실할인폭 미검증 및 추천수 부족 (추천 {upvotes}, 비추천 {downvotes}, 조회 {views})",
+                "reason": f"비추천 감지 및 실할인폭 미검증 (비추천 {downvotes})",
             }
 
         discount_rate = int(round((1 - (sale_price / max(real_normal_price, 1))) * 100))
