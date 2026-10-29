@@ -600,7 +600,17 @@ class RealtimeDealMonitor:
         prefix = f"{clean_tier} [{clean_mall}] "
         suffix = f" {sale_price:,}원({discount_rate}%↓)"
         max_name_len = max(44 - len(prefix) - len(suffix), 8)
-        short_name = clean_name if len(clean_name) <= max_name_len else clean_name[:max_name_len].rstrip()
+        if len(clean_name) <= max_name_len:
+            short_name = clean_name
+        else:
+            # 단어 중간에서 자르지 않는다: 자른 지점이 단어 중간이면 마지막 공백에서 끊는다.
+            # (예: "120g 5개"가 "12"로 잘려 수량처럼 보이는 문제 방지)
+            cut = clean_name[:max_name_len]
+            if not clean_name[max_name_len].isspace() and not cut.endswith(" "):
+                word_cut = cut.rsplit(" ", 1)[0] if " " in cut else ""
+                short_name = word_cut if word_cut else cut
+            else:
+                short_name = cut.rstrip()
         post_title = f"{prefix}{short_name}{suffix}"
 
         body_items: List[Tuple[str, str]] = []
