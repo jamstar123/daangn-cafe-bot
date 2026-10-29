@@ -5,6 +5,10 @@ on:
     - cron: '0 1,6,11 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+  actions: write
+
 jobs:
   post:
     runs-on: ubuntu-latest
@@ -20,8 +24,9 @@ jobs:
       - name: 당근카페 자동 발행 실행
         env:
           DAANGN_COOKIE: ${{ secrets.DAANGN_COOKIE }}
-          DAANGN_CAFE_SLUG: ${{ secrets.DAANGN_CAFE_SLUG || 'oneul-ui-jeotan' }}
-          DAANGN_BOARD_ID: ${{ secrets.DAANGN_BOARD_ID }}
+          HOTDEAL_CAFE_SLUG: ${{ secrets.HOTDEAL_CAFE_SLUG || 'hasdil-eun-ye-1' }}
+          HOTDEAL_BOARD_ID: ${{ secrets.HOTDEAL_BOARD_ID || '2293448' }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           bash cron_runner.sh
 
