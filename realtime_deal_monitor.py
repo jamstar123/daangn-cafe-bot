@@ -32,6 +32,7 @@ from typing import Any, Dict, List, Optional, Tuple
 
 from daangn_cafe import DaangnCafeClient, DaangnCafeError, load_env, mask_sensitive
 from price_validator import PriceValidator
+from deal_audit_verifier import DealAuditVerifier
 
 
 DEFAULT_HOTDEAL_CAFE_SLUG = "hasdil-eun-ye-1"
@@ -56,6 +57,7 @@ class RealtimeDealMonitor:
         self.posted_db_path = log_dir / "posted_deals.json"
         self.posted_deals: Dict[str, Any] = self._load_posted_db()
         self.validator = PriceValidator(log_dir / "price_baseline_db.json")
+        self.verifier = DealAuditVerifier(log_dir / "audit_report.json")
         self.partners_id = os.environ.get("COUPANG_PARTNERS_ID", "AF2017901").strip() or "AF2017901"
         self.partners_cookie = os.environ.get("COUPANG_PARTNERS_COOKIE", "").strip()
         raw_malls = os.environ.get("ALLOWED_MALLS", "쿠팡,coupang")
@@ -68,7 +70,23 @@ class RealtimeDealMonitor:
     def _load_posted_db(self) -> Dict[str, Any]:
         if self.posted_db_path.exists():
             try:
-                return json.loads(self.posted_db_path.read_text(encoding="utf-8"))
+                db = json.loads(self.posted_db_path.read_text(encoding="utf-8"))
+                if not isinstance(db, dict):
+                    return {}
+                now = datetime.now()
+                cleaned_db = {}
+                for k, v in db.items():
+                    pub_str = v.get("published_at") if isinstance(v, dict) else None
+                    if pub_str:
+                        try:
+                            pub_dt = datetime.strptime(pub_str, "%Y-%m-%d %H:%M:%S")
+                            if (now - pub_dt).total_seconds() < 24 * 3600:
+                                cleaned_db[k] = v
+                            continue
+                        except Exception:
+                            pass
+                    cleaned_db[k] = v
+                return cleaned_db
             except Exception:
                 return {}
         return {}
@@ -270,6 +288,56 @@ class RealtimeDealMonitor:
             )
         return items
 
+    def fetch_coolenjoy_realtime_feed(self) -> List[Dict[str, Any]]:
+        """쿨엔조이 실시간 지름/특가 RSS 피드(25건)에서 최신 딜 목록을 가져옵니다."""
+        rss_url = "https://coolenjoy.net/bbs/rss.php?bo_table=jirum"
+        try:
+            req = urllib.request.Request(rss_url, headers={"User-Agent": self.user_agent})
+            with urllib.request.urlopen(req, timeout=12) as resp:
+                raw_bytes = resp.read()
+            xml_text = self._decode_auto(raw_bytes)
+        except Exception:
+            return []
+
+        items: List[Dict[str, Any]] = []
+        for item_m in re.finditer(r"<item>(.*?)</item>", xml_text, re.DOTALL):
+            block = item_m.group(1)
+            title_m = re.search(r"<title>(.*?)</title>", block, re.DOTALL | re.IGNORECASE)
+            link_m = re.search(r"<link>(.*?)</link>", block, re.DOTALL | re.IGNORECASE)
+            desc_m = re.search(r"<description>(.*?)</description>", block, re.DOTALL | re.IGNORECASE)
+
+            if not title_m or not link_m:
+                continue
+
+            raw_title = self._strip_cdata(title_m.group(1))
+            link = html.unescape(self._strip_cdata(link_m.group(1)))
+            rss_desc = html.unescape(self._strip_cdata(desc_m.group(1))) if desc_m else ""
+
+            id_m = re.search(r"/jirum/(\d+)", link)
+            deal_id = f"coolenjoy_{id_m.group(1)}" if id_m else link
+
+            parsed = self.parse_title_metadata(raw_title)
+            if not parsed:
+                continue
+
+            items.append(
+                {
+                    "deal_id": deal_id,
+                    "source": "coolenjoy",
+                    "raw_title": raw_title,
+                    "source_url": link,
+                    "rss_description": rss_desc,
+                    "upvotes": 4,
+                    "downvotes": 0,
+                    "views": 450,
+                    "mall": parsed["mall"],
+                    "clean_name": parsed["clean_name"],
+                    "sale_price": parsed["sale_price"],
+                    "shipping": parsed["shipping"],
+                }
+            )
+        return items
+
     @staticmethod
     def _decode_ppomppu_redirect(url: str) -> str:
         """s.ppomppu.co.kr 리다이렉트 URL에서 base64로 인코딩된 원본 쇼핑몰 직링크를 복원합니다."""
@@ -300,7 +368,27 @@ class RealtimeDealMonitor:
         if not is_coupang:
             return url, False
 
-        # 1) 쿠팡파트너스 웹 세션 기반 단축링크 변환 (선택)
+        # 1) 타인의 쿠팡 단축링크(link.coupang.com/a/...)인 경우, 실제 목적지 URL을 역추적하여 본인 코드로 변환
+        if "link.coupang.com" in url and "/re/AFFSDP" not in url:
+            try:
+                class NoRedirect(urllib.request.HTTPRedirectHandler):
+                    def redirect_request(self, req, fp, code, msg, headers, newurl):
+                        return None
+                opener = urllib.request.build_opener(NoRedirect)
+                req = urllib.request.Request(url, headers={"User-Agent": self.user_agent})
+                try:
+                    with opener.open(req, timeout=5) as resp:
+                        loc = resp.headers.get("Location")
+                        if loc:
+                            url = loc
+                except urllib.error.HTTPError as he:
+                    loc = he.headers.get("Location")
+                    if loc:
+                        url = loc
+            except Exception:
+                pass
+
+        # 2) 쿠팡파트너스 웹 세션 기반 단축링크 변환 (선택)
         if self.partners_cookie and "link.coupang.com" not in url.lower():
             try:
                 api_url = "https://partners.coupang.com/api/v1/url"
@@ -495,6 +583,7 @@ class RealtimeDealMonitor:
         shipping = deal["shipping"]
 
         shop_url, is_coupang = self.apply_affiliate_tag(detail["shop_url"])
+        detail["shop_url"] = shop_url
         image_url = detail.get("image_url") or ""
 
         # 제목 구성 (이모티콘 제거, '로켓배송' 단어 완전 제거, [쿠팡] 표기, 당근카페 50자 제한 준수)
@@ -577,12 +666,13 @@ class RealtimeDealMonitor:
 
     def scan_and_publish(self, max_posts: int = 1, dry_run: bool = False) -> List[str]:
         """
-        실시간 피드(뽐뿌 + 루리웹 핫딜 교차)를 스캔하여 조건을 충족한 진짜 핫딜만 당근카페에 즉시 발행합니다.
+        실시간 피드(뽐뿌 + 루리웹 + 쿨엔조이 핫딜 교차)를 스캔하여 조건을 충족한 진짜 핫딜만 당근카페에 즉시 발행합니다.
         """
         ppomppu_items = self.fetch_ppomppu_realtime_feed()
         ruliweb_items = self.fetch_ruliweb_realtime_feed()
-        feed_items = ppomppu_items + ruliweb_items
-        print(f"[스캔] 실시간 피드(뽐뿌 {len(ppomppu_items)}건 + 루리웹 {len(ruliweb_items)}건 = 총 {len(feed_items)}건)에서 후보 딜을 감지했습니다.", file=sys.stderr)
+        coolenjoy_items = self.fetch_coolenjoy_realtime_feed()
+        feed_items = ppomppu_items + ruliweb_items + coolenjoy_items
+        print(f"[스캔] 실시간 피드(뽐뿌 {len(ppomppu_items)}건 + 루리웹 {len(ruliweb_items)}건 + 쿨엔조이 {len(coolenjoy_items)}건 = 총 {len(feed_items)}건)에서 후보 딜을 감지했습니다.", file=sys.stderr)
         published_urls: List[str] = []
 
         client: Optional[DaangnCafeClient] = None
@@ -643,6 +733,23 @@ class RealtimeDealMonitor:
                 clean_name=deal["clean_name"],
             )
             post_title, body_items = self.build_hotdeal_post_content(deal, eval_res, detail)
+
+            # [상시 감사 봇] 6대 원칙(제목규격, 금지단어, 공식파트너스링크, 정상가뻥튀기방지 등) 전수 감사
+            body_text_full = "\n".join(val for typ, val in body_items if typ == "text")
+            audit_res = self.verifier.audit_post(
+                title=post_title,
+                body_text=body_text_full,
+                affiliate_url=detail.get("shop_url") or "",
+                sale_price=deal["sale_price"],
+                normal_price=eval_res["real_normal_price"],
+            )
+            if not audit_res.get("passed_all"):
+                print(
+                    f"[발행 보류: 감사 봇 결함 감지] {post_title} -> {'; '.join(audit_res.get('violations', []))}",
+                    file=sys.stderr,
+                )
+                continue
+
             print(
                 f"[조건 충족! 즉시 발행 대상] {post_title} | 사유: {eval_res.get('reason')}",
                 file=sys.stderr,
