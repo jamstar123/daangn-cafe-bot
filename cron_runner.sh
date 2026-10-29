@@ -62,13 +62,25 @@ if [[ ${EXIT_CODE} -eq 0 ]]; then
     # 건너뛰고 다음 예약 실행 때 재개된다 (예약 실행만으로는 하루 16.5시간 커버, 빈틈 발생).
     DISPATCH_TOKEN="${GITHUB_TOKEN:-${GH_PAT:-}}"
     if [[ -n "${DISPATCH_TOKEN}" ]]; then
-        curl -s -X POST \
+        HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" \
+            -X POST \
             -H "Authorization: token ${DISPATCH_TOKEN}" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/jamstar123/daangn-cafe-bot/actions/workflows/auto_post.yml/dispatches \
-            -d '{"ref":"main"}' || true
+            -d '{"ref":"main"}' || echo "000")
+        echo "[연쇄 트리거] 다음 세션 dispatch HTTP ${HTTP_CODE}"
+        if [[ "${HTTP_CODE}" != "204" ]]; then
+            echo "[${TIMESTAMP_END}] [연쇄 실패] dispatch HTTP ${HTTP_CODE}" >> "${ERROR_LOG}"
+            git add "${ERROR_LOG}" || true
+            git commit -m "Alert: 다음 세션 자동 인계 실패 (HTTP ${HTTP_CODE})" || true
+            git push || true
+        fi
     else
         echo "[경고] GITHUB_TOKEN도 GH_PAT도 없어 다음 세션 자동 트리거를 건너뜁니다."
+        echo "[${TIMESTAMP_END}] [연쇄 건너뜀] 토큰 없음" >> "${ERROR_LOG}"
+        git add "${ERROR_LOG}" || true
+        git commit -m "Alert: 다음 세션 자동 인계 건너뜀 (토큰 없음)" || true
+        git push || true
     fi
     exit 0
 elif [[ ${EXIT_CODE} -eq 2 ]]; then
