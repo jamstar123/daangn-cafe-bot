@@ -50,19 +50,26 @@ TIMESTAMP_END=$(date '+%Y-%m-%d %H:%M:%S')
 
 if [[ ${EXIT_CODE} -eq 0 ]]; then
     echo "[${TIMESTAMP_END}] 5.5시간 실시간 감시 세션이 안전하게 종료되었습니다. 다음 세션으로 자동 인계합니다."
-    
+
     # 깃 변경사항 저장
     git add logs/ || true
     git commit -m "Auto: 실시간 감시 세션 상태 저장" || true
     git push || true
 
     # 다음 5.5시간 실시간 세션을 즉시 클라우드에 자동 트리거 (24시간 무중단 연속 감시)
-    GH_TOKEN="${GH_PAT:-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}"
-    curl -s -X POST \
-        -H "Authorization: token ${GH_TOKEN}" \
-        -H "Accept: application/vnd.github.v3+json" \
-        https://api.github.com/repos/jamstar123/daangn-cafe-bot/actions/workflows/397122068/dispatches \
-        -d '{"ref":"main"}' || true
+    # 보안: 토큰을 코드에 직접 적지 않는다. 액션에서는 자동 제공되는 GITHUB_TOKEN을
+    # 우선 쓰고, 자체 서버에서 돌릴 때는 GH_PAT 시크릿을 쓴다. 둘 다 없으면 연쇄를
+    # 건너뛰고 다음 예약 실행 때 재개된다 (예약 실행만으로는 하루 16.5시간 커버, 빈틈 발생).
+    DISPATCH_TOKEN="${GITHUB_TOKEN:-${GH_PAT:-}}"
+    if [[ -n "${DISPATCH_TOKEN}" ]]; then
+        curl -s -X POST \
+            -H "Authorization: token ${DISPATCH_TOKEN}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/jamstar123/daangn-cafe-bot/actions/workflows/auto_post.yml/dispatches \
+            -d '{"ref":"main"}' || true
+    else
+        echo "[경고] GITHUB_TOKEN도 GH_PAT도 없어 다음 세션 자동 트리거를 건너뜁니다."
+    fi
     exit 0
 elif [[ ${EXIT_CODE} -eq 2 ]]; then
     echo "[${TIMESTAMP_END}] [쿠키 만료 중단]" >> "${ERROR_LOG}"
@@ -71,6 +78,10 @@ elif [[ ${EXIT_CODE} -eq 2 ]]; then
 [긴급 알림] 당근 세션 쿠키가 만료되어 자동 감시가 중단되었습니다. (${TIMESTAMP_END})
 새 쿠키를 발급받아 DAANGN_COOKIE를 갱신한 뒤 COOKIE_EXPIRED.lock 파일을 삭제해 주세요.
 EOF
+    # 액션 러너는 일회용이라 알림 파일이 사라진다. 저장소에 커밋해서 남긴다.
+    git add "${ALERT_FILE}" "${ERROR_LOG}" || true
+    git commit -m "Alert: 당근 세션 쿠키 만료로 감시 중단" || true
+    git push || true
     exit 2
 else
     echo "[${TIMESTAMP_END}] [에러 종료 코드 ${EXIT_CODE}]" >> "${ERROR_LOG}"
