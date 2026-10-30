@@ -93,5 +93,24 @@
       "normal_price": 5600,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=35267&itemId=14677177105"
     }
+  },
+  {
+    "audited_at": "2026-10-30 06:45:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 비비고 납작교자 (냉동), 10,480원(15%↓)",
+      "sale_price": 10480,
+      "normal_price": 12400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8264883584&itemId=23883946510&vendorItemId=90906789818"
+    }
   }
 ]
