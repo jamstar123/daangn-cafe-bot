@@ -345,56 +345,6 @@ class RealtimeDealMonitor:
             )
         return items
 
-    def fetch_coolenjoy_realtime_feed(self) -> List[Dict[str, Any]]:
-        """쿨엔조이 실시간 지름/특가 RSS 피드(25건)에서 최신 딜 목록을 가져옵니다."""
-        rss_url = "https://coolenjoy.net/bbs/rss.php?bo_table=jirum"
-        try:
-            req = urllib.request.Request(rss_url, headers={"User-Agent": self.user_agent})
-            with urllib.request.urlopen(req, timeout=12) as resp:
-                raw_bytes = resp.read()
-            xml_text = self._decode_auto(raw_bytes)
-        except Exception:
-            return []
-
-        items: List[Dict[str, Any]] = []
-        for item_m in re.finditer(r"<item>(.*?)</item>", xml_text, re.DOTALL):
-            block = item_m.group(1)
-            title_m = re.search(r"<title>(.*?)</title>", block, re.DOTALL | re.IGNORECASE)
-            link_m = re.search(r"<link>(.*?)</link>", block, re.DOTALL | re.IGNORECASE)
-            desc_m = re.search(r"<description>(.*?)</description>", block, re.DOTALL | re.IGNORECASE)
-
-            if not title_m or not link_m:
-                continue
-
-            raw_title = self._strip_cdata(title_m.group(1))
-            link = html.unescape(self._strip_cdata(link_m.group(1)))
-            rss_desc = html.unescape(self._strip_cdata(desc_m.group(1))) if desc_m else ""
-
-            id_m = re.search(r"/jirum/(\d+)", link)
-            deal_id = f"coolenjoy_{id_m.group(1)}" if id_m else link
-
-            parsed = self.parse_title_metadata(raw_title)
-            if not parsed:
-                continue
-
-            items.append(
-                {
-                    "deal_id": deal_id,
-                    "source": "coolenjoy",
-                    "raw_title": raw_title,
-                    "source_url": link,
-                    "rss_description": rss_desc,
-                    "upvotes": 4,
-                    "downvotes": 0,
-                    "views": 450,
-                    "mall": parsed["mall"],
-                    "clean_name": parsed["clean_name"],
-                    "sale_price": parsed["sale_price"],
-                    "shipping": parsed["shipping"],
-                }
-            )
-        return items
-
     def fetch_dealbada_realtime_feed(self) -> List[Dict[str, Any]]:
         """딜바다 국내핫딜 게시판 1페이지(최신 15건)에서 딜 목록을 가져옵니다.
 
@@ -953,15 +903,14 @@ class RealtimeDealMonitor:
 
     def scan_and_publish(self, max_posts: int = 1, dry_run: bool = False) -> List[str]:
         """
-        실시간 피드(뽐뿌 + 루리웹 + 쿨엔조이 + 딜바다 핫딜 교차)를 스캔하여 조건을 충족한 진짜 핫딜만 당근카페에 즉시 발행합니다.
+        실시간 피드(뽐뿌 + 루리웹 + 딜바다 핫딜 교차)를 스캔하여 조건을 충족한 진짜 핫딜만 당근카페에 즉시 발행합니다.
         """
         ppomppu_items = self.fetch_ppomppu_realtime_feed()
         ruliweb_items = self.fetch_ruliweb_realtime_feed()
-        coolenjoy_items = self.fetch_coolenjoy_realtime_feed()
         dealbada_items = self.fetch_dealbada_realtime_feed()
         telegram_items = self.fetch_telegram_feed()
-        feed_items = ppomppu_items + ruliweb_items + coolenjoy_items + dealbada_items + telegram_items
-        print(f"[스캔] 실시간 피드(뽐뿌 {len(ppomppu_items)}건 + 루리웹 {len(ruliweb_items)}건 + 쿨엔조이 {len(coolenjoy_items)}건 + 딜바다 {len(dealbada_items)}건 + 텔레그램 {len(telegram_items)}건 = 총 {len(feed_items)}건)에서 후보 딜을 감지했습니다.", file=sys.stderr)
+        feed_items = ppomppu_items + ruliweb_items + dealbada_items + telegram_items
+        print(f"[스캔] 실시간 피드(뽐뿌 {len(ppomppu_items)}건 + 루리웹 {len(ruliweb_items)}건 + 딜바다 {len(dealbada_items)}건 + 텔레그램 {len(telegram_items)}건 = 총 {len(feed_items)}건)에서 후보 딜을 감지했습니다.", file=sys.stderr)
         published_urls: List[str] = []
 
         client: Optional[DaangnCafeClient] = None
