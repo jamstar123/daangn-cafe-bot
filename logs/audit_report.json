@@ -525,5 +525,24 @@
       "normal_price": 16600,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7224084869&itemId=185831&vendorItemId=85055101482"
     }
+  },
+  {
+    "audited_at": "2026-10-30 18:59:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 고소한 골드 마요네스, 10,580원(15%↓)",
+      "sale_price": 10580,
+      "normal_price": 12500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7677600227&itemId=17905186318&vendorItemId=85067935283"
+    }
   }
 ]
