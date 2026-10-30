@@ -36,7 +36,7 @@ from deal_audit_verifier import DealAuditVerifier
 
 
 DEFAULT_HOTDEAL_CAFE_SLUG = "hasdil-eun-ye-1"
-DEFAULT_HOTDEAL_BOARD_ID = "2293448"  # 🔥 오늘의 핫딜
+DEFAULT_HOTDEAL_BOARD_ID = "2293417"  # 🔥실시간 핫딜
 
 
 class RealtimeDealMonitor:
@@ -426,7 +426,8 @@ class RealtimeDealMonitor:
         """
         s = (subject or "").strip()
         s = re.sub(r"^재입고[!]?\s*", "", s)
-        s = s.replace("[ㅋㅍ]", "[쿠팡]")
+        # ㅋㅍ = 쿠팡. [ㅋㅍ]뿐 아니라 [ㅋㅍ직구](쿠팡 직구), [ㅋㅍ프레시](쿠팡 프레시)도 쿠팡 채널이다.
+        s = re.sub(r"\[ㅋㅍ[^\]]*\]", "[쿠팡]", s)
         s = re.sub(r"<[^>]*>\s*", "", s)
         s = re.sub(r"\s*소량딜!?\s*$", "", s)
         # 괄호 가격이 없고 끝에 'N원'이 있으면 괄호 형태로 바꿔 파서가 읽게 한다.
@@ -1243,7 +1244,7 @@ def build_parser() -> argparse.ArgumentParser:
         description="실시간 핫딜 탐지 및 가짜 할인 차단 자동 발행 봇",
     )
     p.add_argument("--slug", default=DEFAULT_HOTDEAL_CAFE_SLUG, help="대상 당근카페 slug")
-    p.add_argument("--board", default=DEFAULT_HOTDEAL_BOARD_ID, help="대상 게시판 ID (기본: 2293448 🔥 오늘의 핫딜)")
+    p.add_argument("--board", default=DEFAULT_HOTDEAL_BOARD_ID, help="대상 게시판 ID (기본: 2293417 🔥실시간 핫딜)")
     p.add_argument("--max-posts", type=int, default=1, help="1회 스캔 시 최대 발행 건수")
     p.add_argument("--once", action="store_true", help="1회 실시간 스캔 후 조건 충족 딜 즉시 발행 및 종료")
     p.add_argument("--daemon", action="store_true", help="백그라운드에서 상시 실시간 감시 루프 실행")
