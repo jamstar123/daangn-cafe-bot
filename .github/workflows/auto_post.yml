@@ -25,7 +25,7 @@ jobs:
         env:
           DAANGN_COOKIE: ${{ secrets.DAANGN_COOKIE }}
           HOTDEAL_CAFE_SLUG: ${{ secrets.HOTDEAL_CAFE_SLUG || 'hasdil-eun-ye-1' }}
-          HOTDEAL_BOARD_ID: ${{ secrets.HOTDEAL_BOARD_ID || '2293448' }}
+          HOTDEAL_BOARD_ID: ${{ secrets.HOTDEAL_BOARD_ID || '2293417' }}
           GH_PAT: ${{ secrets.GH_PAT }}
           # 연쇄 트리거용: GITHUB_TOKEN은 run 스텝에 자동 노출되지 않으므로 명시적으로 전달한다.
           # (없으면 cron_runner.sh가 토큰 없음으로 연쇄를 건너뛰고, 세션은 성공으로 끝나 후속 세션이 뜨지 않는다.)
