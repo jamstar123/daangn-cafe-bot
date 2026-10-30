@@ -338,6 +338,141 @@ class RealtimeDealMonitor:
             )
         return items
 
+    def _resolve_short_link(self, url: str) -> str:
+        """단축링크를 따라가 최종 URL을 반환한다. 리다이렉트가 아닌 오류(예: 쿠팡 403)면 그때의 URL이 최종 URL이다."""
+        cur = url
+        for _ in range(6):
+            try:
+                class NoRedirect(urllib.request.HTTPRedirectHandler):
+                    def redirect_request(self, req, fp, code, msg, headers, newurl):
+                        return None
+                opener = urllib.request.build_opener(NoRedirect)
+                req = urllib.request.Request(cur, headers={"User-Agent": self.user_agent})
+                with opener.open(req, timeout=10):
+                    return cur
+            except urllib.error.HTTPError as he:
+                loc = he.headers.get("Location") if he.headers else None
+                if loc and he.code in (301, 302, 303, 307, 308):
+                    cur = urllib.parse.urljoin(cur, loc)
+                    continue
+                return cur
+            except Exception:
+                return cur
+        return cur
+
+    def fetch_telegram_feed(self) -> List[Dict[str, Any]]:
+        """텔레그램 핫딜 알리미 채널(공개 미리보기 페이지)에서 최신 알림을 가져온다.
+
+        형식: 상품명 + 30일 내 최저가 + 현재 가격 + 가격 차이(%) + 단축링크.
+        - 쿠팡으로 확인되는 상품만 반환한다 (단축링크를 따라가 최종 URL 확인).
+        - 3시간보다 오래된 알림은 제외한다 (실시간 알림만 대상).
+        - 실패하면 빈 목록을 반환한다 (감시 데몬이 죽지 않게).
+        """
+        items: List[Dict[str, Any]] = []
+        try:
+            req = urllib.request.Request(
+                "https://t.me/s/hot_deal_shop",
+                headers={"User-Agent": self.user_agent},
+            )
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                page_html = self._decode_auto(resp.read())
+        except Exception as e:
+            print(f"[텔레그램 수집 실패] {e}", file=sys.stderr)
+            return items
+
+        try:
+            from datetime import datetime, timezone
+            now = datetime.now(timezone.utc)
+            blocks = re.split(r'<div class="tgme_widget_message_wrap', page_html)[1:]
+            for chunk in blocks:
+                try:
+                    tx_m = re.search(
+                        r'tgme_widget_message_text js-message_text[^>]*>(.*?)</div>',
+                        chunk, re.DOTALL)
+                    if not tx_m:
+                        continue
+                    t = re.sub(r"<br\s*/?>", "\n", tx_m.group(1))
+                    t = re.sub(r"<[^>]+>", " ", t)
+                    t = html.unescape(t)
+                    lines = [ln.strip() for ln in t.splitlines() if ln.strip()]
+                    if not lines:
+                        continue
+                    text = "\n".join(lines)
+                    # 상품명: 가격 정보가 시작되기 전 첫 부분
+                    name_part = re.split(r"30일 내 최저가|가격\s*:|\(출처", text, maxsplit=1)[0]
+                    clean_name = re.sub(r"\s+", " ", name_part).strip()
+                    clean_name = re.sub(r"^핫딜 알리미\s*🔥\s*", "", clean_name).strip()
+                    if not clean_name:
+                        continue
+                    # 단축링크
+                    link_m = re.search(r"https://ll\.alrimi\.click/[A-Za-z0-9]+", text)
+                    if not link_m:
+                        continue
+                    short_url = link_m.group(0)
+                    code = short_url.rsplit("/", 1)[-1]
+                    deal_id = f"telegram_{code}"
+                    if deal_id in self.posted_deals:
+                        continue
+                    # 시간 (신선도): 3시간 초과면 제외
+                    tm_m = re.search(r'<time[^>]*datetime="([^"]+)"', chunk)
+                    if tm_m:
+                        try:
+                            dt = datetime.fromisoformat(tm_m.group(1).replace("Z", "+00:00"))
+                            if dt.tzinfo is None:
+                                dt = dt.replace(tzinfo=timezone.utc)
+                            if (now - dt).total_seconds() > 3 * 3600:
+                                continue
+                        except Exception:
+                            print(f"[텔레그램 시간 파싱 실패] {deal_id}", file=sys.stderr)
+                    # 가격
+                    low_m = re.search(r"30일 내 최저가\s*:\s*([0-9,]+)원", text)
+                    cur_m = re.search(r"현재 가격\s*:\s*([0-9,]+)원", text)
+                    diff_m = re.search(r"가격 차이\s*:\s*-?([0-9,]+)원\s*\((-?[0-9.]+)%\)", text)
+                    bare_m = re.search(r"가격\s*:\s*([0-9,]+)원", text)
+                    if cur_m:
+                        sale_price = int(cur_m.group(1).replace(",", ""))
+                    elif bare_m:
+                        sale_price = int(bare_m.group(1).replace(",", ""))
+                    else:
+                        continue
+                    if sale_price < 1000:
+                        continue
+                    low_price = int(low_m.group(1).replace(",", "")) if low_m else None
+                    chg_pct = abs(float(diff_m.group(2))) if diff_m else None
+                    if chg_pct is None and low_price:
+                        chg_pct = round((1 - sale_price / low_price) * 100, 1)
+                    new_low = bool(low_price is not None and sale_price <= low_price)
+                    # 단축링크 → 쿠팡 확인 (새 글만)
+                    resolved = self._resolve_short_link(short_url)
+                    if "coupang.com/vp/products/" not in resolved:
+                        continue
+                    vw_m = re.search(r'tgme_widget_message_views[^>]*>([\d,]+)', chunk)
+                    views = int(vw_m.group(1).replace(",", "")) if vw_m else 0
+                    items.append({
+                        "deal_id": deal_id,
+                        "source": "telegram",
+                        "raw_title": f"[쿠팡] {clean_name}",
+                        "source_url": resolved,
+                        "rss_description": text,
+                        "upvotes": 0,
+                        "downvotes": 0,
+                        "views": views,
+                        "mall": "쿠팡",
+                        "clean_name": clean_name,
+                        "sale_price": sale_price,
+                        "shipping": "상세페이지 참고",
+                        "telegram_discount": chg_pct,
+                        "telegram_low": low_price,
+                        "telegram_new_low": new_low,
+                    })
+                except Exception as e:
+                    print(f"[텔레그램 항목 파싱 실패] {e}", file=sys.stderr)
+                    continue
+        except Exception as e:
+            print(f"[텔레그램 수집 실패] {e}", file=sys.stderr)
+            return []
+        return items
+
     @staticmethod
     def _decode_ppomppu_redirect(url: str) -> str:
         """s.ppomppu.co.kr 리다이렉트 URL에서 base64로 인코딩된 원본 쇼핑몰 직링크를 복원합니다."""
@@ -681,8 +816,9 @@ class RealtimeDealMonitor:
         ppomppu_items = self.fetch_ppomppu_realtime_feed()
         ruliweb_items = self.fetch_ruliweb_realtime_feed()
         coolenjoy_items = self.fetch_coolenjoy_realtime_feed()
-        feed_items = ppomppu_items + ruliweb_items + coolenjoy_items
-        print(f"[스캔] 실시간 피드(뽐뿌 {len(ppomppu_items)}건 + 루리웹 {len(ruliweb_items)}건 + 쿨엔조이 {len(coolenjoy_items)}건 = 총 {len(feed_items)}건)에서 후보 딜을 감지했습니다.", file=sys.stderr)
+        telegram_items = self.fetch_telegram_feed()
+        feed_items = ppomppu_items + ruliweb_items + coolenjoy_items + telegram_items
+        print(f"[스캔] 실시간 피드(뽐뿌 {len(ppomppu_items)}건 + 루리웹 {len(ruliweb_items)}건 + 쿨엔조이 {len(coolenjoy_items)}건 + 텔레그램 {len(telegram_items)}건 = 총 {len(feed_items)}건)에서 후보 딜을 감지했습니다.", file=sys.stderr)
         published_urls: List[str] = []
 
         client: Optional[DaangnCafeClient] = None
@@ -719,11 +855,33 @@ class RealtimeDealMonitor:
             )
 
             if not eval_res.get("valid"):
-                print(
-                    f"[필터 탈락] {deal['raw_title']} -> {eval_res.get('reason')}",
-                    file=sys.stderr,
-                )
-                continue
+                # 텔레그램 30일 최저가 경신 딜: 채널의 실측 근거(현재가 ≤ 30일 최저가)로 구제.
+                # 감사 봇 제목 규격상 [실시간 특가]는 쓸 수 없어, 14% 미만은 [역대가]로 매긴다.
+                if deal.get("source") == "telegram" and deal.get("telegram_new_low"):
+                    chg = deal.get("telegram_discount")
+                    if chg is None and deal.get("telegram_low"):
+                        chg = round((1 - deal["sale_price"] / deal["telegram_low"]) * 100, 1)
+                    if chg is not None and chg >= 45:
+                        tg_tier = "[가격오류급]"
+                    elif chg is not None and chg >= 28:
+                        tg_tier = "[무지성 구매급]"
+                    else:
+                        tg_tier = "[역대가]"
+                    eval_res = {
+                        "valid": True,
+                        "tier_tag": tg_tier,
+                        "real_normal_price": deal.get("telegram_low") or deal["sale_price"],
+                        "sale_price": deal["sale_price"],
+                        "discount_rate": int(round(chg)) if chg is not None else 0,
+                        "unit_summary": None,
+                        "reason": "텔레그램 30일 최저가 경신",
+                    }
+                else:
+                    print(
+                        f"[필터 탈락] {deal['raw_title']} -> {eval_res.get('reason')}",
+                        file=sys.stderr,
+                    )
+                    continue
 
             tier_tag = eval_res["tier_tag"]
             tier_rank = 3 if "가격오류급" in tier_tag else (2 if "무지성" in tier_tag else 1)
@@ -743,6 +901,12 @@ class RealtimeDealMonitor:
                 mall=deal["mall"],
                 clean_name=deal["clean_name"],
             )
+            if deal.get("source") == "telegram":
+                # 상세페이지 조회가 실패해도 상품 직링크는 이미 확보돼 있다.
+                detail["shop_url"] = deal["source_url"]
+                if not detail.get("image_url"):
+                    print(f"[사진 없음 제외] {deal['raw_title']}", file=sys.stderr)
+                    continue
             post_title, body_items = self.build_hotdeal_post_content(deal, eval_res, detail)
 
             # [상시 감사 봇] 6대 원칙(제목규격, 금지단어, 공식파트너스링크, 정상가뻥튀기방지 등) 전수 감사
