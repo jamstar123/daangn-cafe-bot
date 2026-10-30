@@ -766,14 +766,13 @@ class RealtimeDealMonitor:
         if image_url:
             body_items.append(("image", image_url))
 
-        # 2) 도입부 한 줄 코멘트
+        # 2) 도입부 한 줄 코멘트 (문구는 그대로 두되, 첫줄이 아니라 마지막줄에 배치한다)
         if "가격오류급" in tier_tag:
             intro = f"🚨 지금 바로 탑승하세요! 시중 실거래가 대비 약 {discount_rate}% 이상 빠진 가격오류/대란급 딜이 떴습니다. 재고 소진 시 예고 없이 바로 종료됩니다!"
         elif "무지성 구매급" in tier_tag:
             intro = f"⚡ 고민하면 품절되는 무지성 구매급 특가입니다! 평소 자주 쓰는 품목이라면 지금 쟁여두시는 걸 강력 추천드려요."
         else:
             intro = f"🔥 가짜 할인(정가 뻥튀기) 검증을 완료한 찐 역대가 딜입니다! 평소 눈여겨보셨던 분들은 이번 기회에 득템하세요."
-        body_items.append(("text", intro))
 
         # 3) 핵심 가격 & 체감단가 요약 박스 (판매처 라인 제거, 체감단가로 표기)
         body_items.append(("text", "━━━━━━━━━━━━━━━"))
@@ -839,6 +838,9 @@ class RealtimeDealMonitor:
             body_items.append(
                 ("text", "※ 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.")
             )
+
+        # 도입부 코멘트는 마지막줄에 배치 (상품 정보가 먼저 보이게)
+        body_items.append(("text", intro))
 
         return post_title, body_items
 
