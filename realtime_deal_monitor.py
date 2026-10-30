@@ -727,35 +727,13 @@ class RealtimeDealMonitor:
 
             tier_tag = eval_res["tier_tag"]
             tier_rank = 3 if "가격오류급" in tier_tag else (2 if "무지성" in tier_tag else 1)
-            has_unit = 1 if eval_res.get("unit_summary") else 0
-            score = (tier_rank, has_unit, int(eval_res["discount_rate"]), int(deal["upvotes"]))
+            # 순위 = 등급 → 할인율 → 추천수. 단위당 기준 통과 여부는 검증용이지 가산점이 아니다.
+            # (품목은 정해진 게 아니라, 그 순간 가장 많이 내려간 딜이 올라간다.)
+            score = (tier_rank, int(eval_res["discount_rate"]), int(deal["upvotes"]))
             qualifying_candidates.append((score, deal, eval_res))
 
-        # 가장 메리트가 큰 핫딜(가격오류급 > 무지성 구매급 > 역대가, 단위당 팩트체크 통과 우선) 순으로 정렬
+        # 가장 메리트가 큰 핫딜(가격오류급 > 무지성 구매급 > 역대가, 할인율 순) 순으로 정렬
         qualifying_candidates.sort(key=lambda x: x[0], reverse=True)
-
-        # 카테고리 순환: 직전 발행이 식품(단위당 기준 통과)이면 이번엔 비식품을,
-        # 직전 발행이 비식품이면 이번엔 식품을 우선한다. 반대 카테고리 후보가
-        # 없으면 기존 순서(전체 1위)대로 발행하므로, 검증 기준 자체는 바뀌지 않는다.
-        last_cat_food = None
-        if self.posted_deals:
-            last = None
-            for v in self.posted_deals.values():
-                if isinstance(v, dict) and v.get("title") and v.get("sale_price"):
-                    if last is None or str(v.get("published_at", "")) >= str(last.get("published_at", "")):
-                        last = v
-            if last is not None:
-                try:
-                    last_cat_food = self.validator.check_unit_price_benchmark(
-                        last["title"], int(last["sale_price"])) is not None
-                except Exception:
-                    last_cat_food = None
-        if last_cat_food is not None:
-            def _is_food(c):
-                return bool(c[2].get("unit_summary"))
-            preferred = [c for c in qualifying_candidates if _is_food(c) != last_cat_food]
-            rest = [c for c in qualifying_candidates if _is_food(c) == last_cat_food]
-            qualifying_candidates = preferred + rest
 
         for _, deal, eval_res in qualifying_candidates[:max_posts]:
             deal_id = deal["deal_id"]
