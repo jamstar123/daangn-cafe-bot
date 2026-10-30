@@ -36,5 +36,24 @@
       "normal_price": 3800,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8802611212&itemId=25567021624"
     }
+  },
+  {
+    "audited_at": "2026-10-30 01:45:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 2025 아이패드 649,350원(15%↓)",
+      "sale_price": 649350,
+      "normal_price": 766200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8640169010&itemId=25073291231&vendorItemId=92077321808"
+    }
   }
 ]
