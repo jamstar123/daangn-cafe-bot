@@ -411,5 +411,24 @@
       "normal_price": 17600,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
     }
+  },
+  {
+    "audited_at": "2026-10-30 13:17:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 롯데햄 의성마늘 비엔나 소시지, 8,980원(15%↓)",
+      "sale_price": 8980,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7295013643&itemId=25565863813&vendorItemId=86410637521"
+    }
   }
 ]
