@@ -207,5 +207,24 @@
       "normal_price": 19100,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
     }
+  },
+  {
+    "audited_at": "2026-10-30 11:11:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 딸기쨈, 500g, 3개 11,670원(15%↓)",
+      "sale_price": 11670,
+      "normal_price": 13800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1023003&itemId=18016958709&vendorItemId=85172294120"
+    }
   }
 ]
