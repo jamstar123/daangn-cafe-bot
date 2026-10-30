@@ -774,8 +774,7 @@ class RealtimeDealMonitor:
         else:
             intro = f"🔥 가짜 할인(정가 뻥튀기) 검증을 완료한 찐 역대가 딜입니다! 평소 눈여겨보셨던 분들은 이번 기회에 득템하세요."
 
-        # 3) 핵심 가격 & 체감단가 요약 박스 (판매처 라인 제거, 체감단가로 표기)
-        body_items.append(("text", "━━━━━━━━━━━━━━━"))
+        # 3) 핵심 가격 & 체감단가 요약 박스 (맨 위 구분선은 넣지 않는다)
         body_items.append(("text", f"📦 상품명 : {clean_name}"))
         body_items.append(("text", f"💸 쿠팡 평소 판매가 : 약 {real_normal:,}원"))
         card_discount = bool(deal.get("card_discount"))
