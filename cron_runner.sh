@@ -28,7 +28,7 @@ if [[ -f "${ENV_FILE}" ]]; then
 fi
 
 HOTDEAL_SLUG="${HOTDEAL_CAFE_SLUG:-hasdil-eun-ye-1}"
-HOTDEAL_BOARD="${HOTDEAL_BOARD_ID:-2293448}"
+HOTDEAL_BOARD="${HOTDEAL_BOARD_ID:-2293417}"
 TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
 
 git config --global user.name "github-actions[bot]"
