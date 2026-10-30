@@ -699,6 +699,18 @@ class RealtimeDealMonitor:
             "body_text": body_summary,
         }
 
+    @staticmethod
+    def _extract_card_name(*texts: str) -> str:
+        """카드사·페이 이름을 찾는다. '삼성전자' 같은 상품명 오탐을 막기 위해 '카드'/'페이' 접미사가 붙은 형태만 인정한다."""
+        pat = re.compile(r"(농협|국민|신한|삼성|현대|롯데|하나|우리|BC|씨티|전북|광주|수협)카드|(카카오페이|토스페이|네이버페이|삼성페이|페이코)")
+        for t in texts:
+            if not t:
+                continue
+            m = pat.search(t)
+            if m:
+                return m.group(0)
+        return ""
+
     def build_hotdeal_post_content(
         self,
         deal: Dict[str, Any],
@@ -767,9 +779,30 @@ class RealtimeDealMonitor:
         body_items.append(("text", "━━━━━━━━━━━━━━━"))
         body_items.append(("text", f"📦 상품명 : {clean_name}"))
         body_items.append(("text", f"💸 쿠팡 평소 판매가 : 약 {real_normal:,}원"))
-        body_items.append(
-            ("text", f"🔥 핫딜 특가 : {sale_price:,}원 ({shipping} / 약 {discount_rate}% 혜택)")
-        )
+        card_discount = bool(deal.get("card_discount"))
+        card_name = ""
+        if card_discount:
+            card_name = self._extract_card_name(
+                detail.get("body_text", ""),
+                deal.get("rss_description", ""),
+                deal.get("raw_title", ""),
+            )
+        if card_discount:
+            body_items.append(
+                ("text", f"🔥 핫딜 특가 : {sale_price:,}원 ({shipping} / 카드할인 적용시 / 약 {discount_rate}% 혜택)")
+            )
+            if card_name:
+                body_items.append(
+                    ("text", f"💳 카드할인 적용시 가격입니다. {card_name}로 결제하면 이 가격에 구매할 수 있어요. 할인 조건은 상세페이지 카드 혜택 안내에서 확인하세요.")
+                )
+            else:
+                body_items.append(
+                    ("text", "💳 카드할인 적용시 가격입니다. 카드 결제 시 적용되는 가격이라, 어떤 카드인지와 할인 조건은 상세페이지 카드 혜택 안내에서 확인하세요.")
+                )
+        else:
+            body_items.append(
+                ("text", f"🔥 핫딜 특가 : {sale_price:,}원 ({shipping} / 약 {discount_rate}% 혜택)")
+            )
         if unit_summary:
             body_items.append(("text", f"📊 체감단가 : {unit_summary}"))
         body_items.append(("text", "━━━━━━━━━━━━━━━"))
@@ -844,6 +877,13 @@ class RealtimeDealMonitor:
                     file=sys.stderr,
                 )
                 continue
+
+            # 카드할인 가격 표시: 원문에 카드할인 표시가 있으면 가격줄에 명시한다.
+            # (표시 없이 숫자만 올리면 카드 없는 결제가는 달라 보여 독자가 혼란스러워한다.)
+            card_text = f"{deal.get('raw_title', '')} {deal.get('rss_description', '')}"
+            deal["card_discount"] = any(
+                k in card_text for k in ("카드할인", "카드 할인가", "카드할인가", "💳")
+            )
 
             eval_res = self.validator.evaluate_deal(
                 title=deal["raw_title"],
