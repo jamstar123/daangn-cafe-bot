@@ -32,6 +32,29 @@ FAKE_DISCOUNT_WARNING_KEYWORDS = (
 )
 
 
+# 와우회원 전용가 표시 (가격에 붙은 것만 해당 — '와우배송'/'로켓와우' 같은 배송 표현은 제외).
+# 와우 전용가는 비회원이 결제할 수 없는 가격이라, 일반가 기준으로 삼으면 안 된다.
+WOW_PRICE_MARKERS = (
+    "와우가",
+    "와우쿠폰",
+    "와우 쿠폰",
+    "와우회원가",
+    "와우 회원가",
+    "와우전용",
+    "와우 전용",
+    "와우할인",
+    "와우 할인",
+    "와우결제",
+    "와우 결제",
+    "WOW가",
+    "WOW쿠폰",
+    "WOW 쿠폰",
+    "WOW회원",
+    "WOW전용",
+    "WOW할인",
+)
+
+
 # 주요 생필품/식품/인기 품목 단위당 절대 가격 기준표 (단위: 원)
 # normal: 온라인/쿠팡 박스단위 평소 정상 판매가 기준 (오프라인/편의점 낱개 뻥튀기 방지)
 # yeokdaega: [역대가] 커트라인 (이 가격 이하여야 역대가 인정)
@@ -275,6 +298,13 @@ class PriceValidator:
             if bad_kw in body_text:
                 return {"valid": False, "reason": f"가짜 할인 경고 키워드 감지 ({bad_kw})"}
 
+        # 와우회원 전용가는 비회원이 결제할 수 없으므로 일반가로 쓸 수 없다.
+        # (배송 표현인 '와우배송'/'로켓와우'는 가격 표시가 아니므로 여기서 걸러지지 않는다.)
+        combined_source_text = f"{title} {body_text}"
+        for wow_kw in WOW_PRICE_MARKERS:
+            if wow_kw in combined_source_text:
+                return {"valid": False, "reason": f"와우회원 전용가 의심 ({wow_kw})"}
+
         # 2. 단위당 절대 가격 기준표(생필품/식품) 우선 검증
         unit_check = self.check_unit_price_benchmark(title, sale_price)
         if unit_check is not None:
@@ -296,6 +326,16 @@ class PriceValidator:
 
         # 3. 일반 상품(가전/패션/생활용품 등): 시중 실거래가 및 집단지성 반응 교차 검증
         market_ref = self.fetch_market_reference_price(title, sale_price)
+
+        # 와우 전용가 의심: 시중 중위가보다 3~15%만 낮게 들어온 가격은 회원 전용 쿠폰가일 가능성이 높다.
+        # (진짜 대폭락은 15% 이상 크게 벌어진다.) 일반가 기준으로 검증할 수 없으므로 발행하지 않는다.
+        if market_ref and sale_price < market_ref:
+            gap = (market_ref - sale_price) / market_ref
+            if 0.03 <= gap <= 0.15:
+                return {
+                    "valid": False,
+                    "reason": f"와우회원 전용가 의심: 시중 중위가({market_ref:,}원)보다 {gap * 100:.1f}% 낮음",
+                }
 
         # 현실적인 쿠팡 평소 정상가 매핑 (인위적 1.65배 뻥튀기 원천 배제)
         has_real_market_ref = bool(market_ref and market_ref >= int(sale_price * 1.12))
