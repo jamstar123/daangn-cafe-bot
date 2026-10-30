@@ -56,6 +56,10 @@ class RealtimeDealMonitor:
         log_dir.mkdir(parents=True, exist_ok=True)
         self.posted_db_path = log_dir / "posted_deals.json"
         self.posted_deals: Dict[str, Any] = self._load_posted_db()
+        # 상품 단위 재발행 방지 기록 (pageKey 기준). 소스가 달라도 같은 상품이면 텀을 둔다.
+        self.posted_products_path = log_dir / "posted_products.json"
+        self.product_cooldown_hours = 72
+        self.posted_products: Dict[str, Any] = self._load_posted_products()
         self.validator = PriceValidator(log_dir / "price_baseline_db.json")
         self.verifier = DealAuditVerifier(log_dir / "audit_report.json")
         self.partners_id = os.environ.get("COUPANG_PARTNERS_ID", "AF2017901").strip() or "AF2017901"
@@ -95,6 +99,40 @@ class RealtimeDealMonitor:
         try:
             self.posted_db_path.write_text(
                 json.dumps(self.posted_deals, ensure_ascii=False, indent=2),
+                encoding="utf-8",
+            )
+        except Exception:
+            pass
+
+    def _load_posted_products(self) -> Dict[str, Any]:
+        """상품 단위 발행 기록 (pageKey -> 발행 정보). 72시간 이내 재발행 방지용."""
+        if self.posted_products_path.exists():
+            try:
+                db = json.loads(self.posted_products_path.read_text(encoding="utf-8"))
+                if not isinstance(db, dict):
+                    return {}
+                now = datetime.now()
+                cleaned: Dict[str, Any] = {}
+                for k, v in db.items():
+                    pub_str = v.get("published_at") if isinstance(v, dict) else None
+                    if pub_str:
+                        try:
+                            pub_dt = datetime.strptime(pub_str, "%Y-%m-%d %H:%M:%S")
+                            if (now - pub_dt).total_seconds() < self.product_cooldown_hours * 3600:
+                                cleaned[k] = v
+                            continue
+                        except Exception:
+                            pass
+                    cleaned[k] = v
+                return cleaned
+            except Exception:
+                return {}
+        return {}
+
+    def save_posted_products(self) -> None:
+        try:
+            self.posted_products_path.write_text(
+                json.dumps(self.posted_products, ensure_ascii=False, indent=2),
                 encoding="utf-8",
             )
         except Exception:
@@ -934,7 +972,10 @@ class RealtimeDealMonitor:
         # 가장 메리트가 큰 핫딜(가격오류급 > 무지성 구매급 > 역대가, 할인율 순) 순으로 정렬
         qualifying_candidates.sort(key=lambda x: x[0], reverse=True)
 
-        for _, deal, eval_res in qualifying_candidates[:max_posts]:
+        posted_count = 0
+        for _, deal, eval_res in qualifying_candidates:
+            if posted_count >= max_posts:
+                break
             deal_id = deal["deal_id"]
             detail = self.fetch_deal_detail(
                 deal["source_url"],
@@ -966,6 +1007,23 @@ class RealtimeDealMonitor:
                 )
                 continue
 
+            # 동일 상품 재발행 방지: pageKey 기준 72시간 이내 발행분이면 제외
+            # (소스가 달라도 같은 상품이면 연속으로 올라가는 문제를 막는다.)
+            pk_m = re.search(r"pageKey=(\d+)", detail.get("shop_url") or "")
+            if pk_m:
+                prev = self.posted_products.get(pk_m.group(1))
+                if prev and prev.get("published_at"):
+                    try:
+                        prev_dt = datetime.strptime(prev["published_at"], "%Y-%m-%d %H:%M:%S")
+                        if (datetime.now() - prev_dt).total_seconds() < self.product_cooldown_hours * 3600:
+                            print(
+                                f"[최근 발행 상품 제외] {post_title} -> {prev_dt.strftime('%m-%d %H:%M')} 발행분과 동일 상품",
+                                file=sys.stderr,
+                            )
+                            continue
+                    except Exception:
+                        pass
+
             print(
                 f"[조건 충족! 즉시 발행 대상] {post_title} | 사유: {eval_res.get('reason')}",
                 file=sys.stderr,
@@ -973,6 +1031,7 @@ class RealtimeDealMonitor:
 
             if dry_run:
                 published_urls.append(f"[DRY-RUN] {post_title} -> {detail.get('shop_url')}")
+                posted_count += 1
                 continue
 
             assert client is not None
@@ -995,6 +1054,15 @@ class RealtimeDealMonitor:
                 "published_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             }
             self.save_posted_db()
+            # 상품 단위 재발행 방지 기록 (pageKey 기준, 72시간)
+            if pk_m:
+                self.posted_products[pk_m.group(1)] = {
+                    "title": post_title,
+                    "sale_price": deal["sale_price"],
+                    "published_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                }
+                self.save_posted_products()
+            posted_count += 1
 
             if len(published_urls) < max_posts:
                 time.sleep(5)
