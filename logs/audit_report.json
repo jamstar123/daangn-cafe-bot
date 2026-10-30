@@ -188,5 +188,24 @@
       "normal_price": 12300,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9534587381"
     }
+  },
+  {
+    "audited_at": "2026-10-30 11:11:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
   }
 ]
