@@ -544,5 +544,24 @@
       "normal_price": 12500,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7677600227&itemId=17905186318&vendorItemId=85067935283"
     }
+  },
+  {
+    "audited_at": "2026-10-30 20:00:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 서울우유치즈 체다 슬라이스 치즈, 10,980원(16%↓)",
+      "sale_price": 10980,
+      "normal_price": 13000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=130180802&itemId=21352948580&vendorItemId=88410570607"
+    }
   }
 ]
