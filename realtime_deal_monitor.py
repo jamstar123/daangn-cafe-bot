@@ -105,29 +105,48 @@ class RealtimeDealMonitor:
             pass
 
     def _load_posted_products(self) -> Dict[str, Any]:
-        """상품 단위 발행 기록 (pageKey -> 발행 정보). 72시간 이내 재발행 방지용."""
+        """상품 단위 발행 기록 (pageKey -> 발행 정보). 72시간 이내 재발행 방지용.
+
+        쿨다운 도입 전 발행분도 소급 적용한다: posted_deals(출처별 기록)의
+        shop_url에서 pageKey를 뽑아 72시간 이내 발행분이면 쿨다운 기록에 합친다.
+        """
+        now = datetime.now()
+        cleaned: Dict[str, Any] = {}
         if self.posted_products_path.exists():
             try:
                 db = json.loads(self.posted_products_path.read_text(encoding="utf-8"))
-                if not isinstance(db, dict):
-                    return {}
-                now = datetime.now()
-                cleaned: Dict[str, Any] = {}
-                for k, v in db.items():
-                    pub_str = v.get("published_at") if isinstance(v, dict) else None
-                    if pub_str:
-                        try:
-                            pub_dt = datetime.strptime(pub_str, "%Y-%m-%d %H:%M:%S")
-                            if (now - pub_dt).total_seconds() < self.product_cooldown_hours * 3600:
-                                cleaned[k] = v
-                            continue
-                        except Exception:
-                            pass
-                    cleaned[k] = v
-                return cleaned
+                if isinstance(db, dict):
+                    for k, v in db.items():
+                        pub_str = v.get("published_at") if isinstance(v, dict) else None
+                        if pub_str:
+                            try:
+                                pub_dt = datetime.strptime(pub_str, "%Y-%m-%d %H:%M:%S")
+                                if (now - pub_dt).total_seconds() < self.product_cooldown_hours * 3600:
+                                    cleaned[k] = v
+                                continue
+                            except Exception:
+                                pass
+                        cleaned[k] = v
             except Exception:
-                return {}
-        return {}
+                pass
+        # posted_deals에서 소급 합치기 (쿨다운 도입 전 발행분 포함)
+        for dv in getattr(self, "posted_deals", {}).values():
+            if not isinstance(dv, dict):
+                continue
+            pk = re.search(r"pageKey=(\d+)", dv.get("shop_url") or "")
+            pub = dv.get("published_at")
+            if pk and pub and pk.group(1) not in cleaned:
+                try:
+                    pub_dt = datetime.strptime(pub, "%Y-%m-%d %H:%M:%S")
+                    if (now - pub_dt).total_seconds() < self.product_cooldown_hours * 3600:
+                        cleaned[pk.group(1)] = {
+                            "title": dv.get("title", ""),
+                            "sale_price": dv.get("sale_price"),
+                            "published_at": pub,
+                        }
+                except Exception:
+                    pass
+        return cleaned
 
     def save_posted_products(self) -> None:
         try:
@@ -368,6 +387,57 @@ class RealtimeDealMonitor:
                     "upvotes": 4,
                     "downvotes": 0,
                     "views": 450,
+                    "mall": parsed["mall"],
+                    "clean_name": parsed["clean_name"],
+                    "sale_price": parsed["sale_price"],
+                    "shipping": parsed["shipping"],
+                }
+            )
+        return items
+
+    def fetch_dealbada_realtime_feed(self) -> List[Dict[str, Any]]:
+        """딜바다 국내핫딜 게시판 1페이지(최신 15건)에서 딜 목록을 가져옵니다.
+
+        그누보드 목록 HTML의 td_subject 행을 파싱한다. 제목 형식([쇼핑몰] 상품명 (가격/배송))이
+        뽐뿌/루리웹과 같아 기존 parse_title_metadata를 그대로 재사용한다.
+        실패 시 빈 목록을 반환해 데몬을 보호한다.
+        """
+        list_url = "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic"
+        try:
+            req = urllib.request.Request(list_url, headers={"User-Agent": self.user_agent})
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                raw_bytes = resp.read()
+            page = html.unescape(self._decode_auto(raw_bytes))
+        except Exception:
+            return []
+
+        items: List[Dict[str, Any]] = []
+        seen: set = set()
+        for wr_id, raw_txt in re.findall(
+            r'td_subject[^>]*>.*?<a[^>]*href="[^"]*wr_id=(\d+)[^"]*"[^>]*>(.*?)</a>',
+            page,
+            re.DOTALL,
+        ):
+            if wr_id in seen:
+                continue
+            seen.add(wr_id)
+            raw_title = re.sub(r"<[^>]+>", "", raw_txt).strip()
+            raw_title = re.sub(r"\s+", " ", raw_title)
+            if not raw_title or raw_title.startswith("딜바다 핫딜 게시판 이용안내"):
+                continue
+            parsed = self.parse_title_metadata(raw_title)
+            if not parsed:
+                continue
+            items.append(
+                {
+                    "deal_id": f"dealbada_{wr_id}",
+                    "source": "dealbada",
+                    "raw_title": raw_title,
+                    "source_url": f"https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id={wr_id}",
+                    "rss_description": raw_title,
+                    "upvotes": 0,
+                    "downvotes": 0,
+                    "views": 0,
                     "mall": parsed["mall"],
                     "clean_name": parsed["clean_name"],
                     "sale_price": parsed["sale_price"],
@@ -883,14 +953,15 @@ class RealtimeDealMonitor:
 
     def scan_and_publish(self, max_posts: int = 1, dry_run: bool = False) -> List[str]:
         """
-        실시간 피드(뽐뿌 + 루리웹 + 쿨엔조이 핫딜 교차)를 스캔하여 조건을 충족한 진짜 핫딜만 당근카페에 즉시 발행합니다.
+        실시간 피드(뽐뿌 + 루리웹 + 쿨엔조이 + 딜바다 핫딜 교차)를 스캔하여 조건을 충족한 진짜 핫딜만 당근카페에 즉시 발행합니다.
         """
         ppomppu_items = self.fetch_ppomppu_realtime_feed()
         ruliweb_items = self.fetch_ruliweb_realtime_feed()
         coolenjoy_items = self.fetch_coolenjoy_realtime_feed()
+        dealbada_items = self.fetch_dealbada_realtime_feed()
         telegram_items = self.fetch_telegram_feed()
-        feed_items = ppomppu_items + ruliweb_items + coolenjoy_items + telegram_items
-        print(f"[스캔] 실시간 피드(뽐뿌 {len(ppomppu_items)}건 + 루리웹 {len(ruliweb_items)}건 + 쿨엔조이 {len(coolenjoy_items)}건 + 텔레그램 {len(telegram_items)}건 = 총 {len(feed_items)}건)에서 후보 딜을 감지했습니다.", file=sys.stderr)
+        feed_items = ppomppu_items + ruliweb_items + coolenjoy_items + dealbada_items + telegram_items
+        print(f"[스캔] 실시간 피드(뽐뿌 {len(ppomppu_items)}건 + 루리웹 {len(ruliweb_items)}건 + 쿨엔조이 {len(coolenjoy_items)}건 + 딜바다 {len(dealbada_items)}건 + 텔레그램 {len(telegram_items)}건 = 총 {len(feed_items)}건)에서 후보 딜을 감지했습니다.", file=sys.stderr)
         published_urls: List[str] = []
 
         client: Optional[DaangnCafeClient] = None
