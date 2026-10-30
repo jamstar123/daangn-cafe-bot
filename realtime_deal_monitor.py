@@ -1102,6 +1102,14 @@ class RealtimeDealMonitor:
             )
 
             if not eval_res.get("valid"):
+                # 와우 전용가는 텔레그램 경신으로도 구제하지 않는다.
+                # (표준 검증에서 와우 의심으로 탈락한 딜은 채널 가격 자체가 회원 전용가일 수 있다.)
+                if "와우" in eval_res.get("reason", ""):
+                    print(
+                        f"[필터 탈락] {deal['raw_title']} -> 와우회원 전용가 의심 (구제 제외)",
+                        file=sys.stderr,
+                    )
+                    continue
                 # 텔레그램 30일 최저가 경신 딜: 채널의 실측 근거(현재가 ≤ 30일 최저가)로 구제.
                 # 감사 봇 제목 규격상 [실시간 특가]는 쓸 수 없어, 14% 미만은 [역대가]로 매긴다.
                 if deal.get("source") == "telegram" and deal.get("telegram_new_low"):
