@@ -418,6 +418,132 @@ class RealtimeDealMonitor:
                 return cur
         return cur
 
+    @staticmethod
+    def _normalize_benchmark_subject(subject: str) -> str:
+        """벤치마크 글 제목을 봇 파서 형식으로 바꾼다.
+        예: '재입고 [ㅋㅍ] <역대 급> 롯데웰푸드 ABC 초코쿠키 말차, 130g, 1개 1790원'
+            -> '[쿠팡] 롯데웰푸드 ABC 초코쿠키 말차, 130g, 1개 (1790원)'
+        """
+        s = (subject or "").strip()
+        s = re.sub(r"^재입고[!]?\s*", "", s)
+        s = s.replace("[ㅋㅍ]", "[쿠팡]")
+        s = re.sub(r"<[^>]*>\s*", "", s)
+        s = re.sub(r"\s*소량딜!?\s*$", "", s)
+        # 괄호 가격이 없고 끝에 'N원'이 있으면 괄호 형태로 바꿔 파서가 읽게 한다.
+        if not re.search(r"\(\s*[\d,]+\s*원", s):
+            m = re.search(r"([\d,]+)원\s*$", s)
+            if m:
+                s = s[: m.start()].rstrip() + f" ({m.group(1)}원)"
+        return s.strip()
+
+    def fetch_benchmark_feed(self) -> List[Dict[str, Any]]:
+        """벤치마크 네이버 카페 '핫딜은 못참지' 전체글 목록(최신 15건)에서 딜을 가져옵니다.
+
+        목록 API는 로그인 없이 읽힌다. 본문(쿠팡 링크)은 네이버 JS 로딩이라 봇이 직접 못 가져오므로,
+        쿠팡 URL은 같은 스캔의 다른 소스에서 동일 상품을 찾아 빌린다 (스캔 루프의 매칭 단계).
+        3시간 초과 글은 늦은 따라올리기를 막기 위해 제외한다. 실패 시 빈 목록으로 데몬을 보호한다.
+        """
+        api_url = (
+            "https://apis.naver.com/cafe-web/cafe-boardlist-api/v1/cafes/24651941/menus/0/articles"
+            "?page=1&size=15"
+        )
+        try:
+            req = urllib.request.Request(
+                api_url,
+                headers={
+                    "User-Agent": self.user_agent,
+                    "Accept": "application/json",
+                    "Referer": "https://cafe.naver.com/f-e/cafes/24651941/menus/0?viewType=L",
+                },
+            )
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                data = json.loads(resp.read().decode("utf-8", errors="replace"))
+        except Exception:
+            return []
+        items: List[Dict[str, Any]] = []
+        now_ts = time.time()
+        try:
+            article_list = data.get("result", {}).get("articleList", [])
+        except Exception:
+            return []
+        for entry in article_list:
+            if not isinstance(entry, dict) or entry.get("type") != "ARTICLE":
+                continue
+            it = entry.get("item") or {}
+            article_id = it.get("articleId")
+            subject = it.get("subject") or ""
+            if not article_id or not subject:
+                continue
+            # 3시간 초과 글 제외 (늦은 따라올리기 방지)
+            ts_ms = it.get("writeDateTimestamp")
+            if ts_ms:
+                try:
+                    if now_ts - (ts_ms / 1000.0) > 3 * 3600:
+                        continue
+                except Exception:
+                    pass
+            normalized = self._normalize_benchmark_subject(subject)
+            parsed = self.parse_title_metadata(normalized)
+            if not parsed:
+                continue
+            writer = (it.get("writerInfo") or {}).get("nickName", "")
+            items.append(
+                {
+                    "deal_id": f"benchmark_{article_id}",
+                    "source": "benchmark",
+                    "raw_title": normalized,
+                    "source_url": f"https://cafe.naver.com/f-e/cafes/24651941/articles/{article_id}",
+                    "rss_description": it.get("summary", ""),
+                    "upvotes": it.get("likeCount", 0) or 0,
+                    "downvotes": 0,
+                    "views": it.get("readCount", 0) or 0,
+                    "mall": parsed["mall"],
+                    "clean_name": parsed["clean_name"],
+                    "sale_price": parsed["sale_price"],
+                    "shipping": parsed["shipping"],
+                    "benchmark_article_id": article_id,
+                    "benchmark_writer": writer,
+                    "benchmark_image": it.get("representImage", ""),
+                }
+            )
+        return items
+
+    @staticmethod
+    def _bench_norm(name: str) -> str:
+        return re.sub(r"[^0-9a-z가-힣]", "", (name or "").lower())
+
+    def _match_benchmark_url(self, bench: Dict[str, Any], feed_items: List[Dict[str, Any]]) -> Optional[str]:
+        """벤치마크 글과 같은 상품을 같은 스캔의 다른 쿠팡 소스에서 찾으면 그 출처 URL을 반환한다.
+
+        이름 유사도(정규화 문자열 기준 0.75 이상) + 가격 근접(5% 이내) 두 조건을 모두 만족해야 한다.
+        """
+        import difflib
+
+        bn = self._bench_norm(bench.get("clean_name", ""))
+        bp = bench.get("sale_price") or 0
+        if not bn or not bp:
+            return None
+        best_url = None
+        best_ratio = 0.0
+        for other in feed_items:
+            if other.get("source") == "benchmark":
+                continue
+            if (other.get("mall") or "").lower() not in ("쿠팡", "coupang"):
+                continue
+            op = other.get("sale_price") or 0
+            if not op or abs(op - bp) / bp > 0.05:
+                continue
+            on = self._bench_norm(other.get("clean_name", ""))
+            if not on:
+                continue
+            ratio = difflib.SequenceMatcher(None, bn, on).ratio()
+            if ratio > best_ratio:
+                best_ratio = ratio
+                best_url = other.get("source_url")
+        if best_ratio >= 0.75 and best_url:
+            return best_url
+        return None
+
     def fetch_telegram_feed(self) -> List[Dict[str, Any]]:
         """텔레그램 핫딜 알리미 채널(공개 미리보기 페이지)에서 최신 알림을 가져온다.
 
@@ -903,14 +1029,35 @@ class RealtimeDealMonitor:
 
     def scan_and_publish(self, max_posts: int = 1, dry_run: bool = False) -> List[str]:
         """
-        실시간 피드(뽐뿌 + 루리웹 + 딜바다 핫딜 교차)를 스캔하여 조건을 충족한 진짜 핫딜만 당근카페에 즉시 발행합니다.
+        실시간 피드(뽐뿌 + 루리웹 + 딜바다 + 벤치마크 핫딜 교차)를 스캔하여 조건을 충족한 진짜 핫딜만 당근카페에 즉시 발행합니다.
         """
         ppomppu_items = self.fetch_ppomppu_realtime_feed()
         ruliweb_items = self.fetch_ruliweb_realtime_feed()
         dealbada_items = self.fetch_dealbada_realtime_feed()
+        benchmark_items = self.fetch_benchmark_feed()
         telegram_items = self.fetch_telegram_feed()
-        feed_items = ppomppu_items + ruliweb_items + dealbada_items + telegram_items
-        print(f"[스캔] 실시간 피드(뽐뿌 {len(ppomppu_items)}건 + 루리웹 {len(ruliweb_items)}건 + 딜바다 {len(dealbada_items)}건 + 텔레그램 {len(telegram_items)}건 = 총 {len(feed_items)}건)에서 후보 딜을 감지했습니다.", file=sys.stderr)
+        feed_items = ppomppu_items + ruliweb_items + dealbada_items + benchmark_items + telegram_items
+        print(f"[스캔] 실시간 피드(뽐뿌 {len(ppomppu_items)}건 + 루리웹 {len(ruliweb_items)}건 + 딜바다 {len(dealbada_items)}건 + 벤치마크 {len(benchmark_items)}건 + 텔레그램 {len(telegram_items)}건 = 총 {len(feed_items)}건)에서 후보 딜을 감지했습니다.", file=sys.stderr)
+        # 벤치마크 글의 쿠팡 링크 확보: 같은 스캔의 다른 소스에서 동일 상품을 찾아 그 출처 URL을 빌린다.
+        # (벤치마크 본문은 네이버 JS 로딩이라 봇이 직접 못 가져온다.)
+        # 못 찾은 벤치마크 글은 탐지 기록만 남기고 발행 대상에서 뺀다.
+        resolved_items: List[Dict[str, Any]] = []
+        for deal in feed_items:
+            if deal.get("source") != "benchmark":
+                resolved_items.append(deal)
+                continue
+            # 쿠팡이 아닌 벤치마크 글은 탐지 기록만 남기고 뺀다 (쿠팡 딜만 발행 대상).
+            if (deal.get("mall") or "").lower() not in ("쿠팡", "coupang"):
+                print(f"[벤치마크 탐지·제외] {deal['raw_title']} -> 쿠팡 딜이 아님", file=sys.stderr)
+                continue
+            matched_url = self._match_benchmark_url(deal, feed_items)
+            if matched_url:
+                deal["source_url"] = matched_url
+                deal["benchmark_matched"] = True
+                resolved_items.append(deal)
+            else:
+                print(f"[벤치마크 탐지·링크없음] {deal['raw_title']} -> 동일 상품이 다른 소스에 없어 발행 불가", file=sys.stderr)
+        feed_items = resolved_items
         published_urls: List[str] = []
 
         client: Optional[DaangnCafeClient] = None
