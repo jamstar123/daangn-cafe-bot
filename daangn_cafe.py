@@ -410,7 +410,7 @@ class DaangnCafeClient:
 
         if boards:
             for b in boards:
-                if b["id"] == arg:
+                if str(b["id"]) == arg:
                     return int(b["id"])
             for b in boards:
                 if arg and (arg in b["name"] or b["name"] in arg):
@@ -420,6 +420,12 @@ class DaangnCafeClient:
                     if b.get("type") == "default" or "자유" in b["name"]:
                         return int(b["id"])
                 return int(boards[0]["id"])
+            # 요청한 게시판 ID가 카페에 없으면(게시판이 바뀌거나 삭제됨) 이름으로 핫딜 게시판을 찾는다.
+            # 죽은 ID를 그대로 보내면 당근이 매번 "잘못된 게시판"으로 거부해서 조용히 무게시 상태가 된다.
+            for b in boards:
+                if "핫딜" in b["name"]:
+                    print(f"[경고] 요청 게시판 {arg}이(가) 카페에 없어 이름으로 찾은 핫딜 게시판 {b['id']}({b['name']})을 사용합니다.")
+                    return int(b["id"])
 
         return int(arg) if arg.isdigit() else 2252250
 
