@@ -1,456 +1,5 @@
 [
   {
-    "audited_at": "2026-10-31 04:21:14",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:21:27",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:22:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:22:32",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:23:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:23:33",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:24:24",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:24:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:25:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:25:36",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:26:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:26:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:27:24",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:27:38",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:28:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:28:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:29:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:29:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:30:27",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:30:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:31:19",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
     "audited_at": "2026-10-31 04:31:32",
     "passed_all": false,
     "violations": [
@@ -2150,6 +1699,465 @@
       "sale_price": 22000,
       "normal_price": 26000,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7592628358&itemId=20143511092&vendorItemId=87236844020"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:15:14",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:16:03",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:16:52",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:17:43",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:18:34",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:19:23",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:20:08",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:20:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:21:36",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:22:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:23:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:23:59",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:24:49",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:25:39",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:26:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:27:13",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:27:59",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:28:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:29:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 05:30:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
+      "sale_price": 33369,
+      "normal_price": 39400,
+      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 06:18:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닛신 돈베이 튀김 소바 100g, 11,840원(15%↓)",
+      "sale_price": 11840,
+      "normal_price": 14000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8289298543&itemId=23374164013&vendorItemId=91249911740"
     }
   }
 ]
