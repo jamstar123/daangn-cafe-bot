@@ -1,616 +1,5 @@
 [
   {
-    "audited_at": "2026-10-31 05:04:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:04:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:05:07",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:05:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:06:10",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:06:56",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:07:46",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:08:33",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:09:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:10:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:10:57",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:11:46",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:12:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:13:24",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:14:09",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:14:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 육즙 고기교자 (냉동), 22,000원(15%↓)",
-      "sale_price": 22000,
-      "normal_price": 26000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7592628358&itemId=20143511092&vendorItemId=87236844020"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:15:14",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:16:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:16:52",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:17:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:18:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:19:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:20:08",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:20:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:21:36",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:22:27",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:23:10",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 05:23:59",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
     "audited_at": "2026-10-31 05:24:49",
     "passed_all": false,
     "violations": [
@@ -2046,6 +1435,538 @@
       "sale_price": 8960,
       "normal_price": 10600,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5079579477&itemId=9273272622"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:02:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:02:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:02:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 완숙 토마토, 5kg, 2개 39,470원(15%↓)",
+      "sale_price": 39470,
+      "normal_price": 46600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7665795963&itemId=21123118390&vendorItemId=88184902086"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:02:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 완숙 토마토, 5kg, 2개 39,470원(15%↓)",
+      "sale_price": 39470,
+      "normal_price": 46600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7665795963&itemId=21123118390&vendorItemId=88184902086"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:03:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:03:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:03:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 완숙 토마토, 5kg, 2개 39,470원(15%↓)",
+      "sale_price": 39470,
+      "normal_price": 46600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7665795963&itemId=21123118390&vendorItemId=88184902086"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:04:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:04:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:05:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:05:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:05:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:05:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:06:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:06:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:07:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:07:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:07:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:07:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:08:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:08:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:09:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:09:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:09:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:09:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:10:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:10:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 13:10:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 이지 캐리 쿨러 아이스박스 48,600원(15%↓)",
+      "sale_price": 48600,
+      "normal_price": 57300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1821246794&itemId=24662349303"
     }
   }
 ]
