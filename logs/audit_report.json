@@ -1,91 +1,5 @@
 [
   {
-    "audited_at": "2026-10-31 04:32:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:32:33",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:33:19",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:33:31",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
     "audited_at": "2026-10-31 04:34:20",
     "passed_all": false,
     "violations": [
@@ -2155,6 +2069,82 @@
       "sale_price": 6690,
       "normal_price": 7900,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6137339633&itemId=11745918013&vendorItemId=79019798779"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 06:45:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 토마토 케챂, 800g, 2개 4,680원(16%↓)",
+      "sale_price": 4680,
+      "normal_price": 5600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=35267&itemId=14677177105"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 06:46:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 토마토 케챂, 800g, 2개 4,680원(16%↓)",
+      "sale_price": 4680,
+      "normal_price": 5600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=35267&itemId=14677177105"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 06:47:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 토마토 케챂, 800g, 2개 4,680원(16%↓)",
+      "sale_price": 4680,
+      "normal_price": 5600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=35267&itemId=14677177105"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 07:53:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한우 1등급 숙성등심 구이용 13,980원(15%↓)",
+      "sale_price": 13980,
+      "normal_price": 16500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6370095888&itemId=13488735102&vendorItemId=80742922587"
     }
   }
 ]
