@@ -1,27 +1,5 @@
 [
   {
-    "audited_at": "2026-10-31 04:31:32",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
     "audited_at": "2026-10-31 04:32:23",
     "passed_all": false,
     "violations": [
@@ -2158,6 +2136,25 @@
       "sale_price": 11840,
       "normal_price": 14000,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8289298543&itemId=23374164013&vendorItemId=91249911740"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 06:36:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 파스퇴르 쾌변 요구르트 골드키위, 6,690원(15%↓)",
+      "sale_price": 6690,
+      "normal_price": 7900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6137339633&itemId=11745918013&vendorItemId=79019798779"
     }
   }
 ]
