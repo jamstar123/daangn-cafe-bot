@@ -1,767 +1,5 @@
 [
   {
-    "audited_at": "2026-10-30 06:48:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에이블리A 메이플 노트북 슬림 16,010원(15%↓)",
-      "sale_price": 16010,
-      "normal_price": 18900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1541163898&itemId=2639733801&vendorItemId=70630576763"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 07:52:10",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 소고기 육개장, 350g, 6,980원(15%↓)",
-      "sale_price": 6980,
-      "normal_price": 8200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7352573119&itemId=19002895617&vendorItemId=86127822336"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 11:10:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 차량 엔진시동 스타트 버튼 커버 10,390원(16%↓)",
-      "sale_price": 10390,
-      "normal_price": 12300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9534587381"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 11:11:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 11:11:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 딸기쨈, 500g, 3개 11,670원(15%↓)",
-      "sale_price": 11670,
-      "normal_price": 13800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1023003&itemId=18016958709&vendorItemId=85172294120"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 11:12:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 제스파 컴포르테 안마의자 + 1,370,000원(15%↓)",
-      "sale_price": 1370000,
-      "normal_price": 1616600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7204364538&itemId=18217063116&vendorItemId=70096660575"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 11:31:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 접이식 요가매트 두꺼운 매트 천연 29,820원(15%↓)",
-      "sale_price": 29820,
-      "normal_price": 35200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%9A%94%EA%B0%80%EB%A7%A4%ED%8A%B8%20%EB%91%90%EA%BA%BC%EC%9A%B4%20%EB%A7%A4%ED%8A%B8%20%EC%B2%9C%EC%97%B0%20%ED%95%AD%EA%B7%A0%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%ED%9C%B4%EB%8C%80%EC%9A%A9&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 11:31:59",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 접이식 요가매트 두꺼운 매트 천연 29,820원(15%↓)",
-      "sale_price": 29820,
-      "normal_price": 35200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%9A%94%EA%B0%80%EB%A7%A4%ED%8A%B8%20%EB%91%90%EA%BA%BC%EC%9A%B4%20%EB%A7%A4%ED%8A%B8%20%EC%B2%9C%EC%97%B0%20%ED%95%AD%EA%B7%A0%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%ED%9C%B4%EB%8C%80%EC%9A%A9&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 11:32:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 접이식 요가매트 두꺼운 매트 천연 29,820원(15%↓)",
-      "sale_price": 29820,
-      "normal_price": 35200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%9A%94%EA%B0%80%EB%A7%A4%ED%8A%B8%20%EB%91%90%EA%BA%BC%EC%9A%B4%20%EB%A7%A4%ED%8A%B8%20%EC%B2%9C%EC%97%B0%20%ED%95%AD%EA%B7%A0%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%ED%9C%B4%EB%8C%80%EC%9A%A9&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 11:33:36",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 접이식 요가매트 두꺼운 매트 천연 29,820원(15%↓)",
-      "sale_price": 29820,
-      "normal_price": 35200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%9A%94%EA%B0%80%EB%A7%A4%ED%8A%B8%20%EB%91%90%EA%BA%BC%EC%9A%B4%20%EB%A7%A4%ED%8A%B8%20%EC%B2%9C%EC%97%B0%20%ED%95%AD%EA%B7%A0%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%ED%9C%B4%EB%8C%80%EC%9A%A9&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 11:34:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 접이식 요가매트 두꺼운 매트 천연 29,820원(15%↓)",
-      "sale_price": 29820,
-      "normal_price": 35200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%9A%94%EA%B0%80%EB%A7%A4%ED%8A%B8%20%EB%91%90%EA%BA%BC%EC%9A%B4%20%EB%A7%A4%ED%8A%B8%20%EC%B2%9C%EC%97%B0%20%ED%95%AD%EA%B7%A0%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%ED%9C%B4%EB%8C%80%EC%9A%A9&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 11:35:09",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 접이식 요가매트 두꺼운 매트 천연 29,820원(15%↓)",
-      "sale_price": 29820,
-      "normal_price": 35200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%9A%94%EA%B0%80%EB%A7%A4%ED%8A%B8%20%EB%91%90%EA%BA%BC%EC%9A%B4%20%EB%A7%A4%ED%8A%B8%20%EC%B2%9C%EC%97%B0%20%ED%95%AD%EA%B7%A0%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%ED%9C%B4%EB%8C%80%EC%9A%A9&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 11:35:56",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 접이식 요가매트 두꺼운 매트 천연 29,820원(15%↓)",
-      "sale_price": 29820,
-      "normal_price": 35200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%9A%94%EA%B0%80%EB%A7%A4%ED%8A%B8%20%EB%91%90%EA%BA%BC%EC%9A%B4%20%EB%A7%A4%ED%8A%B8%20%EC%B2%9C%EC%97%B0%20%ED%95%AD%EA%B7%A0%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%ED%9C%B4%EB%8C%80%EC%9A%A9&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 11:58:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 13:17:17",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 롯데햄 의성마늘 비엔나 소시지, 8,980원(15%↓)",
-      "sale_price": 8980,
-      "normal_price": 10600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7295013643&itemId=25565863813&vendorItemId=86410637521"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 13:49:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 비오비타 우리가족 쾌변젤리 골드, 21,930원(15%↓)",
-      "sale_price": 21930,
-      "normal_price": 25900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7553801652&itemId=11853936531&vendorItemId=86716390797"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 14:11:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 넛츠앤 푸룬원터치 건자두 식이섬유, 26,850원(15%↓)",
-      "sale_price": 26850,
-      "normal_price": 31700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8134833524&itemId=128262775&vendorItemId=3265527027"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 14:22:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 한끼 연두부 + 오리엔탈 23,510원(15%↓)",
-      "sale_price": 23510,
-      "normal_price": 27700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=280608869&itemId=19224735284&vendorItemId=86341406321"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 14:48:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얇은피 꽉찬속 김치만두 10,480원(15%↓)",
-      "sale_price": 10480,
-      "normal_price": 12400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6079766075&itemId=19725229008&vendorItemId=86829286150"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 16:39:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 카레여왕 치즈 앤 코코넛, 14,100원(15%↓)",
-      "sale_price": 14100,
-      "normal_price": 16600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7224084869&itemId=185831&vendorItemId=85055101482"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 18:59:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 고소한 골드 마요네스, 10,580원(15%↓)",
-      "sale_price": 10580,
-      "normal_price": 12500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7677600227&itemId=17905186318&vendorItemId=85067935283"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 20:00:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 서울우유치즈 체다 슬라이스 치즈, 10,980원(16%↓)",
-      "sale_price": 10980,
-      "normal_price": 13000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=130180802&itemId=21352948580&vendorItemId=88410570607"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:05:45",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:06:33",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:07:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:08:08",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:08:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:09:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:10:27",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:11:15",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:12:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:12:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:13:38",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:14:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:15:13",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:16:01",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
-    "audited_at": "2026-10-30 23:16:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
-      "sale_price": 68080,
-      "normal_price": 80300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
-    }
-  },
-  {
     "audited_at": "2026-10-30 23:17:35",
     "passed_all": false,
     "violations": [
@@ -2142,6 +1380,817 @@
       "sale_price": 999000,
       "normal_price": 1178800,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:05:09",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:05:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:06:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:07:01",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:07:38",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:08:15",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:08:53",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:09:30",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:10:07",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:10:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:11:21",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:11:58",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:12:35",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:13:13",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:13:50",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:14:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:15:05",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:15:42",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:16:30",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:17:20",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:17:56",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:18:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:19:33",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:20:21",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:21:09",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:21:56",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:22:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:23:32",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:24:20",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:25:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:25:58",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:26:48",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:27:35",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:28:23",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:29:12",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:30:01",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] K263KJG320 네오 알파 68,080원(15%↓)",
+      "sale_price": 68080,
+      "normal_price": 80300,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=K263KJG320%20%EB%84%A4%EC%98%A4%20%EC%95%8C%ED%8C%8C%20%ED%82%A4%EC%A6%88%203%EC%A2%85%ED%83%9D1"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 00:30:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 딸기쨈, 500g, 2개 7,780원(15%↓)",
+      "sale_price": 7780,
+      "normal_price": 9200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7038371389&itemId=19565487301&vendorItemId=86673368396"
     }
   }
 ]
