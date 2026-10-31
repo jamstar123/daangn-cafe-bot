@@ -1,285 +1,5 @@
 [
   {
-    "audited_at": "2026-10-31 04:38:49",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:39:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:39:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:40:37",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:40:51",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:41:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:41:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:42:45",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:42:59",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:43:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:44:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:44:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG전자 2026 그램북 AI 999,000원(17%↓)",
-      "sale_price": 999000,
-      "normal_price": 1198800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%EC%A0%84%EC%9E%90%202026%20%EA%B7%B8%EB%9E%A8%EB%B6%81%20AI%2014%2014U40V-GR5CK%20%28%EC%99%80%EC%9A%B0%20/%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 04:45:07",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [토스쇼핑] 아이클랩 키성장 젤리스틱 33,369원(15%↓)",
-      "sale_price": 33369,
-      "normal_price": 39400,
-      "affiliate_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744510"
-    }
-  },
-  {
     "audited_at": "2026-10-31 04:45:57",
     "passed_all": false,
     "violations": [
@@ -2137,6 +1857,277 @@
       "sale_price": 5880,
       "normal_price": 6900,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=41491186&itemId=18797589369&vendorItemId=85928461816"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 09:31:22",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 노터치 원터치 밀대걸레+리필3개 8,900원(17%↓)",
+      "sale_price": 8900,
+      "normal_price": 10700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%84%B0%EC%B9%98%20%EC%9B%90%ED%84%B0%EC%B9%98%20%EB%B0%80%EB%8C%80%EA%B1%B8%EB%A0%88%2B%EB%A6%AC%ED%95%843%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 09:32:11",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 노터치 원터치 밀대걸레+리필3개 8,900원(17%↓)",
+      "sale_price": 8900,
+      "normal_price": 10700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%84%B0%EC%B9%98%20%EC%9B%90%ED%84%B0%EC%B9%98%20%EB%B0%80%EB%8C%80%EA%B1%B8%EB%A0%88%2B%EB%A6%AC%ED%95%843%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 09:33:00",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 노터치 원터치 밀대걸레+리필3개 8,900원(17%↓)",
+      "sale_price": 8900,
+      "normal_price": 10700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%84%B0%EC%B9%98%20%EC%9B%90%ED%84%B0%EC%B9%98%20%EB%B0%80%EB%8C%80%EA%B1%B8%EB%A0%88%2B%EB%A6%AC%ED%95%843%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 09:33:49",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 노터치 원터치 밀대걸레+리필3개 8,900원(17%↓)",
+      "sale_price": 8900,
+      "normal_price": 10700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%84%B0%EC%B9%98%20%EC%9B%90%ED%84%B0%EC%B9%98%20%EB%B0%80%EB%8C%80%EA%B1%B8%EB%A0%88%2B%EB%A6%AC%ED%95%843%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 09:34:38",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 노터치 원터치 밀대걸레+리필3개 8,900원(17%↓)",
+      "sale_price": 8900,
+      "normal_price": 10700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%84%B0%EC%B9%98%20%EC%9B%90%ED%84%B0%EC%B9%98%20%EB%B0%80%EB%8C%80%EA%B1%B8%EB%A0%88%2B%EB%A6%AC%ED%95%843%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 09:35:29",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 노터치 원터치 밀대걸레+리필3개 8,900원(17%↓)",
+      "sale_price": 8900,
+      "normal_price": 10700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%84%B0%EC%B9%98%20%EC%9B%90%ED%84%B0%EC%B9%98%20%EB%B0%80%EB%8C%80%EA%B1%B8%EB%A0%88%2B%EB%A6%AC%ED%95%843%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 09:36:18",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 노터치 원터치 밀대걸레+리필3개 8,900원(17%↓)",
+      "sale_price": 8900,
+      "normal_price": 10700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%84%B0%EC%B9%98%20%EC%9B%90%ED%84%B0%EC%B9%98%20%EB%B0%80%EB%8C%80%EA%B1%B8%EB%A0%88%2B%EB%A6%AC%ED%95%843%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 09:37:07",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 노터치 원터치 밀대걸레+리필3개 8,900원(17%↓)",
+      "sale_price": 8900,
+      "normal_price": 10700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%84%B0%EC%B9%98%20%EC%9B%90%ED%84%B0%EC%B9%98%20%EB%B0%80%EB%8C%80%EA%B1%B8%EB%A0%88%2B%EB%A6%AC%ED%95%843%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 09:37:57",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 노터치 원터치 밀대걸레+리필3개 8,900원(17%↓)",
+      "sale_price": 8900,
+      "normal_price": 10700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%84%B0%EC%B9%98%20%EC%9B%90%ED%84%B0%EC%B9%98%20%EB%B0%80%EB%8C%80%EA%B1%B8%EB%A0%88%2B%EB%A6%AC%ED%95%843%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 09:38:46",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 노터치 원터치 밀대걸레+리필3개 8,900원(17%↓)",
+      "sale_price": 8900,
+      "normal_price": 10700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%84%B0%EC%B9%98%20%EC%9B%90%ED%84%B0%EC%B9%98%20%EB%B0%80%EB%8C%80%EA%B1%B8%EB%A0%88%2B%EB%A6%AC%ED%95%843%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 09:39:34",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 노터치 원터치 밀대걸레+리필3개 8,900원(17%↓)",
+      "sale_price": 8900,
+      "normal_price": 10700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%84%B0%EC%B9%98%20%EC%9B%90%ED%84%B0%EC%B9%98%20%EB%B0%80%EB%8C%80%EA%B1%B8%EB%A0%88%2B%EB%A6%AC%ED%95%843%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 09:40:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 노터치 원터치 밀대걸레+리필3개 8,900원(17%↓)",
+      "sale_price": 8900,
+      "normal_price": 10700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%84%B0%EC%B9%98%20%EC%9B%90%ED%84%B0%EC%B9%98%20%EB%B0%80%EB%8C%80%EA%B1%B8%EB%A0%88%2B%EB%A6%AC%ED%95%843%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 10:04:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 완숙 토마토, 5kg, 2개 39,470원(15%↓)",
+      "sale_price": 39470,
+      "normal_price": 46600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7665795963&itemId=21123118390&vendorItemId=88184902086"
     }
   }
 ]
