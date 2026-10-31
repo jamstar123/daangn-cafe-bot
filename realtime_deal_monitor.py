@@ -545,18 +545,50 @@ class RealtimeDealMonitor:
             return best_url
         return None
 
-    def fetch_telegram_feed(self) -> List[Dict[str, Any]]:
-        """텔레그램 핫딜 알리미 채널(공개 미리보기 페이지)에서 최신 알림을 가져온다.
+    TELEGRAM_CHANNELS = [
+        {
+            "handle": "hot_deal_shop",
+            "label": "hotdeal",
+            "link_re": r"https://ll\.alrimi\.click/[A-Za-z0-9]+",
+            "format": "hotdeal",
+        },
+        {
+            "handle": "jirum",
+            "label": "jirum",
+            "link_re": r"https://link\.coupang\.com/a/[A-Za-z0-9]+",
+            "format": "jirum",
+        },
+    ]
 
-        형식: 상품명 + 30일 내 최저가 + 현재 가격 + 가격 차이(%) + 단축링크.
-        - 쿠팡으로 확인되는 상품만 반환한다 (단축링크를 따라가 최종 URL 확인).
+    def fetch_telegram_feed(self) -> List[Dict[str, Any]]:
+        """텔레그램 핫딜 채널들(공개 미리보기 페이지)에서 최신 알림을 가져온다.
+
+        채널마다 형식이 다르다:
+        - hot_deal_shop: 상품명 + 30일 내 최저가 + 현재 가격 + 가격 차이(%) + ll.alrimi.click 링크.
+        - jirum(뽐질): 특가 X원 (Y% 할인) + 상품명 + 정상가 + link.coupang.com/a 링크.
+        공통 규칙:
+        - 쿠팡으로 확인되는 상품만 반환한다 (링크를 따라가 최종 URL 확인).
         - 3시간보다 오래된 알림은 제외한다 (실시간 알림만 대상).
-        - 실패하면 빈 목록을 반환한다 (감시 데몬이 죽지 않게).
+        - 한 채널이 실패해도 다른 채널은 계속 수집한다. 전체 실패 시 빈 목록 반환 (데몬 보호).
+        - 채널이 달라도 같은 상품(pageKey)은 72시간 쿨다운으로 한 번만 발행된다 (발행 루프에서 처리).
         """
+        items: List[Dict[str, Any]] = []
+        for ch in self.TELEGRAM_CHANNELS:
+            try:
+                ch_items = self._fetch_telegram_channel(ch)
+                print(f"[텔레그램] {ch['handle']} {len(ch_items)}건", file=sys.stderr)
+                items.extend(ch_items)
+            except Exception as e:
+                print(f"[텔레그램 수집 실패: {ch['handle']}] {e}", file=sys.stderr)
+                continue
+        return items
+
+    def _fetch_telegram_channel(self, ch: Dict[str, str]) -> List[Dict[str, Any]]:
+        """한 텔레그램 채널의 공개 미리보기 페이지에서 최신 알림을 가져온다."""
         items: List[Dict[str, Any]] = []
         try:
             req = urllib.request.Request(
-                "https://t.me/s/hot_deal_shop",
+                f"https://t.me/s/{ch['handle']}",
                 headers={"User-Agent": self.user_agent},
             )
             with urllib.request.urlopen(req, timeout=15) as resp:
@@ -583,19 +615,13 @@ class RealtimeDealMonitor:
                     if not lines:
                         continue
                     text = "\n".join(lines)
-                    # 상품명: 가격 정보가 시작되기 전 첫 부분
-                    name_part = re.split(r"30일 내 최저가|가격\s*:|\(출처", text, maxsplit=1)[0]
-                    clean_name = re.sub(r"\s+", " ", name_part).strip()
-                    clean_name = re.sub(r"^핫딜 알리미\s*🔥\s*", "", clean_name).strip()
-                    if not clean_name:
-                        continue
-                    # 단축링크
-                    link_m = re.search(r"https://ll\.alrimi\.click/[A-Za-z0-9]+", text)
+                    # 단축링크 (채널별 형식)
+                    link_m = re.search(ch["link_re"], text)
                     if not link_m:
                         continue
                     short_url = link_m.group(0)
                     code = short_url.rsplit("/", 1)[-1]
-                    deal_id = f"telegram_{code}"
+                    deal_id = f"telegram_{ch['label']}_{code}"
                     if deal_id in self.posted_deals:
                         continue
                     # 시간 (신선도): 3시간 초과면 제외
@@ -609,24 +635,65 @@ class RealtimeDealMonitor:
                                 continue
                         except Exception:
                             print(f"[텔레그램 시간 파싱 실패] {deal_id}", file=sys.stderr)
-                    # 가격
-                    low_m = re.search(r"30일 내 최저가\s*:\s*([0-9,]+)원", text)
-                    cur_m = re.search(r"현재 가격\s*:\s*([0-9,]+)원", text)
-                    diff_m = re.search(r"가격 차이\s*:\s*-?([0-9,]+)원\s*\((-?[0-9.]+)%\)", text)
-                    bare_m = re.search(r"가격\s*:\s*([0-9,]+)원", text)
-                    if cur_m:
-                        sale_price = int(cur_m.group(1).replace(",", ""))
-                    elif bare_m:
-                        sale_price = int(bare_m.group(1).replace(",", ""))
+                    # 상품명·가격 (채널별 형식)
+                    if ch["format"] == "jirum":
+                        # 뽐질: 첫 줄 '☆특가 X원 (Y% 할인)' 계열(특가/초대박/대박/무지성),
+                        # 다음 줄이 상품명, '정상가: A원' 포함. 이름이 없는 글(평소가·%할인만)은 제외.
+                        sale_m = re.search(r"(?:특가|초대박|대박|무지성)\s*([0-9,]+)원", text)
+                        if not sale_m:
+                            continue
+                        sale_price = int(sale_m.group(1).replace(",", ""))
+                        normal_m = re.search(r"정상가\s*:\s*([0-9,]+)원", text)
+                        low_price = int(normal_m.group(1).replace(",", "")) if normal_m else None
+                        pct_m = re.search(r"\(([0-9.]+)%\s*할인\)", text)
+                        chg_pct = float(pct_m.group(1)) if pct_m else None
+                        if chg_pct is None and low_price:
+                            chg_pct = round((1 - sale_price / low_price) * 100, 1)
+                        # 정상가는 정가이지 30일 최저가가 아니므로, 경신 구제 대상이 아니다.
+                        new_low = False
+                        # 상품명: 특가 줄 다음의 첫 일반 줄 (가격 현황·링크·고지·가격성 줄 제외)
+                        clean_name = ""
+                        sale_idx = None
+                        for idx, ln in enumerate(lines):
+                            if re.search(r"(?:특가|초대박|대박|무지성)\s*[0-9,]+원", ln):
+                                sale_idx = idx
+                                break
+                        if sale_idx is not None:
+                            for ln in lines[sale_idx + 1:]:
+                                if ln.startswith(("📌", "📦", "-", "이 포스팅은", "🔥")):
+                                    continue
+                                if "정상가" in ln or "특가 바로가기" in ln or "link.coupang.com" in ln:
+                                    continue
+                                if "평소가" in ln or re.match(r"^\d+\s*%할인$", ln) or re.match(r"^[\d,]+원$", ln):
+                                    continue
+                                clean_name = re.sub(r"\s+", " ", ln).strip()
+                                break
+                        if not clean_name:
+                            continue
                     else:
-                        continue
+                        # 핫딜 알리미: 상품명 + 30일 내 최저가 + 현재 가격 + 가격 차이(%).
+                        name_part = re.split(r"30일 내 최저가|가격\s*:|\(출처", text, maxsplit=1)[0]
+                        clean_name = re.sub(r"\s+", " ", name_part).strip()
+                        clean_name = re.sub(r"^핫딜 알리미\s*🔥\s*", "", clean_name).strip()
+                        if not clean_name:
+                            continue
+                        low_m = re.search(r"30일 내 최저가\s*:\s*([0-9,]+)원", text)
+                        cur_m = re.search(r"현재 가격\s*:\s*([0-9,]+)원", text)
+                        diff_m = re.search(r"가격 차이\s*:\s*-?([0-9,]+)원\s*\((-?[0-9.]+)%\)", text)
+                        bare_m = re.search(r"가격\s*:\s*([0-9,]+)원", text)
+                        if cur_m:
+                            sale_price = int(cur_m.group(1).replace(",", ""))
+                        elif bare_m:
+                            sale_price = int(bare_m.group(1).replace(",", ""))
+                        else:
+                            continue
+                        low_price = int(low_m.group(1).replace(",", "")) if low_m else None
+                        chg_pct = abs(float(diff_m.group(2))) if diff_m else None
+                        if chg_pct is None and low_price:
+                            chg_pct = round((1 - sale_price / low_price) * 100, 1)
+                        new_low = bool(low_price is not None and sale_price <= low_price)
                     if sale_price < 1000:
                         continue
-                    low_price = int(low_m.group(1).replace(",", "")) if low_m else None
-                    chg_pct = abs(float(diff_m.group(2))) if diff_m else None
-                    if chg_pct is None and low_price:
-                        chg_pct = round((1 - sale_price / low_price) * 100, 1)
-                    new_low = bool(low_price is not None and sale_price <= low_price)
                     # 단축링크 → 쿠팡 확인 (새 글만)
                     resolved = self._resolve_short_link(short_url)
                     if "coupang.com/vp/products/" not in resolved:
