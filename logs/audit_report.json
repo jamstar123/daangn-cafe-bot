@@ -1,1864 +1,5 @@
 [
   {
-    "audited_at": "2026-10-31 23:04:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:04:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:04:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:04:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:05:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:05:27",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:05:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:05:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:06:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:06:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:06:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:06:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:07:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:07:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:07:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:07:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:08:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:08:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:08:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:08:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:09:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:09:33",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:09:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:09:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:10:32",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:10:44",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:10:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:10:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:11:44",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:11:44",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:11:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:11:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:12:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:12:44",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:12:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:12:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:13:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:13:46",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:13:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:13:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:14:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:14:36",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:14:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:14:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:14:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 탄씨엔쯔 탄스트라이더 옥스포드 원단 4,990원(15%↓)",
-      "sale_price": 4990,
-      "normal_price": 5900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8522213862&itemId=15375945305&vendorItemId=82596027933"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:15:51",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:15:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:15:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:16:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:16:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:16:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:16:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:16:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:17:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:18:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:18:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:18:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:18:51",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:19:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:19:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:19:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:19:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:20:07",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:20:10",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:20:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:20:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:20:58",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:21:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:21:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:21:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:22:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:22:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:22:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:22:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:22:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:22:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:22:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:23:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:23:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:23:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:23:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:24:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:24:48",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:24:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:24:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:25:46",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:25:46",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:25:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:25:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:26:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:26:46",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
-      "sale_price": 12990,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:26:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-10-31 23:26:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
-      "sale_price": 16210,
-      "normal_price": 19100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
-    }
-  },
-  {
     "audited_at": "2026-10-31 23:27:46",
     "passed_all": false,
     "violations": [
@@ -1997,6 +138,1875 @@
       "sale_price": 4120,
       "normal_price": 4900,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9184463838&itemId=28748359711"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:30:00",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:30:05",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:30:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:30:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:30:53",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:30:58",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:31:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:31:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:31:43",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:31:56",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:31:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:31:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:32:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:32:57",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:32:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:33:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:33:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:33:50",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:33:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:33:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:34:52",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:34:59",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:35:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:35:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:35:50",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:35:52",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:35:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:35:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:36:41",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:36:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:36:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:36:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:37:34",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:37:36",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:37:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:37:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:38:21",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:38:21",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:38:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:38:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:39:09",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:39:21",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:39:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:39:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:40:20",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:40:32",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:40:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:40:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:41:20",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:41:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:41:40",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크리넥스 3겹 천연펄프 울트라클린 20,490원(15%↓)",
+      "sale_price": 20490,
+      "normal_price": 24200,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EB%84%A5%EC%8A%A4%203%EA%B2%B9%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%20%EC%9A%B8%ED%8A%B8%EB%9D%BC%ED%81%B4%EB%A6%B0%20%ED%99%94%EC%9D%B4%ED%8A%B8%2C%2025m%2C%2024%EA%B0%9C%EC%9E%85%2C%202%EA%B0%9C%20%28%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:41:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:41:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:42:25",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:42:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:42:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크리넥스 3겹 천연펄프 울트라클린 20,490원(15%↓)",
+      "sale_price": 20490,
+      "normal_price": 24200,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EB%84%A5%EC%8A%A4%203%EA%B2%B9%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%20%EC%9A%B8%ED%8A%B8%EB%9D%BC%ED%81%B4%EB%A6%B0%20%ED%99%94%EC%9D%B4%ED%8A%B8%2C%2025m%2C%2024%EA%B0%9C%EC%9E%85%2C%202%EA%B0%9C%20%28%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:42:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:42:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:43:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:43:43",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:43:57",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크리넥스 3겹 천연펄프 울트라클린 20,490원(15%↓)",
+      "sale_price": 20490,
+      "normal_price": 24200,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EB%84%A5%EC%8A%A4%203%EA%B2%B9%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%20%EC%9A%B8%ED%8A%B8%EB%9D%BC%ED%81%B4%EB%A6%B0%20%ED%99%94%EC%9D%B4%ED%8A%B8%2C%2025m%2C%2024%EA%B0%9C%EC%9E%85%2C%202%EA%B0%9C%20%28%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:43:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:44:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:44:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:44:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:44:57",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크리넥스 3겹 천연펄프 울트라클린 20,490원(15%↓)",
+      "sale_price": 20490,
+      "normal_price": 24200,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EB%84%A5%EC%8A%A4%203%EA%B2%B9%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%20%EC%9A%B8%ED%8A%B8%EB%9D%BC%ED%81%B4%EB%A6%B0%20%ED%99%94%EC%9D%B4%ED%8A%B8%2C%2025m%2C%2024%EA%B0%9C%EC%9E%85%2C%202%EA%B0%9C%20%28%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:44:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:45:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:45:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:45:50",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:46:01",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크리넥스 3겹 천연펄프 울트라클린 20,490원(15%↓)",
+      "sale_price": 20490,
+      "normal_price": 24200,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EB%84%A5%EC%8A%A4%203%EA%B2%B9%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%20%EC%9A%B8%ED%8A%B8%EB%9D%BC%ED%81%B4%EB%A6%B0%20%ED%99%94%EC%9D%B4%ED%8A%B8%2C%2025m%2C%2024%EA%B0%9C%EC%9E%85%2C%202%EA%B0%9C%20%28%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:46:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:46:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:47:03",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:47:16",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:47:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크리넥스 3겹 천연펄프 울트라클린 20,490원(15%↓)",
+      "sale_price": 20490,
+      "normal_price": 24200,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EB%84%A5%EC%8A%A4%203%EA%B2%B9%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%20%EC%9A%B8%ED%8A%B8%EB%9D%BC%ED%81%B4%EB%A6%B0%20%ED%99%94%EC%9D%B4%ED%8A%B8%2C%2025m%2C%2024%EA%B0%9C%EC%9E%85%2C%202%EA%B0%9C%20%28%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:47:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:47:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:48:17",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:48:23",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:48:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크리넥스 3겹 천연펄프 울트라클린 20,490원(15%↓)",
+      "sale_price": 20490,
+      "normal_price": 24200,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EB%84%A5%EC%8A%A4%203%EA%B2%B9%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%20%EC%9A%B8%ED%8A%B8%EB%9D%BC%ED%81%B4%EB%A6%B0%20%ED%99%94%EC%9D%B4%ED%8A%B8%2C%2025m%2C%2024%EA%B0%9C%EC%9E%85%2C%202%EA%B0%9C%20%28%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:48:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:48:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:49:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:49:12",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:49:25",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크리넥스 3겹 천연펄프 울트라클린 20,490원(15%↓)",
+      "sale_price": 20490,
+      "normal_price": 24200,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EB%84%A5%EC%8A%A4%203%EA%B2%B9%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%20%EC%9A%B8%ED%8A%B8%EB%9D%BC%ED%81%B4%EB%A6%B0%20%ED%99%94%EC%9D%B4%ED%8A%B8%2C%2025m%2C%2024%EA%B0%9C%EC%9E%85%2C%202%EA%B0%9C%20%28%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:49:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:49:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:50:25",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
+      "sale_price": 10960,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694&vendorItemId=73436003598"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:50:33",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 12,990원 대비 정상가가 21,600원(차액 8,610원, 1.66배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 코카콜라 제로, 190ml, 12,990원(40%↓)",
+      "sale_price": 12990,
+      "normal_price": 21600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8174473713&itemId=19977722612&vendorItemId=88377301608"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:50:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크리넥스 3겹 천연펄프 울트라클린 20,490원(15%↓)",
+      "sale_price": 20490,
+      "normal_price": 24200,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EB%84%A5%EC%8A%A4%203%EA%B2%B9%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%20%EC%9A%B8%ED%8A%B8%EB%9D%BC%ED%81%B4%EB%A6%B0%20%ED%99%94%EC%9D%B4%ED%8A%B8%2C%2025m%2C%2024%EA%B0%9C%EC%9E%85%2C%202%EA%B0%9C%20%28%EB%AC%B4%EB%A3%8C%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:50:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
+      "sale_price": 14900,
+      "normal_price": 17600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
+    }
+  },
+  {
+    "audited_at": "2026-10-31 23:50:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 모다모다 돌콩 엑소좀 탈모 샴푸, 16,210원(15%↓)",
+      "sale_price": 16210,
+      "normal_price": 19100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334820249&itemId=28882032252"
     }
   }
 ]
