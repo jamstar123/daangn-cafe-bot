@@ -37,6 +37,32 @@ echo "[${TIMESTAMP}] 24시간 실시간 핫딜 감시 데몬을 시작합니다 
 
 pip install -q curl_cffi beautifulsoup4 || true
 
+# 중복 세션 방지: 이미 실행 중인 같은 워크플로 세션이 있으면 이 세션은 바로 종료한다.
+# (두 세션이 겹치면 각자 자기 메모리에만 의존해서 같은 상품을 둘 다 올리는 중복 발행이 생긴다.
+#  2026-10-31 09:30 딸기쨈 8초 간격 중복 발행이 이 원인으로 확인됨.)
+# API 조회가 실패하면(토큰 없음·네트워크 오류) 그냥 진행한다 (fail-open — 감시가 멈추는 게 더 나쁘다).
+# 중복으로 종료될 때는 연쇄(dispatch)도 하지 않는다 — 살아남은 세션의 연쇄가 이어간다.
+if [[ -n "${GITHUB_TOKEN:-}" && -n "${GITHUB_RUN_ID:-}" ]]; then
+    OTHER_RUNNING=$(curl -s --max-time 15 \
+        -H "Authorization: token ${GITHUB_TOKEN}" \
+        -H "Accept: application/vnd.github.v3+json" \
+        "https://api.github.com/repos/jamstar123/daangn-cafe-bot/actions/workflows/auto_post.yml/runs?status=in_progress&per_page=20" \
+        | python3 -c "
+import json, sys, os
+try:
+    runs = json.load(sys.stdin).get('workflow_runs', [])
+    mine = os.environ.get('GITHUB_RUN_ID', '')
+    others = [str(r['id']) for r in runs if str(r['id']) != mine]
+    print(' '.join(others))
+except Exception:
+    print('')
+" 2>/dev/null || echo "")
+    if [[ -n "${OTHER_RUNNING}" ]]; then
+        echo "[중복 세션 방지] 이미 실행 중인 세션(${OTHER_RUNNING})이 있어 이 세션을 종료합니다 (연쇄 없음)."
+        exit 0
+    fi
+fi
+
 # 30초마다 상시 실시간 감시 (한 세션당 5.5시간 = 19,800초 지속)
 python3 "${BASE_DIR}/realtime_deal_monitor.py" \
     --slug "${HOTDEAL_SLUG}" \
