@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-01 18:27:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 딸기쨈, 500g, 4개 15,560원(15%↓)",
-      "sale_price": 15560,
-      "normal_price": 18400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1023003&itemId=18016959668&vendorItemId=85172295384"
-    }
-  },
-  {
     "audited_at": "2026-11-01 18:27:45",
     "passed_all": true,
     "violations": [],
@@ -1897,6 +1878,25 @@
       "sale_price": 11990,
       "normal_price": 17280,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9391860017&itemId=24339427562&vendorItemId=88377301288"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 22:07:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 생만두 고기미나리 (냉동), 13,820원(15%↓)",
+      "sale_price": 13820,
+      "normal_price": 16300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9644189156&itemId=28852413890&vendorItemId=95786173835"
     }
   }
 ]
