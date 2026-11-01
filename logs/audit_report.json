@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-01 18:26:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 유에이지 맥세이프 그립톡 스마트링 13,450원(15%↓)",
-      "sale_price": 13450,
-      "normal_price": 15900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8178921473&itemId=23378986290&vendorItemId=90409045851"
-    }
-  },
-  {
     "audited_at": "2026-11-01 18:27:38",
     "passed_all": true,
     "violations": [],
@@ -1897,6 +1878,25 @@
       "sale_price": 19900,
       "normal_price": 23500,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9015937556&itemId=26431487119&vendorItemId=93407256012"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 22:06:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스프라이트 제로 사이다, 11,990원(31%↓)",
+      "sale_price": 11990,
+      "normal_price": 17280,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9391860017&itemId=24339427562&vendorItemId=88377301288"
     }
   }
 ]
