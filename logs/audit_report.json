@@ -1,614 +1,5 @@
 [
   {
-    "audited_at": "2026-11-01 22:45:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 딜라잇가든 유기가공식품 인증 13,160원(15%↓)",
-      "sale_price": 13160,
-      "normal_price": 15500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6530634410&itemId=18628328632&vendorItemId=85763685858"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:45:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 요쿠모쿠 일본 시가롤 쿠키 30개입 56,690원(15%↓)",
-      "sale_price": 56690,
-      "normal_price": 66900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7235578439&itemId=27107411585&vendorItemId=93128253487"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:45:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 빼빼로 크런키 막대과자 쿠로미 8,210원(15%↓)",
-      "sale_price": 8210,
-      "normal_price": 9700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9740264352&itemId=29152932056&vendorItemId=96075617049"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:46:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%ED%94%BC%EC%98%A4%EB%8B%88%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:47:05",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EB%A1%9C%EC%A6%88%ED%8E%98%ED%83%88%EC%89%AC%EB%A8%B8%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:47:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205168&vendorItemId=91340904230"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:47:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=22315047941&vendorItemId=89360447876"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:47:14",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 딜라잇가든 유기가공식품 인증 13,160원(15%↓)",
-      "sale_price": 13160,
-      "normal_price": 15500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6530634410&itemId=18628328632&vendorItemId=85763685858"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:47:17",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 요쿠모쿠 일본 시가롤 쿠키 30개입 56,690원(15%↓)",
-      "sale_price": 56690,
-      "normal_price": 66900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7235578439&itemId=27107411585&vendorItemId=93128253487"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:48:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%ED%94%BC%EC%98%A4%EB%8B%88%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:48:24",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EB%A1%9C%EC%A6%88%ED%8E%98%ED%83%88%EC%89%AC%EB%A8%B8%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:48:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205168&vendorItemId=91340904230"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:48:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=22315047941&vendorItemId=89360447876"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:48:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 딜라잇가든 유기가공식품 인증 13,160원(15%↓)",
-      "sale_price": 13160,
-      "normal_price": 15500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6530634410&itemId=18628328632&vendorItemId=85763685858"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:49:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 요쿠모쿠 일본 시가롤 쿠키 30개입 56,690원(15%↓)",
-      "sale_price": 56690,
-      "normal_price": 66900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7235578439&itemId=27107411585&vendorItemId=93128253487"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:49:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 빼빼로 화이트 쿠키 2p x 딸기 3,800원(16%↓)",
-      "sale_price": 3800,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9738829611&itemId=29147219964"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:50:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%ED%94%BC%EC%98%A4%EB%8B%88%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:51:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EB%A1%9C%EC%A6%88%ED%8E%98%ED%83%88%EC%89%AC%EB%A8%B8%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:51:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205168&vendorItemId=91340904230"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:51:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=22315047941&vendorItemId=89360447876"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:51:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 딜라잇가든 유기가공식품 인증 13,160원(15%↓)",
-      "sale_price": 13160,
-      "normal_price": 15500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6530634410&itemId=18628328632&vendorItemId=85763685858"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:51:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 요쿠모쿠 일본 시가롤 쿠키 30개입 56,690원(15%↓)",
-      "sale_price": 56690,
-      "normal_price": 66900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7235578439&itemId=27107411585&vendorItemId=93128253487"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:52:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 코카콜라 제로제로, 350ml, 14,050원(19%↓)",
-      "sale_price": 14050,
-      "normal_price": 17280,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:53:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%ED%94%BC%EC%98%A4%EB%8B%88%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:53:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EB%A1%9C%EC%A6%88%ED%8E%98%ED%83%88%EC%89%AC%EB%A8%B8%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:54:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205168&vendorItemId=91340904230"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:54:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=22315047941&vendorItemId=89360447876"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:54:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 딜라잇가든 유기가공식품 인증 13,160원(15%↓)",
-      "sale_price": 13160,
-      "normal_price": 15500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6530634410&itemId=18628328632&vendorItemId=85763685858"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:54:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 요쿠모쿠 일본 시가롤 쿠키 30개입 56,690원(15%↓)",
-      "sale_price": 56690,
-      "normal_price": 66900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7235578439&itemId=27107411585&vendorItemId=93128253487"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:55:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%ED%94%BC%EC%98%A4%EB%8B%88%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 22:55:24",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
-      "sale_price": 20800,
-      "normal_price": 24500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EB%A1%9C%EC%A6%88%ED%8E%98%ED%83%88%EC%89%AC%EB%A8%B8%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
     "audited_at": "2026-11-01 22:55:29",
     "passed_all": true,
     "violations": [],
@@ -1961,6 +1352,615 @@
       "sale_price": 27410,
       "normal_price": 32300,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:15:32",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%ED%94%BC%EC%98%A4%EB%8B%88%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:15:43",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EB%A1%9C%EC%A6%88%ED%8E%98%ED%83%88%EC%89%AC%EB%A8%B8%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:15:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205168&vendorItemId=91340904230"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:16:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=22315047941&vendorItemId=89360447876"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:16:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 딜라잇가든 유기가공식품 인증 13,160원(15%↓)",
+      "sale_price": 13160,
+      "normal_price": 15500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6530634410&itemId=18628328632&vendorItemId=85763685858"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:16:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 요쿠모쿠 일본 시가롤 쿠키 30개입 56,690원(15%↓)",
+      "sale_price": 56690,
+      "normal_price": 66900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7235578439&itemId=27107411585&vendorItemId=93128253487"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:16:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
+      "sale_price": 27410,
+      "normal_price": 32300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:17:33",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%ED%94%BC%EC%98%A4%EB%8B%88%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:17:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EB%A1%9C%EC%A6%88%ED%8E%98%ED%83%88%EC%89%AC%EB%A8%B8%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:17:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205168&vendorItemId=91340904230"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:18:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=22315047941&vendorItemId=89360447876"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:18:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 딜라잇가든 유기가공식품 인증 13,160원(15%↓)",
+      "sale_price": 13160,
+      "normal_price": 15500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6530634410&itemId=18628328632&vendorItemId=85763685858"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:18:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 요쿠모쿠 일본 시가롤 쿠키 30개입 56,690원(15%↓)",
+      "sale_price": 56690,
+      "normal_price": 66900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7235578439&itemId=27107411585&vendorItemId=93128253487"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:18:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
+      "sale_price": 27410,
+      "normal_price": 32300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:19:23",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%ED%94%BC%EC%98%A4%EB%8B%88%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:19:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EB%A1%9C%EC%A6%88%ED%8E%98%ED%83%88%EC%89%AC%EB%A8%B8%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:19:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205168&vendorItemId=91340904230"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:19:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=22315047941&vendorItemId=89360447876"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:19:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 딜라잇가든 유기가공식품 인증 13,160원(15%↓)",
+      "sale_price": 13160,
+      "normal_price": 15500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6530634410&itemId=18628328632&vendorItemId=85763685858"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:20:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 요쿠모쿠 일본 시가롤 쿠키 30개입 56,690원(15%↓)",
+      "sale_price": 56690,
+      "normal_price": 66900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7235578439&itemId=27107411585&vendorItemId=93128253487"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:20:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
+      "sale_price": 27410,
+      "normal_price": 32300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:21:09",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%ED%94%BC%EC%98%A4%EB%8B%88%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:21:21",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EB%A1%9C%EC%A6%88%ED%8E%98%ED%83%88%EC%89%AC%EB%A8%B8%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:21:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205168&vendorItemId=91340904230"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:21:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=22315047941&vendorItemId=89360447876"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:21:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 딜라잇가든 유기가공식품 인증 13,160원(15%↓)",
+      "sale_price": 13160,
+      "normal_price": 15500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6530634410&itemId=18628328632&vendorItemId=85763685858"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:21:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 요쿠모쿠 일본 시가롤 쿠키 30개입 56,690원(15%↓)",
+      "sale_price": 56690,
+      "normal_price": 66900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7235578439&itemId=27107411585&vendorItemId=93128253487"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:21:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
+      "sale_price": 27410,
+      "normal_price": 32300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:22:52",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우스테이트 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%ED%94%BC%EC%98%A4%EB%8B%88%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:23:04",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,800원(15%↓)",
+      "sale_price": 20800,
+      "normal_price": 24500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EB%A1%9C%EC%A6%88%ED%8E%98%ED%83%88%EC%89%AC%EB%A8%B8%2C%201.18L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 23:23:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
+      "sale_price": 8090,
+      "normal_price": 9500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
     }
   }
 ]
