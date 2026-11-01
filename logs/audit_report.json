@@ -1,970 +1,5 @@
 [
   {
-    "audited_at": "2026-11-01 09:00:37",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 테라토 모션센서 충전식 헤드랜턴 19,900원(17%↓)",
-      "sale_price": 19900,
-      "normal_price": 23900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%85%8C%EB%9D%BC%ED%86%A0%20%EB%AA%A8%EC%85%98%EC%84%BC%EC%84%9C%20%EC%B6%A9%EC%A0%84%EC%8B%9D%20%ED%97%A4%EB%93%9C%EB%9E%9C%ED%84%B4%20T202&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:00:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
-      "sale_price": 19900,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:00:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
-      "sale_price": 999000,
-      "normal_price": 1178800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:00:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
-      "sale_price": 557670,
-      "normal_price": 658100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:01:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:02:01",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 테라토 모션센서 충전식 헤드랜턴 19,900원(17%↓)",
-      "sale_price": 19900,
-      "normal_price": 23900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%85%8C%EB%9D%BC%ED%86%A0%20%EB%AA%A8%EC%85%98%EC%84%BC%EC%84%9C%20%EC%B6%A9%EC%A0%84%EC%8B%9D%20%ED%97%A4%EB%93%9C%EB%9E%9C%ED%84%B4%20T202&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:02:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
-      "sale_price": 19900,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:02:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
-      "sale_price": 999000,
-      "normal_price": 1178800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:02:17",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
-      "sale_price": 557670,
-      "normal_price": 658100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:03:20",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:03:30",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 테라토 모션센서 충전식 헤드랜턴 19,900원(17%↓)",
-      "sale_price": 19900,
-      "normal_price": 23900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%85%8C%EB%9D%BC%ED%86%A0%20%EB%AA%A8%EC%85%98%EC%84%BC%EC%84%9C%20%EC%B6%A9%EC%A0%84%EC%8B%9D%20%ED%97%A4%EB%93%9C%EB%9E%9C%ED%84%B4%20T202&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:03:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
-      "sale_price": 19900,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:03:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
-      "sale_price": 999000,
-      "normal_price": 1178800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:03:41",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
-      "sale_price": 557670,
-      "normal_price": 658100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:04:45",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:04:59",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 테라토 모션센서 충전식 헤드랜턴 19,900원(17%↓)",
-      "sale_price": 19900,
-      "normal_price": 23900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%85%8C%EB%9D%BC%ED%86%A0%20%EB%AA%A8%EC%85%98%EC%84%BC%EC%84%9C%20%EC%B6%A9%EC%A0%84%EC%8B%9D%20%ED%97%A4%EB%93%9C%EB%9E%9C%ED%84%B4%20T202&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:05:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
-      "sale_price": 19900,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:05:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
-      "sale_price": 999000,
-      "normal_price": 1178800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:05:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
-      "sale_price": 557670,
-      "normal_price": 658100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:05:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 히말라야 콜드 마사지밤 4,700원(15%↓)",
-      "sale_price": 4700,
-      "normal_price": 5500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1579235541&itemId=2700131045"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:06:20",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:06:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 테라토 모션센서 충전식 헤드랜턴 19,900원(17%↓)",
-      "sale_price": 19900,
-      "normal_price": 23900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%85%8C%EB%9D%BC%ED%86%A0%20%EB%AA%A8%EC%85%98%EC%84%BC%EC%84%9C%20%EC%B6%A9%EC%A0%84%EC%8B%9D%20%ED%97%A4%EB%93%9C%EB%9E%9C%ED%84%B4%20T202&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:06:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
-      "sale_price": 19900,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:06:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
-      "sale_price": 999000,
-      "normal_price": 1178800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:06:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
-      "sale_price": 557670,
-      "normal_price": 658100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:07:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:07:56",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 테라토 모션센서 충전식 헤드랜턴 19,900원(17%↓)",
-      "sale_price": 19900,
-      "normal_price": 23900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%85%8C%EB%9D%BC%ED%86%A0%20%EB%AA%A8%EC%85%98%EC%84%BC%EC%84%9C%20%EC%B6%A9%EC%A0%84%EC%8B%9D%20%ED%97%A4%EB%93%9C%EB%9E%9C%ED%84%B4%20T202&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:07:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
-      "sale_price": 19900,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:08:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
-      "sale_price": 999000,
-      "normal_price": 1178800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:08:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
-      "sale_price": 557670,
-      "normal_price": 658100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:08:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 루솔 과채플랜 사과당근 20p 9,130원(15%↓)",
-      "sale_price": 9130,
-      "normal_price": 10800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9075119297&itemId=26716657925"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:09:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:09:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 테라토 모션센서 충전식 헤드랜턴 19,900원(17%↓)",
-      "sale_price": 19900,
-      "normal_price": 23900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%85%8C%EB%9D%BC%ED%86%A0%20%EB%AA%A8%EC%85%98%EC%84%BC%EC%84%9C%20%EC%B6%A9%EC%A0%84%EC%8B%9D%20%ED%97%A4%EB%93%9C%EB%9E%9C%ED%84%B4%20T202&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:09:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
-      "sale_price": 19900,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:09:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
-      "sale_price": 999000,
-      "normal_price": 1178800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:09:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
-      "sale_price": 557670,
-      "normal_price": 658100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:09:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] [로켓프레시] 하겐다즈 크리스피 17,900원(15%↓)",
-      "sale_price": 17900,
-      "normal_price": 21100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8118346195&itemId=23019916898"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:10:44",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:10:58",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 테라토 모션센서 충전식 헤드랜턴 19,900원(17%↓)",
-      "sale_price": 19900,
-      "normal_price": 23900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%85%8C%EB%9D%BC%ED%86%A0%20%EB%AA%A8%EC%85%98%EC%84%BC%EC%84%9C%20%EC%B6%A9%EC%A0%84%EC%8B%9D%20%ED%97%A4%EB%93%9C%EB%9E%9C%ED%84%B4%20T202&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:11:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
-      "sale_price": 19900,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:11:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
-      "sale_price": 999000,
-      "normal_price": 1178800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:11:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
-      "sale_price": 557670,
-      "normal_price": 658100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:11:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 잘크톤 멀티튼튼 츄어블정 딸기맛 14,580원(15%↓)",
-      "sale_price": 14580,
-      "normal_price": 17200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8112224474&itemId=15674389364"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:12:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:12:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 테라토 모션센서 충전식 헤드랜턴 19,900원(17%↓)",
-      "sale_price": 19900,
-      "normal_price": 23900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%85%8C%EB%9D%BC%ED%86%A0%20%EB%AA%A8%EC%85%98%EC%84%BC%EC%84%9C%20%EC%B6%A9%EC%A0%84%EC%8B%9D%20%ED%97%A4%EB%93%9C%EB%9E%9C%ED%84%B4%20T202&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:12:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
-      "sale_price": 19900,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:12:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
-      "sale_price": 999000,
-      "normal_price": 1178800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:12:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
-      "sale_price": 557670,
-      "normal_price": 658100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 09:12:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홈스타 뿌리는 곰팡이 싹 세정제 6,100원(15%↓)",
-      "sale_price": 6100,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=106486626&itemId=22684893308"
-    }
-  },
-  {
     "audited_at": "2026-11-01 09:14:04",
     "passed_all": false,
     "violations": [
@@ -1969,6 +1004,963 @@
       "sale_price": 3100,
       "normal_price": 3700,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1432238705&itemId=11529557951&vendorItemId=85166096938"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:30:03",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:30:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:30:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:30:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
+      "sale_price": 557670,
+      "normal_price": 658100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:31:11",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:31:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:31:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:31:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
+      "sale_price": 557670,
+      "normal_price": 658100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:32:30",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:32:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:32:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:32:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
+      "sale_price": 557670,
+      "normal_price": 658100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:33:49",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:33:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:33:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:34:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
+      "sale_price": 557670,
+      "normal_price": 658100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:35:03",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:35:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:35:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:35:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
+      "sale_price": 557670,
+      "normal_price": 658100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:36:12",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:36:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:36:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:36:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
+      "sale_price": 557670,
+      "normal_price": 658100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:37:25",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:37:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:37:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:37:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
+      "sale_price": 557670,
+      "normal_price": 658100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:38:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:38:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:38:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:38:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
+      "sale_price": 557670,
+      "normal_price": 658100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:39:41",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:39:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:39:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:39:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
+      "sale_price": 557670,
+      "normal_price": 658100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:40:59",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:41:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:41:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:41:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
+      "sale_price": 557670,
+      "normal_price": 658100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:42:11",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:42:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:42:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:42:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
+      "sale_price": 557670,
+      "normal_price": 658100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:43:29",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:43:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:43:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:44:30",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 09:44:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 청정원 쉐프의치킨스톡 2p, 7,600원(16%↓)",
+      "sale_price": 7600,
+      "normal_price": 9000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7144295508&itemId=24178127623&vendorItemId=94732413277"
     }
   }
 ]
