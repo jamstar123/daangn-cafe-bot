@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-01 18:26:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 딸기쨈, 500g, 4개 15,560원(15%↓)",
-      "sale_price": 15560,
-      "normal_price": 18400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1023003&itemId=18016959668&vendorItemId=85172295384"
-    }
-  },
-  {
     "audited_at": "2026-11-01 18:26:55",
     "passed_all": true,
     "violations": [],
@@ -1897,6 +1878,25 @@
       "sale_price": 13450,
       "normal_price": 15900,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8178921473&itemId=23378986290&vendorItemId=90409045851"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 22:03:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 뉴에라 아동용 MLB 베이직 로고 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9015937556&itemId=26431487119&vendorItemId=93407256012"
     }
   }
 ]
