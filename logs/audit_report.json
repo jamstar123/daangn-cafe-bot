@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-01 04:11:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이맥 24 M4칩 1,743,000원(15%↓)",
-      "sale_price": 1743000,
-      "normal_price": 2056700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8444033257&itemId=24426437520&vendorItemId=91440750884"
-    }
-  },
-  {
     "audited_at": "2026-11-01 04:11:36",
     "passed_all": true,
     "violations": [],
@@ -1921,6 +1902,25 @@
       "sale_price": 13520,
       "normal_price": 16000,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9296665118&itemId=27876062950"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 04:34:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] CJ제일제당 쁘띠첼 과일젤리 복숭아, 2,180원(16%↓)",
+      "sale_price": 2180,
+      "normal_price": 2600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8288942895&itemId=24293076268&vendorItemId=91309168229"
     }
   }
 ]
