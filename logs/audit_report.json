@@ -1,44 +1,6 @@
 [
   {
-    "audited_at": "2026-11-01 06:48:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
-      "sale_price": 999000,
-      "normal_price": 1178800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 06:48:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 06:48:44",
+    "audited_at": "2026-11-01 07:23:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -57,7 +19,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:48:57",
+    "audited_at": "2026-11-01 07:23:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -76,7 +38,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:49:09",
+    "audited_at": "2026-11-01 07:24:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -95,7 +57,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:49:16",
+    "audited_at": "2026-11-01 07:24:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -114,26 +76,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:50:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 가격 8,440원(16%↓)",
-      "sale_price": 8440,
-      "normal_price": 10000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7007366750&itemId=25186340985"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 06:51:28",
+    "audited_at": "2026-11-01 07:25:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -152,7 +95,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:51:29",
+    "audited_at": "2026-11-01 07:25:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -171,7 +114,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:51:31",
+    "audited_at": "2026-11-01 07:25:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -190,7 +133,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:51:31",
+    "audited_at": "2026-11-01 07:25:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -209,7 +152,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:51:43",
+    "audited_at": "2026-11-01 07:25:41",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -228,7 +171,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:51:54",
+    "audited_at": "2026-11-01 07:25:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -247,7 +190,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:52:06",
+    "audited_at": "2026-11-01 07:26:01",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -266,7 +209,28 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:53:01",
+    "audited_at": "2026-11-01 07:26:58",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 07:27:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -285,7 +249,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:53:05",
+    "audited_at": "2026-11-01 07:27:06",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -304,7 +268,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:53:06",
+    "audited_at": "2026-11-01 07:27:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -323,7 +287,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:53:19",
+    "audited_at": "2026-11-01 07:27:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -342,7 +306,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:53:31",
+    "audited_at": "2026-11-01 07:27:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -361,7 +325,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:53:43",
+    "audited_at": "2026-11-01 07:27:35",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -380,7 +344,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:53:47",
+    "audited_at": "2026-11-01 07:27:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -399,7 +363,28 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:54:43",
+    "audited_at": "2026-11-01 07:28:46",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 07:28:48",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -418,7 +403,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:54:46",
+    "audited_at": "2026-11-01 07:28:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -437,7 +422,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:54:48",
+    "audited_at": "2026-11-01 07:28:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -456,7 +441,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:55:01",
+    "audited_at": "2026-11-01 07:28:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -475,7 +460,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:55:13",
+    "audited_at": "2026-11-01 07:29:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -494,7 +479,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:55:25",
+    "audited_at": "2026-11-01 07:29:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -513,7 +498,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:55:25",
+    "audited_at": "2026-11-01 07:29:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -532,7 +517,28 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:56:23",
+    "audited_at": "2026-11-01 07:30:31",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 07:30:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -551,7 +557,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:56:24",
+    "audited_at": "2026-11-01 07:30:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -570,7 +576,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:56:25",
+    "audited_at": "2026-11-01 07:30:41",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -589,7 +595,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:56:37",
+    "audited_at": "2026-11-01 07:30:48",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -608,7 +614,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:56:49",
+    "audited_at": "2026-11-01 07:31:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -627,7 +633,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:56:57",
+    "audited_at": "2026-11-01 07:31:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -646,7 +652,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:57:05",
+    "audited_at": "2026-11-01 07:31:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -665,7 +671,28 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:58:02",
+    "audited_at": "2026-11-01 07:32:09",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 07:32:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -684,7 +711,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:58:07",
+    "audited_at": "2026-11-01 07:32:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -703,7 +730,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:58:08",
+    "audited_at": "2026-11-01 07:32:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -722,7 +749,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:58:12",
+    "audited_at": "2026-11-01 07:32:26",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -741,7 +768,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:58:17",
+    "audited_at": "2026-11-01 07:32:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -760,7 +787,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:58:29",
+    "audited_at": "2026-11-01 07:32:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -779,7 +806,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:58:35",
+    "audited_at": "2026-11-01 07:32:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -798,7 +825,28 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:59:30",
+    "audited_at": "2026-11-01 07:33:52",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 07:33:55",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -817,7 +865,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:59:31",
+    "audited_at": "2026-11-01 07:33:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -836,7 +884,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:59:33",
+    "audited_at": "2026-11-01 07:34:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -855,7 +903,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:59:44",
+    "audited_at": "2026-11-01 07:34:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -874,7 +922,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 06:59:56",
+    "audited_at": "2026-11-01 07:34:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -893,7 +941,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:00:08",
+    "audited_at": "2026-11-01 07:34:23",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -912,7 +960,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:00:21",
+    "audited_at": "2026-11-01 07:34:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -931,7 +979,28 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:01:16",
+    "audited_at": "2026-11-01 07:35:33",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 07:35:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -950,7 +1019,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:01:19",
+    "audited_at": "2026-11-01 07:35:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -969,7 +1038,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:01:21",
+    "audited_at": "2026-11-01 07:35:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -988,7 +1057,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:01:32",
+    "audited_at": "2026-11-01 07:35:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1007,7 +1076,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:01:37",
+    "audited_at": "2026-11-01 07:35:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1026,7 +1095,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:01:49",
+    "audited_at": "2026-11-01 07:36:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1045,7 +1114,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:02:00",
+    "audited_at": "2026-11-01 07:36:23",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1064,7 +1133,28 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:02:54",
+    "audited_at": "2026-11-01 07:37:29",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 07:37:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1083,7 +1173,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:02:56",
+    "audited_at": "2026-11-01 07:37:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1102,7 +1192,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:02:57",
+    "audited_at": "2026-11-01 07:37:35",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1121,7 +1211,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:03:09",
+    "audited_at": "2026-11-01 07:37:47",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1140,7 +1230,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:03:13",
+    "audited_at": "2026-11-01 07:37:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1159,7 +1249,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:03:25",
+    "audited_at": "2026-11-01 07:37:55",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1178,7 +1268,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:03:37",
+    "audited_at": "2026-11-01 07:38:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1197,7 +1287,28 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:04:36",
+    "audited_at": "2026-11-01 07:39:11",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 07:39:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1216,7 +1327,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:04:38",
+    "audited_at": "2026-11-01 07:39:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1235,7 +1346,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:04:39",
+    "audited_at": "2026-11-01 07:39:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1254,7 +1365,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:04:51",
+    "audited_at": "2026-11-01 07:39:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1273,7 +1384,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:05:03",
+    "audited_at": "2026-11-01 07:39:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1292,7 +1403,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:05:04",
+    "audited_at": "2026-11-01 07:39:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1311,7 +1422,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:05:16",
+    "audited_at": "2026-11-01 07:40:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1330,7 +1441,28 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:06:10",
+    "audited_at": "2026-11-01 07:41:02",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 07:41:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1349,7 +1481,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:06:16",
+    "audited_at": "2026-11-01 07:41:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1368,7 +1500,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:06:18",
+    "audited_at": "2026-11-01 07:41:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1387,7 +1519,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:06:30",
+    "audited_at": "2026-11-01 07:41:23",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1406,7 +1538,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:06:42",
+    "audited_at": "2026-11-01 07:41:35",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1425,7 +1557,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:06:54",
+    "audited_at": "2026-11-01 07:41:47",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1444,7 +1576,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:07:06",
+    "audited_at": "2026-11-01 07:41:55",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1463,26 +1595,28 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:07:18",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-01 07:43:02",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 대상 종가 총각김치, 2.3kg, 19,360원(15%↓)",
-      "sale_price": 19360,
-      "normal_price": 22800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5140279812&itemId=24203700834"
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
     }
   },
   {
-    "audited_at": "2026-11-01 07:08:18",
+    "audited_at": "2026-11-01 07:43:05",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1501,7 +1635,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:08:20",
+    "audited_at": "2026-11-01 07:43:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1520,7 +1654,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:08:21",
+    "audited_at": "2026-11-01 07:43:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1539,7 +1673,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:08:32",
+    "audited_at": "2026-11-01 07:43:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1558,7 +1692,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:08:43",
+    "audited_at": "2026-11-01 07:43:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1577,7 +1711,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:08:55",
+    "audited_at": "2026-11-01 07:43:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1596,7 +1730,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:09:07",
+    "audited_at": "2026-11-01 07:43:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1615,7 +1749,28 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:10:02",
+    "audited_at": "2026-11-01 07:44:59",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
+      "sale_price": 8410,
+      "normal_price": 396000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 07:45:01",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1634,7 +1789,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:10:07",
+    "audited_at": "2026-11-01 07:45:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1653,7 +1808,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:10:09",
+    "audited_at": "2026-11-01 07:45:08",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1672,7 +1827,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:10:13",
+    "audited_at": "2026-11-01 07:45:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1691,7 +1846,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:10:25",
+    "audited_at": "2026-11-01 07:45:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1710,7 +1865,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:10:25",
+    "audited_at": "2026-11-01 07:45:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1729,7 +1884,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:10:37",
+    "audited_at": "2026-11-01 07:45:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1748,7 +1903,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 07:11:31",
+    "audited_at": "2026-11-01 07:45:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1760,143 +1915,10 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
-      "sale_price": 19900,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 07:11:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
-      "sale_price": 999000,
-      "normal_price": 1178800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 07:11:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한돈 돼지껍데기면1kg 14,900원(15%↓)",
-      "sale_price": 14900,
-      "normal_price": 17600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9661514931"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 07:11:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 테팔 매트 프라이팬 세트 47,590원(15%↓)",
-      "sale_price": 47590,
-      "normal_price": 56200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9774131617&itemId=29258483394"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 07:11:41",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 지베딩 디어 시어서커 여름 이불, 18,670원(15%↓)",
-      "sale_price": 18670,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1463365010&itemId=2517091410&vendorItemId=70510068645"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 07:11:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 청정원 토마토 스파게티소스 싱글파우치 2,980원(15%↓)",
-      "sale_price": 2980,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6971681573&itemId=19096176271"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 07:12:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 샤크 에보파워시스템 부스트+ 무선 557,670원(15%↓)",
-      "sale_price": 557670,
-      "normal_price": 658100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9101636757&itemId=26756161799"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 07:12:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 해찬들 사계절쌈장, 300g, 3개 3,270원(16%↓)",
-      "sale_price": 3270,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8336469069&itemId=24293077892&vendorItemId=91309169788"
+      "title": "[역대가] [쿠팡] HanilMedical 탄소열선 28,900원(15%↓)",
+      "sale_price": 28900,
+      "normal_price": 34100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9150828084&itemId=23742803694"
     }
   }
 ]
