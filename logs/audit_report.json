@@ -1,25 +1,6 @@
 [
   {
-    "audited_at": "2026-11-01 10:13:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
-      "sale_price": 19900,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:13:03",
+    "audited_at": "2026-11-01 11:08:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -38,49 +19,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:14:04",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:14:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스테온 남성 빅사이즈 수면양말 6,900원(15%↓)",
-      "sale_price": 6900,
-      "normal_price": 8100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%85%8C%EC%98%A8%20%EB%82%A8%EC%84%B1%20%EB%B9%85%EC%82%AC%EC%9D%B4%EC%A6%88%20%EC%88%98%EB%A9%B4%EC%96%91%EB%A7%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:14:19",
+    "audited_at": "2026-11-01 11:09:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -99,7 +38,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:14:23",
+    "audited_at": "2026-11-01 11:09:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -118,49 +57,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:15:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:15:36",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스테온 남성 빅사이즈 수면양말 6,900원(15%↓)",
-      "sale_price": 6900,
-      "normal_price": 8100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%85%8C%EC%98%A8%20%EB%82%A8%EC%84%B1%20%EB%B9%85%EC%82%AC%EC%9D%B4%EC%A6%88%20%EC%88%98%EB%A9%B4%EC%96%91%EB%A7%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:15:37",
+    "audited_at": "2026-11-01 11:10:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -179,7 +76,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:15:40",
+    "audited_at": "2026-11-01 11:10:05",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -198,49 +95,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:16:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:16:52",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스테온 남성 빅사이즈 수면양말 6,900원(15%↓)",
-      "sale_price": 6900,
-      "normal_price": 8100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%85%8C%EC%98%A8%20%EB%82%A8%EC%84%B1%20%EB%B9%85%EC%82%AC%EC%9D%B4%EC%A6%88%20%EC%88%98%EB%A9%B4%EC%96%91%EB%A7%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:16:54",
+    "audited_at": "2026-11-01 11:10:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -259,7 +114,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:16:57",
+    "audited_at": "2026-11-01 11:10:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -278,49 +133,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:17:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:18:08",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스테온 남성 빅사이즈 수면양말 6,900원(15%↓)",
-      "sale_price": 6900,
-      "normal_price": 8100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%85%8C%EC%98%A8%20%EB%82%A8%EC%84%B1%20%EB%B9%85%EC%82%AC%EC%9D%B4%EC%A6%88%20%EC%88%98%EB%A9%B4%EC%96%91%EB%A7%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:18:10",
+    "audited_at": "2026-11-01 11:11:23",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -339,7 +152,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:18:12",
+    "audited_at": "2026-11-01 11:11:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -358,49 +171,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:19:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:19:14",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스테온 남성 빅사이즈 수면양말 6,900원(15%↓)",
-      "sale_price": 6900,
-      "normal_price": 8100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%85%8C%EC%98%A8%20%EB%82%A8%EC%84%B1%20%EB%B9%85%EC%82%AC%EC%9D%B4%EC%A6%88%20%EC%88%98%EB%A9%B4%EC%96%91%EB%A7%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:19:16",
+    "audited_at": "2026-11-01 11:12:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -419,7 +190,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:19:19",
+    "audited_at": "2026-11-01 11:12:05",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -438,49 +209,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:20:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:20:19",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스테온 남성 빅사이즈 수면양말 6,900원(15%↓)",
-      "sale_price": 6900,
-      "normal_price": 8100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%85%8C%EC%98%A8%20%EB%82%A8%EC%84%B1%20%EB%B9%85%EC%82%AC%EC%9D%B4%EC%A6%88%20%EC%88%98%EB%A9%B4%EC%96%91%EB%A7%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:20:21",
+    "audited_at": "2026-11-01 11:12:48",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -499,7 +228,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:20:23",
+    "audited_at": "2026-11-01 11:12:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -518,28 +247,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:21:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:21:26",
+    "audited_at": "2026-11-01 11:13:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -558,7 +266,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:21:28",
+    "audited_at": "2026-11-01 11:13:32",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -577,28 +285,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:22:29",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:22:30",
+    "audited_at": "2026-11-01 11:14:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -617,7 +304,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:22:33",
+    "audited_at": "2026-11-01 11:14:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -636,28 +323,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:23:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:23:36",
+    "audited_at": "2026-11-01 11:14:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -676,7 +342,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:23:38",
+    "audited_at": "2026-11-01 11:14:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -695,28 +361,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:24:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:24:42",
+    "audited_at": "2026-11-01 11:15:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -735,7 +380,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:24:44",
+    "audited_at": "2026-11-01 11:15:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -754,28 +399,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:25:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:25:40",
+    "audited_at": "2026-11-01 11:16:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -794,7 +418,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:25:42",
+    "audited_at": "2026-11-01 11:16:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -813,28 +437,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:26:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 8,410원 대비 정상가가 396,000원(차액 387,590원, 47.09배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 남양이오 유산균 음료, 8,410원(98%↓)",
-      "sale_price": 8410,
-      "normal_price": 396000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6348949493&itemId=18358727505"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:26:44",
+    "audited_at": "2026-11-01 11:16:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -853,7 +456,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:26:46",
+    "audited_at": "2026-11-01 11:17:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -872,7 +475,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:27:38",
+    "audited_at": "2026-11-01 11:17:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -891,7 +494,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:27:42",
+    "audited_at": "2026-11-01 11:17:48",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -910,7 +513,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:28:34",
+    "audited_at": "2026-11-01 11:18:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -929,7 +532,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:28:37",
+    "audited_at": "2026-11-01 11:18:32",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -948,7 +551,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:29:27",
+    "audited_at": "2026-11-01 11:19:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -967,7 +570,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:29:30",
+    "audited_at": "2026-11-01 11:19:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -986,7 +589,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:30:24",
+    "audited_at": "2026-11-01 11:19:55",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1005,7 +608,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:30:25",
+    "audited_at": "2026-11-01 11:19:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1024,7 +627,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:31:16",
+    "audited_at": "2026-11-01 11:20:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1043,7 +646,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:31:19",
+    "audited_at": "2026-11-01 11:20:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1062,7 +665,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:32:10",
+    "audited_at": "2026-11-01 11:21:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1081,7 +684,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:32:15",
+    "audited_at": "2026-11-01 11:21:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1100,7 +703,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:33:06",
+    "audited_at": "2026-11-01 11:22:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1119,7 +722,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:33:08",
+    "audited_at": "2026-11-01 11:22:05",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1138,7 +741,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:34:01",
+    "audited_at": "2026-11-01 11:22:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1157,7 +760,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:34:06",
+    "audited_at": "2026-11-01 11:22:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1176,7 +779,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:35:00",
+    "audited_at": "2026-11-01 11:23:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1195,7 +798,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:35:03",
+    "audited_at": "2026-11-01 11:23:29",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1214,7 +817,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:35:53",
+    "audited_at": "2026-11-01 11:24:08",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1233,7 +836,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:35:54",
+    "audited_at": "2026-11-01 11:24:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1252,7 +855,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:36:45",
+    "audited_at": "2026-11-01 11:24:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1271,7 +874,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:36:47",
+    "audited_at": "2026-11-01 11:24:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1290,7 +893,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:37:39",
+    "audited_at": "2026-11-01 11:25:35",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1309,7 +912,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:37:41",
+    "audited_at": "2026-11-01 11:25:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1328,7 +931,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:38:34",
+    "audited_at": "2026-11-01 11:26:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1347,7 +950,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:38:35",
+    "audited_at": "2026-11-01 11:26:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1366,7 +969,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:39:27",
+    "audited_at": "2026-11-01 11:27:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1385,7 +988,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:39:30",
+    "audited_at": "2026-11-01 11:27:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1404,7 +1007,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:40:23",
+    "audited_at": "2026-11-01 11:27:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1423,7 +1026,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:40:25",
+    "audited_at": "2026-11-01 11:27:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1442,7 +1045,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:41:16",
+    "audited_at": "2026-11-01 11:28:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1461,7 +1064,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:41:19",
+    "audited_at": "2026-11-01 11:28:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1480,7 +1083,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:42:09",
+    "audited_at": "2026-11-01 11:29:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1499,7 +1102,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:42:11",
+    "audited_at": "2026-11-01 11:29:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1518,7 +1121,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:43:07",
+    "audited_at": "2026-11-01 11:29:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1537,7 +1140,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:43:12",
+    "audited_at": "2026-11-01 11:29:47",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1556,7 +1159,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:44:07",
+    "audited_at": "2026-11-01 11:30:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1575,7 +1178,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:44:11",
+    "audited_at": "2026-11-01 11:30:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1594,7 +1197,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:45:04",
+    "audited_at": "2026-11-01 11:31:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1613,7 +1216,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:45:06",
+    "audited_at": "2026-11-01 11:31:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1632,26 +1235,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:45:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 퍼실 딥클린 초미세세탁 라벤더젤 14,320원(15%↓)",
-      "sale_price": 14320,
-      "normal_price": 16900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9354349642&itemId=27981747687"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:46:14",
+    "audited_at": "2026-11-01 11:31:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1670,7 +1254,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:46:16",
+    "audited_at": "2026-11-01 11:31:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1689,26 +1273,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:46:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 퍼실 딥클린 엑스퍼트 베이비젤 11,140원(15%↓)",
-      "sale_price": 11140,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9413975948&itemId=27981810839"
-    }
-  },
-  {
-    "audited_at": "2026-11-01 10:47:27",
+    "audited_at": "2026-11-01 11:32:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1727,7 +1292,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:47:29",
+    "audited_at": "2026-11-01 11:32:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1746,7 +1311,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:48:21",
+    "audited_at": "2026-11-01 11:33:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1765,7 +1330,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:48:24",
+    "audited_at": "2026-11-01 11:33:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1784,7 +1349,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:49:14",
+    "audited_at": "2026-11-01 11:34:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1803,7 +1368,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:49:17",
+    "audited_at": "2026-11-01 11:34:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1822,7 +1387,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:50:10",
+    "audited_at": "2026-11-01 11:34:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1841,7 +1406,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:50:12",
+    "audited_at": "2026-11-01 11:34:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1860,7 +1425,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:51:04",
+    "audited_at": "2026-11-01 11:35:26",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1879,7 +1444,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:51:08",
+    "audited_at": "2026-11-01 11:35:29",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1898,7 +1463,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:51:57",
+    "audited_at": "2026-11-01 11:36:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1917,7 +1482,7 @@
     }
   },
   {
-    "audited_at": "2026-11-01 10:51:58",
+    "audited_at": "2026-11-01 11:36:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1933,6 +1498,405 @@
       "sale_price": 999000,
       "normal_price": 1178800,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:36:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:36:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:37:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:37:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:38:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:38:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:39:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:39:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:39:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:39:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:40:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:40:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:41:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:41:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:41:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:42:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:42:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:42:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:43:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 반영구 때밀이 샤워글러브 19,900원(15%↓)",
+      "sale_price": 19900,
+      "normal_price": 23500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9233513382&itemId=27296425609"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:43:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG 그램북 999,000원(15%↓)",
+      "sale_price": 999000,
+      "normal_price": 1178800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717979293&itemId=29080194649"
+    }
+  },
+  {
+    "audited_at": "2026-11-01 11:44:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 소고기버섯 비빔밥 (냉동) 10,470원(16%↓)",
+      "sale_price": 10470,
+      "normal_price": 12400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7539205355&itemId=20283660185"
     }
   }
 ]
