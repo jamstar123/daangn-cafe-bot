@@ -1,6 +1,6 @@
 [
   {
-    "audited_at": "2026-11-02 13:00:25",
+    "audited_at": "2026-11-02 13:57:13",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -19,7 +19,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:00:29",
+    "audited_at": "2026-11-02 13:57:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -38,7 +38,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:00:40",
+    "audited_at": "2026-11-02 13:57:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -57,28 +57,45 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:01:31",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
+    "audited_at": "2026-11-02 13:57:49",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
+      "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
     }
   },
   {
-    "audited_at": "2026-11-02 13:01:37",
+    "audited_at": "2026-11-02 13:58:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 13:58:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -97,7 +114,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:01:47",
+    "audited_at": "2026-11-02 13:59:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -116,7 +133,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:01:59",
+    "audited_at": "2026-11-02 13:59:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -135,28 +152,45 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:02:49",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
+    "audited_at": "2026-11-02 13:59:04",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
+      "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
     }
   },
   {
-    "audited_at": "2026-11-02 13:02:49",
+    "audited_at": "2026-11-02 13:59:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 13:59:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -175,7 +209,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:03:02",
+    "audited_at": "2026-11-02 14:00:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -194,7 +228,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:03:14",
+    "audited_at": "2026-11-02 14:00:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -213,28 +247,45 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:04:05",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
+    "audited_at": "2026-11-02 14:00:24",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
+      "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
     }
   },
   {
-    "audited_at": "2026-11-02 13:04:17",
+    "audited_at": "2026-11-02 14:00:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 14:01:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -253,7 +304,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:04:29",
+    "audited_at": "2026-11-02 14:01:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -272,7 +323,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:04:41",
+    "audited_at": "2026-11-02 14:01:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -291,28 +342,45 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:05:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
+    "audited_at": "2026-11-02 14:02:04",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
+      "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
     }
   },
   {
-    "audited_at": "2026-11-02 13:05:34",
+    "audited_at": "2026-11-02 14:02:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 14:03:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -331,7 +399,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:05:43",
+    "audited_at": "2026-11-02 14:03:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -350,7 +418,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:05:55",
+    "audited_at": "2026-11-02 14:03:35",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -369,28 +437,45 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:06:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
+    "audited_at": "2026-11-02 14:03:45",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
+      "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
     }
   },
   {
-    "audited_at": "2026-11-02 13:06:59",
+    "audited_at": "2026-11-02 14:03:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 14:04:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -409,7 +494,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:07:11",
+    "audited_at": "2026-11-02 14:04:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -428,7 +513,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:07:23",
+    "audited_at": "2026-11-02 14:05:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -447,47 +532,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:08:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:08:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원아미오 강아지 자연담은 간식 4,200원(16%↓)",
-      "sale_price": 4200,
-      "normal_price": 5000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9184463838&itemId=28748359708"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:08:40",
+    "audited_at": "2026-11-02 14:05:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -506,28 +551,26 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:09:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
+    "audited_at": "2026-11-02 14:05:27",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
+      "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
     }
   },
   {
-    "audited_at": "2026-11-02 13:09:52",
+    "audited_at": "2026-11-02 14:06:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -546,7 +589,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:10:04",
+    "audited_at": "2026-11-02 14:06:29",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -565,7 +608,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:10:16",
+    "audited_at": "2026-11-02 14:06:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -584,7 +627,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:10:22",
+    "audited_at": "2026-11-02 14:06:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -603,28 +646,26 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:11:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
+    "audited_at": "2026-11-02 14:06:47",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
+      "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
     }
   },
   {
-    "audited_at": "2026-11-02 13:11:29",
+    "audited_at": "2026-11-02 14:07:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -643,7 +684,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:11:41",
+    "audited_at": "2026-11-02 14:07:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -662,7 +703,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:11:53",
+    "audited_at": "2026-11-02 14:08:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -681,7 +722,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:12:05",
+    "audited_at": "2026-11-02 14:08:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -700,7 +741,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:12:18",
+    "audited_at": "2026-11-02 14:08:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -719,28 +760,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:13:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:13:24",
+    "audited_at": "2026-11-02 14:09:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -759,7 +779,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:13:36",
+    "audited_at": "2026-11-02 14:09:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -778,7 +798,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:13:48",
+    "audited_at": "2026-11-02 14:09:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -797,7 +817,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:14:00",
+    "audited_at": "2026-11-02 14:09:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -816,7 +836,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:14:12",
+    "audited_at": "2026-11-02 14:09:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -835,28 +855,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:15:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:15:06",
+    "audited_at": "2026-11-02 14:10:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -875,7 +874,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:15:18",
+    "audited_at": "2026-11-02 14:10:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -894,7 +893,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:15:30",
+    "audited_at": "2026-11-02 14:11:08",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -913,7 +912,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:15:42",
+    "audited_at": "2026-11-02 14:11:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -932,7 +931,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:15:55",
+    "audited_at": "2026-11-02 14:11:32",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -951,28 +950,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:16:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:16:55",
+    "audited_at": "2026-11-02 14:12:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -991,7 +969,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:17:07",
+    "audited_at": "2026-11-02 14:12:32",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1010,7 +988,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:17:19",
+    "audited_at": "2026-11-02 14:12:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1029,7 +1007,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:17:26",
+    "audited_at": "2026-11-02 14:12:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1048,7 +1026,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:17:38",
+    "audited_at": "2026-11-02 14:13:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1067,28 +1045,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:18:32",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:18:44",
+    "audited_at": "2026-11-02 14:13:53",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1107,7 +1064,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:18:56",
+    "audited_at": "2026-11-02 14:14:05",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1126,7 +1083,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:19:08",
+    "audited_at": "2026-11-02 14:14:17",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1145,7 +1102,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:19:21",
+    "audited_at": "2026-11-02 14:14:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1164,7 +1121,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:19:33",
+    "audited_at": "2026-11-02 14:14:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1183,28 +1140,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:20:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:20:38",
+    "audited_at": "2026-11-02 14:15:23",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1223,7 +1159,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:20:50",
+    "audited_at": "2026-11-02 14:15:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1242,7 +1178,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:21:02",
+    "audited_at": "2026-11-02 14:15:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1261,7 +1197,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:21:14",
+    "audited_at": "2026-11-02 14:15:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1280,7 +1216,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:21:27",
+    "audited_at": "2026-11-02 14:15:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1299,28 +1235,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:22:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:22:34",
+    "audited_at": "2026-11-02 14:16:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1339,7 +1254,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:22:46",
+    "audited_at": "2026-11-02 14:16:47",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1358,7 +1273,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:22:58",
+    "audited_at": "2026-11-02 14:16:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1377,7 +1292,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:23:10",
+    "audited_at": "2026-11-02 14:17:06",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1396,7 +1311,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:23:22",
+    "audited_at": "2026-11-02 14:17:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1415,28 +1330,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:24:04",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:24:16",
+    "audited_at": "2026-11-02 14:18:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1455,7 +1349,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:24:27",
+    "audited_at": "2026-11-02 14:18:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1474,7 +1368,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:24:39",
+    "audited_at": "2026-11-02 14:18:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1493,7 +1387,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:24:49",
+    "audited_at": "2026-11-02 14:18:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1512,7 +1406,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:25:01",
+    "audited_at": "2026-11-02 14:18:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1531,47 +1425,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:25:14",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (추가할인)에뛰드 왓츠인 마이 1,800원(14%↓)",
-      "sale_price": 1800,
-      "normal_price": 2100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8587642618&itemId=24967665801&vendorItemId=91973308151"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:26:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:26:24",
+    "audited_at": "2026-11-02 14:19:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1590,7 +1444,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:26:24",
+    "audited_at": "2026-11-02 14:19:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1609,7 +1463,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:26:30",
+    "audited_at": "2026-11-02 14:20:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1628,7 +1482,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:26:42",
+    "audited_at": "2026-11-02 14:20:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1647,7 +1501,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:26:54",
+    "audited_at": "2026-11-02 14:20:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1666,28 +1520,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:27:49",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:28:01",
+    "audited_at": "2026-11-02 14:21:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1706,7 +1539,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:28:13",
+    "audited_at": "2026-11-02 14:21:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1725,7 +1558,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:28:17",
+    "audited_at": "2026-11-02 14:21:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1744,7 +1577,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:28:29",
+    "audited_at": "2026-11-02 14:21:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1763,7 +1596,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:28:41",
+    "audited_at": "2026-11-02 14:22:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1782,47 +1615,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:28:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 426,860원(15%↓)",
-      "sale_price": 426860,
-      "normal_price": 503700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=25925961694&vendorItemId=93687596744"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:29:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 13:30:05",
+    "audited_at": "2026-11-02 14:23:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1841,7 +1634,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:30:17",
+    "audited_at": "2026-11-02 14:23:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1860,7 +1653,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:30:29",
+    "audited_at": "2026-11-02 14:23:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1879,7 +1672,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:30:41",
+    "audited_at": "2026-11-02 14:23:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1898,7 +1691,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:30:54",
+    "audited_at": "2026-11-02 14:23:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1917,7 +1710,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 13:31:06",
+    "audited_at": "2026-11-02 14:24:32",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1929,10 +1722,181 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] [로켓프레시] CJ제일제당 소바바 13,900원(15%↓)",
-      "sale_price": 13900,
-      "normal_price": 16400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9440621860&itemId=28512619980"
+      "title": "[역대가] [쿠팡] 풀무원아미오 강아지 자연담은 간식 4,200원(16%↓)",
+      "sale_price": 4200,
+      "normal_price": 5000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9184463838&itemId=28748359708"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 14:24:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 우렁 강된장, 150g, 8입 9,640원(15%↓)",
+      "sale_price": 9640,
+      "normal_price": 11400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5065842308&itemId=19225309632&vendorItemId=86341961454"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 14:24:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 18,460원(15%↓)",
+      "sale_price": 18460,
+      "normal_price": 21800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205177"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 14:24:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 14:25:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 14:26:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원아미오 강아지 자연담은 간식 4,200원(16%↓)",
+      "sale_price": 4200,
+      "normal_price": 5000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9184463838&itemId=28748359708"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 14:26:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 우렁 강된장, 150g, 8입 9,640원(15%↓)",
+      "sale_price": 9640,
+      "normal_price": 11400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5065842308&itemId=19225309632&vendorItemId=86341961454"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 14:26:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 18,460원(15%↓)",
+      "sale_price": 18460,
+      "normal_price": 21800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205177"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 14:26:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 14:26:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409&vendorItemId=86342056221"
     }
   }
 ]
