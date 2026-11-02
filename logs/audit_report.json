@@ -1,85 +1,5 @@
 [
   {
-    "audited_at": "2026-11-02 11:10:56",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:11:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:11:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:12:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
     "audited_at": "2026-11-02 11:12:09",
     "passed_all": true,
     "violations": [],
@@ -1963,6 +1883,84 @@
       "sale_price": 9400,
       "normal_price": 11100,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9069279280&itemId=2654582269"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:50:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:50:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
+      "sale_price": 28740,
+      "normal_price": 33900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:50:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:50:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 로지텍 마우스 장패드, 2개 4,990원(15%↓)",
+      "sale_price": 4990,
+      "normal_price": 5900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7375039108&itemId=25891315748&vendorItemId=92877219549"
     }
   }
 ]
