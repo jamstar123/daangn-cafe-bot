@@ -1,203 +1,5 @@
 [
   {
-    "audited_at": "2026-11-02 08:14:02",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 08:14:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 08:15:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 08:15:08",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 08:15:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 08:16:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 08:16:15",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 08:16:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 08:17:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 08:17:20",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
     "audited_at": "2026-11-02 08:17:32",
     "passed_all": true,
     "violations": [],
@@ -1935,6 +1737,196 @@
       "sale_price": 28740,
       "normal_price": 33900,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 08:56:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 08:56:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
+      "sale_price": 13200,
+      "normal_price": 15600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 08:57:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
+      "sale_price": 28740,
+      "normal_price": 33900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 08:57:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 08:57:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
+      "sale_price": 13200,
+      "normal_price": 15600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 08:58:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
+      "sale_price": 28740,
+      "normal_price": 33900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 08:58:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 08:59:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
+      "sale_price": 13200,
+      "normal_price": 15600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 08:59:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
+      "sale_price": 28740,
+      "normal_price": 33900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 08:59:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (와멤데쿠폰)BRAUN 시리즈 5+ 76,100원(15%↓)",
+      "sale_price": 76100,
+      "normal_price": 89800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9422467529&itemId=28006093044&vendorItemId=94963532047"
     }
   }
 ]
