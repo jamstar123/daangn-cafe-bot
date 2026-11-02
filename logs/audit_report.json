@@ -1,800 +1,5 @@
 [
   {
-    "audited_at": "2026-11-02 01:13:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
-      "sale_price": 4760,
-      "normal_price": 5600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:13:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
-      "sale_price": 12000,
-      "normal_price": 14200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:14:09",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크레아틴 미국산 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A0%88%EC%95%84%ED%8B%B4%20%EB%AF%B8%EA%B5%AD%EC%82%B0&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:14:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
-      "sale_price": 27410,
-      "normal_price": 32300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:14:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
-      "sale_price": 8090,
-      "normal_price": 9500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:14:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
-      "sale_price": 4760,
-      "normal_price": 5600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:14:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
-      "sale_price": 12000,
-      "normal_price": 14200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:15:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크레아틴 미국산 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A0%88%EC%95%84%ED%8B%B4%20%EB%AF%B8%EA%B5%AD%EC%82%B0&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:16:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
-      "sale_price": 27410,
-      "normal_price": 32300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:16:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
-      "sale_price": 8090,
-      "normal_price": 9500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:16:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
-      "sale_price": 4760,
-      "normal_price": 5600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:16:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
-      "sale_price": 12000,
-      "normal_price": 14200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:17:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크레아틴 미국산 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A0%88%EC%95%84%ED%8B%B4%20%EB%AF%B8%EA%B5%AD%EC%82%B0&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:17:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
-      "sale_price": 27410,
-      "normal_price": 32300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:18:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
-      "sale_price": 8090,
-      "normal_price": 9500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:18:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
-      "sale_price": 4760,
-      "normal_price": 5600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:18:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
-      "sale_price": 12000,
-      "normal_price": 14200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:18:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린랩 은사니트 수세미 소 7,650원(15%↓)",
-      "sale_price": 7650,
-      "normal_price": 9000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6446758495&itemId=20806854130"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:19:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크레아틴 미국산 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A0%88%EC%95%84%ED%8B%B4%20%EB%AF%B8%EA%B5%AD%EC%82%B0&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:19:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
-      "sale_price": 27410,
-      "normal_price": 32300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:19:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
-      "sale_price": 8090,
-      "normal_price": 9500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:19:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
-      "sale_price": 4760,
-      "normal_price": 5600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:19:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
-      "sale_price": 12000,
-      "normal_price": 14200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:20:45",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크레아틴 미국산 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A0%88%EC%95%84%ED%8B%B4%20%EB%AF%B8%EA%B5%AD%EC%82%B0&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:20:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
-      "sale_price": 27410,
-      "normal_price": 32300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:21:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
-      "sale_price": 8090,
-      "normal_price": 9500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:21:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
-      "sale_price": 4760,
-      "normal_price": 5600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:21:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
-      "sale_price": 12000,
-      "normal_price": 14200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:21:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데 쿠폰)크리넥스 데코 앤 23,820원(15%↓)",
-      "sale_price": 23820,
-      "normal_price": 28100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=307020051&itemId=20484538120&vendorItemId=5375350783"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:22:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크레아틴 미국산 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A0%88%EC%95%84%ED%8B%B4%20%EB%AF%B8%EA%B5%AD%EC%82%B0&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:22:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
-      "sale_price": 27410,
-      "normal_price": 32300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:23:11",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
-      "sale_price": 8090,
-      "normal_price": 9500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:23:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
-      "sale_price": 4760,
-      "normal_price": 5600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:23:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
-      "sale_price": 12000,
-      "normal_price": 14200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:24:29",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크레아틴 미국산 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A0%88%EC%95%84%ED%8B%B4%20%EB%AF%B8%EA%B5%AD%EC%82%B0&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:24:41",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
-      "sale_price": 27410,
-      "normal_price": 32300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:24:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
-      "sale_price": 8090,
-      "normal_price": 9500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:25:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
-      "sale_price": 4760,
-      "normal_price": 5600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:25:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
-      "sale_price": 12000,
-      "normal_price": 14200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:26:14",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크레아틴 미국산 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A0%88%EC%95%84%ED%8B%B4%20%EB%AF%B8%EA%B5%AD%EC%82%B0&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 01:26:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
-      "sale_price": 27410,
-      "normal_price": 32300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
-    }
-  },
-  {
     "audited_at": "2026-11-02 01:26:37",
     "passed_all": true,
     "violations": [],
@@ -1923,6 +1128,785 @@
       "sale_price": 1407030,
       "normal_price": 1660300,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9254540118&itemId=27375892893&vendorItemId=94341788006"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:46:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
+      "sale_price": 27410,
+      "normal_price": 32300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:46:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
+      "sale_price": 8090,
+      "normal_price": 9500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:46:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
+      "sale_price": 4760,
+      "normal_price": 5600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:46:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
+      "sale_price": 12000,
+      "normal_price": 14200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:46:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 유하미카쿠토 특농 밀크 8.2, 12,470원(15%↓)",
+      "sale_price": 12470,
+      "normal_price": 14700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7956597966&itemId=21984035927&vendorItemId=88742366477"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:47:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
+      "sale_price": 27410,
+      "normal_price": 32300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:48:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
+      "sale_price": 8090,
+      "normal_price": 9500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:48:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
+      "sale_price": 4760,
+      "normal_price": 5600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:48:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
+      "sale_price": 12000,
+      "normal_price": 14200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:48:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 유하미카쿠토 특농 밀크 8.2, 12,470원(15%↓)",
+      "sale_price": 12470,
+      "normal_price": 14700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7956597966&itemId=21984035927&vendorItemId=88742366477"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:49:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
+      "sale_price": 27410,
+      "normal_price": 32300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:49:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
+      "sale_price": 8090,
+      "normal_price": 9500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:50:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
+      "sale_price": 4760,
+      "normal_price": 5600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:50:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
+      "sale_price": 12000,
+      "normal_price": 14200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:50:26",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 유하미카쿠토 특농 밀크 8.2, 12,470원(15%↓)",
+      "sale_price": 12470,
+      "normal_price": 14700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7956597966&itemId=21984035927&vendorItemId=88742366477"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:51:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
+      "sale_price": 27410,
+      "normal_price": 32300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:51:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
+      "sale_price": 8090,
+      "normal_price": 9500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:51:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
+      "sale_price": 4760,
+      "normal_price": 5600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:51:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
+      "sale_price": 12000,
+      "normal_price": 14200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:52:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 유하미카쿠토 특농 밀크 8.2, 12,470원(15%↓)",
+      "sale_price": 12470,
+      "normal_price": 14700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7956597966&itemId=21984035927&vendorItemId=88742366477"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:53:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
+      "sale_price": 27410,
+      "normal_price": 32300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:53:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
+      "sale_price": 8090,
+      "normal_price": 9500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:53:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
+      "sale_price": 4760,
+      "normal_price": 5600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:53:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
+      "sale_price": 12000,
+      "normal_price": 14200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:53:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 유하미카쿠토 특농 밀크 8.2, 12,470원(15%↓)",
+      "sale_price": 12470,
+      "normal_price": 14700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7956597966&itemId=21984035927&vendorItemId=88742366477"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:54:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
+      "sale_price": 27410,
+      "normal_price": 32300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:55:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
+      "sale_price": 8090,
+      "normal_price": 9500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:55:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
+      "sale_price": 4760,
+      "normal_price": 5600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:55:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
+      "sale_price": 12000,
+      "normal_price": 14200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:55:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 유하미카쿠토 특농 밀크 8.2, 12,470원(15%↓)",
+      "sale_price": 12470,
+      "normal_price": 14700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7956597966&itemId=21984035927&vendorItemId=88742366477"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:56:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
+      "sale_price": 27410,
+      "normal_price": 32300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:56:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
+      "sale_price": 8090,
+      "normal_price": 9500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:56:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
+      "sale_price": 4760,
+      "normal_price": 5600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:56:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
+      "sale_price": 12000,
+      "normal_price": 14200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:57:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 유하미카쿠토 특농 밀크 8.2, 12,470원(15%↓)",
+      "sale_price": 12470,
+      "normal_price": 14700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7956597966&itemId=21984035927&vendorItemId=88742366477"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:57:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 27,410원(15%↓)",
+      "sale_price": 27410,
+      "normal_price": 32300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094692&vendorItemId=86349564633"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:58:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위크위크서울 바질페스토 소스, 8,090원(15%↓)",
+      "sale_price": 8090,
+      "normal_price": 9500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1909232401&itemId=3241829089&vendorItemId=71229019245"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:58:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 냉면 2인분, 846g, 4,760원(15%↓)",
+      "sale_price": 4760,
+      "normal_price": 5600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=20844156454&vendorItemId=87911769887"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:58:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이니 셀프케어 생생톡톡 비타C 12,000원(15%↓)",
+      "sale_price": 12000,
+      "normal_price": 14200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7689921905&itemId=22213398416&vendorItemId=85873686415"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:58:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 유하미카쿠토 특농 밀크 8.2, 12,470원(15%↓)",
+      "sale_price": 12470,
+      "normal_price": 14700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7956597966&itemId=21984035927&vendorItemId=88742366477"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 01:59:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 햇반 백미밥 작은 공기, 130g, 22,900원(20%↓)",
+      "sale_price": 22900,
+      "normal_price": 28800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9775759012&itemId=29263841525&vendorItemId=3064140291"
     }
   }
 ]
