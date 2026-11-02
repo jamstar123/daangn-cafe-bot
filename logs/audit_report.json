@@ -1,261 +1,6 @@
 [
   {
-    "audited_at": "2026-11-02 04:52:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:52:46",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:52:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:52:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:53:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:53:41",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:53:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:54:32",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:54:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:54:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:55:24",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:55:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:55:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:56:31",
+    "audited_at": "2026-11-02 05:42:53",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -274,26 +19,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 04:57:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:57:31",
+    "audited_at": "2026-11-02 05:42:54",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -314,7 +40,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 04:57:34",
+    "audited_at": "2026-11-02 05:42:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -333,26 +59,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 04:57:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:58:29",
+    "audited_at": "2026-11-02 05:43:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -371,7 +78,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 04:58:33",
+    "audited_at": "2026-11-02 05:43:50",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -392,7 +99,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 04:58:37",
+    "audited_at": "2026-11-02 05:43:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -411,45 +118,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 04:58:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:59:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 백설 돼지갈비 양념, 840g, 1개 2,480원(14%↓)",
-      "sale_price": 2480,
-      "normal_price": 2900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8181542441&itemId=19310294462&vendorItemId=3034232401"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 04:59:58",
+    "audited_at": "2026-11-02 05:44:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -468,7 +137,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 04:59:59",
+    "audited_at": "2026-11-02 05:44:48",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -489,7 +158,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:00:02",
+    "audited_at": "2026-11-02 05:44:53",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -508,26 +177,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:00:14",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:01:07",
+    "audited_at": "2026-11-02 05:45:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -546,7 +196,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:01:08",
+    "audited_at": "2026-11-02 05:45:48",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -567,7 +217,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:01:11",
+    "audited_at": "2026-11-02 05:45:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -586,26 +236,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:01:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:02:14",
+    "audited_at": "2026-11-02 05:46:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -624,7 +255,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:02:16",
+    "audited_at": "2026-11-02 05:46:45",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -645,7 +276,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:02:19",
+    "audited_at": "2026-11-02 05:46:47",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -664,26 +295,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:02:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:03:22",
+    "audited_at": "2026-11-02 05:47:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -702,7 +314,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:03:23",
+    "audited_at": "2026-11-02 05:47:39",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -723,7 +335,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:03:25",
+    "audited_at": "2026-11-02 05:47:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -742,26 +354,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:03:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:04:30",
+    "audited_at": "2026-11-02 05:48:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -780,7 +373,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:04:32",
+    "audited_at": "2026-11-02 05:48:29",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -801,7 +394,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:04:35",
+    "audited_at": "2026-11-02 05:48:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -820,26 +413,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:04:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:05:40",
+    "audited_at": "2026-11-02 05:49:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -858,7 +432,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:05:42",
+    "audited_at": "2026-11-02 05:49:23",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -879,7 +453,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:05:43",
+    "audited_at": "2026-11-02 05:49:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -898,26 +472,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:05:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:06:47",
+    "audited_at": "2026-11-02 05:50:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -936,7 +491,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:06:49",
+    "audited_at": "2026-11-02 05:50:19",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -957,7 +512,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:06:51",
+    "audited_at": "2026-11-02 05:50:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -976,26 +531,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:06:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:07:47",
+    "audited_at": "2026-11-02 05:51:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1014,7 +550,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:07:48",
+    "audited_at": "2026-11-02 05:51:04",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1035,7 +571,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:07:49",
+    "audited_at": "2026-11-02 05:51:06",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1054,26 +590,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:07:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:08:49",
+    "audited_at": "2026-11-02 05:51:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1092,7 +609,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:08:52",
+    "audited_at": "2026-11-02 05:51:57",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1113,7 +630,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:08:53",
+    "audited_at": "2026-11-02 05:51:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1132,26 +649,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:09:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:10:02",
+    "audited_at": "2026-11-02 05:52:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1170,7 +668,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:10:04",
+    "audited_at": "2026-11-02 05:52:50",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1191,7 +689,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:10:08",
+    "audited_at": "2026-11-02 05:52:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1210,26 +708,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:10:20",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:11:11",
+    "audited_at": "2026-11-02 05:53:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1248,7 +727,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:11:14",
+    "audited_at": "2026-11-02 05:53:45",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1269,7 +748,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:11:16",
+    "audited_at": "2026-11-02 05:53:48",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1288,26 +767,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:11:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:12:22",
+    "audited_at": "2026-11-02 05:54:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1326,7 +786,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:12:23",
+    "audited_at": "2026-11-02 05:54:40",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1347,7 +807,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:12:25",
+    "audited_at": "2026-11-02 05:54:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1366,26 +826,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:12:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:13:30",
+    "audited_at": "2026-11-02 05:55:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1404,7 +845,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:13:31",
+    "audited_at": "2026-11-02 05:55:41",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1425,7 +866,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:13:33",
+    "audited_at": "2026-11-02 05:55:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1444,26 +885,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:13:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:14:37",
+    "audited_at": "2026-11-02 05:56:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1482,7 +904,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:14:41",
+    "audited_at": "2026-11-02 05:56:34",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1503,7 +925,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:14:44",
+    "audited_at": "2026-11-02 05:56:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1522,26 +944,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:14:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:15:46",
+    "audited_at": "2026-11-02 05:57:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1560,7 +963,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:15:47",
+    "audited_at": "2026-11-02 05:57:28",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1581,7 +984,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:15:48",
+    "audited_at": "2026-11-02 05:57:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1600,26 +1003,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:16:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:16:52",
+    "audited_at": "2026-11-02 05:58:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1638,7 +1022,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:16:55",
+    "audited_at": "2026-11-02 05:58:25",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1659,7 +1043,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:16:57",
+    "audited_at": "2026-11-02 05:58:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1678,26 +1062,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:17:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:18:03",
+    "audited_at": "2026-11-02 05:59:17",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1716,7 +1081,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:18:06",
+    "audited_at": "2026-11-02 05:59:20",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1737,7 +1102,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:18:08",
+    "audited_at": "2026-11-02 05:59:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1756,26 +1121,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:18:20",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:19:11",
+    "audited_at": "2026-11-02 06:00:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1794,7 +1140,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:19:14",
+    "audited_at": "2026-11-02 06:00:22",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1815,7 +1161,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:19:16",
+    "audited_at": "2026-11-02 06:00:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1834,26 +1180,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:19:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:20:20",
+    "audited_at": "2026-11-02 06:01:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1872,7 +1199,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:20:24",
+    "audited_at": "2026-11-02 06:01:17",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1893,7 +1220,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:20:26",
+    "audited_at": "2026-11-02 06:01:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1912,7 +1239,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 05:20:38",
+    "audited_at": "2026-11-02 06:02:08",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1924,14 +1251,35 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 19,910원(15%↓)",
-      "sale_price": 19910,
-      "normal_price": 23500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233173888&vendorItemId=86349641859"
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
     }
   },
   {
-    "audited_at": "2026-11-02 05:20:50",
+    "audited_at": "2026-11-02 06:02:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:02:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1943,10 +1291,678 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 곰곰 돌돌이 무연골 대패 삼겹살 15,960원(15%↓)",
-      "sale_price": 15960,
-      "normal_price": 18800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9217072682&itemId=24070612663&vendorItemId=91090339587"
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:03:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:03:03",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:03:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:03:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:03:59",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:04:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:04:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:04:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:04:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:05:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:05:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:05:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:06:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:06:38",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:06:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:07:26",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(20%↓)",
+      "sale_price": 143610,
+      "normal_price": 179490,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:07:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:07:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:08:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:08:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:08:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:09:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:09:34",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:09:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:10:26",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:10:29",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:10:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:11:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:11:23",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:11:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:12:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:12:21",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:12:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:12:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 환타 파인애플, 350ml, 24개 13,790원(15%↓)",
+      "sale_price": 13790,
+      "normal_price": 16300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8144847015&itemId=24371258214"
     }
   }
 ]
