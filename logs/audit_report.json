@@ -1,62 +1,5 @@
 [
   {
-    "audited_at": "2026-11-02 18:12:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 베이컨 오리지널, 34,960원(15%↓)",
-      "sale_price": 34960,
-      "normal_price": 41300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=129241455&itemId=19272259955&vendorItemId=86387428401"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 18:13:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 베이컨 오리지널, 34,960원(15%↓)",
-      "sale_price": 34960,
-      "normal_price": 41300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=129241455&itemId=19272259955&vendorItemId=86387428401"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 18:14:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 베이컨 오리지널, 34,960원(15%↓)",
-      "sale_price": 34960,
-      "normal_price": 41300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=129241455&itemId=19272259955&vendorItemId=86387428401"
-    }
-  },
-  {
     "audited_at": "2026-11-02 18:15:08",
     "passed_all": true,
     "violations": [],
@@ -1899,6 +1842,65 @@
       "sale_price": 6860,
       "normal_price": 8100,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8289774120&itemId=20914012605&vendorItemId=87980933291"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 22:08:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 프레시 모이스처라이징 4,400원(15%↓)",
+      "sale_price": 4400,
+      "normal_price": 5200,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%ED%94%84%EB%A0%88%EC%8B%9C%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%EB%9D%BC%EC%9D%B4%EC%A7%95%20%EB%B0%94%EB%94%94%EC%9B%8C%EC%8B%9C%20%EB%9D%BC%EB%B2%A4%EB%8D%94%20%EC%B9%B4%EB%B0%8D%2C%20900ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 22:08:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 12,720원(15%↓)",
+      "sale_price": 12720,
+      "normal_price": 15000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214873&vendorItemId=86554190529"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 22:08:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 프레시 모이스처라이징 4,400원(15%↓)",
+      "sale_price": 4400,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8249755567&itemId=23748744788&vendorItemId=90773287122"
     }
   }
 ]
