@@ -1,673 +1,5 @@
 [
   {
-    "audited_at": "2026-11-02 05:42:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:42:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:42:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:43:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:43:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:43:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:44:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:44:48",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:44:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:45:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:45:48",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:45:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:46:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:46:45",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:46:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:47:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:47:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:47:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:48:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:48:29",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:48:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:49:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:49:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:49:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:50:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:50:19",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:50:20",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:51:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:51:04",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:51:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:51:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:51:57",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
-      "sale_price": 143610,
-      "normal_price": 169500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:51:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
-      "sale_price": 135000,
-      "normal_price": 159300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 05:52:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
-      "sale_price": 13520,
-      "normal_price": 16000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
-    }
-  },
-  {
     "audited_at": "2026-11-02 05:52:50",
     "passed_all": false,
     "violations": [
@@ -1963,6 +1295,674 @@
       "sale_price": 13790,
       "normal_price": 16300,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8144847015&itemId=24371258214"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:13:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:13:32",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:13:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:14:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:14:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:14:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:15:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:15:22",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:15:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:16:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:16:17",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:16:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:17:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:17:16",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:17:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:18:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:18:11",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:18:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:19:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:19:04",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:19:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:19:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:19:57",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:20:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:20:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:20:55",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:20:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:21:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:21:49",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:21:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:22:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 13,520원(16%↓)",
+      "sale_price": 13520,
+      "normal_price": 16000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971&vendorItemId=86614946235"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:22:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] LG PC모니터 27MS500 143,610원(15%↓)",
+      "sale_price": 143610,
+      "normal_price": 169500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=LG%20PC%EB%AA%A8%EB%8B%88%ED%84%B0%2027MS500&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:22:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에디파이어 바이앰프 2.0 135,000원(15%↓)",
+      "sale_price": 135000,
+      "normal_price": 159300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1&vendorItemId=95774265377"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 06:23:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 베베숲 홈 섬유유연제 브리즈가든향 31,900원(25%↓)",
+      "sale_price": 31900,
+      "normal_price": 42540,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7849471804&itemId=21391407218&vendorItemId=90026162178"
     }
   }
 ]
