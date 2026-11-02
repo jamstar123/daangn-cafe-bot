@@ -1,82 +1,27 @@
 [
   {
-    "audited_at": "2026-11-02 09:58:53",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:10:56",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 09:59:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 09:59:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 09:59:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 10:00:09",
+    "audited_at": "2026-11-02 11:11:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -95,7 +40,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:00:14",
+    "audited_at": "2026-11-02 11:11:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -114,26 +59,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:01:04",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:12:06",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:01:16",
+    "audited_at": "2026-11-02 11:12:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -152,7 +99,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:01:28",
+    "audited_at": "2026-11-02 11:12:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -171,26 +118,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:02:22",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:12:59",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:02:22",
+    "audited_at": "2026-11-02 11:13:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -209,7 +158,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:02:22",
+    "audited_at": "2026-11-02 11:13:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -228,26 +177,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:03:15",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:14:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:03:27",
+    "audited_at": "2026-11-02 11:14:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -266,7 +217,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:03:39",
+    "audited_at": "2026-11-02 11:14:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -285,26 +236,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:04:30",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:15:29",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:04:32",
+    "audited_at": "2026-11-02 11:15:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -323,7 +276,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:04:45",
+    "audited_at": "2026-11-02 11:15:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -342,26 +295,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:05:35",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:16:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:05:47",
+    "audited_at": "2026-11-02 11:16:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -380,7 +335,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:05:59",
+    "audited_at": "2026-11-02 11:16:48",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -399,26 +354,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:06:51",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:17:38",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:07:03",
+    "audited_at": "2026-11-02 11:17:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -437,7 +394,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:07:03",
+    "audited_at": "2026-11-02 11:18:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -456,26 +413,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:07:54",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:18:55",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:08:04",
+    "audited_at": "2026-11-02 11:18:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -494,7 +453,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:08:04",
+    "audited_at": "2026-11-02 11:19:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -513,26 +472,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:08:57",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:20:01",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:09:09",
+    "audited_at": "2026-11-02 11:20:13",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -551,7 +512,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:09:21",
+    "audited_at": "2026-11-02 11:20:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -570,45 +531,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:09:25",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:21:16",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 56,290원(15%↓)",
-      "sale_price": 56290,
-      "normal_price": 66400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176462&vendorItemId=92316130992"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:10:22",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 10:10:34",
+    "audited_at": "2026-11-02 11:21:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -627,7 +571,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:10:47",
+    "audited_at": "2026-11-02 11:21:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -646,45 +590,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:10:59",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:22:34",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] New 버팔로윙 (냉동), 1kg, 24,620원(15%↓)",
-      "sale_price": 24620,
-      "normal_price": 29100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8379838354&itemId=24284726584"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:11:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 10:12:10",
+    "audited_at": "2026-11-02 11:22:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -703,7 +630,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:12:22",
+    "audited_at": "2026-11-02 11:22:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -722,26 +649,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:13:12",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:23:42",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:13:24",
+    "audited_at": "2026-11-02 11:23:48",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -760,7 +689,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:13:36",
+    "audited_at": "2026-11-02 11:23:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -779,26 +708,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:14:27",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:24:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:14:39",
+    "audited_at": "2026-11-02 11:24:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -817,7 +748,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:14:51",
+    "audited_at": "2026-11-02 11:25:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -836,26 +767,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:15:42",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:25:59",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:15:54",
+    "audited_at": "2026-11-02 11:26:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -874,7 +807,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:16:06",
+    "audited_at": "2026-11-02 11:26:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -893,26 +826,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:16:58",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:27:14",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:17:10",
+    "audited_at": "2026-11-02 11:27:26",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -931,7 +866,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:17:16",
+    "audited_at": "2026-11-02 11:27:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -950,26 +885,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:18:07",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:28:30",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:18:15",
+    "audited_at": "2026-11-02 11:28:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -988,7 +925,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:18:15",
+    "audited_at": "2026-11-02 11:28:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1007,26 +944,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:19:06",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:29:33",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:19:14",
+    "audited_at": "2026-11-02 11:29:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1045,7 +984,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:19:23",
+    "audited_at": "2026-11-02 11:29:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1064,26 +1003,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:20:10",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:30:48",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:20:21",
+    "audited_at": "2026-11-02 11:31:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1102,7 +1043,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:20:33",
+    "audited_at": "2026-11-02 11:31:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1121,26 +1062,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:21:24",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:32:08",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:21:36",
+    "audited_at": "2026-11-02 11:32:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1159,7 +1102,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:21:49",
+    "audited_at": "2026-11-02 11:32:32",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1178,26 +1121,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:22:39",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:33:22",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 뷰젤 리페어 스타트3 탄 베이스 13,200원(15%↓)",
-      "sale_price": 13200,
-      "normal_price": 15600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1604824933&itemId=19167753380&vendorItemId=86286059760"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:22:43",
+    "audited_at": "2026-11-02 11:33:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1216,7 +1161,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:22:56",
+    "audited_at": "2026-11-02 11:33:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1235,7 +1180,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:23:46",
+    "audited_at": "2026-11-02 11:34:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:34:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1254,7 +1220,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:23:48",
+    "audited_at": "2026-11-02 11:34:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1273,7 +1239,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:24:39",
+    "audited_at": "2026-11-02 11:35:32",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:35:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1292,7 +1279,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:24:51",
+    "audited_at": "2026-11-02 11:35:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1311,7 +1298,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:25:41",
+    "audited_at": "2026-11-02 11:36:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:37:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1330,7 +1338,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:25:53",
+    "audited_at": "2026-11-02 11:37:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1349,7 +1357,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:26:43",
+    "audited_at": "2026-11-02 11:37:54",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:38:06",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1368,7 +1397,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:26:55",
+    "audited_at": "2026-11-02 11:38:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1387,7 +1416,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:27:46",
+    "audited_at": "2026-11-02 11:39:07",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:39:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1406,7 +1456,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:27:58",
+    "audited_at": "2026-11-02 11:39:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1425,7 +1475,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:28:49",
+    "audited_at": "2026-11-02 11:40:19",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:40:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1444,7 +1515,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:28:50",
+    "audited_at": "2026-11-02 11:40:41",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1463,26 +1534,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:29:02",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-02 11:41:33",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
       "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
+      "realistic_pricing": "FAIL",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 미샤 트리플 아이섀도우 2g 2,400원(14%↓)",
-      "sale_price": 2400,
-      "normal_price": 2800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=33171511&itemId=124670294"
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
     }
   },
   {
-    "audited_at": "2026-11-02 10:29:57",
+    "audited_at": "2026-11-02 11:41:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1501,7 +1574,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:29:57",
+    "audited_at": "2026-11-02 11:41:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1520,7 +1593,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:30:46",
+    "audited_at": "2026-11-02 11:42:25",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:42:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1539,7 +1633,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:30:58",
+    "audited_at": "2026-11-02 11:42:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1558,7 +1652,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:31:48",
+    "audited_at": "2026-11-02 11:43:40",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:43:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1577,7 +1692,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:32:00",
+    "audited_at": "2026-11-02 11:44:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1596,7 +1711,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:32:51",
+    "audited_at": "2026-11-02 11:44:55",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:45:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1615,7 +1751,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:33:01",
+    "audited_at": "2026-11-02 11:45:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1634,7 +1770,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:33:50",
+    "audited_at": "2026-11-02 11:46:13",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:46:26",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1653,7 +1810,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:33:56",
+    "audited_at": "2026-11-02 11:46:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1672,7 +1829,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:34:45",
+    "audited_at": "2026-11-02 11:47:22",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:47:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1691,7 +1869,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:34:57",
+    "audited_at": "2026-11-02 11:47:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1710,7 +1888,28 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:35:48",
+    "audited_at": "2026-11-02 11:48:39",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:48:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1729,7 +1928,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:36:00",
+    "audited_at": "2026-11-02 11:49:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1748,7 +1947,7 @@
     }
   },
   {
-    "audited_at": "2026-11-02 10:36:53",
+    "audited_at": "2026-11-02 11:49:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1760,143 +1959,10 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 10:37:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 10:37:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연세두유 뼈를 생각한 고칼슘 두유 8,650원(15%↓)",
-      "sale_price": 8650,
-      "normal_price": 10200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7757580187&itemId=28180431461"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 10:38:14",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 10:38:14",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 10:38:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 10:39:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 10:39:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] [로켓프레시] 다담 국물떡볶이 양념 1,980원(14%↓)",
-      "sale_price": 1980,
-      "normal_price": 2300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8316114907&itemId=24000067585"
+      "title": "[역대가] [쿠팡] 가격 9,400원(15%↓)",
+      "sale_price": 9400,
+      "normal_price": 11100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9069279280&itemId=2654582269"
     }
   }
 ]
