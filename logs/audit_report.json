@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-02 17:29:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 베이컨 오리지널, 34,960원(15%↓)",
-      "sale_price": 34960,
-      "normal_price": 41300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=129241455&itemId=19272259955&vendorItemId=86387428401"
-    }
-  },
-  {
     "audited_at": "2026-11-02 17:30:15",
     "passed_all": true,
     "violations": [],
@@ -1897,6 +1878,25 @@
       "sale_price": 34960,
       "normal_price": 41300,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=129241455&itemId=19272259955&vendorItemId=86387428401"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 21:27:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 12,720원(15%↓)",
+      "sale_price": 12720,
+      "normal_price": 15000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214873&vendorItemId=86554190529"
     }
   }
 ]
