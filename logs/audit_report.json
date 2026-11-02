@@ -1,633 +1,5 @@
 [
   {
-    "audited_at": "2026-11-02 11:12:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:12:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:12:59",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:13:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:13:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:14:10",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:14:22",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:14:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:15:29",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:15:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:15:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:16:37",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:16:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:16:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:17:38",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:17:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:18:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:18:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:18:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:19:11",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:20:01",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:20:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:20:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:21:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:21:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:21:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:22:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:22:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:22:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:23:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
-      "sale_price": 19930,
-      "normal_price": 34560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:23:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
-      "sale_price": 28740,
-      "normal_price": 33900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
-    }
-  },
-  {
-    "audited_at": "2026-11-02 11:23:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
-      "sale_price": 33460,
-      "normal_price": 39500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
-    }
-  },
-  {
     "audited_at": "2026-11-02 11:24:45",
     "passed_all": false,
     "violations": [
@@ -1961,6 +1333,644 @@
       "sale_price": 4990,
       "normal_price": 5900,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7375039108&itemId=25891315748&vendorItemId=92877219549"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:51:41",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:51:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
+      "sale_price": 28740,
+      "normal_price": 33900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:51:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:52:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:52:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (와멤데쿠폰) 사무실 과자세트 스낵 28,740원(15%↓)",
+      "sale_price": 28740,
+      "normal_price": 33900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9581703313&itemId=28601656477&vendorItemId=95545248077"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:53:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:54:01",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:54:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:54:51",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:55:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:55:55",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:56:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:56:57",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:56:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:57:46",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:57:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:58:48",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:59:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:59:49",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 11:59:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 12:00:41",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 12:00:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 12:01:32",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 12:01:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 12:02:23",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 12:02:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 12:03:01",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 12:03:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 12:04:04",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 12:04:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 33,460원(15%↓)",
+      "sale_price": 33460,
+      "normal_price": 39500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597940149&vendorItemId=86705159827"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 12:05:09",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,930원 대비 정상가가 34,560원(차액 14,630원, 1.73배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] (와멤데 쿠폰)코카콜라 19,930원(42%↓)",
+      "sale_price": 19930,
+      "normal_price": 34560,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7566747125&itemId=24967111280&vendorItemId=91892104543"
+    }
+  },
+  {
+    "audited_at": "2026-11-02 12:05:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 우렁 강된장, 150g, 8입 9,640원(15%↓)",
+      "sale_price": 9640,
+      "normal_price": 11400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5065842308&itemId=19225309632&vendorItemId=86341961454"
     }
   }
 ]
