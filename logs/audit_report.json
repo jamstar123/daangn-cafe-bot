@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-03 01:08:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
-      "sale_price": 12980,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
-    }
-  },
-  {
     "audited_at": "2026-11-03 01:09:48",
     "passed_all": false,
     "violations": [
@@ -1921,6 +1902,25 @@
       "sale_price": 25970,
       "normal_price": 30600,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1207037903&itemId=21947678535&vendorItemId=3008436224"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 02:14:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 7D 건조망고, 80g, 5개입 13,750원(15%↓)",
+      "sale_price": 13750,
+      "normal_price": 16200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1485959652&itemId=2551868982&vendorItemId=70544442350"
     }
   }
 ]
