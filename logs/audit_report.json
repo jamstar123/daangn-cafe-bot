@@ -1,901 +1,5 @@
 [
   {
-    "audited_at": "2026-11-03 00:51:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 350,270원(15%↓)",
-      "sale_price": 350270,
-      "normal_price": 413300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=27966258665"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:51:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
-      "sale_price": 9780,
-      "normal_price": 11500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:51:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
-      "sale_price": 12980,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:52:49",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 9,400원 대비 정상가가 33,000원(차액 23,600원, 3.51배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 얼라이브 속편한 지속성 비타민C 9,400원(72%↓)",
-      "sale_price": 9400,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8634842837&itemId=25755923604&vendorItemId=94167001267"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:53:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 350,270원(15%↓)",
-      "sale_price": 350270,
-      "normal_price": 413300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=27966258665"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:53:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
-      "sale_price": 9780,
-      "normal_price": 11500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:53:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
-      "sale_price": 12980,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:54:15",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 9,400원 대비 정상가가 33,000원(차액 23,600원, 3.51배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 얼라이브 속편한 지속성 비타민C 9,400원(72%↓)",
-      "sale_price": 9400,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8634842837&itemId=25755923604&vendorItemId=94167001267"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:54:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 350,270원(15%↓)",
-      "sale_price": 350270,
-      "normal_price": 413300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=27966258665"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:54:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
-      "sale_price": 9780,
-      "normal_price": 11500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:54:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
-      "sale_price": 12980,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:55:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 9,400원 대비 정상가가 33,000원(차액 23,600원, 3.51배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 얼라이브 속편한 지속성 비타민C 9,400원(72%↓)",
-      "sale_price": 9400,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8634842837&itemId=25755923604&vendorItemId=94167001267"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:55:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 350,270원(15%↓)",
-      "sale_price": 350270,
-      "normal_price": 413300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=27966258665"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:55:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
-      "sale_price": 9780,
-      "normal_price": 11500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:56:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
-      "sale_price": 12980,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:57:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 9,400원 대비 정상가가 33,000원(차액 23,600원, 3.51배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 얼라이브 속편한 지속성 비타민C 9,400원(72%↓)",
-      "sale_price": 9400,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8634842837&itemId=25755923604&vendorItemId=94167001267"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:57:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 350,270원(15%↓)",
-      "sale_price": 350270,
-      "normal_price": 413300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=27966258665"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:57:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
-      "sale_price": 9780,
-      "normal_price": 11500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:57:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
-      "sale_price": 12980,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:57:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 9,400원 대비 정상가가 33,000원(차액 23,600원, 3.51배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 얼라이브 속편한 지속성 비타민C 9,400원(72%↓)",
-      "sale_price": 9400,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8634842837&itemId=25755923604&vendorItemId=94167001267"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:57:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 350,270원(15%↓)",
-      "sale_price": 350270,
-      "normal_price": 413300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=27966258665"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:58:11",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
-      "sale_price": 9780,
-      "normal_price": 11500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:58:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
-      "sale_price": 12980,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:59:13",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 9,400원 대비 정상가가 33,000원(차액 23,600원, 3.51배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 얼라이브 속편한 지속성 비타민C 9,400원(72%↓)",
-      "sale_price": 9400,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8634842837&itemId=25755923604&vendorItemId=94167001267"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:59:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 350,270원(15%↓)",
-      "sale_price": 350270,
-      "normal_price": 413300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=27966258665"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:59:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
-      "sale_price": 9780,
-      "normal_price": 11500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 00:59:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
-      "sale_price": 12980,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:00:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 9,400원 대비 정상가가 33,000원(차액 23,600원, 3.51배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 얼라이브 속편한 지속성 비타민C 9,400원(72%↓)",
-      "sale_price": 9400,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8634842837&itemId=25755923604&vendorItemId=94167001267"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:00:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 350,270원(15%↓)",
-      "sale_price": 350270,
-      "normal_price": 413300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=27966258665"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:01:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
-      "sale_price": 9780,
-      "normal_price": 11500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:01:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
-      "sale_price": 12980,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:02:07",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 9,400원 대비 정상가가 33,000원(차액 23,600원, 3.51배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 얼라이브 속편한 지속성 비타민C 9,400원(72%↓)",
-      "sale_price": 9400,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8634842837&itemId=25755923604&vendorItemId=94167001267"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:02:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 350,270원(15%↓)",
-      "sale_price": 350270,
-      "normal_price": 413300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=27966258665"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:02:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
-      "sale_price": 9780,
-      "normal_price": 11500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:02:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
-      "sale_price": 12980,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:03:30",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 9,400원 대비 정상가가 33,000원(차액 23,600원, 3.51배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 얼라이브 속편한 지속성 비타민C 9,400원(72%↓)",
-      "sale_price": 9400,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8634842837&itemId=25755923604&vendorItemId=94167001267"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:03:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 350,270원(15%↓)",
-      "sale_price": 350270,
-      "normal_price": 413300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=27966258665"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:03:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
-      "sale_price": 9780,
-      "normal_price": 11500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:04:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
-      "sale_price": 12980,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:04:56",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 9,400원 대비 정상가가 33,000원(차액 23,600원, 3.51배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 얼라이브 속편한 지속성 비타민C 9,400원(72%↓)",
-      "sale_price": 9400,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8634842837&itemId=25755923604&vendorItemId=94167001267"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:04:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 350,270원(15%↓)",
-      "sale_price": 350270,
-      "normal_price": 413300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=27966258665"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:05:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
-      "sale_price": 9780,
-      "normal_price": 11500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:05:10",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
-      "sale_price": 12980,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:06:01",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 9,400원 대비 정상가가 33,000원(차액 23,600원, 3.51배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 얼라이브 속편한 지속성 비타민C 9,400원(72%↓)",
-      "sale_price": 9400,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8634842837&itemId=25755923604&vendorItemId=94167001267"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:06:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다이슨 에어랩 id 멀티 스타일러 350,270원(15%↓)",
-      "sale_price": 350270,
-      "normal_price": 413300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8882805356&itemId=27966258665"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 01:06:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
-      "sale_price": 9780,
-      "normal_price": 11500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
-    }
-  },
-  {
     "audited_at": "2026-11-03 01:06:29",
     "passed_all": true,
     "violations": [],
@@ -1937,6 +1041,890 @@
       "sale_price": 12980,
       "normal_price": 15300,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:29:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:29:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:30:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:30:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:31:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:31:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:32:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:32:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:33:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:33:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:34:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:34:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:35:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:35:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:36:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:36:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:37:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:37:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:38:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:38:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:39:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:39:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:39:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:40:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:40:57",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이노멀 저당 저칼로리 알룰로스 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%A7%88%EC%9D%B4%EB%85%B8%EB%A9%80%20%EC%A0%80%EB%8B%B9%20%EC%A0%80%EC%B9%BC%EB%A1%9C%EB%A6%AC%20%EC%95%8C%EB%A3%B0%EB%A1%9C%EC%8A%A4%20500g%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:41:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:41:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:42:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이노멀 저당 저칼로리 알룰로스 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%A7%88%EC%9D%B4%EB%85%B8%EB%A9%80%20%EC%A0%80%EB%8B%B9%20%EC%A0%80%EC%B9%BC%EB%A1%9C%EB%A6%AC%20%EC%95%8C%EB%A3%B0%EB%A1%9C%EC%8A%A4%20500g%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:42:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:42:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:43:15",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이노멀 저당 저칼로리 알룰로스 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%A7%88%EC%9D%B4%EB%85%B8%EB%A9%80%20%EC%A0%80%EB%8B%B9%20%EC%A0%80%EC%B9%BC%EB%A1%9C%EB%A6%AC%20%EC%95%8C%EB%A3%B0%EB%A1%9C%EC%8A%A4%20500g%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:43:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:43:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:44:32",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이노멀 저당 저칼로리 알룰로스 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%A7%88%EC%9D%B4%EB%85%B8%EB%A9%80%20%EC%A0%80%EB%8B%B9%20%EC%A0%80%EC%B9%BC%EB%A1%9C%EB%A6%AC%20%EC%95%8C%EB%A3%B0%EB%A1%9C%EC%8A%A4%20500g%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:44:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:44:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:45:39",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마이노멀 저당 저칼로리 알룰로스 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%A7%88%EC%9D%B4%EB%85%B8%EB%A9%80%20%EC%A0%80%EB%8B%B9%20%EC%A0%80%EC%B9%BC%EB%A1%9C%EB%A6%AC%20%EC%95%8C%EB%A3%B0%EB%A1%9C%EC%8A%A4%20500g%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:45:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:45:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:46:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:46:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:47:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:47:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:48:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미 물냉면 2인 + 함흥 9,780원(15%↓)",
+      "sale_price": 9780,
+      "normal_price": 11500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5463302597&itemId=19225407409"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:49:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (재할인)덴마크 소화가 잘되는 우유 12,980원(15%↓)",
+      "sale_price": 12980,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6622970253&itemId=20573592425&vendorItemId=85728949851"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 01:49:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 키오시아 EXCERIA 마이크로 10,330원(15%↓)",
+      "sale_price": 10330,
+      "normal_price": 12200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8549272685&itemId=29274029338&vendorItemId=83542711457"
     }
   }
 ]
