@@ -1,184 +1,5 @@
 [
   {
-    "audited_at": "2026-11-03 22:27:13",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 닥터스베스트 글루코사민 콘드로이친 15,070원(15%↓)",
-      "sale_price": 15070,
-      "normal_price": 17800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8B%A5%ED%84%B0%EC%8A%A4%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EA%B8%80%EB%A3%A8%EC%BD%94%EC%82%AC%EB%AF%BC%20%EC%BD%98%EB%93%9C%EB%A1%9C%EC%9D%B4%EC%B9%9C%20MSM%20%EC%BA%A1%EC%8A%90%2C%20240%EC%A0%95%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 22:27:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 나우푸드 커큐브레인 400mg 베지 10,450원(15%↓)",
-      "sale_price": 10450,
-      "normal_price": 12300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5335326780&itemId=7800952135"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 22:27:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 닥터스베스트 글루코사민 콘드로이친 20,460원(15%↓)",
-      "sale_price": 20460,
-      "normal_price": 24100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=202217052&itemId=2993067958&vendorItemId=4548111510"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 22:27:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 닥터스베스트 글루코사민 콘드로이친 15,590원(15%↓)",
-      "sale_price": 15590,
-      "normal_price": 18400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=202217052&itemId=7802100180&vendorItemId=80367400915"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 22:28:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 9,960원(16%↓)",
-      "sale_price": 9960,
-      "normal_price": 11800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233172478&vendorItemId=86349640420"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 22:28:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 9,960원(16%↓)",
-      "sale_price": 9960,
-      "normal_price": 11800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233172478&vendorItemId=86349640420"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 22:28:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 닥터스베스트 글루코사민 콘드로이친 15,590원(15%↓)",
-      "sale_price": 15590,
-      "normal_price": 18400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8B%A5%ED%84%B0%EC%8A%A4%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EA%B8%80%EB%A3%A8%EC%BD%94%EC%82%AC%EB%AF%BC%20%EC%BD%98%EB%93%9C%EB%A1%9C%EC%9D%B4%EC%B9%9C%20MSM%20%EC%BA%A1%EC%8A%90%2C%20120%EC%A0%95%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 22:28:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 닥터스베스트 글루코사민 콘드로이친 20,460원(15%↓)",
-      "sale_price": 20460,
-      "normal_price": 24100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8B%A5%ED%84%B0%EC%8A%A4%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EA%B8%80%EB%A3%A8%EC%BD%94%EC%82%AC%EB%AF%BC%20%EC%BD%98%EB%93%9C%EB%A1%9C%EC%9D%B4%EC%B9%9C%20MSM%20%EC%BA%A1%EC%8A%90%2C%20360%EC%A0%95%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 22:28:44",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 닥터스베스트 글루코사민 콘드로이친 15,070원(15%↓)",
-      "sale_price": 15070,
-      "normal_price": 17800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8B%A5%ED%84%B0%EC%8A%A4%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EA%B8%80%EB%A3%A8%EC%BD%94%EC%82%AC%EB%AF%BC%20%EC%BD%98%EB%93%9C%EB%A1%9C%EC%9D%B4%EC%B9%9C%20MSM%20%EC%BA%A1%EC%8A%90%2C%20240%EC%A0%95%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
     "audited_at": "2026-11-03 22:28:50",
     "passed_all": true,
     "violations": [],
@@ -1957,6 +1778,181 @@
       "sale_price": 11900,
       "normal_price": 14000,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5100075750&itemId=6946661160&vendorItemId=70364987259"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 22:53:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 9,960원(16%↓)",
+      "sale_price": 9960,
+      "normal_price": 11800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233172478&vendorItemId=86349640420"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 22:54:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 동치미냉면 4인분, 9,960원(16%↓)",
+      "sale_price": 9960,
+      "normal_price": 11800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=276993573&itemId=19233172478&vendorItemId=86349640420"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 22:54:15",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닥터스베스트 글루코사민 콘드로이친 20,460원(15%↓)",
+      "sale_price": 20460,
+      "normal_price": 24100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8B%A5%ED%84%B0%EC%8A%A4%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EA%B8%80%EB%A3%A8%EC%BD%94%EC%82%AC%EB%AF%BC%20%EC%BD%98%EB%93%9C%EB%A1%9C%EC%9D%B4%EC%B9%9C%20MSM%20%EC%BA%A1%EC%8A%90%2C%20360%EC%A0%95%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 22:54:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닥터스베스트 글루코사민 콘드로이친 15,070원(15%↓)",
+      "sale_price": 15070,
+      "normal_price": 17800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8B%A5%ED%84%B0%EC%8A%A4%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EA%B8%80%EB%A3%A8%EC%BD%94%EC%82%AC%EB%AF%BC%20%EC%BD%98%EB%93%9C%EB%A1%9C%EC%9D%B4%EC%B9%9C%20MSM%20%EC%BA%A1%EC%8A%90%2C%20240%EC%A0%95%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 22:54:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 나우푸드 커큐브레인 400mg 베지 10,450원(15%↓)",
+      "sale_price": 10450,
+      "normal_price": 12300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5335326780&itemId=7800952135"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 22:54:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닥터스베스트 글루코사민 콘드로이친 20,460원(15%↓)",
+      "sale_price": 20460,
+      "normal_price": 24100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=202217052&itemId=2993067958&vendorItemId=4548111510"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 22:55:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닥터스베스트 글루코사민 콘드로이친 15,590원(15%↓)",
+      "sale_price": 15590,
+      "normal_price": 18400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=202217052&itemId=7802100180&vendorItemId=80367400915"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 22:55:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 건조 망고 슬라이스, 80g, 21,340원(15%↓)",
+      "sale_price": 21340,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=184512854&itemId=19013177234&vendorItemId=86137797110"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 22:55:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 델몬트 베트남산 바나나, 5개, 6,620원(15%↓)",
+      "sale_price": 6620,
+      "normal_price": 7800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8586474173&itemId=24967604328&vendorItemId=91973248757"
     }
   }
 ]
