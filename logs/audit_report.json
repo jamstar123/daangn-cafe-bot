@@ -1,1364 +1,6 @@
 [
   {
-    "audited_at": "2026-11-03 14:52:22",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:52:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:52:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:52:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:53:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:54:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:54:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:54:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:54:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:55:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:55:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:55:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:56:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:56:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:57:19",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:57:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:57:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:57:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:57:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:58:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:58:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:59:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:59:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:59:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:00:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:00:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:00:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:01:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:01:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:02:10",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:02:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:02:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:02:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:03:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:03:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:04:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:04:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:04:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:04:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:05:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:05:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:05:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:06:11",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:06:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:07:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:07:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:07:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:07:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:08:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:08:56",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:09:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:09:20",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:09:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:09:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:10:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:10:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:11:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:11:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:11:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:12:15",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:12:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:12:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:12:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:13:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:13:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:13:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:13:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:14:11",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:14:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:15:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:15:29",
+    "audited_at": "2026-11-03 15:36:17",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1377,26 +19,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 15:15:41",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:15:53",
+    "audited_at": "2026-11-03 15:36:29",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1415,7 +38,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 15:16:05",
+    "audited_at": "2026-11-03 15:36:41",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1434,7 +57,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 15:16:13",
+    "audited_at": "2026-11-03 15:36:53",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1453,7 +76,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 15:16:25",
+    "audited_at": "2026-11-03 15:37:05",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1472,452 +95,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 15:17:19",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:17:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
-      "sale_price": 11960,
-      "normal_price": 14100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:17:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:17:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:18:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:18:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:18:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
-      "sale_price": 11960,
-      "normal_price": 14100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:19:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:19:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
-      "sale_price": 11960,
-      "normal_price": 14100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:19:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:20:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:20:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:20:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:20:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
-      "sale_price": 11960,
-      "normal_price": 14100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:21:30",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:21:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
-      "sale_price": 11960,
-      "normal_price": 14100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:21:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
-      "sale_price": 5430,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:22:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
-      "sale_price": 16900,
-      "normal_price": 19900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:22:17",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:22:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
-      "sale_price": 5600,
-      "normal_price": 6600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:22:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
-      "sale_price": 11960,
-      "normal_price": 14100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:23:37",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
-      "sale_price": 15810,
-      "normal_price": 99000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:23:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
-      "sale_price": 11960,
-      "normal_price": 14100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 15:24:00",
+    "audited_at": "2026-11-03 15:37:17",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1933,6 +111,1802 @@
       "sale_price": 23770,
       "normal_price": 28000,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:38:11",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
+      "sale_price": 15810,
+      "normal_price": 99000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:38:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:38:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
+      "sale_price": 16900,
+      "normal_price": 19900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:38:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
+      "sale_price": 8300,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:39:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:39:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:39:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:40:50",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
+      "sale_price": 15810,
+      "normal_price": 99000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:41:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:41:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
+      "sale_price": 16900,
+      "normal_price": 19900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:41:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
+      "sale_price": 8300,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:41:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:41:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:42:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:42:58",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
+      "sale_price": 15810,
+      "normal_price": 99000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:43:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:43:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
+      "sale_price": 16900,
+      "normal_price": 19900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:43:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
+      "sale_price": 8300,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:43:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:43:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:44:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:45:31",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
+      "sale_price": 15810,
+      "normal_price": 99000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:45:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:45:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
+      "sale_price": 16900,
+      "normal_price": 19900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:46:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
+      "sale_price": 8300,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:46:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:46:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:46:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:47:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
+      "sale_price": 15810,
+      "normal_price": 99000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:47:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:48:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
+      "sale_price": 8300,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:48:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:48:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:48:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:49:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:49:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
+      "sale_price": 8300,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:49:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:49:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:49:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:50:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:51:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
+      "sale_price": 8300,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:51:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:51:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:51:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:52:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:52:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
+      "sale_price": 8300,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:52:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:52:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:53:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:53:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:54:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:54:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:54:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:55:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:55:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:55:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:56:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:56:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:57:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:57:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:57:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:58:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:58:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:58:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:58:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:59:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:59:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:00:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:00:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:01:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:01:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:01:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:01:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:02:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:02:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:02:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:03:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:04:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:04:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:04:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:04:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:05:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:05:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:05:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:06:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:06:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:07:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:07:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:07:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:08:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:08:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:08:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:09:26",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 16:09:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 토종마을 국산 황기 절단, 11,350원(15%↓)",
+      "sale_price": 11350,
+      "normal_price": 13400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7141704232&itemId=17931956102&vendorItemId=3008386136"
     }
   }
 ]
