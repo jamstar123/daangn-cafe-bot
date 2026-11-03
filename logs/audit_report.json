@@ -1,64 +1,5 @@
 [
   {
-    "audited_at": "2026-11-03 10:00:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,640원(15%↓)",
-      "sale_price": 7640,
-      "normal_price": 9000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 10:01:33",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 미국산 크레아틴 300g 1통 15,330원(15%↓)",
-      "sale_price": 15330,
-      "normal_price": 18100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AF%B8%EA%B5%AD%EC%82%B0%20%ED%81%AC%EB%A0%88%EC%95%84%ED%8B%B4%20300g%201%ED%86%B5&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 10:01:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,640원(15%↓)",
-      "sale_price": 7640,
-      "normal_price": 9000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
     "audited_at": "2026-11-03 10:02:37",
     "passed_all": false,
     "violations": [
@@ -1979,6 +1920,63 @@
       "sale_price": 36800,
       "normal_price": 43400,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4604878225&itemId=5684276777&vendorItemId=72983142950"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 10:54:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 에스티로더 어드밴스드 나이트 리페어 80,160원(15%↓)",
+      "sale_price": 80160,
+      "normal_price": 94600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7216491261&itemId=12330424391&vendorItemId=78015497997"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 10:54:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,460원(15%↓)",
+      "sale_price": 20460,
+      "normal_price": 24100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=25079045863&vendorItemId=91671811541"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 10:54:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 프로페셔널 블렌더 2.0 75,470원(15%↓)",
+      "sale_price": 75470,
+      "normal_price": 89100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8527603747&itemId=24691428669&vendorItemId=91701244753"
     }
   }
 ]
