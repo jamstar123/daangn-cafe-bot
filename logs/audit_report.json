@@ -1,6 +1,6 @@
 [
   {
-    "audited_at": "2026-11-03 13:56:06",
+    "audited_at": "2026-11-03 14:52:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -19,7 +19,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 13:56:18",
+    "audited_at": "2026-11-03 14:52:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -38,7 +38,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 13:56:30",
+    "audited_at": "2026-11-03 14:52:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -57,7 +57,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 13:56:36",
+    "audited_at": "2026-11-03 14:52:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -76,7 +76,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 13:57:30",
+    "audited_at": "2026-11-03 14:53:53",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -97,66 +97,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 13:57:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 바네크 이동식 트롤리 정리 선반 7,900원(17%↓)",
-      "sale_price": 7900,
-      "normal_price": 9500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%B0%94%EB%84%A4%ED%81%AC%20%EC%9D%B4%EB%8F%99%EC%8B%9D%20%ED%8A%B8%EB%A1%A4%EB%A6%AC%20%EC%A0%95%EB%A6%AC%20%EC%84%A0%EB%B0%98&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 13:57:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
-      "sale_price": 19850,
-      "normal_price": 23400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205177&vendorItemId=91340904332"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 13:57:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 13:58:11",
+    "audited_at": "2026-11-03 14:54:06",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -175,7 +116,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 13:58:24",
+    "audited_at": "2026-11-03 14:54:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -194,7 +135,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 13:58:29",
+    "audited_at": "2026-11-03 14:54:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -213,7 +154,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 13:58:31",
+    "audited_at": "2026-11-03 14:54:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -232,7 +173,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 13:59:24",
+    "audited_at": "2026-11-03 14:55:35",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -253,66 +194,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 13:59:37",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 바네크 이동식 트롤리 정리 선반 7,900원(17%↓)",
-      "sale_price": 7900,
-      "normal_price": 9500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%B0%94%EB%84%A4%ED%81%AC%20%EC%9D%B4%EB%8F%99%EC%8B%9D%20%ED%8A%B8%EB%A1%A4%EB%A6%AC%20%EC%A0%95%EB%A6%AC%20%EC%84%A0%EB%B0%98&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 13:59:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
-      "sale_price": 19850,
-      "normal_price": 23400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205177&vendorItemId=91340904332"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 13:59:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:00:07",
+    "audited_at": "2026-11-03 14:55:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -331,7 +213,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:00:19",
+    "audited_at": "2026-11-03 14:55:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -350,7 +232,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:00:31",
+    "audited_at": "2026-11-03 14:56:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -369,7 +251,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:00:43",
+    "audited_at": "2026-11-03 14:56:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -388,7 +270,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:01:37",
+    "audited_at": "2026-11-03 14:57:19",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -409,66 +291,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:01:51",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 바네크 이동식 트롤리 정리 선반 7,900원(17%↓)",
-      "sale_price": 7900,
-      "normal_price": 9500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%B0%94%EB%84%A4%ED%81%AC%20%EC%9D%B4%EB%8F%99%EC%8B%9D%20%ED%8A%B8%EB%A1%A4%EB%A6%AC%20%EC%A0%95%EB%A6%AC%20%EC%84%A0%EB%B0%98&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:02:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
-      "sale_price": 19850,
-      "normal_price": 23400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205177&vendorItemId=91340904332"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:02:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:02:27",
+    "audited_at": "2026-11-03 14:57:32",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -487,7 +310,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:02:39",
+    "audited_at": "2026-11-03 14:57:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -506,7 +329,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:02:51",
+    "audited_at": "2026-11-03 14:57:48",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -525,7 +348,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:03:03",
+    "audited_at": "2026-11-03 14:57:48",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -544,7 +367,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:03:56",
+    "audited_at": "2026-11-03 14:58:39",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -565,66 +388,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:04:09",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 바네크 이동식 트롤리 정리 선반 7,900원(17%↓)",
-      "sale_price": 7900,
-      "normal_price": 9500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%B0%94%EB%84%A4%ED%81%AC%20%EC%9D%B4%EB%8F%99%EC%8B%9D%20%ED%8A%B8%EB%A1%A4%EB%A6%AC%20%EC%A0%95%EB%A6%AC%20%EC%84%A0%EB%B0%98&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:04:10",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
-      "sale_price": 19850,
-      "normal_price": 23400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205177&vendorItemId=91340904332"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:04:22",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:04:34",
+    "audited_at": "2026-11-03 14:58:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -643,7 +407,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:04:46",
+    "audited_at": "2026-11-03 14:59:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -662,7 +426,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:04:58",
+    "audited_at": "2026-11-03 14:59:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -681,7 +445,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:05:10",
+    "audited_at": "2026-11-03 14:59:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -700,7 +464,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:06:03",
+    "audited_at": "2026-11-03 15:00:25",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -721,66 +485,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:06:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 바네크 이동식 트롤리 정리 선반 7,900원(17%↓)",
-      "sale_price": 7900,
-      "normal_price": 9500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%B0%94%EB%84%A4%ED%81%AC%20%EC%9D%B4%EB%8F%99%EC%8B%9D%20%ED%8A%B8%EB%A1%A4%EB%A6%AC%20%EC%A0%95%EB%A6%AC%20%EC%84%A0%EB%B0%98&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:06:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
-      "sale_price": 19850,
-      "normal_price": 23400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205177&vendorItemId=91340904332"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:06:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:06:52",
+    "audited_at": "2026-11-03 15:00:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -799,7 +504,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:07:04",
+    "audited_at": "2026-11-03 15:00:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -818,7 +523,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:07:16",
+    "audited_at": "2026-11-03 15:01:01",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -837,7 +542,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:07:28",
+    "audited_at": "2026-11-03 15:01:13",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -856,7 +561,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:08:21",
+    "audited_at": "2026-11-03 15:02:10",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -877,66 +582,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:08:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 바네크 이동식 트롤리 정리 선반 7,900원(17%↓)",
-      "sale_price": 7900,
-      "normal_price": 9500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%B0%94%EB%84%A4%ED%81%AC%20%EC%9D%B4%EB%8F%99%EC%8B%9D%20%ED%8A%B8%EB%A1%A4%EB%A6%AC%20%EC%A0%95%EB%A6%AC%20%EC%84%A0%EB%B0%98&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:08:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
-      "sale_price": 19850,
-      "normal_price": 23400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205177&vendorItemId=91340904332"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:08:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:09:01",
+    "audited_at": "2026-11-03 15:02:23",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -955,7 +601,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:09:13",
+    "audited_at": "2026-11-03 15:02:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -974,7 +620,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:09:24",
+    "audited_at": "2026-11-03 15:02:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -993,7 +639,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:09:36",
+    "audited_at": "2026-11-03 15:03:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1012,7 +658,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:10:27",
+    "audited_at": "2026-11-03 15:03:54",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -1033,66 +679,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:10:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 바네크 이동식 트롤리 정리 선반 7,900원(17%↓)",
-      "sale_price": 7900,
-      "normal_price": 9500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%B0%94%EB%84%A4%ED%81%AC%20%EC%9D%B4%EB%8F%99%EC%8B%9D%20%ED%8A%B8%EB%A1%A4%EB%A6%AC%20%EC%A0%95%EB%A6%AC%20%EC%84%A0%EB%B0%98&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:10:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
-      "sale_price": 19850,
-      "normal_price": 23400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205177&vendorItemId=91340904332"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:10:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:11:06",
+    "audited_at": "2026-11-03 15:04:06",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1111,7 +698,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:11:16",
+    "audited_at": "2026-11-03 15:04:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1130,7 +717,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:11:28",
+    "audited_at": "2026-11-03 15:04:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1149,7 +736,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:11:32",
+    "audited_at": "2026-11-03 15:04:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1168,7 +755,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:12:25",
+    "audited_at": "2026-11-03 15:05:34",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -1189,66 +776,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:12:38",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 바네크 이동식 트롤리 정리 선반 7,900원(17%↓)",
-      "sale_price": 7900,
-      "normal_price": 9500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%B0%94%EB%84%A4%ED%81%AC%20%EC%9D%B4%EB%8F%99%EC%8B%9D%20%ED%8A%B8%EB%A1%A4%EB%A6%AC%20%EC%A0%95%EB%A6%AC%20%EC%84%A0%EB%B0%98&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:12:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
-      "sale_price": 19850,
-      "normal_price": 23400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205177&vendorItemId=91340904332"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:13:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:13:15",
+    "audited_at": "2026-11-03 15:05:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1267,7 +795,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:13:21",
+    "audited_at": "2026-11-03 15:05:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1286,7 +814,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:13:33",
+    "audited_at": "2026-11-03 15:06:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1305,7 +833,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:13:45",
+    "audited_at": "2026-11-03 15:06:23",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1324,7 +852,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:14:39",
+    "audited_at": "2026-11-03 15:07:16",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -1345,47 +873,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:14:52",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 바네크 이동식 트롤리 정리 선반 7,900원(17%↓)",
-      "sale_price": 7900,
-      "normal_price": 9500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%B0%94%EB%84%A4%ED%81%AC%20%EC%9D%B4%EB%8F%99%EC%8B%9D%20%ED%8A%B8%EB%A1%A4%EB%A6%AC%20%EC%A0%95%EB%A6%AC%20%EC%84%A0%EB%B0%98&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:14:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:15:04",
+    "audited_at": "2026-11-03 15:07:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1404,7 +892,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:15:17",
+    "audited_at": "2026-11-03 15:07:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1423,7 +911,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:15:29",
+    "audited_at": "2026-11-03 15:07:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1442,7 +930,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:15:41",
+    "audited_at": "2026-11-03 15:08:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1461,7 +949,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:16:32",
+    "audited_at": "2026-11-03 15:08:56",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -1482,26 +970,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:16:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:16:57",
+    "audited_at": "2026-11-03 15:09:08",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1520,7 +989,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:17:09",
+    "audited_at": "2026-11-03 15:09:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1539,7 +1008,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:17:21",
+    "audited_at": "2026-11-03 15:09:32",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1558,7 +1027,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:17:34",
+    "audited_at": "2026-11-03 15:09:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1577,7 +1046,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:18:27",
+    "audited_at": "2026-11-03 15:10:35",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -1598,26 +1067,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:18:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:18:51",
+    "audited_at": "2026-11-03 15:10:47",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1636,7 +1086,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:19:03",
+    "audited_at": "2026-11-03 15:11:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1655,7 +1105,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:19:15",
+    "audited_at": "2026-11-03 15:11:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1674,7 +1124,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:19:22",
+    "audited_at": "2026-11-03 15:11:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1693,7 +1143,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:20:15",
+    "audited_at": "2026-11-03 15:12:15",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -1714,26 +1164,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:20:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:20:39",
+    "audited_at": "2026-11-03 15:12:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1752,7 +1183,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:20:51",
+    "audited_at": "2026-11-03 15:12:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1771,7 +1202,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:21:03",
+    "audited_at": "2026-11-03 15:12:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1790,7 +1221,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:21:15",
+    "audited_at": "2026-11-03 15:13:01",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1809,7 +1240,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:22:10",
+    "audited_at": "2026-11-03 15:13:41",
     "passed_all": false,
     "violations": [
       "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
@@ -1830,26 +1261,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:22:10",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 진로발효 바이오 크린콜 살균소독제, 5,200원(15%↓)",
-      "sale_price": 5200,
-      "normal_price": 6100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7856288030&itemId=21426951619&vendorItemId=70327015811"
-    }
-  },
-  {
-    "audited_at": "2026-11-03 14:22:22",
+    "audited_at": "2026-11-03 15:13:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1868,7 +1280,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:22:34",
+    "audited_at": "2026-11-03 15:13:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1887,7 +1299,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:22:46",
+    "audited_at": "2026-11-03 15:14:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1906,7 +1318,7 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:22:58",
+    "audited_at": "2026-11-03 15:14:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1925,7 +1337,28 @@
     }
   },
   {
-    "audited_at": "2026-11-03 14:23:09",
+    "audited_at": "2026-11-03 15:15:17",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
+      "sale_price": 15810,
+      "normal_price": 99000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:15:29",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1937,10 +1370,569 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] [27년형]일월 웜슬립 전자파 안심 60,700원(15%↓)",
-      "sale_price": 60700,
-      "normal_price": 71600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9749185330&itemId=29225499077"
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:15:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
+      "sale_price": 5430,
+      "normal_price": 6400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:15:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
+      "sale_price": 16900,
+      "normal_price": 19900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:16:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
+      "sale_price": 8300,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:16:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:16:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:17:19",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
+      "sale_price": 15810,
+      "normal_price": 99000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:17:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:17:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
+      "sale_price": 5430,
+      "normal_price": 6400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:17:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
+      "sale_price": 16900,
+      "normal_price": 19900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:18:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
+      "sale_price": 8300,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:18:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:18:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:19:25",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
+      "sale_price": 15810,
+      "normal_price": 99000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:19:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:19:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
+      "sale_price": 5430,
+      "normal_price": 6400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:20:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
+      "sale_price": 16900,
+      "normal_price": 19900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:20:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
+      "sale_price": 8300,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:20:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:20:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:21:30",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
+      "sale_price": 15810,
+      "normal_price": 99000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:21:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:21:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 연두 요리에센스 순 830ml 5,430원(15%↓)",
+      "sale_price": 5430,
+      "normal_price": 6400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244245116&itemId=19390694529"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:22:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 어부심 산지직송 산채로 포장한 16,900원(15%↓)",
+      "sale_price": 16900,
+      "normal_price": 19900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7473580292&itemId=19505948971"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:22:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동서식품 미떼 핫초코 미니 오리지널 8,300원(15%↓)",
+      "sale_price": 8300,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:22:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오설록 제주 순수녹차 20개입 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7263228577&itemId=24445352177"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:22:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:23:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 15,810원 대비 정상가가 99,000원(차액 83,190원, 6.26배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 목우촌 오메가3 오리훈제 15,810원(84%↓)",
+      "sale_price": 15810,
+      "normal_price": 99000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7872083095&itemId=21507629898"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:23:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분, 11,960원(15%↓)",
+      "sale_price": 11960,
+      "normal_price": 14100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=19233094153&vendorItemId=86349564192"
+    }
+  },
+  {
+    "audited_at": "2026-11-03 15:24:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] G7 퓨어블랙 원두커피믹스, 2g, 23,770원(15%↓)",
+      "sale_price": 23770,
+      "normal_price": 28000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8548534914&itemId=17647602666&vendorItemId=3497393821"
     }
   }
 ]
