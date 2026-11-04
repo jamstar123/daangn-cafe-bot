@@ -1,201 +1,5 @@
 [
   {
-    "audited_at": "2026-11-04 01:59:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 01:59:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
-      "sale_price": 7980,
-      "normal_price": 9400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 01:59:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
-      "sale_price": 1791000,
-      "normal_price": 2113400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 01:59:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
-      "sale_price": 7990,
-      "normal_price": 9400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 02:00:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 02:00:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
-      "sale_price": 7980,
-      "normal_price": 9400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 02:00:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
-      "sale_price": 1791000,
-      "normal_price": 2113400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 02:01:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
-      "sale_price": 7990,
-      "normal_price": 9400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 02:01:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 02:02:08",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
-      "sale_price": 7980,
-      "normal_price": 9400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
     "audited_at": "2026-11-04 02:02:12",
     "passed_all": true,
     "violations": [],
@@ -1945,6 +1749,200 @@
       "sale_price": 10990,
       "normal_price": 13000,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9083988365&itemId=24280185022&vendorItemId=85862451239"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 02:33:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
+      "sale_price": 7090,
+      "normal_price": 8400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 02:33:50",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
+      "sale_price": 7980,
+      "normal_price": 9400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 02:34:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
+      "sale_price": 1791000,
+      "normal_price": 2113400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 02:34:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
+      "sale_price": 7990,
+      "normal_price": 9400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 02:35:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
+      "sale_price": 7090,
+      "normal_price": 8400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 02:35:11",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
+      "sale_price": 7980,
+      "normal_price": 9400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 02:35:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
+      "sale_price": 1791000,
+      "normal_price": 2113400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 02:35:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
+      "sale_price": 7990,
+      "normal_price": 9400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 02:36:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
+      "sale_price": 7090,
+      "normal_price": 8400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 02:36:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 퍼퓸드 사쉐 방향제 10g 8개 4,980원(16%↓)",
+      "sale_price": 4980,
+      "normal_price": 5900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9685028667&itemId=28963088759"
     }
   }
 ]
