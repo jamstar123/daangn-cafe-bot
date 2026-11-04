@@ -1,608 +1,5 @@
 [
   {
-    "audited_at": "2026-11-04 04:05:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
-      "sale_price": 1791000,
-      "normal_price": 2113400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:05:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
-      "sale_price": 7990,
-      "normal_price": 9400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:05:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
-      "sale_price": 8890,
-      "normal_price": 10500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:05:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다향 엄선된 원료육으로 만든 9,990원(15%↓)",
-      "sale_price": 9990,
-      "normal_price": 11800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1142386751&itemId=2113736909"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:06:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
-      "sale_price": 7980,
-      "normal_price": 9400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:06:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
-      "sale_price": 1791000,
-      "normal_price": 2113400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:06:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
-      "sale_price": 7990,
-      "normal_price": 9400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:06:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
-      "sale_price": 8890,
-      "normal_price": 10500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:07:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
-      "sale_price": 7980,
-      "normal_price": 9400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:07:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
-      "sale_price": 1791000,
-      "normal_price": 2113400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:08:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
-      "sale_price": 7990,
-      "normal_price": 9400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:08:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
-      "sale_price": 8890,
-      "normal_price": 10500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:09:09",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
-      "sale_price": 7980,
-      "normal_price": 9400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:09:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
-      "sale_price": 1791000,
-      "normal_price": 2113400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:09:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
-      "sale_price": 7990,
-      "normal_price": 9400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:09:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
-      "sale_price": 8890,
-      "normal_price": 10500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:10:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
-      "sale_price": 7980,
-      "normal_price": 9400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:10:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
-      "sale_price": 1791000,
-      "normal_price": 2113400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:10:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
-      "sale_price": 7990,
-      "normal_price": 9400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:10:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
-      "sale_price": 8890,
-      "normal_price": 10500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:11:45",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
-      "sale_price": 7980,
-      "normal_price": 9400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:11:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
-      "sale_price": 1791000,
-      "normal_price": 2113400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:11:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
-      "sale_price": 7990,
-      "normal_price": 9400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:12:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
-      "sale_price": 8890,
-      "normal_price": 10500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:12:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
-      "sale_price": 7980,
-      "normal_price": 9400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:13:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
-      "sale_price": 1791000,
-      "normal_price": 2113400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:13:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
-      "sale_price": 7990,
-      "normal_price": 9400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:13:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
-      "sale_price": 8890,
-      "normal_price": 10500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:14:20",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
-      "sale_price": 7980,
-      "normal_price": 9400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:14:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
-      "sale_price": 1791000,
-      "normal_price": 2113400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 04:14:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
-      "sale_price": 7990,
-      "normal_price": 9400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
-    }
-  },
-  {
     "audited_at": "2026-11-04 04:14:48",
     "passed_all": true,
     "violations": [],
@@ -1927,6 +1324,595 @@
       "sale_price": 9860,
       "normal_price": 11600,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7662539636&itemId=20535658858&vendorItemId=87612470208"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:00:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:00:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:01:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:01:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:01:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:01:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:02:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:02:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:03:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:03:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:04:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:04:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:05:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:05:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:06:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:06:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:07:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:07:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:08:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:08:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:09:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:09:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:09:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:10:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:11:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:11:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:12:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:12:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:13:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:13:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 크리스피 올인원 유리 155,530원(15%↓)",
+      "sale_price": 155530,
+      "normal_price": 183500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535512844&itemId=28511144946&vendorItemId=95544876206"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 05:13:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 바세린 베이비 프로텍팅 젤리 2,300원(15%↓)",
+      "sale_price": 2300,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6681197928&itemId=11536617526"
     }
   }
 ]
