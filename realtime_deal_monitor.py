@@ -558,13 +558,19 @@ class RealtimeDealMonitor:
             "link_re": r"https://link\.coupang\.com/a/[A-Za-z0-9]+",
             "format": "jirum",
         },
+        {
+            "handle": "hot_deal_shop_n",
+            "label": "notebook",
+            "link_re": r"https://ll\.alrimi\.click/[A-Za-z0-9]+",
+            "format": "hotdeal",
+        },
     ]
 
     def fetch_telegram_feed(self) -> List[Dict[str, Any]]:
         """텔레그램 핫딜 채널들(공개 미리보기 페이지)에서 최신 알림을 가져온다.
 
         채널마다 형식이 다르다:
-        - hot_deal_shop: 상품명 + 30일 내 최저가 + 현재 가격 + 가격 차이(%) + ll.alrimi.click 링크.
+        - hot_deal_shop / hot_deal_shop_n(노트북 핫딜 알리미): 상품명 + 30일 내 최저가 + 현재 가격 + 가격 차이(%) + ll.alrimi.click 링크.
         - jirum(뽐질): 특가 X원 (Y% 할인) + 상품명 + 정상가 + link.coupang.com/a 링크.
         공통 규칙:
         - 쿠팡으로 확인되는 상품만 반환한다 (링크를 따라가 최종 URL 확인).
