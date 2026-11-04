@@ -1,299 +1,6 @@
 [
   {
-    "audited_at": "2026-11-04 12:04:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:05:11",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 겟잇클린 캡슐 세탁세제 블랙베리, 9,400원(15%↓)",
-      "sale_price": 9400,
-      "normal_price": 11100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8732278570&itemId=25374446742"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:05:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:06:00",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:06:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:06:14",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:06:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:06:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:07:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:07:10",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:07:10",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:07:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:07:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:07:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:08:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:08:18",
+    "audited_at": "2026-11-04 12:27:15",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -314,7 +21,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 12:08:19",
+    "audited_at": "2026-11-04 12:27:18",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -335,7 +42,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 12:08:28",
+    "audited_at": "2026-11-04 12:27:25",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -356,7 +63,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 12:08:40",
+    "audited_at": "2026-11-04 12:27:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -375,1416 +82,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 12:08:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:08:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:09:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:09:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:09:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:09:52",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:09:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:10:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:10:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:10:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:10:57",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:11:00",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:11:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:11:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:11:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:11:41",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:12:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:12:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:12:27",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:12:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:12:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:13:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:13:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:14:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:14:01",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:14:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:14:15",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:14:22",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:14:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:14:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:15:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:15:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:15:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:15:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:15:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:16:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:16:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:16:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 샤크 에보파워 시스템 NEO 무선 570,000원(15%↓)",
-      "sale_price": 570000,
-      "normal_price": 672600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7986452450&itemId=22185543357"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:17:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:17:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:17:13",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:17:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:17:20",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:17:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:17:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:18:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:18:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:18:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:18:33",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:18:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:18:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:19:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:19:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:19:56",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:19:57",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:20:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:20:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:20:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:20:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:21:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:21:10",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:21:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:21:15",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:21:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:21:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:21:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:22:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:22:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:22:30",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:22:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:22:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:22:54",
+    "audited_at": "2026-11-04 12:27:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1803,7 +101,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 12:23:06",
+    "audited_at": "2026-11-04 12:27:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1822,7 +120,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 12:23:18",
+    "audited_at": "2026-11-04 12:28:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1841,108 +139,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 12:24:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:24:09",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:24:10",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:24:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
-      "sale_price": 11260,
-      "normal_price": 13300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:24:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
-      "sale_price": 7330,
-      "normal_price": 8600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 12:24:46",
+    "audited_at": "2026-11-04 12:28:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1961,7 +158,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 12:24:58",
+    "audited_at": "2026-11-04 12:28:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1977,6 +174,1789 @@
       "sale_price": 6680,
       "normal_price": 7900,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6137339621&itemId=11745917876&vendorItemId=79019798633"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:29:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
+      "sale_price": 6000,
+      "normal_price": 7200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:29:05",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:29:06",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:29:18",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:29:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:29:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:29:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:29:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:29:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:29:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 파스퇴르 쾌변 요구르트 포도, 6,680원(15%↓)",
+      "sale_price": 6680,
+      "normal_price": 7900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6137339621&itemId=11745917876&vendorItemId=79019798633"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:30:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
+      "sale_price": 6000,
+      "normal_price": 7200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:30:39",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:30:40",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:30:40",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:30:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:31:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:31:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:31:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:31:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:31:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 파스퇴르 쾌변 요구르트 포도, 6,680원(15%↓)",
+      "sale_price": 6680,
+      "normal_price": 7900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6137339621&itemId=11745917876&vendorItemId=79019798633"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:32:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
+      "sale_price": 6000,
+      "normal_price": 7200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:32:28",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:32:30",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:32:42",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:32:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:33:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:33:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:33:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:33:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:33:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 파스퇴르 쾌변 요구르트 포도, 6,680원(15%↓)",
+      "sale_price": 6680,
+      "normal_price": 7900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6137339621&itemId=11745917876&vendorItemId=79019798633"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:34:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
+      "sale_price": 6000,
+      "normal_price": 7200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:34:33",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:34:34",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:34:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:34:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:35:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:35:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:35:26",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:35:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:35:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 파스퇴르 쾌변 요구르트 포도, 6,680원(15%↓)",
+      "sale_price": 6680,
+      "normal_price": 7900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6137339621&itemId=11745917876&vendorItemId=79019798633"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:36:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
+      "sale_price": 6000,
+      "normal_price": 7200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:36:40",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:36:42",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:36:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:36:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:36:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:37:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:37:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:37:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:37:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 파스퇴르 쾌변 요구르트 포도, 6,680원(15%↓)",
+      "sale_price": 6680,
+      "normal_price": 7900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6137339621&itemId=11745917876&vendorItemId=79019798633"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:38:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
+      "sale_price": 6000,
+      "normal_price": 7200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:38:23",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:38:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:38:32",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:38:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:38:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:38:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:38:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:38:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:39:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 파스퇴르 쾌변 요구르트 포도, 6,680원(15%↓)",
+      "sale_price": 6680,
+      "normal_price": 7900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6137339621&itemId=11745917876&vendorItemId=79019798633"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:39:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
+      "sale_price": 6000,
+      "normal_price": 7200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:39:57",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:39:59",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:40:11",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:40:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:40:26",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:40:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:40:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:40:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:40:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 파스퇴르 쾌변 요구르트 포도, 6,680원(15%↓)",
+      "sale_price": 6680,
+      "normal_price": 7900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6137339621&itemId=11745917876&vendorItemId=79019798633"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:41:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
+      "sale_price": 6000,
+      "normal_price": 7200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:41:42",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:41:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:41:58",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:42:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:42:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:42:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:42:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:42:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:42:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 파스퇴르 쾌변 요구르트 포도, 6,680원(15%↓)",
+      "sale_price": 6680,
+      "normal_price": 7900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6137339621&itemId=11745917876&vendorItemId=79019798633"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:43:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
+      "sale_price": 6000,
+      "normal_price": 7200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:43:38",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:43:41",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:43:53",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두, 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%96%84%ED%94%BC%EA%BD%89%EC%B0%AC%20%EC%8C%80%20%EB%AC%BC%EB%A7%8C%EB%91%90%2C%201kg%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:44:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:44:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:44:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 얄피꽉찬 쌀 물만두 11,260원(15%↓)",
+      "sale_price": 11260,
+      "normal_price": 13300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1392584665&itemId=11872905870&vendorItemId=79145976360"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:44:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동), 7,330원(15%↓)",
+      "sale_price": 7330,
+      "normal_price": 8600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20910866946&vendorItemId=87977818881"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:44:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오스카마이어 로우 소디움 베이컨, 24,470원(15%↓)",
+      "sale_price": 24470,
+      "normal_price": 28900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7322167759&itemId=19597939950&vendorItemId=86705159618"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:44:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 파스퇴르 쾌변 요구르트 포도, 6,680원(15%↓)",
+      "sale_price": 6680,
+      "normal_price": 7900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6137339621&itemId=11745917876&vendorItemId=79019798633"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 12:44:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 트랜짓 트위스트플립 머그 20,700원(15%↓)",
+      "sale_price": 20700,
+      "normal_price": 24400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9167195663&itemId=27011771628"
     }
   }
 ]
