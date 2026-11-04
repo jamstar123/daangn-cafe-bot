@@ -1,6 +1,44 @@
 [
   {
-    "audited_at": "2026-11-04 02:52:50",
+    "audited_at": "2026-11-04 03:30:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
+      "sale_price": 1791000,
+      "normal_price": 2113400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 03:31:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
+      "sale_price": 7990,
+      "normal_price": 9400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 03:31:56",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -21,7 +59,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:53:02",
+    "audited_at": "2026-11-04 03:32:08",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -40,7 +78,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:53:03",
+    "audited_at": "2026-11-04 03:32:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -59,26 +97,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:53:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 02:54:06",
+    "audited_at": "2026-11-04 03:33:11",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -99,7 +118,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:54:06",
+    "audited_at": "2026-11-04 03:33:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -118,7 +137,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:54:19",
+    "audited_at": "2026-11-04 03:33:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -137,26 +156,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:55:11",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 02:55:23",
+    "audited_at": "2026-11-04 03:34:25",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -177,7 +177,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:55:28",
+    "audited_at": "2026-11-04 03:34:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -196,7 +196,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:55:40",
+    "audited_at": "2026-11-04 03:34:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -215,26 +215,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:56:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 02:56:30",
+    "audited_at": "2026-11-04 03:35:31",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -255,7 +236,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:56:42",
+    "audited_at": "2026-11-04 03:35:41",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -274,7 +255,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:56:51",
+    "audited_at": "2026-11-04 03:35:53",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -293,26 +274,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:57:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 02:57:50",
+    "audited_at": "2026-11-04 03:36:42",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -333,7 +295,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:58:02",
+    "audited_at": "2026-11-04 03:36:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -352,7 +314,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:58:08",
+    "audited_at": "2026-11-04 03:37:06",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -371,26 +333,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:58:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 02:59:11",
+    "audited_at": "2026-11-04 03:37:56",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -411,7 +354,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:59:23",
+    "audited_at": "2026-11-04 03:38:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -430,7 +373,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 02:59:35",
+    "audited_at": "2026-11-04 03:38:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -449,26 +392,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:00:17",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 03:00:29",
+    "audited_at": "2026-11-04 03:39:10",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -489,7 +413,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:00:30",
+    "audited_at": "2026-11-04 03:39:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -508,7 +432,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:00:41",
+    "audited_at": "2026-11-04 03:39:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -527,26 +451,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:01:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 03:01:42",
+    "audited_at": "2026-11-04 03:40:25",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -567,7 +472,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:01:55",
+    "audited_at": "2026-11-04 03:40:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -586,7 +491,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:02:07",
+    "audited_at": "2026-11-04 03:40:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -605,26 +510,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:02:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 03:03:10",
+    "audited_at": "2026-11-04 03:41:29",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -645,7 +531,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:03:22",
+    "audited_at": "2026-11-04 03:41:29",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -664,7 +550,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:03:34",
+    "audited_at": "2026-11-04 03:41:41",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -683,26 +569,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:04:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 03:04:41",
+    "audited_at": "2026-11-04 03:42:30",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -723,7 +590,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:04:53",
+    "audited_at": "2026-11-04 03:42:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -742,7 +609,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:04:56",
+    "audited_at": "2026-11-04 03:42:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -761,26 +628,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:05:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 03:05:49",
+    "audited_at": "2026-11-04 03:43:45",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -801,7 +649,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:05:54",
+    "audited_at": "2026-11-04 03:43:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -820,7 +668,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:06:01",
+    "audited_at": "2026-11-04 03:44:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -839,26 +687,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:06:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 03:06:55",
+    "audited_at": "2026-11-04 03:44:47",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -879,7 +708,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:07:03",
+    "audited_at": "2026-11-04 03:44:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -898,7 +727,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:07:10",
+    "audited_at": "2026-11-04 03:45:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -917,7 +746,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:08:03",
+    "audited_at": "2026-11-04 03:45:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -929,14 +758,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
     }
   },
   {
-    "audited_at": "2026-11-04 03:08:15",
+    "audited_at": "2026-11-04 03:46:16",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -957,7 +786,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:08:27",
+    "audited_at": "2026-11-04 03:46:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -976,7 +805,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:08:39",
+    "audited_at": "2026-11-04 03:46:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -995,7 +824,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:09:32",
+    "audited_at": "2026-11-04 03:46:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1007,14 +836,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
     }
   },
   {
-    "audited_at": "2026-11-04 03:09:34",
+    "audited_at": "2026-11-04 03:47:35",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1035,7 +864,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:09:34",
+    "audited_at": "2026-11-04 03:47:47",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1054,7 +883,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:09:35",
+    "audited_at": "2026-11-04 03:47:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1073,7 +902,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:10:28",
+    "audited_at": "2026-11-04 03:48:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1085,14 +914,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
     }
   },
   {
-    "audited_at": "2026-11-04 03:10:35",
+    "audited_at": "2026-11-04 03:49:01",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1113,7 +942,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:10:47",
+    "audited_at": "2026-11-04 03:49:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1132,7 +961,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:11:00",
+    "audited_at": "2026-11-04 03:49:23",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1151,7 +980,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:11:51",
+    "audited_at": "2026-11-04 03:49:35",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1163,14 +992,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
     }
   },
   {
-    "audited_at": "2026-11-04 03:12:03",
+    "audited_at": "2026-11-04 03:50:25",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1191,7 +1020,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:12:16",
+    "audited_at": "2026-11-04 03:50:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1210,7 +1039,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:12:28",
+    "audited_at": "2026-11-04 03:50:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1229,7 +1058,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:13:08",
+    "audited_at": "2026-11-04 03:51:01",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1241,14 +1070,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
     }
   },
   {
-    "audited_at": "2026-11-04 03:13:20",
+    "audited_at": "2026-11-04 03:51:51",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1269,7 +1098,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:13:24",
+    "audited_at": "2026-11-04 03:52:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1288,7 +1117,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:13:36",
+    "audited_at": "2026-11-04 03:52:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1307,7 +1136,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:14:26",
+    "audited_at": "2026-11-04 03:52:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1319,14 +1148,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
     }
   },
   {
-    "audited_at": "2026-11-04 03:14:38",
+    "audited_at": "2026-11-04 03:53:08",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1347,7 +1176,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:14:51",
+    "audited_at": "2026-11-04 03:53:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1366,7 +1195,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:15:03",
+    "audited_at": "2026-11-04 03:53:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1385,7 +1214,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:15:54",
+    "audited_at": "2026-11-04 03:53:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1397,14 +1226,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
     }
   },
   {
-    "audited_at": "2026-11-04 03:16:06",
+    "audited_at": "2026-11-04 03:54:23",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1425,7 +1254,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:16:19",
+    "audited_at": "2026-11-04 03:54:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1444,7 +1273,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:16:31",
+    "audited_at": "2026-11-04 03:54:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1463,7 +1292,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:16:43",
+    "audited_at": "2026-11-04 03:54:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1475,33 +1304,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 이지실리 원형 전자레인지 멀티 실리콘 4,500원(15%↓)",
-      "sale_price": 4500,
-      "normal_price": 5300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8135393120&itemId=23108785819&vendorItemId=90142047584"
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
     }
   },
   {
-    "audited_at": "2026-11-04 03:17:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
-    }
-  },
-  {
-    "audited_at": "2026-11-04 03:17:37",
+    "audited_at": "2026-11-04 03:55:38",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1522,7 +1332,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:17:37",
+    "audited_at": "2026-11-04 03:55:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1541,7 +1351,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:17:40",
+    "audited_at": "2026-11-04 03:56:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1560,7 +1370,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:18:31",
+    "audited_at": "2026-11-04 03:56:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1572,14 +1382,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 이클립스 쿨링 소프트 캔디 청포도향, 7,090원(16%↓)",
-      "sale_price": 7090,
-      "normal_price": 8400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7104173736&itemId=21413591248&vendorItemId=80677043303"
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
     }
   },
   {
-    "audited_at": "2026-11-04 03:18:43",
+    "audited_at": "2026-11-04 03:57:05",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1600,7 +1410,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:18:55",
+    "audited_at": "2026-11-04 03:57:17",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1619,7 +1429,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:19:07",
+    "audited_at": "2026-11-04 03:57:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1638,7 +1448,26 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:19:57",
+    "audited_at": "2026-11-04 03:57:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 03:58:27",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1659,7 +1488,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:20:08",
+    "audited_at": "2026-11-04 03:58:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1678,7 +1507,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:20:21",
+    "audited_at": "2026-11-04 03:58:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1697,7 +1526,26 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:21:10",
+    "audited_at": "2026-11-04 03:58:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 03:59:38",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1718,7 +1566,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:21:21",
+    "audited_at": "2026-11-04 03:59:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1737,7 +1585,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:21:24",
+    "audited_at": "2026-11-04 03:59:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1756,7 +1604,26 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:22:14",
+    "audited_at": "2026-11-04 04:00:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 04:01:00",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1777,7 +1644,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:22:26",
+    "audited_at": "2026-11-04 04:01:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1796,7 +1663,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:22:38",
+    "audited_at": "2026-11-04 04:01:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1815,7 +1682,26 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:23:27",
+    "audited_at": "2026-11-04 04:01:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 04:02:28",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1836,7 +1722,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:23:39",
+    "audited_at": "2026-11-04 04:02:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1855,7 +1741,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:23:51",
+    "audited_at": "2026-11-04 04:02:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1874,7 +1760,26 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:24:42",
+    "audited_at": "2026-11-04 04:02:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 04:03:43",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1895,7 +1800,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:24:54",
+    "audited_at": "2026-11-04 04:03:47",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1914,7 +1819,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:25:06",
+    "audited_at": "2026-11-04 04:04:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1933,7 +1838,7 @@
     }
   },
   {
-    "audited_at": "2026-11-04 03:25:18",
+    "audited_at": "2026-11-04 04:04:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1945,10 +1850,107 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 순작 유기농 보리차 티백 1,880원(15%↓)",
-      "sale_price": 1880,
-      "normal_price": 2200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2619592&itemId=19406681625&vendorItemId=3000036461"
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 04:04:55",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 무항생제 신선한 특란, 30구, 1개 7,980원(15%↓)",
+      "sale_price": 7980,
+      "normal_price": 9400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%95%AD%EC%83%9D%EC%A0%9C%20%EC%8B%A0%EC%84%A0%ED%95%9C%20%ED%8A%B9%EB%9E%80%2C%2030%EA%B5%AC%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 04:05:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼성전자 4K UHD QLED 1,791,000원(15%↓)",
+      "sale_price": 1791000,
+      "normal_price": 2113400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8870769472&itemId=25880144275&vendorItemId=92866178655"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 04:05:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 무항생제 신선한 특란, 30구, 7,990원(15%↓)",
+      "sale_price": 7990,
+      "normal_price": 9400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1271113288&itemId=2275793934&vendorItemId=70272921457"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 04:05:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 가그린 제로 구강청결제, 1.2L, 8,890원(15%↓)",
+      "sale_price": 8890,
+      "normal_price": 10500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671243928&itemId=19026712612"
+    }
+  },
+  {
+    "audited_at": "2026-11-04 04:05:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 다향 엄선된 원료육으로 만든 9,990원(15%↓)",
+      "sale_price": 9990,
+      "normal_price": 11800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1142386751&itemId=2113736909"
     }
   }
 ]
