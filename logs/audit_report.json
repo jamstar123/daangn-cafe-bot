@@ -1,1927 +1,5 @@
 [
   {
-    "audited_at": "2026-11-05 07:00:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:00:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:01:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:01:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:01:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:02:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:02:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:02:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:03:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:03:11",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:04:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:04:10",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:04:22",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:04:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:05:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:05:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:05:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:05:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:06:48",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:07:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:07:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:07:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:08:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:08:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:08:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:08:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:09:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:09:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:09:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:09:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:10:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:10:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:10:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:11:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:11:57",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:12:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:12:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:12:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:13:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:13:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:13:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:13:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:14:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:14:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:14:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:15:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:15:48",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:16:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:16:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:16:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:17:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:17:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥 19,540원(15%↓)",
-      "sale_price": 19540,
-      "normal_price": 23100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:17:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:17:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:18:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:18:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:18:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:19:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:19:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:20:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:21:00",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:21:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:21:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:22:04",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 코멧 뽑아쓰는 천연펄프 3겹 키친타올 3,860원(16%↓)",
-      "sale_price": 3860,
-      "normal_price": 4600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%BD%94%EB%A9%A7%20%EB%BD%91%EC%95%84%EC%93%B0%EB%8A%94%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%203%EA%B2%B9%20%ED%82%A4%EC%B9%9C%ED%83%80%EC%98%AC%20100%EB%A7%A4%2C%203%EA%B0%9C%EC%9E%85%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:22:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:22:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:22:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:23:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 코멧 뽑아쓰는 천연펄프 3겹 키친타올 3,860원(16%↓)",
-      "sale_price": 3860,
-      "normal_price": 4600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%BD%94%EB%A9%A7%20%EB%BD%91%EC%95%84%EC%93%B0%EB%8A%94%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%203%EA%B2%B9%20%ED%82%A4%EC%B9%9C%ED%83%80%EC%98%AC%20100%EB%A7%A4%2C%203%EA%B0%9C%EC%9E%85%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:23:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:23:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:23:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:24:48",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 코멧 뽑아쓰는 천연펄프 3겹 키친타올 3,860원(16%↓)",
-      "sale_price": 3860,
-      "normal_price": 4600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%BD%94%EB%A9%A7%20%EB%BD%91%EC%95%84%EC%93%B0%EB%8A%94%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%203%EA%B2%B9%20%ED%82%A4%EC%B9%9C%ED%83%80%EC%98%AC%20100%EB%A7%A4%2C%203%EA%B0%9C%EC%9E%85%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:24:48",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:25:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:25:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:26:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 코멧 뽑아쓰는 천연펄프 3겹 키친타올 3,860원(16%↓)",
-      "sale_price": 3860,
-      "normal_price": 4600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%BD%94%EB%A9%A7%20%EB%BD%91%EC%95%84%EC%93%B0%EB%8A%94%20%EC%B2%9C%EC%97%B0%ED%8E%84%ED%94%84%203%EA%B2%B9%20%ED%82%A4%EC%B9%9C%ED%83%80%EC%98%AC%20100%EB%A7%A4%2C%203%EA%B0%9C%EC%9E%85%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:26:19",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:26:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:26:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:27:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:27:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:27:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:28:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 유니자장면 297g, 4개 8,700원(16%↓)",
-      "sale_price": 8700,
-      "normal_price": 10300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7145401079&itemId=19173017141&vendorItemId=92621246384"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:29:31",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:29:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:29:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:30:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:30:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:31:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:31:48",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:32:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:32:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:32:56",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:33:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:33:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:34:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:34:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
-      "sale_price": 426550,
-      "normal_price": 503300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 07:34:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
     "audited_at": "2026-11-05 07:35:25",
     "passed_all": false,
     "violations": [
@@ -1959,6 +37,1938 @@
       "sale_price": 16980,
       "normal_price": 20000,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:36:29",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:36:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
+      "sale_price": 426550,
+      "normal_price": 503300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:36:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:36:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:37:50",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:38:03",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:38:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
+      "sale_price": 426550,
+      "normal_price": 503300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:38:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:38:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:38:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:39:38",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:39:43",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:39:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
+      "sale_price": 426550,
+      "normal_price": 503300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:40:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:40:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:40:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:41:20",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:41:32",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:41:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
+      "sale_price": 426550,
+      "normal_price": 503300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:41:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:42:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:42:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:42:57",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:43:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:43:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
+      "sale_price": 426550,
+      "normal_price": 503300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:43:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:43:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:43:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:44:31",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:44:43",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:44:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
+      "sale_price": 426550,
+      "normal_price": 503300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:45:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:45:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:45:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:46:02",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:46:14",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:46:26",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
+      "sale_price": 426550,
+      "normal_price": 503300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:46:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:46:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:46:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:47:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:47:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:47:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
+      "sale_price": 426550,
+      "normal_price": 503300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:47:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:47:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:47:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:48:50",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:48:59",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:49:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
+      "sale_price": 426550,
+      "normal_price": 503300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:49:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:49:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:49:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:50:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:50:39",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:50:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
+      "sale_price": 426550,
+      "normal_price": 503300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:50:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:51:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:51:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:52:12",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:52:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:52:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
+      "sale_price": 426550,
+      "normal_price": 503300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:52:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:52:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:52:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:53:42",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:53:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:53:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 시디즈 T50 AIR 화이트쉘 426,550원(15%↓)",
+      "sale_price": 426550,
+      "normal_price": 503300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5220574189&itemId=7324623847&vendorItemId=88835234063"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:54:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:54:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:54:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:55:21",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:55:23",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:55:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:55:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:55:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:56:36",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:56:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:56:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:57:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:57:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:57:54",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:58:03",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:58:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:58:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:58:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:59:25",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:59:38",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 07:59:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:00:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:00:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:01:12",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:01:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:01:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:01:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:01:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:02:49",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:03:02",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:03:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 비비고 찰보리 감자만두 (냉동), 10,480원(15%↓)",
+      "sale_price": 10480,
+      "normal_price": 12400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=158010869&itemId=11872906017&vendorItemId=79145976500"
     }
   }
 ]
