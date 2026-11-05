@@ -1,801 +1,5 @@
 [
   {
-    "audited_at": "2026-11-05 02:17:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:18:01",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:18:11",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:18:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:19:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:19:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:19:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:20:36",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:20:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:21:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:21:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:22:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:22:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:22:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 홀리팝 쌍테라이너 2,370원(15%↓)",
-      "sale_price": 2370,
-      "normal_price": 2800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7885112053&itemId=21573065524"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:23:20",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:23:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:24:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:24:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:25:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:25:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:25:59",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:26:11",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:26:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:27:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:27:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 에라토 크림모노 2인 그릇 홈세트 9,900원(15%↓)",
-      "sale_price": 9900,
-      "normal_price": 11700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=216738074&itemId=666516413&vendorItemId=4722854367"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:27:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:28:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:28:48",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:28:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:29:38",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:29:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:30:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:30:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:31:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:31:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:31:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데 쿠폰)나이키 여성용 에어 79,000원(15%↓)",
-      "sale_price": 79000,
-      "normal_price": 93200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9570781020&itemId=28565628964&vendorItemId=94576237237"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:32:30",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:32:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:33:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 02:33:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
-      "sale_price": 11130,
-      "normal_price": 13100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
-    }
-  },
-  {
     "audited_at": "2026-11-05 02:33:47",
     "passed_all": true,
     "violations": [],
@@ -1935,6 +1139,766 @@
       "sale_price": 9370,
       "normal_price": 11200,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=94817&itemId=72362795&vendorItemId=85072689225"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:20:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:21:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:21:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:22:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:23:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:24:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:25:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:25:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:26:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:27:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:28:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:29:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:30:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:30:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:31:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:32:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:33:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:34:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:35:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:35:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:36:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:37:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:38:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:38:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:39:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:40:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:40:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:41:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:42:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:43:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:44:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:45:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:45:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:46:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:47:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:48:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:48:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:49:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:50:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 03:51:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 케이트 3D 아이브로우 컬러 Z 4,200원(16%↓)",
+      "sale_price": 4200,
+      "normal_price": 5000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6472334118&itemId=24196920280"
     }
   }
 ]
