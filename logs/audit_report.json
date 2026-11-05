@@ -1,66 +1,5 @@
 [
   {
-    "audited_at": "2026-11-05 00:53:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 00:54:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 00:54:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
     "audited_at": "2026-11-05 00:54:06",
     "passed_all": false,
     "violations": [
@@ -2067,6 +2006,67 @@
       "sale_price": 37950,
       "normal_price": 44800,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8915834419&itemId=26049839494&vendorItemId=93617014471"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:25:53",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:25:54",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:26:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Wendini 네모 파스타접시* 6개 4,990원(15%↓)",
+      "sale_price": 4990,
+      "normal_price": 5900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8586196931&itemId=24891714172&vendorItemId=90711430768"
     }
   }
 ]
