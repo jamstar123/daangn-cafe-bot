@@ -1,125 +1,5 @@
 [
   {
-    "audited_at": "2026-11-05 08:22:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
-      "sale_price": 47880,
-      "normal_price": 56500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 08:22:57",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 원모어 노이즈캔슬링 무선 블루투스 12,900원(15%↓)",
-      "sale_price": 12900,
-      "normal_price": 15200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9B%90%EB%AA%A8%EC%96%B4%20%EB%85%B8%EC%9D%B4%EC%A6%88%EC%BA%94%EC%8A%AC%EB%A7%81%20%EB%AC%B4%EC%84%A0%20%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4%20%EC%9D%B4%EC%96%B4%ED%8F%B0&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 08:23:09",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
-      "sale_price": 47880,
-      "normal_price": 56500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 08:23:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 08:23:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
-      "sale_price": 3320,
-      "normal_price": 3900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 08:23:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
     "audited_at": "2026-11-05 08:23:38",
     "passed_all": true,
     "violations": [],
@@ -1987,6 +1867,124 @@
       "sale_price": 4500,
       "normal_price": 5300,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8283024107&itemId=23881431260"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:50:56",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:51:08",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시, 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B2%BD%EB%B0%94%EC%84%B8%EB%A6%B0%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%20%EB%B2%84%EB%B8%94%20%ED%95%B8%EB%93%9C%EC%9B%8C%EC%8B%9C%2C%20500ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:51:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594&vendorItemId=71263536929"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:51:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
+      "sale_price": 16980,
+      "normal_price": 20000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:51:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
+      "sale_price": 47880,
+      "normal_price": 56500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 08:51:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] [로켓프레시] 에치와이 메치니코프 5,600원(15%↓)",
+      "sale_price": 5600,
+      "normal_price": 6600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9552669204&itemId=28530861804"
     }
   }
 ]
