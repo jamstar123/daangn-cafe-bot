@@ -1,81 +1,5 @@
 [
   {
-    "audited_at": "2026-11-05 21:43:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 21:43:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 21:44:22",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 21:45:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
     "audited_at": "2026-11-05 21:45:41",
     "passed_all": true,
     "violations": [],
@@ -1935,6 +1859,84 @@
       "sale_price": 2020,
       "normal_price": 2400,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9235848086&itemId=27106941975&vendorItemId=94075060716"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 22:29:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 22:29:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 22:29:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 22:29:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 하인즈 버거소스, 230g, 1개 2,630원(15%↓)",
+      "sale_price": 2630,
+      "normal_price": 3100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5018748027&itemId=6727266860&vendorItemId=74020235132"
     }
   }
 ]
