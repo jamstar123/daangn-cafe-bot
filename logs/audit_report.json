@@ -1,83 +1,5 @@
 [
   {
-    "audited_at": "2026-11-05 09:51:14",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
-      "sale_price": 47880,
-      "normal_price": 56500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 09:52:05",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
-      "sale_price": 47880,
-      "normal_price": 56500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 09:52:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 09:52:22",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
-      "sale_price": 47880,
-      "normal_price": 56500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
-    }
-  },
-  {
     "audited_at": "2026-11-05 09:53:15",
     "passed_all": false,
     "violations": [
@@ -1929,6 +1851,84 @@
       "sale_price": 5750,
       "normal_price": 6800,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6125877934&itemId=19932221438"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 10:42:51",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 나가사끼 짬뽕 115g, 15개 9,360원(15%↓)",
+      "sale_price": 9360,
+      "normal_price": 11000,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%82%BC%EC%96%91%20%EB%82%98%EA%B0%80%EC%82%AC%EB%81%BC%20%EC%A7%AC%EB%BD%95%20115g%2C%2015%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 10:43:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 10:43:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 10:43:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 나가사끼 짬뽕 115g, 15개 9,360원(15%↓)",
+      "sale_price": 9360,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14345&itemId=99218915&vendorItemId=84994378948"
     }
   }
 ]
