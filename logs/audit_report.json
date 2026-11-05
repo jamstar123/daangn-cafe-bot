@@ -1,1250 +1,5 @@
 [
   {
-    "audited_at": "2026-11-05 22:34:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:34:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:35:41",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:35:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:36:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:36:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:36:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:37:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:37:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:37:38",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:37:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:38:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:38:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:38:59",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:39:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:39:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:39:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:40:17",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:40:20",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:40:32",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:40:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:40:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:41:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:41:49",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:42:01",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:42:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:42:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:43:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:43:14",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:43:14",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:43:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:43:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:44:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:44:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:44:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:44:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:44:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:45:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:45:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:45:51",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:46:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:46:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:46:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:47:00",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:47:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:47:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:47:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:48:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:48:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:48:33",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:48:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:48:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:49:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:49:48",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:50:00",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:50:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:50:17",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:50:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:51:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:51:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:51:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
-      "sale_price": 16730,
-      "normal_price": 19700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:51:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
-      "sale_price": 5780,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 22:52:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
-      "sale_price": 19850,
-      "normal_price": 23800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
-    }
-  },
-  {
     "audited_at": "2026-11-05 22:52:43",
     "passed_all": false,
     "violations": [
@@ -1969,6 +724,1243 @@
       "sale_price": 19980,
       "normal_price": 27120,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6855806001&itemId=19394218509&vendorItemId=86506398822"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:04:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 열라면 120g, 5개 3,050원(20%↓)",
+      "sale_price": 3050,
+      "normal_price": 3800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6930792814&itemId=36896979&vendorItemId=3000293367"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:04:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:04:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:04:36",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:04:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:04:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:05:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 열라면 120g, 5개 3,050원(20%↓)",
+      "sale_price": 3050,
+      "normal_price": 3800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6930792814&itemId=36896979&vendorItemId=3000293367"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:05:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:06:05",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:06:17",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:06:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:06:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:07:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 열라면 120g, 5개 3,050원(20%↓)",
+      "sale_price": 3050,
+      "normal_price": 3800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6930792814&itemId=36896979&vendorItemId=3000293367"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:07:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:07:52",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:08:05",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:08:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:08:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:09:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 열라면 120g, 5개 3,050원(20%↓)",
+      "sale_price": 3050,
+      "normal_price": 3800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6930792814&itemId=36896979&vendorItemId=3000293367"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:09:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:09:33",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:09:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:09:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:10:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:11:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 열라면 120g, 5개 3,050원(20%↓)",
+      "sale_price": 3050,
+      "normal_price": 3800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6930792814&itemId=36896979&vendorItemId=3000293367"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:11:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:11:17",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:11:30",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:11:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:11:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:12:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 열라면 120g, 5개 3,050원(20%↓)",
+      "sale_price": 3050,
+      "normal_price": 3800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6930792814&itemId=36896979&vendorItemId=3000293367"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:12:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:12:58",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:13:11",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:13:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:13:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:14:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 열라면 120g, 5개 3,050원(20%↓)",
+      "sale_price": 3050,
+      "normal_price": 3800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6930792814&itemId=36896979&vendorItemId=3000293367"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:14:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:14:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:14:36",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:14:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:15:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:15:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 열라면 120g, 5개 3,050원(20%↓)",
+      "sale_price": 3050,
+      "normal_price": 3800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6930792814&itemId=36896979&vendorItemId=3000293367"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:15:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:15:58",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:16:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:16:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:16:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:17:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 열라면 120g, 5개 3,050원(20%↓)",
+      "sale_price": 3050,
+      "normal_price": 3800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6930792814&itemId=36896979&vendorItemId=3000293367"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:17:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:17:35",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:17:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%8D%94%EB%AF%B8%EC%8B%9D%20%EB%B0%B1%EB%AF%B8%EB%B0%A5%2C%20210g%2C%2024%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:17:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 더미식 백미밥, 210g, 24개 16,730원(15%↓)",
+      "sale_price": 16730,
+      "normal_price": 19700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=18921385871&vendorItemId=79035936721"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:18:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:19:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 열라면 120g, 5개 3,050원(20%↓)",
+      "sale_price": 3050,
+      "normal_price": 3800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6930792814&itemId=36896979&vendorItemId=3000293367"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:19:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:19:17",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:19:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:20:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 열라면 120g, 5개 3,050원(20%↓)",
+      "sale_price": 3050,
+      "normal_price": 3800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6930792814&itemId=36896979&vendorItemId=3000293367"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:20:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:20:38",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%AC%BC%ED%95%98%EB%82%98%20ECO%20%EC%83%9D%EC%88%98%20%EB%AC%B4%EB%9D%BC%EB%B2%A8%2C%202L%2C%2018%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:20:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 물하나 ECO 생수 무라벨, 2L, 5,780원(15%↓)",
+      "sale_price": 5780,
+      "normal_price": 6800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8401729000&itemId=19450771369&vendorItemId=86456644505"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 23:21:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 닌자 푸디 맥스 스마트 에어그릴 254,910원(15%↓)",
+      "sale_price": 254910,
+      "normal_price": 300800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7959315674&itemId=22002522180&vendorItemId=89050036796"
     }
   }
 ]
