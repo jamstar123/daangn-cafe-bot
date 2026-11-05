@@ -1,1780 +1,5 @@
 [
   {
-    "audited_at": "2026-11-05 10:07:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
-      "sale_price": 47880,
-      "normal_price": 56500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:07:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:07:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
-      "sale_price": 47880,
-      "normal_price": 56500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:08:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
-      "sale_price": 47880,
-      "normal_price": 56500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:08:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:09:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
-      "sale_price": 47880,
-      "normal_price": 56500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:09:51",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩, 47,880원(15%↓)",
-      "sale_price": 47880,
-      "normal_price": 56500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EC%98%AC%EB%8D%B0%EC%9D%B4%20%EB%A7%88%EB%93%A4%EB%A0%8C%20%EC%BF%A8%EB%9F%AC%20%EB%B0%B1%ED%8C%A9%2C%20%EB%A1%9C%EC%A6%88%EC%BF%BC%EC%B8%A0%2C%2014L%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:10:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:10:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 올데이 마들렌 쿨러 백팩 47,880원(15%↓)",
-      "sale_price": 47880,
-      "normal_price": 56500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8717814542&itemId=25321176463&vendorItemId=92316131010"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:11:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:11:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:12:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:13:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:14:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:15:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:15:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:16:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:17:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:18:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:19:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:19:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:20:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:21:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 프리메라 오가니언스 2종 32,900원(15%↓)",
-      "sale_price": 32900,
-      "normal_price": 38800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7591534361"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:21:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:22:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:22:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 쿠첸 브레인 듀얼프레셔 IH압력 128,400원(15%↓)",
-      "sale_price": 128400,
-      "normal_price": 151500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8519963498&itemId=20498133979&vendorItemId=87756145912"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:23:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:24:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:24:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:25:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:26:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:27:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:27:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:28:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:29:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:30:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:30:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:31:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:31:41",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:32:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:32:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:33:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:33:41",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:34:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 생생우동, 253g, 12개 16,980원(15%↓)",
-      "sale_price": 16980,
-      "normal_price": 20000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7709185473&itemId=20660472092&vendorItemId=86203374653"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:34:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:35:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 맛있는라면5개 (와우회원 3,150원(17%↓)",
-      "sale_price": 3150,
-      "normal_price": 3800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:36:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:37:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:37:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:37:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:38:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:38:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:38:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:39:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:39:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:40:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:40:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:41:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:41:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:41:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] [로켓프레시] 한반도 비파괴 당도선별 5,750원(15%↓)",
-      "sale_price": 5750,
-      "normal_price": 6800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6125877934&itemId=19932221438"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:42:51",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 나가사끼 짬뽕 115g, 15개 9,360원(15%↓)",
-      "sale_price": 9360,
-      "normal_price": 11000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%82%BC%EC%96%91%20%EB%82%98%EA%B0%80%EC%82%AC%EB%81%BC%20%EC%A7%AC%EB%BD%95%20115g%2C%2015%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:43:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:43:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:43:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 나가사끼 짬뽕 115g, 15개 9,360원(15%↓)",
-      "sale_price": 9360,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14345&itemId=99218915&vendorItemId=84994378948"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:44:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:44:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:44:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
-      "sale_price": 3150,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:45:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:45:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:45:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
-      "sale_price": 3150,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:46:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:46:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:46:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
-      "sale_price": 3150,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:47:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:47:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:48:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
-      "sale_price": 3150,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:48:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:48:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:48:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
-      "sale_price": 3150,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:49:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:49:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:49:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
-      "sale_price": 3150,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:50:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:50:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:50:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
-      "sale_price": 3150,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:51:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:51:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:51:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
-      "sale_price": 3150,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:52:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:52:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:53:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
-      "sale_price": 3150,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:53:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 10:54:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
-      "sale_price": 12990,
-      "normal_price": 15300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
-    }
-  },
-  {
     "audited_at": "2026-11-05 10:54:14",
     "passed_all": true,
     "violations": [],
@@ -1905,6 +130,1789 @@
       "sale_price": 3150,
       "normal_price": 3700,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 10:57:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 10:57:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 10:57:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 10:58:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 10:59:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 10:59:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:00:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:00:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:00:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:01:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:01:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:01:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:02:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:02:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:02:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:03:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:03:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:03:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:04:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:04:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:04:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:05:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:05:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:05:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:06:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:06:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:06:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:07:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:07:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:08:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:08:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:09:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:09:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:09:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:10:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:10:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:10:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:10:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:11:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:11:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:11:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:11:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:12:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:12:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:12:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:12:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:13:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:13:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:13:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:14:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:14:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:14:52",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%82%BC%EC%96%91%20%EB%A7%9B%EC%9E%88%EB%8A%94%EB%9D%BC%EB%A9%B4%20115g%2C%205%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:14:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:15:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:15:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:15:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:16:11",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%82%BC%EC%96%91%20%EB%A7%9B%EC%9E%88%EB%8A%94%EB%9D%BC%EB%A9%B4%20115g%2C%205%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:16:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:16:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:16:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:17:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:17:32",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%82%BC%EC%96%91%20%EB%A7%9B%EC%9E%88%EB%8A%94%EB%9D%BC%EB%A9%B4%20115g%2C%205%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:17:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:17:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:18:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:18:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
+      "sale_price": 19850,
+      "normal_price": 23400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:19:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:19:17",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%82%BC%EC%96%91%20%EB%A7%9B%EC%9E%88%EB%8A%94%EB%9D%BC%EB%A9%B4%20115g%2C%205%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:19:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:19:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:19:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:20:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
+      "sale_price": 19850,
+      "normal_price": 23400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:20:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:21:02",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%82%BC%EC%96%91%20%EB%A7%9B%EC%9E%88%EB%8A%94%EB%9D%BC%EB%A9%B4%20115g%2C%205%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:21:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:21:26",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:21:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:21:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
+      "sale_price": 19850,
+      "normal_price": 23400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:22:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:22:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%82%BC%EC%96%91%20%EB%A7%9B%EC%9E%88%EB%8A%94%EB%9D%BC%EB%A9%B4%20115g%2C%205%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:22:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:23:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:23:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:23:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
+      "sale_price": 19850,
+      "normal_price": 23400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:24:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:24:18",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%82%BC%EC%96%91%20%EB%A7%9B%EC%9E%88%EB%8A%94%EB%9D%BC%EB%A9%B4%20115g%2C%205%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:24:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한 맛 37.8g, 9,300원(15%↓)",
+      "sale_price": 9300,
+      "normal_price": 11000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5932459264&itemId=19189841&vendorItemId=84993757900"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:24:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 주스용 못난이 토마토, 5kg, 12,990원(15%↓)",
+      "sale_price": 12990,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6795314250&itemId=16021705145&vendorItemId=83226102885"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:24:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:24:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
+      "sale_price": 19850,
+      "normal_price": 23400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:25:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리퀜처 H2.0 플로우 19,850원(17%↓)",
+      "sale_price": 19850,
+      "normal_price": 23800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=24325205152&vendorItemId=91340904156"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:25:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 맛있는라면 115g, 5개 3,150원(15%↓)",
+      "sale_price": 3150,
+      "normal_price": 3700,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%82%BC%EC%96%91%20%EB%A7%9B%EC%9E%88%EB%8A%94%EB%9D%BC%EB%A9%B4%20115g%2C%205%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 11:25:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 동아제약 이체크 갱년기 테스트기, 6,290원(15%↓)",
+      "sale_price": 6290,
+      "normal_price": 7400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7045677448&itemId=17435781053&vendorItemId=84604639721"
     }
   }
 ]
