@@ -1,711 +1,5 @@
 [
   {
-    "audited_at": "2026-11-05 00:59:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 00:59:44",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:00:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곡물그대로21 크리스피롤, 650g, 6,000원(17%↓)",
-      "sale_price": 6000,
-      "normal_price": 7200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=44192&itemId=24929647810"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:00:24",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:00:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:01:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 퍼실 뉴 디스크 파워 캡슐세제 파우치 8,700원(16%↓)",
-      "sale_price": 8700,
-      "normal_price": 10300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8512405647&itemId=25832697039"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:01:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 생생비타민C 3000 17,900원(15%↓)",
-      "sale_price": 17900,
-      "normal_price": 21100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9779617710&itemId=29277663910"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:02:32",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:02:32",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:03:13",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:03:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:03:56",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:04:00",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:04:38",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:04:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:05:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:05:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:06:00",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:06:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:06:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:06:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:07:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:07:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:07:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (와멤데 쿠폰) 더미식 백미밥, 24,650원(15%↓)",
-      "sale_price": 24650,
-      "normal_price": 29100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7351987688&itemId=23929003497&vendorItemId=85425155764"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:08:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:08:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:09:05",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:09:07",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:09:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:09:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:10:30",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:10:31",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:11:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
-      "sale_price": 119000,
-      "normal_price": 140400,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-05 01:11:14",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
-      "sale_price": 79900,
-      "normal_price": 94300,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
     "audited_at": "2026-11-05 01:11:54",
     "passed_all": false,
     "violations": [
@@ -2081,6 +1375,696 @@
       "sale_price": 11130,
       "normal_price": 13100,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:34:42",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:34:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:34:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:35:40",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:35:43",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:35:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:36:36",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:36:39",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:36:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:37:33",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:37:34",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:37:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:38:25",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:38:26",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:38:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:39:16",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:39:18",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:39:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:40:13",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:40:15",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:40:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:41:08",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:41:09",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:41:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:41:58",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:42:00",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:42:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:42:42",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:42:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:42:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:43:38",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 탄소매트 전자파차단 119,000원(15%↓)",
+      "sale_price": 119000,
+      "normal_price": 140400,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%ED%83%84%EC%86%8C%EB%A7%A4%ED%8A%B8%20%EC%A0%84%EC%9E%90%ED%8C%8C%EC%B0%A8%EB%8B%A8%20%EC%A0%84%EA%B8%B0%EC%9E%A5%ED%8C%90&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:43:40",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한일의료기 무자계 탄소열선 온열 79,900원(15%↓)",
+      "sale_price": 79900,
+      "normal_price": 94300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%9C%EC%9D%BC%EC%9D%98%EB%A3%8C%EA%B8%B0%20%EB%AC%B4%EC%9E%90%EA%B3%84%20%ED%83%84%EC%86%8C%EC%97%B4%EC%84%A0%20%EC%98%A8%EC%97%B4%20%EB%A7%A4%ED%8A%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:43:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 한국맥꾸룸 맥 찹쌀 고추장, 11,130원(15%↓)",
+      "sale_price": 11130,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=160227393&itemId=460007976&vendorItemId=4142618298"
+    }
+  },
+  {
+    "audited_at": "2026-11-05 01:43:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 애경바세린 모이스처 버블 핸드워시 3,320원(15%↓)",
+      "sale_price": 3320,
+      "normal_price": 3900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8213701010&itemId=3276539594"
     }
   }
 ]
