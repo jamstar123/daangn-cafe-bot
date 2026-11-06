@@ -1,43 +1,5 @@
 [
   {
-    "audited_at": "2026-11-06 13:13:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
-      "sale_price": 19500,
-      "normal_price": 23000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 13:13:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 잔다리 서리태 속청 로스팅 콩, 27,810원(15%↓)",
-      "sale_price": 27810,
-      "normal_price": 32800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7743063355&itemId=19233291307&vendorItemId=86349757658"
-    }
-  },
-  {
     "audited_at": "2026-11-06 13:14:22",
     "passed_all": false,
     "violations": [
@@ -2047,6 +2009,46 @@
       "sale_price": 2252600,
       "normal_price": 2703100,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9736343851&itemId=29138246730"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 17:52:54",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이니스프리 화산송이 BHA 모공 12,810원(15%↓)",
+      "sale_price": 12810,
+      "normal_price": 15100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC%20%ED%99%94%EC%82%B0%EC%86%A1%EC%9D%B4%20BHA%20%EB%AA%A8%EA%B3%B5%20%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC%20%EB%8C%80%EC%9A%A9%EB%9F%89%2C%20250g%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 17:53:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이니스프리 화산송이 BHA 모공 12,810원(15%↓)",
+      "sale_price": 12810,
+      "normal_price": 15100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8209844068&itemId=19170953678&vendorItemId=87149808480"
     }
   }
 ]
