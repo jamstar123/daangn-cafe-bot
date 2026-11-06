@@ -1,261 +1,5 @@
 [
   {
-    "audited_at": "2026-11-06 09:27:17",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 프로그 라텍스 컴포트 고무장갑, 17,940원(15%↓)",
-      "sale_price": 17940,
-      "normal_price": 21200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6715674951&itemId=19850403660&vendorItemId=86951613509"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 09:28:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] 3단 수압조절 샤워기 헤드 2개 8,900원(15%↓)",
-      "sale_price": 8900,
-      "normal_price": 10500,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=3%EB%8B%A8%20%EC%88%98%EC%95%95%EC%A1%B0%EC%A0%88%20%EC%83%A4%EC%9B%8C%EA%B8%B0%20%ED%97%A4%EB%93%9C%202%EA%B0%9C"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 09:28:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 프로그 라텍스 컴포트 고무장갑, 17,940원(15%↓)",
-      "sale_price": 17940,
-      "normal_price": 21200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6715674951&itemId=19850403660&vendorItemId=86951613509"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 09:28:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7038376642&itemId=19565593133&vendorItemId=86673470157"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 09:28:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 프로그 라텍스 컴포트 고무장갑, 17,940원(15%↓)",
-      "sale_price": 17940,
-      "normal_price": 21200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6715674951&itemId=19850403660&vendorItemId=86951613509"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 09:29:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] 3단 수압조절 샤워기 헤드 2개 8,900원(15%↓)",
-      "sale_price": 8900,
-      "normal_price": 10500,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=3%EB%8B%A8%20%EC%88%98%EC%95%95%EC%A1%B0%EC%A0%88%20%EC%83%A4%EC%9B%8C%EA%B8%B0%20%ED%97%A4%EB%93%9C%202%EA%B0%9C"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 09:29:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 프로그 라텍스 컴포트 고무장갑, 17,940원(15%↓)",
-      "sale_price": 17940,
-      "normal_price": 21200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6715674951&itemId=19850403660&vendorItemId=86951613509"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 09:29:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7038376642&itemId=19565593133&vendorItemId=86673470157"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 09:30:11",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 프로그 라텍스 컴포트 고무장갑, 17,940원(15%↓)",
-      "sale_price": 17940,
-      "normal_price": 21200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6715674951&itemId=19850403660&vendorItemId=86951613509"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 09:30:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] 3단 수압조절 샤워기 헤드 2개 8,900원(15%↓)",
-      "sale_price": 8900,
-      "normal_price": 10500,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=3%EB%8B%A8%20%EC%88%98%EC%95%95%EC%A1%B0%EC%A0%88%20%EC%83%A4%EC%9B%8C%EA%B8%B0%20%ED%97%A4%EB%93%9C%202%EA%B0%9C"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 09:31:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 프로그 라텍스 컴포트 고무장갑, 17,940원(15%↓)",
-      "sale_price": 17940,
-      "normal_price": 21200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6715674951&itemId=19850403660&vendorItemId=86951613509"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 09:31:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 컵누들 매콤한맛 37.8g, 9,300원(15%↓)",
-      "sale_price": 9300,
-      "normal_price": 11000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7038376642&itemId=19565593133&vendorItemId=86673470157"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 09:31:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 프로그 라텍스 컴포트 고무장갑, 17,940원(15%↓)",
-      "sale_price": 17940,
-      "normal_price": 21200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6715674951&itemId=19850403660&vendorItemId=86951613509"
-    }
-  },
-  {
     "audited_at": "2026-11-06 09:31:41",
     "passed_all": true,
     "violations": [],
@@ -1906,6 +1650,253 @@
       "sale_price": 19500,
       "normal_price": 23000,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:21:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
+      "sale_price": 19500,
+      "normal_price": 23000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:22:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
+      "sale_price": 19500,
+      "normal_price": 23000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:23:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
+      "sale_price": 19500,
+      "normal_price": 23000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:24:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
+      "sale_price": 19500,
+      "normal_price": 23000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:25:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
+      "sale_price": 19500,
+      "normal_price": 23000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:25:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
+      "sale_price": 19500,
+      "normal_price": 23000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:26:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
+      "sale_price": 19500,
+      "normal_price": 23000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:27:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
+      "sale_price": 19500,
+      "normal_price": 23000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:28:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
+      "sale_price": 19500,
+      "normal_price": 23000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:28:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
+      "sale_price": 19500,
+      "normal_price": 23000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:29:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
+      "sale_price": 19500,
+      "normal_price": 23000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:30:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 헬리오스 내츄럴 무화과잼, 19,500원(15%↓)",
+      "sale_price": 19500,
+      "normal_price": 23000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=273848352&itemId=19443214939&vendorItemId=86554190599"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 10:30:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 잔다리 서리태 속청 로스팅 콩, 27,810원(15%↓)",
+      "sale_price": 27810,
+      "normal_price": 32800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7743063355&itemId=19233291307&vendorItemId=86349757658"
     }
   }
 ]
