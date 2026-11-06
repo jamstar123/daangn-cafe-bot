@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-06 13:12:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 잔다리 서리태 속청 로스팅 콩, 27,810원(15%↓)",
-      "sale_price": 27810,
-      "normal_price": 32800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7743063355&itemId=19233291307&vendorItemId=86349757658"
-    }
-  },
-  {
     "audited_at": "2026-11-06 13:13:04",
     "passed_all": false,
     "violations": [
@@ -2049,6 +2030,25 @@
       "sale_price": 13180,
       "normal_price": 21600,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9371774&itemId=21184770164"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 14:32:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 르까프 L플립 2.0 런닝화 15,550원(15%↓)",
+      "sale_price": 15550,
+      "normal_price": 18300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8164275549&itemId=23288638523&vendorItemId=90320874598"
     }
   }
 ]
