@@ -1,27 +1,6 @@
 [
   {
-    "audited_at": "2026-11-06 03:31:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,500원(15%↓)",
-      "sale_price": 20500,
-      "normal_price": 24200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EC%95%84%EB%A9%94%EC%8B%9C%EC%8A%A4%ED%8A%B8%20%ED%95%91%ED%81%AC%2C%20887ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:32:05",
+    "audited_at": "2026-11-06 04:22:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -33,71 +12,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 풀무원 올바른 핫도그 개별 23,480원(15%↓)",
-      "sale_price": 23480,
-      "normal_price": 27700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=222515135&itemId=19224750563&vendorItemId=86341421839"
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
     }
   },
   {
-    "audited_at": "2026-11-06 03:32:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] ( 한정판 ) 겨울엔 미떼 핫초코 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:32:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
-      "sale_price": 19850,
-      "normal_price": 23400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=27215104303&vendorItemId=94182348474"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:32:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 올바른 핫도그 개별 23,480원(15%↓)",
-      "sale_price": 23480,
-      "normal_price": 27700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=222515135&itemId=19224750563&vendorItemId=86341421839"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:33:36",
+    "audited_at": "2026-11-06 04:23:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -116,7 +38,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:33:48",
+    "audited_at": "2026-11-06 04:23:28",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -137,7 +59,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:34:00",
+    "audited_at": "2026-11-06 04:23:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -156,26 +78,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:34:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] ( 한정판 ) 겨울엔 미떼 핫초코 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:34:24",
+    "audited_at": "2026-11-06 04:23:53",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -194,7 +97,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:34:36",
+    "audited_at": "2026-11-06 04:24:05",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -213,142 +116,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:34:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 동원참치 살코기 인 워터 5,440원(15%↓)",
-      "sale_price": 5440,
-      "normal_price": 6400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5844182968&itemId=20472316926"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:35:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 비프 스테이크 (냉동) 3,360원(16%↓)",
-      "sale_price": 3360,
-      "normal_price": 4000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6224314075&itemId=20773237536"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:35:51",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,500원(15%↓)",
-      "sale_price": 20500,
-      "normal_price": 24200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EC%95%84%EB%A9%94%EC%8B%9C%EC%8A%A4%ED%8A%B8%20%ED%95%91%ED%81%AC%2C%20887ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:35:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 올바른 핫도그 개별 23,480원(15%↓)",
-      "sale_price": 23480,
-      "normal_price": 27700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=222515135&itemId=19224750563&vendorItemId=86341421839"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:36:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] ( 한정판 ) 겨울엔 미떼 핫초코 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:36:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
-      "sale_price": 19850,
-      "normal_price": 23400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=27215104303&vendorItemId=94182348474"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:36:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 풀무원 올바른 핫도그 개별 23,480원(15%↓)",
-      "sale_price": 23480,
-      "normal_price": 27700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=222515135&itemId=19224750563&vendorItemId=86341421839"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:36:43",
+    "audited_at": "2026-11-06 04:24:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -367,7 +135,26 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:37:32",
+    "audited_at": "2026-11-06 04:24:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:25:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -386,7 +173,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:37:35",
+    "audited_at": "2026-11-06 04:25:32",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -407,7 +194,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:37:47",
+    "audited_at": "2026-11-06 04:25:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -426,26 +213,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:37:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] ( 한정판 ) 겨울엔 미떼 핫초코 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:38:00",
+    "audited_at": "2026-11-06 04:25:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -464,7 +232,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:38:08",
+    "audited_at": "2026-11-06 04:26:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -483,7 +251,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:38:11",
+    "audited_at": "2026-11-06 04:26:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -502,7 +270,26 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:39:07",
+    "audited_at": "2026-11-06 04:26:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:27:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -521,7 +308,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:39:19",
+    "audited_at": "2026-11-06 04:27:21",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -542,7 +329,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:39:32",
+    "audited_at": "2026-11-06 04:27:26",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -561,26 +348,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:39:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] ( 한정판 ) 겨울엔 미떼 핫초코 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:39:54",
+    "audited_at": "2026-11-06 04:27:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -599,7 +367,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:39:57",
+    "audited_at": "2026-11-06 04:27:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -618,7 +386,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:40:05",
+    "audited_at": "2026-11-06 04:27:55",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -637,7 +405,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:40:51",
+    "audited_at": "2026-11-06 04:28:01",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -649,14 +417,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 크런키 초콜릿 34g 24개/ 17,220원(17%↓)",
-      "sale_price": 17220,
-      "normal_price": 20700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6062899457&itemId=17218030949"
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
     }
   },
   {
-    "audited_at": "2026-11-06 03:41:54",
+    "audited_at": "2026-11-06 04:28:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -675,7 +443,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:42:06",
+    "audited_at": "2026-11-06 04:29:09",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -696,7 +464,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:42:18",
+    "audited_at": "2026-11-06 04:29:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -715,26 +483,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:42:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] ( 한정판 ) 겨울엔 미떼 핫초코 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:42:37",
+    "audited_at": "2026-11-06 04:29:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -753,7 +502,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:42:49",
+    "audited_at": "2026-11-06 04:29:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -772,7 +521,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:43:02",
+    "audited_at": "2026-11-06 04:29:55",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -791,7 +540,26 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:43:58",
+    "audited_at": "2026-11-06 04:30:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:31:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -810,7 +578,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:44:10",
+    "audited_at": "2026-11-06 04:31:03",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -831,7 +599,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:44:22",
+    "audited_at": "2026-11-06 04:31:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -850,26 +618,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:44:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] ( 한정판 ) 겨울엔 미떼 핫초코 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:44:46",
+    "audited_at": "2026-11-06 04:31:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -888,7 +637,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:44:58",
+    "audited_at": "2026-11-06 04:31:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -907,7 +656,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:45:11",
+    "audited_at": "2026-11-06 04:31:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -926,7 +675,26 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:46:07",
+    "audited_at": "2026-11-06 04:31:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:32:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -945,7 +713,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:46:20",
+    "audited_at": "2026-11-06 04:32:51",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -966,7 +734,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:46:32",
+    "audited_at": "2026-11-06 04:33:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -985,26 +753,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:46:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] ( 한정판 ) 겨울엔 미떼 핫초코 8,300원(15%↓)",
-      "sale_price": 8300,
-      "normal_price": 9800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7092292932&itemId=476804087"
-    }
-  },
-  {
-    "audited_at": "2026-11-06 03:46:53",
+    "audited_at": "2026-11-06 04:33:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1023,7 +772,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:47:05",
+    "audited_at": "2026-11-06 04:33:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1042,7 +791,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:47:17",
+    "audited_at": "2026-11-06 04:33:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1061,7 +810,26 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:48:13",
+    "audited_at": "2026-11-06 04:33:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:34:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1080,7 +848,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:48:13",
+    "audited_at": "2026-11-06 04:34:59",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1101,7 +869,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:48:26",
+    "audited_at": "2026-11-06 04:35:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1120,7 +888,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:48:38",
+    "audited_at": "2026-11-06 04:35:23",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1139,7 +907,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:48:50",
+    "audited_at": "2026-11-06 04:35:35",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1158,7 +926,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:48:59",
+    "audited_at": "2026-11-06 04:35:47",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1177,7 +945,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:49:11",
+    "audited_at": "2026-11-06 04:35:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1189,14 +957,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 듀이트리 하이 아미노 올 클렌저, 6,040원(15%↓)",
-      "sale_price": 6040,
-      "normal_price": 7100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1711446154&itemId=2912786409&vendorItemId=70901485555"
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
     }
   },
   {
-    "audited_at": "2026-11-06 03:50:11",
+    "audited_at": "2026-11-06 04:36:55",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1215,7 +983,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:50:23",
+    "audited_at": "2026-11-06 04:37:07",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1236,7 +1004,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:50:35",
+    "audited_at": "2026-11-06 04:37:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1255,7 +1023,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:50:47",
+    "audited_at": "2026-11-06 04:37:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1274,7 +1042,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:50:59",
+    "audited_at": "2026-11-06 04:37:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1293,7 +1061,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:51:11",
+    "audited_at": "2026-11-06 04:37:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1312,7 +1080,26 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:52:00",
+    "audited_at": "2026-11-06 04:38:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:39:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1331,7 +1118,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:52:08",
+    "audited_at": "2026-11-06 04:39:09",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1352,7 +1139,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:52:12",
+    "audited_at": "2026-11-06 04:39:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1371,7 +1158,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:52:20",
+    "audited_at": "2026-11-06 04:39:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1390,7 +1177,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:52:28",
+    "audited_at": "2026-11-06 04:39:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1409,7 +1196,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:52:35",
+    "audited_at": "2026-11-06 04:39:55",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1428,7 +1215,26 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:53:30",
+    "audited_at": "2026-11-06 04:40:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:41:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1447,7 +1253,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:53:42",
+    "audited_at": "2026-11-06 04:41:15",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1468,7 +1274,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:53:54",
+    "audited_at": "2026-11-06 04:41:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1487,7 +1293,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:54:07",
+    "audited_at": "2026-11-06 04:41:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1506,7 +1312,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:54:14",
+    "audited_at": "2026-11-06 04:41:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1525,7 +1331,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:54:19",
+    "audited_at": "2026-11-06 04:42:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1544,7 +1350,26 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:55:15",
+    "audited_at": "2026-11-06 04:42:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:43:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1563,7 +1388,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:55:27",
+    "audited_at": "2026-11-06 04:43:24",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1584,7 +1409,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:55:39",
+    "audited_at": "2026-11-06 04:43:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1603,7 +1428,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:55:51",
+    "audited_at": "2026-11-06 04:43:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1622,7 +1447,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:56:03",
+    "audited_at": "2026-11-06 04:43:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1641,7 +1466,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:56:15",
+    "audited_at": "2026-11-06 04:44:08",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1660,7 +1485,26 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:57:11",
+    "audited_at": "2026-11-06 04:44:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:45:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1679,7 +1523,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:57:23",
+    "audited_at": "2026-11-06 04:45:25",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1700,7 +1544,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:57:32",
+    "audited_at": "2026-11-06 04:45:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1719,7 +1563,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:57:44",
+    "audited_at": "2026-11-06 04:45:48",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1738,7 +1582,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:57:57",
+    "audited_at": "2026-11-06 04:46:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1757,7 +1601,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:58:09",
+    "audited_at": "2026-11-06 04:46:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1776,7 +1620,26 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:58:56",
+    "audited_at": "2026-11-06 04:46:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:47:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1795,7 +1658,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:59:08",
+    "audited_at": "2026-11-06 04:47:31",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1816,7 +1679,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:59:20",
+    "audited_at": "2026-11-06 04:47:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1835,7 +1698,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:59:33",
+    "audited_at": "2026-11-06 04:47:55",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1854,7 +1717,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:59:45",
+    "audited_at": "2026-11-06 04:48:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1873,7 +1736,7 @@
     }
   },
   {
-    "audited_at": "2026-11-06 03:59:52",
+    "audited_at": "2026-11-06 04:48:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1892,7 +1755,26 @@
     }
   },
   {
-    "audited_at": "2026-11-06 04:00:49",
+    "audited_at": "2026-11-06 04:48:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:49:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1911,7 +1793,28 @@
     }
   },
   {
-    "audited_at": "2026-11-06 04:00:52",
+    "audited_at": "2026-11-06 04:49:33",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 20,500원(15%↓)",
+      "sale_price": 20500,
+      "normal_price": 24200,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%A0%EB%A6%AC%20%ED%80%9C%EC%B2%98%20H2.0%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%2C%20%EC%95%84%EB%A9%94%EC%8B%9C%EC%8A%A4%ED%8A%B8%20%ED%95%91%ED%81%AC%2C%20887ml%2C%201%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:49:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1923,10 +1826,105 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 덮개형 양방향 A4 클립보드 듀얼 15,900원(15%↓)",
-      "sale_price": 15900,
-      "normal_price": 18800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9788337545&vendorItemId=9622176771%E2%80%A6"
+      "title": "[역대가] [쿠팡] 풀무원 올바른 핫도그 개별 23,480원(15%↓)",
+      "sale_price": 23480,
+      "normal_price": 27700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=222515135&itemId=19224750563&vendorItemId=86341421839"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:49:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 19,850원(15%↓)",
+      "sale_price": 19850,
+      "normal_price": 23400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=27215104303&vendorItemId=94182348474"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:50:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 풀무원 올바른 핫도그 개별 23,480원(15%↓)",
+      "sale_price": 23480,
+      "normal_price": 27700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=222515135&itemId=19224750563&vendorItemId=86341421839"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:50:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스탠리 퀜처 H2.0 플로우 22,050원(15%↓)",
+      "sale_price": 22050,
+      "normal_price": 26000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6792297030&itemId=25183288918&vendorItemId=92180148424"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:50:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 알로 블랙 트러플 하몽 크래커 11p 2,470원(15%↓)",
+      "sale_price": 2470,
+      "normal_price": 2900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8883183561&itemId=28235053486"
+    }
+  },
+  {
+    "audited_at": "2026-11-06 04:50:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 하인즈 토마토 케찹 3,000원(14%↓)",
+      "sale_price": 3000,
+      "normal_price": 3500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6714158527&itemId=2614506235"
     }
   }
 ]
