@@ -1,126 +1,6 @@
 [
   {
-    "audited_at": "2026-11-07 06:27:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:28:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:28:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:29:20",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:29:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:30:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:30:24",
+    "audited_at": "2026-11-07 08:13:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -139,7 +19,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:31:08",
+    "audited_at": "2026-11-07 08:14:25",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -160,26 +40,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:31:20",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:31:32",
+    "audited_at": "2026-11-07 08:14:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -198,7 +59,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:32:14",
+    "audited_at": "2026-11-07 08:15:18",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -219,26 +80,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:32:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:32:38",
+    "audited_at": "2026-11-07 08:15:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -257,7 +99,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:33:20",
+    "audited_at": "2026-11-07 08:16:10",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -278,26 +120,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:33:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:33:44",
+    "audited_at": "2026-11-07 08:16:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -316,7 +139,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:34:25",
+    "audited_at": "2026-11-07 08:17:03",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -337,26 +160,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:34:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:34:49",
+    "audited_at": "2026-11-07 08:17:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -375,7 +179,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:35:29",
+    "audited_at": "2026-11-07 08:17:55",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -396,26 +200,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:35:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:35:48",
+    "audited_at": "2026-11-07 08:18:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -434,7 +219,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:36:26",
+    "audited_at": "2026-11-07 08:18:50",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -455,26 +240,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:36:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:36:50",
+    "audited_at": "2026-11-07 08:19:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -493,7 +259,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:37:30",
+    "audited_at": "2026-11-07 08:19:42",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -514,26 +280,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:37:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:37:51",
+    "audited_at": "2026-11-07 08:19:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -552,7 +299,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:38:32",
+    "audited_at": "2026-11-07 08:20:26",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -573,26 +320,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:38:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:38:42",
+    "audited_at": "2026-11-07 08:20:29",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -611,7 +339,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:39:22",
+    "audited_at": "2026-11-07 08:21:11",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -632,26 +360,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:39:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:39:46",
+    "audited_at": "2026-11-07 08:21:23",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -670,7 +379,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:40:27",
+    "audited_at": "2026-11-07 08:22:03",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -691,26 +400,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:40:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:40:52",
+    "audited_at": "2026-11-07 08:22:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -729,7 +419,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:41:32",
+    "audited_at": "2026-11-07 08:22:45",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -750,26 +440,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:41:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:41:55",
+    "audited_at": "2026-11-07 08:22:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -788,7 +459,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:42:35",
+    "audited_at": "2026-11-07 08:23:38",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -809,26 +480,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:42:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:42:59",
+    "audited_at": "2026-11-07 08:23:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -847,7 +499,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:43:39",
+    "audited_at": "2026-11-07 08:24:31",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -868,26 +520,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:43:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:43:52",
+    "audited_at": "2026-11-07 08:24:41",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -906,7 +539,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:44:32",
+    "audited_at": "2026-11-07 08:25:22",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -927,26 +560,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:44:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:44:57",
+    "audited_at": "2026-11-07 08:25:26",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -965,7 +579,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:45:37",
+    "audited_at": "2026-11-07 08:26:05",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -986,26 +600,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:45:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:45:57",
+    "audited_at": "2026-11-07 08:26:17",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1024,7 +619,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:46:39",
+    "audited_at": "2026-11-07 08:26:57",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1045,26 +640,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:46:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:46:50",
+    "audited_at": "2026-11-07 08:27:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1083,7 +659,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:47:34",
+    "audited_at": "2026-11-07 08:27:50",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1104,26 +680,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:47:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:47:49",
+    "audited_at": "2026-11-07 08:28:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1142,7 +699,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:48:29",
+    "audited_at": "2026-11-07 08:28:43",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1163,26 +720,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:48:41",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:48:52",
+    "audited_at": "2026-11-07 08:28:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1201,7 +739,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:49:32",
+    "audited_at": "2026-11-07 08:29:34",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1222,26 +760,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:49:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:49:57",
+    "audited_at": "2026-11-07 08:29:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1260,7 +779,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:50:36",
+    "audited_at": "2026-11-07 08:30:27",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1281,26 +800,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:50:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:51:00",
+    "audited_at": "2026-11-07 08:30:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1319,7 +819,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:51:41",
+    "audited_at": "2026-11-07 08:31:18",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1340,26 +840,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:51:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:52:05",
+    "audited_at": "2026-11-07 08:31:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1378,7 +859,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:52:46",
+    "audited_at": "2026-11-07 08:32:14",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1399,26 +880,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:52:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:53:04",
+    "audited_at": "2026-11-07 08:32:26",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1437,7 +899,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:53:48",
+    "audited_at": "2026-11-07 08:33:06",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1458,26 +920,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:53:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:54:10",
+    "audited_at": "2026-11-07 08:33:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1496,7 +939,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:54:52",
+    "audited_at": "2026-11-07 08:33:58",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1517,26 +960,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:55:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:55:10",
+    "audited_at": "2026-11-07 08:34:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1555,7 +979,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:55:49",
+    "audited_at": "2026-11-07 08:34:53",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1576,26 +1000,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:55:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:55:59",
+    "audited_at": "2026-11-07 08:34:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1614,7 +1019,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:56:40",
+    "audited_at": "2026-11-07 08:35:34",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1635,26 +1040,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:56:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:56:55",
+    "audited_at": "2026-11-07 08:35:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1673,7 +1059,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:57:34",
+    "audited_at": "2026-11-07 08:36:28",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1694,26 +1080,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:57:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:57:40",
+    "audited_at": "2026-11-07 08:36:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1732,7 +1099,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:58:19",
+    "audited_at": "2026-11-07 08:37:22",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1753,26 +1120,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:58:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:58:43",
+    "audited_at": "2026-11-07 08:37:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1791,7 +1139,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:59:24",
+    "audited_at": "2026-11-07 08:38:17",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1812,26 +1160,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 06:59:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 06:59:48",
+    "audited_at": "2026-11-07 08:38:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1850,7 +1179,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 07:00:30",
+    "audited_at": "2026-11-07 08:38:59",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1871,26 +1200,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 07:00:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 07:00:55",
+    "audited_at": "2026-11-07 08:39:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1909,7 +1219,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 07:01:34",
+    "audited_at": "2026-11-07 08:39:53",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1930,26 +1240,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 07:01:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오사닛 캔디, 캐모마일, 7.5g, 13,950원(15%↓)",
-      "sale_price": 13950,
-      "normal_price": 16500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=284781354&itemId=18819442097&vendorItemId=85949803487"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 07:01:58",
+    "audited_at": "2026-11-07 08:39:55",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1965,6 +1256,745 @@
       "sale_price": 21350,
       "normal_price": 25200,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:40:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:40:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:41:31",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:41:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:42:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:42:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:43:17",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:43:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:43:59",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:44:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:44:57",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:45:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:45:48",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:45:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:46:39",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:46:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:47:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:47:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:48:17",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:48:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:49:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:49:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:50:06",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:50:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:50:54",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:51:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:51:48",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:52:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:52:41",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:52:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:53:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:53:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:54:19",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:54:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:55:04",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:55:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 08:55:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] MYCHEF 밀푀유나베 & 칼국수 18,890원(15%↓)",
+      "sale_price": 18890,
+      "normal_price": 22300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=293421715&itemId=19224756660"
     }
   }
 ]
