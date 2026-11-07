@@ -1,306 +1,5 @@
 [
   {
-    "audited_at": "2026-11-07 10:13:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:13:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
-      "sale_price": 29380,
-      "normal_price": 34700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:14:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:14:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
-      "sale_price": 29380,
-      "normal_price": 34700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:15:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:15:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
-      "sale_price": 29380,
-      "normal_price": 34700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:16:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:16:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
-      "sale_price": 29380,
-      "normal_price": 34700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:17:07",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:17:20",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
-      "sale_price": 29380,
-      "normal_price": 34700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:17:59",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:18:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
-      "sale_price": 29380,
-      "normal_price": 34700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:18:51",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:19:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
-      "sale_price": 29380,
-      "normal_price": 34700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 10:19:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
     "audited_at": "2026-11-07 10:19:55",
     "passed_all": true,
     "violations": [],
@@ -1995,6 +1694,305 @@
       "sale_price": 9600,
       "normal_price": 11300,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8245782232&itemId=22002334016"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 10:57:02",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 10:57:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
+      "sale_price": 29380,
+      "normal_price": 34700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 10:57:54",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 10:58:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
+      "sale_price": 29380,
+      "normal_price": 34700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 10:58:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 10:58:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
+      "sale_price": 29380,
+      "normal_price": 34700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 10:59:39",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 10:59:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
+      "sale_price": 29380,
+      "normal_price": 34700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 11:00:36",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 11:00:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
+      "sale_price": 29380,
+      "normal_price": 34700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 11:01:28",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 11:01:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
+      "sale_price": 29380,
+      "normal_price": 34700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 11:02:26",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 11:02:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 다우니 호텔 초고농축 컬렉션 29,380원(15%↓)",
+      "sale_price": 29380,
+      "normal_price": 34700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7251076415&itemId=18626782094&vendorItemId=85762156200"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 11:02:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] (와멤데 쿠폰) 곰곰x농협 소중한 22,870원(15%↓)",
+      "sale_price": 22870,
+      "normal_price": 27000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8163296986&itemId=23282765847&vendorItemId=90315052879"
     }
   }
 ]
