@@ -1,6 +1,6 @@
 [
   {
-    "audited_at": "2026-11-07 12:56:13",
+    "audited_at": "2026-11-07 16:58:05",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -21,26 +21,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 12:56:51",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 16:58:43",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 12:56:52",
+    "audited_at": "2026-11-07 16:59:21",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -61,26 +63,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 12:57:31",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 16:59:59",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 12:57:32",
+    "audited_at": "2026-11-07 17:00:38",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -101,26 +105,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 12:58:09",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:01:19",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 12:58:10",
+    "audited_at": "2026-11-07 17:01:56",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -141,26 +147,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 12:58:48",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:02:35",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 12:58:49",
+    "audited_at": "2026-11-07 17:03:16",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -181,26 +189,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 12:59:27",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:03:54",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 12:59:28",
+    "audited_at": "2026-11-07 17:04:33",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -221,26 +231,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:00:06",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:05:12",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:00:09",
+    "audited_at": "2026-11-07 17:05:54",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -261,26 +273,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:00:47",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:06:34",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:00:49",
+    "audited_at": "2026-11-07 17:07:12",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -301,26 +315,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:01:28",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:07:51",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:01:29",
+    "audited_at": "2026-11-07 17:08:31",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -341,26 +357,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:02:09",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:09:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:02:11",
+    "audited_at": "2026-11-07 17:09:51",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -381,26 +399,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:02:50",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:10:29",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:02:51",
+    "audited_at": "2026-11-07 17:11:07",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -421,45 +441,49 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:03:03",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:11:46",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 풀무원 평양 물냉면 4인분 3,980원(15%↓)",
-      "sale_price": 3980,
-      "normal_price": 4700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=111268957&itemId=335162737"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:03:45",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:12:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:03:47",
+    "audited_at": "2026-11-07 17:13:07",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -480,26 +504,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:04:26",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:13:53",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:04:27",
+    "audited_at": "2026-11-07 17:14:33",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -520,26 +546,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:05:05",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:15:13",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:05:06",
+    "audited_at": "2026-11-07 17:15:55",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -560,26 +588,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:05:44",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:16:33",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:05:45",
+    "audited_at": "2026-11-07 17:17:12",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -600,26 +630,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:06:23",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:17:52",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:06:25",
+    "audited_at": "2026-11-07 17:18:31",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -640,26 +672,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:07:04",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:19:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:07:07",
+    "audited_at": "2026-11-07 17:19:51",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -680,26 +714,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:07:44",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:20:31",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:07:46",
+    "audited_at": "2026-11-07 17:21:12",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -720,26 +756,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:08:24",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:21:54",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:08:25",
+    "audited_at": "2026-11-07 17:22:33",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -760,26 +798,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:09:04",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:23:13",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:09:06",
+    "audited_at": "2026-11-07 17:23:51",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -800,26 +840,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:09:44",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:24:30",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:09:45",
+    "audited_at": "2026-11-07 17:25:12",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -840,26 +882,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:10:24",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:25:49",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:10:26",
+    "audited_at": "2026-11-07 17:26:28",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -880,26 +924,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:11:04",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:27:07",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:11:05",
+    "audited_at": "2026-11-07 17:27:47",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -920,26 +966,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:11:43",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:28:25",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:11:44",
+    "audited_at": "2026-11-07 17:29:05",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -960,26 +1008,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:12:23",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:29:43",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:12:24",
+    "audited_at": "2026-11-07 17:30:23",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1000,26 +1050,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:13:02",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:31:02",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:13:03",
+    "audited_at": "2026-11-07 17:31:40",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1040,26 +1092,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:13:41",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:32:20",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:13:42",
+    "audited_at": "2026-11-07 17:32:58",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1080,26 +1134,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:14:20",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:33:38",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:14:22",
+    "audited_at": "2026-11-07 17:34:17",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1120,26 +1176,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:15:00",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:34:57",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:15:02",
+    "audited_at": "2026-11-07 17:35:38",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1160,26 +1218,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:15:39",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:36:18",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:15:40",
+    "audited_at": "2026-11-07 17:36:56",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1200,26 +1260,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:16:18",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:37:35",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:16:20",
+    "audited_at": "2026-11-07 17:38:13",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1240,26 +1302,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:16:57",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:38:52",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:16:59",
+    "audited_at": "2026-11-07 17:39:29",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1280,26 +1344,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:17:37",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 17:40:13",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 엠앤엠즈 크런치 쿠키, 120g, 7,710원(17%↓)",
-      "sale_price": 7710,
-      "normal_price": 9300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9724660379&itemId=29105960832"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:17:39",
+    "audited_at": "2026-11-07 17:40:51",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1320,7 +1386,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:18:17",
+    "audited_at": "2026-11-07 17:41:32",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1341,7 +1407,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:18:54",
+    "audited_at": "2026-11-07 17:42:12",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1362,7 +1428,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:19:32",
+    "audited_at": "2026-11-07 17:42:53",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1383,7 +1449,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:20:10",
+    "audited_at": "2026-11-07 17:43:31",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1404,7 +1470,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:20:47",
+    "audited_at": "2026-11-07 17:44:11",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1425,7 +1491,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:21:26",
+    "audited_at": "2026-11-07 17:44:50",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1446,7 +1512,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:22:05",
+    "audited_at": "2026-11-07 17:45:27",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1467,7 +1533,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:22:44",
+    "audited_at": "2026-11-07 17:46:07",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1488,7 +1554,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:23:22",
+    "audited_at": "2026-11-07 17:46:46",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1509,7 +1575,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:24:00",
+    "audited_at": "2026-11-07 17:47:28",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1530,7 +1596,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:24:37",
+    "audited_at": "2026-11-07 17:48:09",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1551,7 +1617,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:25:14",
+    "audited_at": "2026-11-07 17:48:49",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1572,7 +1638,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:25:53",
+    "audited_at": "2026-11-07 17:49:29",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1593,7 +1659,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:26:31",
+    "audited_at": "2026-11-07 17:50:07",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1614,7 +1680,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:27:09",
+    "audited_at": "2026-11-07 17:50:47",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1635,7 +1701,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:27:47",
+    "audited_at": "2026-11-07 17:51:24",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1656,7 +1722,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:28:24",
+    "audited_at": "2026-11-07 17:52:02",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1677,7 +1743,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:29:02",
+    "audited_at": "2026-11-07 17:52:43",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1698,7 +1764,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:29:40",
+    "audited_at": "2026-11-07 17:53:22",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1719,7 +1785,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:30:18",
+    "audited_at": "2026-11-07 17:54:01",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1740,7 +1806,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:30:56",
+    "audited_at": "2026-11-07 17:54:42",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1761,7 +1827,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:31:36",
+    "audited_at": "2026-11-07 17:55:20",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1782,7 +1848,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:32:13",
+    "audited_at": "2026-11-07 17:55:59",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1803,7 +1869,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:32:50",
+    "audited_at": "2026-11-07 17:56:36",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1824,7 +1890,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:33:27",
+    "audited_at": "2026-11-07 17:57:14",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1845,7 +1911,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:34:06",
+    "audited_at": "2026-11-07 17:57:54",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1866,7 +1932,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:34:43",
+    "audited_at": "2026-11-07 17:58:32",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1887,7 +1953,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:35:20",
+    "audited_at": "2026-11-07 17:59:13",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1908,7 +1974,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:35:58",
+    "audited_at": "2026-11-07 17:59:52",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1929,7 +1995,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:36:37",
+    "audited_at": "2026-11-07 18:00:30",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1950,7 +2016,7 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:37:16",
+    "audited_at": "2026-11-07 18:01:08",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1971,26 +2037,28 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:37:28",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 18:01:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 무항생제 신선한 특란 30구 7,980원(15%↓)",
-      "sale_price": 7980,
-      "normal_price": 9400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4825430409&itemId=6220448859&vendorItemId=73516319275"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   },
   {
-    "audited_at": "2026-11-07 13:38:11",
+    "audited_at": "2026-11-07 18:02:26",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -2011,22 +2079,24 @@
     }
   },
   {
-    "audited_at": "2026-11-07 13:38:23",
-    "passed_all": true,
-    "violations": [],
+    "audited_at": "2026-11-07 18:03:06",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
+      "affiliate_link": "FAIL",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 서울우유 요거트 딸기, 85g, 4개 1,870원(15%↓)",
-      "sale_price": 1870,
-      "normal_price": 2200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8249919616&itemId=23749406999&vendorItemId=90773941346"
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
     }
   }
 ]
