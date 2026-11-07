@@ -1,266 +1,5 @@
 [
   {
-    "audited_at": "2026-11-07 08:30:27",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 08:30:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
-      "sale_price": 21350,
-      "normal_price": 25200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 08:31:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 08:31:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
-      "sale_price": 21350,
-      "normal_price": 25200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 08:32:14",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 08:32:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
-      "sale_price": 21350,
-      "normal_price": 25200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 08:33:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 08:33:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
-      "sale_price": 21350,
-      "normal_price": 25200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 08:33:58",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 08:34:11",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
-      "sale_price": 21350,
-      "normal_price": 25200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 08:34:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 08:34:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
-      "sale_price": 21350,
-      "normal_price": 25200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
-    }
-  },
-  {
-    "audited_at": "2026-11-07 08:35:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
-      "sale_price": 109800,
-      "normal_price": 129600,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
     "audited_at": "2026-11-07 08:35:46",
     "passed_all": true,
     "violations": [],
@@ -1993,6 +1732,265 @@
       "sale_price": 4490,
       "normal_price": 5300,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1792664596&itemId=18352623507&vendorItemId=81255243727"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:12:57",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:13:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:13:51",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:14:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:14:46",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:14:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:15:38",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:15:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:16:26",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:16:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:17:27",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:17:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 21,350원(15%↓)",
+      "sale_price": 21350,
+      "normal_price": 25200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=19233291305&vendorItemId=86349757676"
+    }
+  },
+  {
+    "audited_at": "2026-11-07 09:17:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
+      "sale_price": 18610,
+      "normal_price": 22000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
     }
   }
 ]
