@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 05:22:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아카데미 북앤드 L형 4p, 그레이, 8,140원(15%↓)",
-      "sale_price": 8140,
-      "normal_price": 9600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=17532785&itemId=70347385&vendorItemId=3113787201"
-    }
-  },
-  {
     "audited_at": "2026-11-08 05:23:04",
     "passed_all": true,
     "violations": [],
@@ -1897,6 +1878,25 @@
       "sale_price": 13900,
       "normal_price": 16400,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6799961783&itemId=29052958927"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 07:38:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 포카칩 오리지널, 66g, 4개 2,190원(16%↓)",
+      "sale_price": 2190,
+      "normal_price": 2600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=13288253&itemId=1053055&vendorItemId=3000992488"
     }
   }
 ]
