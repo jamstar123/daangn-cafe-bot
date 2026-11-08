@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 17:33:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 미에로화이바 스파클링제로슈가 13,680원(17%↓)",
-      "sale_price": 13680,
-      "normal_price": 16400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8275329188&itemId=23853308006"
-    }
-  },
-  {
     "audited_at": "2026-11-08 17:34:14",
     "passed_all": true,
     "violations": [],
@@ -1921,6 +1902,25 @@
       "sale_price": 3860,
       "normal_price": 4600,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8131259838&itemId=23091855765&vendorItemId=90125277250"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 22:14:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] BRUNO 초음파 가습기 5.5L 9,370원(16%↓)",
+      "sale_price": 9370,
+      "normal_price": 11100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8222981851&itemId=23640525234&vendorItemId=90665944601"
     }
   }
 ]
