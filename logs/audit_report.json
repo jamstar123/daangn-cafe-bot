@@ -1,43 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 17:22:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 미에로화이바 스파클링제로슈가 13,680원(17%↓)",
-      "sale_price": 13680,
-      "normal_price": 16400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8275329188&itemId=23853308006"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 17:22:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 미에로화이바 스파클링제로슈가 13,680원(17%↓)",
-      "sale_price": 13680,
-      "normal_price": 16400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8275329188&itemId=23853308006"
-    }
-  },
-  {
     "audited_at": "2026-11-08 17:23:18",
     "passed_all": true,
     "violations": [],
@@ -1897,6 +1859,46 @@
       "sale_price": 13680,
       "normal_price": 16400,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8275329188&itemId=23853308006"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 22:02:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 피죤 강력탈취 섬유유연제 퍼플라벤더 3,660원(15%↓)",
+      "sale_price": 3660,
+      "normal_price": 4300,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%94%BC%EC%A3%A4%20%EA%B0%95%EB%A0%A5%ED%83%88%EC%B7%A8%20%EC%84%AC%EC%9C%A0%EC%9C%A0%EC%97%B0%EC%A0%9C%20%ED%8D%BC%ED%94%8C%EB%9D%BC%EB%B2%A4%EB%8D%94%20%EB%A6%AC%ED%95%84%2C%202.1L%2C%202%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 22:02:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 피죤 강력탈취 섬유유연제 퍼플라벤더 3,660원(15%↓)",
+      "sale_price": 3660,
+      "normal_price": 4300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334798614&itemId=6574589752&vendorItemId=92984321427"
     }
   }
 ]
