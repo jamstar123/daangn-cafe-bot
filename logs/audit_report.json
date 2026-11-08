@@ -1,43 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 17:25:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 미에로화이바 스파클링제로슈가 13,680원(17%↓)",
-      "sale_price": 13680,
-      "normal_price": 16400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8275329188&itemId=23853308006"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 17:26:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 미에로화이바 스파클링제로슈가 13,680원(17%↓)",
-      "sale_price": 13680,
-      "normal_price": 16400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8275329188&itemId=23853308006"
-    }
-  },
-  {
     "audited_at": "2026-11-08 17:27:09",
     "passed_all": true,
     "violations": [],
@@ -1903,6 +1865,46 @@
       "sale_price": 14000,
       "normal_price": 16500,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8423498039&itemId=27707964392&vendorItemId=94669550047"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 22:06:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(15%↓)",
+      "sale_price": 316000,
+      "normal_price": 372900,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 22:06:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오투액션 프로 분말형 표백제, 8,320원(15%↓)",
+      "sale_price": 8320,
+      "normal_price": 9800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9416335743&itemId=27990864275&vendorItemId=94948474607"
     }
   }
 ]
