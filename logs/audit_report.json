@@ -1,43 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 17:23:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 미에로화이바 스파클링제로슈가 13,680원(17%↓)",
-      "sale_price": 13680,
-      "normal_price": 16400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8275329188&itemId=23853308006"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 17:23:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 미에로화이바 스파클링제로슈가 13,680원(17%↓)",
-      "sale_price": 13680,
-      "normal_price": 16400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8275329188&itemId=23853308006"
-    }
-  },
-  {
     "audited_at": "2026-11-08 17:24:36",
     "passed_all": true,
     "violations": [],
@@ -1899,6 +1861,46 @@
       "sale_price": 3660,
       "normal_price": 4300,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9334798614&itemId=6574589752&vendorItemId=92984321427"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 22:03:54",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 리큐 찌든 얼룩 딥클린 액상세제 3,250원(14%↓)",
+      "sale_price": 3250,
+      "normal_price": 3800,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EB%A6%AC%ED%81%90%20%EC%B0%8C%EB%93%A0%20%EC%96%BC%EB%A3%A9%20%EB%94%A5%ED%81%B4%EB%A6%B0%20%EC%95%A1%EC%83%81%EC%84%B8%EC%A0%9C%20%EC%9D%BC%EB%B0%98%EC%9A%A9%2C%201%EA%B0%9C%2C%202.1L&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 22:04:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 리큐 찌든 얼룩 딥클린 액상세제 3,250원(14%↓)",
+      "sale_price": 3250,
+      "normal_price": 3800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9240350339&itemId=26621468098&vendorItemId=79219017197"
     }
   }
 ]
