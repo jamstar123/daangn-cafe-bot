@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 05:25:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아카데미 북앤드 L형 4p, 그레이, 8,140원(15%↓)",
-      "sale_price": 8140,
-      "normal_price": 9600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=17532785&itemId=70347385&vendorItemId=3113787201"
-    }
-  },
-  {
     "audited_at": "2026-11-08 05:26:12",
     "passed_all": true,
     "violations": [],
@@ -1897,6 +1878,25 @@
       "sale_price": 5690,
       "normal_price": 6700,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7835509725&itemId=20012383713&vendorItemId=3005267158"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 08:18:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 트레비 자몽 ECO 탄산음료 11,850원(15%↓)",
+      "sale_price": 11850,
+      "normal_price": 14000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5580463760&itemId=18037610917&vendorItemId=85192001283"
     }
   }
 ]
