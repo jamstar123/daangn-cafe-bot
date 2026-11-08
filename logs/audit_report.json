@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 17:36:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 미에로화이바 스파클링제로슈가 13,680원(17%↓)",
-      "sale_price": 13680,
-      "normal_price": 16400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8275329188&itemId=23853308006"
-    }
-  },
-  {
     "audited_at": "2026-11-08 17:37:28",
     "passed_all": true,
     "violations": [],
@@ -1925,6 +1906,25 @@
       "sale_price": 15390,
       "normal_price": 18200,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6697555094&itemId=15500750644&vendorItemId=82720084292"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 22:17:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 편강율 유아 주방세제 750ml 3,960원(16%↓)",
+      "sale_price": 3960,
+      "normal_price": 4700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7216555926&itemId=18276849904&vendorItemId=85422902819"
     }
   }
 ]
