@@ -1,81 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 01:01:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 보들보들 치즈볶음면 매운맛 4,170원(15%↓)",
-      "sale_price": 4170,
-      "normal_price": 4900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8248026651&itemId=23995024743&vendorItemId=91015969031"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 01:01:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오뚜기 보들보들 치즈볶음면 매운맛 4,170원(15%↓)",
-      "sale_price": 4170,
-      "normal_price": 4900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8248026651&itemId=23995024743&vendorItemId=91015969031"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 01:01:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 더담은 적두, 2kg, 1개 17,960원(15%↓)",
-      "sale_price": 17960,
-      "normal_price": 21200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6199861547&itemId=12294554768&vendorItemId=79564818383"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 01:02:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 쿠팡)애즈락 인텔 아크 B70 2,252,600원(17%↓)",
-      "sale_price": 2252600,
-      "normal_price": 2703100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9736343851&itemId=29138246730"
-    }
-  },
-  {
     "audited_at": "2026-11-08 01:02:14",
     "passed_all": false,
     "violations": [
@@ -1935,6 +1859,84 @@
       "sale_price": 13300,
       "normal_price": 15700,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7621402282&itemId=6051828067"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 01:27:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 쿠팡)애즈락 인텔 아크 B70 2,252,600원(17%↓)",
+      "sale_price": 2252600,
+      "normal_price": 2703100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9736343851&itemId=29138246730"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 01:27:40",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이누어 미니 초경량 레이저 골프 109,800원(15%↓)",
+      "sale_price": 109800,
+      "normal_price": 129600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%88%84%EC%96%B4%20%EB%AF%B8%EB%8B%88%20%EC%B4%88%EA%B2%BD%EB%9F%89%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EA%B3%A8%ED%94%84%20%EA%B1%B0%EB%A6%AC%EC%B8%A1%EC%A0%95%EA%B8%B0%20U800%2B&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 01:27:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오뚜기 보들보들 치즈볶음면 매운맛 4,170원(15%↓)",
+      "sale_price": 4170,
+      "normal_price": 4900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8248026651&itemId=23995024743&vendorItemId=91015969031"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 01:27:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 카프 LED 휴대용 충전식 대용량 19,000원(15%↓)",
+      "sale_price": 19000,
+      "normal_price": 22400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9121607800&itemId=26831623477&vendorItemId=93801699584"
     }
   }
 ]
