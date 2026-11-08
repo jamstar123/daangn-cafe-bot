@@ -1,43 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 05:26:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아카데미 북앤드 L형 4p, 그레이, 8,140원(15%↓)",
-      "sale_price": 8140,
-      "normal_price": 9600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=17532785&itemId=70347385&vendorItemId=3113787201"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 05:27:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아카데미 북앤드 L형 4p, 그레이, 8,140원(15%↓)",
-      "sale_price": 8140,
-      "normal_price": 9600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=17532785&itemId=70347385&vendorItemId=3113787201"
-    }
-  },
-  {
     "audited_at": "2026-11-08 05:27:53",
     "passed_all": true,
     "violations": [],
@@ -1897,6 +1859,46 @@
       "sale_price": 11850,
       "normal_price": 14000,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5580463760&itemId=18037610917&vendorItemId=85192001283"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 08:47:21",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 휴족시간 쿨링시트, 6매, 25개 12,330원(15%↓)",
+      "sale_price": 12330,
+      "normal_price": 14500,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%9C%B4%EC%A1%B1%EC%8B%9C%EA%B0%84%20%EC%BF%A8%EB%A7%81%EC%8B%9C%ED%8A%B8%2C%206%EB%A7%A4%2C%2025%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-08 08:47:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 휴족시간 쿨링시트, 6매, 25개 12,330원(15%↓)",
+      "sale_price": 12330,
+      "normal_price": 14500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5306503135&itemId=27240178011&vendorItemId=94207185364"
     }
   }
 ]
