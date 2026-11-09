@@ -1,26 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 23:20:19",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
     "audited_at": "2026-11-08 23:20:32",
     "passed_all": true,
     "violations": [],
@@ -1911,6 +1890,25 @@
       "sale_price": 46200,
       "normal_price": 54500,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9136176625&itemId=26888677499&vendorItemId=93858189133"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 01:09:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 지아자 산양유 고보습 핸드크림 3개 11,900원(15%↓)",
+      "sale_price": 11900,
+      "normal_price": 14000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9782742396&vendorItemId=9620429779%E2%80%A6"
     }
   }
 ]
