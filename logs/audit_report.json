@@ -1,47 +1,6 @@
 [
   {
-    "audited_at": "2026-11-09 09:06:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:06:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:07:17",
+    "audited_at": "2026-11-09 09:57:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -60,29 +19,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:07:20",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:07:32",
+    "audited_at": "2026-11-09 09:57:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -101,7 +38,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:08:15",
+    "audited_at": "2026-11-09 09:58:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -120,29 +57,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:08:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:08:30",
+    "audited_at": "2026-11-09 09:58:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -161,7 +76,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:09:11",
+    "audited_at": "2026-11-09 09:59:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -180,29 +95,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:09:14",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:09:26",
+    "audited_at": "2026-11-09 09:59:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -221,7 +114,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:10:07",
+    "audited_at": "2026-11-09 10:00:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -240,29 +133,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:10:09",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:10:21",
+    "audited_at": "2026-11-09 10:00:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -281,7 +152,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:11:02",
+    "audited_at": "2026-11-09 10:01:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -300,29 +171,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:11:05",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:11:10",
+    "audited_at": "2026-11-09 10:01:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -341,7 +190,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:11:52",
+    "audited_at": "2026-11-09 10:01:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -360,29 +209,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:11:56",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:12:08",
+    "audited_at": "2026-11-09 10:02:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -401,7 +228,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:12:50",
+    "audited_at": "2026-11-09 10:02:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -420,29 +247,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:12:51",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:13:04",
+    "audited_at": "2026-11-09 10:03:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -461,7 +266,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:13:45",
+    "audited_at": "2026-11-09 10:03:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -480,29 +285,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:13:46",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:13:58",
+    "audited_at": "2026-11-09 10:03:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -521,7 +304,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:14:41",
+    "audited_at": "2026-11-09 10:04:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -540,29 +323,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:14:44",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:14:56",
+    "audited_at": "2026-11-09 10:04:47",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -581,7 +342,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:15:36",
+    "audited_at": "2026-11-09 10:05:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -600,29 +361,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:15:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:15:53",
+    "audited_at": "2026-11-09 10:05:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -641,7 +380,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:16:34",
+    "audited_at": "2026-11-09 10:06:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -660,29 +399,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:16:36",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:16:48",
+    "audited_at": "2026-11-09 10:06:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -701,7 +418,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:17:29",
+    "audited_at": "2026-11-09 10:07:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -720,29 +437,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:17:31",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:17:43",
+    "audited_at": "2026-11-09 10:07:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -761,7 +456,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:18:24",
+    "audited_at": "2026-11-09 10:08:05",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -780,48 +475,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:18:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:18:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:19:14",
+    "audited_at": "2026-11-09 10:08:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -840,48 +494,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:19:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:19:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:19:58",
+    "audited_at": "2026-11-09 10:09:23",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -900,48 +513,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:19:59",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:20:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:20:48",
+    "audited_at": "2026-11-09 10:10:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -960,48 +532,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:20:49",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:21:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:21:43",
+    "audited_at": "2026-11-09 10:10:41",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1020,48 +551,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:21:45",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:21:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:22:38",
+    "audited_at": "2026-11-09 10:11:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1080,48 +570,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:22:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:22:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:23:33",
+    "audited_at": "2026-11-09 10:11:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1140,48 +589,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:23:37",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:23:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:24:30",
+    "audited_at": "2026-11-09 10:12:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1200,48 +608,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:24:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:24:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:25:31",
+    "audited_at": "2026-11-09 10:13:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1260,48 +627,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:25:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:25:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:26:33",
+    "audited_at": "2026-11-09 10:13:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1320,48 +646,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:26:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:26:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:27:28",
+    "audited_at": "2026-11-09 10:14:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1380,48 +665,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:27:32",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:27:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:28:29",
+    "audited_at": "2026-11-09 10:15:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1440,48 +684,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:28:30",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:28:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:29:24",
+    "audited_at": "2026-11-09 10:15:47",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1500,48 +703,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:29:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:29:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:30:19",
+    "audited_at": "2026-11-09 10:16:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1560,48 +722,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:30:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:30:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:31:16",
+    "audited_at": "2026-11-09 10:17:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1620,26 +741,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:31:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:32:09",
+    "audited_at": "2026-11-09 10:17:43",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1658,26 +760,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:32:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:33:03",
+    "audited_at": "2026-11-09 10:18:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1696,26 +779,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:33:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:33:55",
+    "audited_at": "2026-11-09 10:19:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1734,26 +798,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:34:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:34:48",
+    "audited_at": "2026-11-09 10:19:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1772,26 +817,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:35:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:35:42",
+    "audited_at": "2026-11-09 10:20:17",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1810,26 +836,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:35:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:36:33",
+    "audited_at": "2026-11-09 10:20:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1848,26 +855,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:36:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:37:20",
+    "audited_at": "2026-11-09 10:21:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1886,26 +874,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:37:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:38:06",
+    "audited_at": "2026-11-09 10:22:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1924,26 +893,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:38:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위트빅스 오리지날 시리얼, 18,610원(15%↓)",
-      "sale_price": 18610,
-      "normal_price": 22000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7090409838&itemId=18797125686"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 09:39:00",
+    "audited_at": "2026-11-09 10:22:55",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1962,7 +912,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 09:39:12",
+    "audited_at": "2026-11-09 10:23:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1974,10 +924,979 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 비앤비 주방세제 액상형, 1L, 1개 7,510원(16%↓)",
-      "sale_price": 7510,
-      "normal_price": 8900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7014947509&itemId=17252850136"
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:24:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:24:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:25:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:26:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:26:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:27:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:28:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:28:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:29:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:30:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:30:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:31:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:32:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:32:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:33:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:34:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:34:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:35:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:35:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:36:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:37:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:37:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:38:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:39:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:39:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:40:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:41:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:41:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:42:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:43:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:43:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:44:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:44:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:45:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:46:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:46:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:47:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:48:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:48:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:49:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:50:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:50:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:51:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:52:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:52:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:53:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:54:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:54:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:55:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:55:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 10:56:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 켄리프 어텀 머스크 바디워시, 13,000원(15%↓)",
+      "sale_price": 13000,
+      "normal_price": 15300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9064888523&itemId=27294381665&vendorItemId=94260965236"
     }
   }
 ]
