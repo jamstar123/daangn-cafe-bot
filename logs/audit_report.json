@@ -1,62 +1,5 @@
 [
   {
-    "audited_at": "2026-11-09 21:57:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
-      "sale_price": 15750,
-      "normal_price": 18900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 21:57:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 널담 마카롱 사랑세트 8종 15,740원(15%↓)",
-      "sale_price": 15740,
-      "normal_price": 18600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6630857148&itemId=19225558654&vendorItemId=86342202629"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 21:57:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 널담 마카롱 사랑세트 8종 15,740원(15%↓)",
-      "sale_price": 15740,
-      "normal_price": 18600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6630857148&itemId=19225558654&vendorItemId=86342202629"
-    }
-  },
-  {
     "audited_at": "2026-11-09 21:57:51",
     "passed_all": true,
     "violations": [],
@@ -1905,6 +1848,65 @@
       "sale_price": 1254000,
       "normal_price": 1479700,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 22:30:55",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
+      "sale_price": 11210,
+      "normal_price": 13200,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 22:31:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
+      "sale_price": 11210,
+      "normal_price": 13200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 22:31:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 슈가버블 주방세제 레몬 4,530원(15%↓)",
+      "sale_price": 4530,
+      "normal_price": 5300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9717908423&itemId=14278468490&vendorItemId=75602912113"
     }
   }
 ]
