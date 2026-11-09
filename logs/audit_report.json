@@ -1,84 +1,5 @@
 [
   {
-    "audited_at": "2026-11-09 06:08:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
-      "sale_price": 15750,
-      "normal_price": 18900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 06:08:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 페이스팩토리 UV 충전형 전동 10,890원(16%↓)",
-      "sale_price": 10890,
-      "normal_price": 12900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9324064428&itemId=27637942506&vendorItemId=77604900335"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 06:09:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
-      "sale_price": 15750,
-      "normal_price": 18900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 06:09:33",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
     "audited_at": "2026-11-09 06:09:45",
     "passed_all": true,
     "violations": [],
@@ -1993,6 +1914,85 @@
       "sale_price": 4510,
       "normal_price": 5300,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1356736001&itemId=16548825791&vendorItemId=88378439962"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 06:39:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 06:39:15",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
+      "sale_price": 26900,
+      "normal_price": 31700,
+      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 06:39:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 썬 오리지널 스낵, 80g, 2,630원(15%↓)",
+      "sale_price": 2630,
+      "normal_price": 3100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=191600841&itemId=16350886373&vendorItemId=84994380010"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 06:39:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 전원 어댑터 20W 19,800원(15%↓)",
+      "sale_price": 19800,
+      "normal_price": 23400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8554238867&itemId=3892998437&vendorItemId=88946948908"
     }
   }
 ]
