@@ -1,6 +1,6 @@
 [
   {
-    "audited_at": "2026-11-09 03:25:22",
+    "audited_at": "2026-11-09 04:27:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -19,28 +19,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:25:36",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:25:38",
+    "audited_at": "2026-11-09 04:28:00",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -62,7 +41,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:25:38",
+    "audited_at": "2026-11-09 04:28:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -81,28 +60,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:26:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:26:35",
+    "audited_at": "2026-11-09 04:28:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -121,7 +79,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:26:38",
+    "audited_at": "2026-11-09 04:28:57",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -143,7 +101,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:26:50",
+    "audited_at": "2026-11-09 04:29:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -162,28 +120,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:27:37",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:27:38",
+    "audited_at": "2026-11-09 04:29:53",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -202,7 +139,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:27:42",
+    "audited_at": "2026-11-09 04:29:54",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -224,7 +161,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:27:55",
+    "audited_at": "2026-11-09 04:30:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -243,28 +180,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:28:48",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:28:49",
+    "audited_at": "2026-11-09 04:30:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -283,7 +199,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:28:51",
+    "audited_at": "2026-11-09 04:30:47",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -305,7 +221,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:29:04",
+    "audited_at": "2026-11-09 04:30:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -324,28 +240,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:30:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:30:04",
+    "audited_at": "2026-11-09 04:31:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -364,7 +259,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:30:06",
+    "audited_at": "2026-11-09 04:31:44",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -386,7 +281,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:30:18",
+    "audited_at": "2026-11-09 04:31:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -405,28 +300,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:31:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:31:19",
+    "audited_at": "2026-11-09 04:32:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -445,7 +319,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:31:21",
+    "audited_at": "2026-11-09 04:32:37",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -467,7 +341,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:31:34",
+    "audited_at": "2026-11-09 04:32:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -486,28 +360,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:32:32",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:32:33",
+    "audited_at": "2026-11-09 04:33:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -526,7 +379,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:32:36",
+    "audited_at": "2026-11-09 04:33:34",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -548,7 +401,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:32:48",
+    "audited_at": "2026-11-09 04:33:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -567,28 +420,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:33:44",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:33:45",
+    "audited_at": "2026-11-09 04:34:28",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -607,7 +439,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:33:51",
+    "audited_at": "2026-11-09 04:34:30",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -629,7 +461,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:34:03",
+    "audited_at": "2026-11-09 04:34:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -648,28 +480,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:35:00",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:35:01",
+    "audited_at": "2026-11-09 04:35:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -688,7 +499,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:35:04",
+    "audited_at": "2026-11-09 04:35:26",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -710,7 +521,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:35:07",
+    "audited_at": "2026-11-09 04:35:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -729,28 +540,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:36:04",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:36:05",
+    "audited_at": "2026-11-09 04:36:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -769,7 +559,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:36:06",
+    "audited_at": "2026-11-09 04:36:23",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -791,7 +581,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:36:07",
+    "audited_at": "2026-11-09 04:36:35",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -810,28 +600,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:37:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:37:04",
+    "audited_at": "2026-11-09 04:37:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -850,7 +619,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:37:05",
+    "audited_at": "2026-11-09 04:37:20",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -872,7 +641,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:37:12",
+    "audited_at": "2026-11-09 04:37:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -891,28 +660,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:37:59",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:38:00",
+    "audited_at": "2026-11-09 04:38:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -931,7 +679,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:38:02",
+    "audited_at": "2026-11-09 04:38:15",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -953,7 +701,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:38:14",
+    "audited_at": "2026-11-09 04:38:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -972,28 +720,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:39:14",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:39:15",
+    "audited_at": "2026-11-09 04:39:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1012,7 +739,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:39:16",
+    "audited_at": "2026-11-09 04:39:06",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -1034,88 +761,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:39:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 가루비 포테이토 팜 쟈가폿쿠루 10,500원(15%↓)",
-      "sale_price": 10500,
-      "normal_price": 12400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7837127401&itemId=21325468119&vendorItemId=88384415152"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:40:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:40:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
-      "sale_price": 15750,
-      "normal_price": 18900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:40:32",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
-      "sale_price": 26900,
-      "normal_price": 31700,
-      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:40:44",
+    "audited_at": "2026-11-09 04:39:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1134,28 +780,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:41:44",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:41:45",
+    "audited_at": "2026-11-09 04:39:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1174,7 +799,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:41:48",
+    "audited_at": "2026-11-09 04:39:52",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -1196,7 +821,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:42:00",
+    "audited_at": "2026-11-09 04:39:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1215,28 +840,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:42:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:42:56",
+    "audited_at": "2026-11-09 04:40:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1255,7 +859,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:43:00",
+    "audited_at": "2026-11-09 04:40:43",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -1277,7 +881,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:43:12",
+    "audited_at": "2026-11-09 04:40:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1296,28 +900,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:44:04",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:44:05",
+    "audited_at": "2026-11-09 04:41:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1336,7 +919,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:44:07",
+    "audited_at": "2026-11-09 04:41:30",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -1358,7 +941,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:44:19",
+    "audited_at": "2026-11-09 04:41:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1377,28 +960,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:45:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:45:17",
+    "audited_at": "2026-11-09 04:42:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1417,7 +979,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:45:20",
+    "audited_at": "2026-11-09 04:42:13",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -1439,7 +1001,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:45:24",
+    "audited_at": "2026-11-09 04:42:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1458,28 +1020,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:46:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:46:23",
+    "audited_at": "2026-11-09 04:43:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1498,7 +1039,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:46:24",
+    "audited_at": "2026-11-09 04:43:08",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -1520,7 +1061,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:46:32",
+    "audited_at": "2026-11-09 04:43:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1539,28 +1080,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:47:31",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:47:32",
+    "audited_at": "2026-11-09 04:44:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1579,7 +1099,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:47:36",
+    "audited_at": "2026-11-09 04:44:05",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -1601,7 +1121,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:47:43",
+    "audited_at": "2026-11-09 04:44:17",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1620,28 +1140,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:48:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:48:37",
+    "audited_at": "2026-11-09 04:44:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1660,7 +1159,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:48:38",
+    "audited_at": "2026-11-09 04:45:00",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -1682,7 +1181,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:48:50",
+    "audited_at": "2026-11-09 04:45:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1701,47 +1200,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:49:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] [로켓프레시] 삼진어묵 한끼든든 4,950원(15%↓)",
-      "sale_price": 4950,
-      "normal_price": 5800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9075294226&itemId=26664264244&vendorItemId=93636622269"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:50:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 투키(Toocki) PD 60W C 5,800원(17%↓)",
-      "sale_price": 5800,
-      "normal_price": 7000,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%88%AC%ED%82%A4%28Toocki%29%20PD%2060W%20C%20to%20C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%9D%BC%20%EA%B3%A0%EC%86%8D%EC%B6%A9%EC%A0%84%20%EC%BC%80%EC%9D%B4%EB%B8%94&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:50:07",
+    "audited_at": "2026-11-09 04:45:56",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1760,7 +1219,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:50:08",
+    "audited_at": "2026-11-09 04:45:59",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -1782,7 +1241,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:50:20",
+    "audited_at": "2026-11-09 04:46:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1801,26 +1260,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:50:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 바겐슈타이거 인덕션 로스탈 통5중 37,600원(15%↓)",
-      "sale_price": 37600,
-      "normal_price": 44400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8982217550&itemId=26298942666&vendorItemId=93276757701"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:51:24",
+    "audited_at": "2026-11-09 04:46:53",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1839,45 +1279,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:51:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 맥스봉 치즈, 1.08kg, 1개 10,900원(16%↓)",
-      "sale_price": 10900,
-      "normal_price": 12900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6743662781&itemId=24696570180&vendorItemId=93488011237"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:52:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
-      "sale_price": 15750,
-      "normal_price": 18900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:52:29",
+    "audited_at": "2026-11-09 04:46:54",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -1899,7 +1301,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:52:37",
+    "audited_at": "2026-11-09 04:47:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1918,26 +1320,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:52:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마니커에프앤지 통살 케이준 치킨텐더 3,820원(15%↓)",
-      "sale_price": 3820,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8479163070&itemId=24536044974&vendorItemId=91548599361"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 03:53:34",
+    "audited_at": "2026-11-09 04:47:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1956,7 +1339,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:53:38",
+    "audited_at": "2026-11-09 04:47:52",
     "passed_all": false,
     "violations": [
       "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
@@ -1978,7 +1361,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:53:50",
+    "audited_at": "2026-11-09 04:48:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1997,7 +1380,7 @@
     }
   },
   {
-    "audited_at": "2026-11-09 03:54:03",
+    "audited_at": "2026-11-09 04:48:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -2009,10 +1392,601 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 아이깨끗해 핸드워시 순 보송보송 2,410원(14%↓)",
-      "sale_price": 2410,
-      "normal_price": 2800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7677840315&itemId=60096&vendorItemId=3000025371"
+      "title": "[역대가] [쿠팡] 오리온 썬 오리지널 스낵, 80g, 2,630원(15%↓)",
+      "sale_price": 2630,
+      "normal_price": 3100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=191600841&itemId=16350886373&vendorItemId=84994380010"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:48:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:48:49",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
+      "sale_price": 26900,
+      "normal_price": 31700,
+      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:49:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 올곧 바바김밥 참치마요김밥 (냉동), 3,990원(15%↓)",
+      "sale_price": 3990,
+      "normal_price": 4700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6661512528&itemId=19233774404&vendorItemId=86350229500"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:49:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 썬 오리지널 스낵, 80g, 2,630원(15%↓)",
+      "sale_price": 2630,
+      "normal_price": 3100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=191600841&itemId=16350886373&vendorItemId=84994380010"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:49:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:49:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
+      "sale_price": 26900,
+      "normal_price": 31700,
+      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:49:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 올곧 바바김밥 참치마요김밥 (냉동), 3,990원(15%↓)",
+      "sale_price": 3990,
+      "normal_price": 4700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6661512528&itemId=19233774404&vendorItemId=86350229500"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:50:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 썬 오리지널 스낵, 80g, 2,630원(15%↓)",
+      "sale_price": 2630,
+      "normal_price": 3100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=191600841&itemId=16350886373&vendorItemId=84994380010"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:50:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:50:49",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
+      "sale_price": 26900,
+      "normal_price": 31700,
+      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:50:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 올곧 바바김밥 참치마요김밥 (냉동), 3,990원(15%↓)",
+      "sale_price": 3990,
+      "normal_price": 4700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6661512528&itemId=19233774404&vendorItemId=86350229500"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:51:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 썬 오리지널 스낵, 80g, 2,630원(15%↓)",
+      "sale_price": 2630,
+      "normal_price": 3100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=191600841&itemId=16350886373&vendorItemId=84994380010"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:51:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:51:47",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
+      "sale_price": 26900,
+      "normal_price": 31700,
+      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:52:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 올곧 바바김밥 참치마요김밥 (냉동), 3,990원(15%↓)",
+      "sale_price": 3990,
+      "normal_price": 4700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6661512528&itemId=19233774404&vendorItemId=86350229500"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:52:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 썬 오리지널 스낵, 80g, 2,630원(15%↓)",
+      "sale_price": 2630,
+      "normal_price": 3100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=191600841&itemId=16350886373&vendorItemId=84994380010"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:52:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:52:58",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
+      "sale_price": 26900,
+      "normal_price": 31700,
+      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:53:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 올곧 바바김밥 참치마요김밥 (냉동), 3,990원(15%↓)",
+      "sale_price": 3990,
+      "normal_price": 4700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6661512528&itemId=19233774404&vendorItemId=86350229500"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:53:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 썬 오리지널 스낵, 80g, 2,630원(15%↓)",
+      "sale_price": 2630,
+      "normal_price": 3100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=191600841&itemId=16350886373&vendorItemId=84994380010"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:53:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:54:01",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
+      "sale_price": 26900,
+      "normal_price": 31700,
+      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:54:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 올곧 바바김밥 참치마요김밥 (냉동), 3,990원(15%↓)",
+      "sale_price": 3990,
+      "normal_price": 4700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6661512528&itemId=19233774404&vendorItemId=86350229500"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:54:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 썬 오리지널 스낵, 80g, 2,630원(15%↓)",
+      "sale_price": 2630,
+      "normal_price": 3100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=191600841&itemId=16350886373&vendorItemId=84994380010"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:55:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:55:07",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [특가몰] ﻿[쿠팡] 익스트림 올인원 포맨 26,900원(15%↓)",
+      "sale_price": 26900,
+      "normal_price": 31700,
+      "affiliate_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic&wr_id=572593"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:55:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 올곧 바바김밥 참치마요김밥 (냉동), 3,990원(15%↓)",
+      "sale_price": 3990,
+      "normal_price": 4700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6661512528&itemId=19233774404&vendorItemId=86350229500"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:55:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 썬 오리지널 스낵, 80g, 2,630원(15%↓)",
+      "sale_price": 2630,
+      "normal_price": 3100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=191600841&itemId=16350886373&vendorItemId=84994380010"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:56:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛 155g 15,750원(17%↓)",
+      "sale_price": 15750,
+      "normal_price": 18900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 04:56:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 비비드키친 저당 허니갈릭 치킨소스 1,830원(17%↓)",
+      "sale_price": 1830,
+      "normal_price": 2200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9710662504&itemId=29053929383&vendorItemId=95980567987"
     }
   }
 ]
