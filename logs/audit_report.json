@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 23:20:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
     "audited_at": "2026-11-08 23:21:26",
     "passed_all": false,
     "violations": [
@@ -1909,6 +1890,25 @@
       "sale_price": 11900,
       "normal_price": 14000,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9782742396&vendorItemId=9620429779%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 01:16:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 버터와플 이즈니, 158g*4개 9,060원(15%↓)",
+      "sale_price": 9060,
+      "normal_price": 10700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9422872846&itemId=28036347321&vendorItemId=94993367964"
     }
   }
 ]
