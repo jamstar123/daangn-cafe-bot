@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 23:22:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
     "audited_at": "2026-11-08 23:23:35",
     "passed_all": false,
     "violations": [
@@ -1905,6 +1886,25 @@
       "sale_price": 8290,
       "normal_price": 9900,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9523158816"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 02:21:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 바바김밥 야채김밥 (냉동), 3,690원(16%↓)",
+      "sale_price": 3690,
+      "normal_price": 4400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6661512526&itemId=21474551665&vendorItemId=88528821302"
     }
   }
 ]
