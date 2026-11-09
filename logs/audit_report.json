@@ -1,605 +1,5 @@
 [
   {
-    "audited_at": "2026-11-08 23:03:51",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:04:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:04:56",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:05:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:06:02",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:06:10",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:06:59",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:07:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:07:58",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:08:10",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:09:04",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:09:14",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:10:05",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:10:17",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:11:11",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:11:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:12:10",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:12:22",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:13:15",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:13:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:14:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:14:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:15:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:15:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:16:14",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:16:20",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:17:04",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:17:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:18:10",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 직방 어반 도어락 하루특가 44% 316,000원(17%↓)",
-      "sale_price": 316000,
-      "normal_price": 379200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%A7%81%EB%B0%A9%20%EC%96%B4%EB%B0%98%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%ED%95%98%EB%A3%A8%ED%8A%B9%EA%B0%80%2044%25%20%ED%95%A0%EC%9D%B8&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-08 23:18:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
-      "sale_price": 2250,
-      "normal_price": 2700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
-    }
-  },
-  {
     "audited_at": "2026-11-08 23:19:13",
     "passed_all": false,
     "violations": [
@@ -1941,6 +1341,578 @@
       "sale_price": 13400,
       "normal_price": 15800,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1414809213&itemId=18355752168&vendorItemId=70445138100"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:07:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:07:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:08:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:09:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:09:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:10:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:11:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:11:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:12:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:12:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:13:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:14:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:14:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:15:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:16:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:16:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:17:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:18:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:18:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:19:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:20:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:20:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:21:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:22:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:22:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:23:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:24:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:24:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위더스욕실용품 웜무드 남녀공용 체크 2,250원(17%↓)",
+      "sale_price": 2250,
+      "normal_price": 2700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9072409528&itemId=26645156040&vendorItemId=93617774392"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:27:52",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛, 15,750원(15%↓)",
+      "sale_price": 15750,
+      "normal_price": 18600,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%98%A4%EB%A6%AC%EC%98%A8%20%EB%8F%84%EB%8F%84%ED%95%9C%20%EB%82%98%EC%B4%88%20%EC%B9%98%EC%A6%88%EB%A7%9B%2C%20155g%2C%2012%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-09 00:27:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 오리온 도도한 나초 치즈맛, 15,750원(15%↓)",
+      "sale_price": 15750,
+      "normal_price": 18600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1022171&itemId=60829295&vendorItemId=84994376480"
     }
   }
 ]
