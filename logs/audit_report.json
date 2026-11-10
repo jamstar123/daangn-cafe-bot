@@ -1,400 +1,5 @@
 [
   {
-    "audited_at": "2026-11-10 11:23:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
-      "sale_price": 11600,
-      "normal_price": 13700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:24:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:24:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] 애플 아이패드 프로 M5 1,725,000원(15%↓)",
-      "sale_price": 1725000,
-      "normal_price": 2035500,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=%EC%95%A0%ED%94%8C%20%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%20%ED%94%84%EB%A1%9C%20M5%2011%EC%9D%B8%EC%B9%98%20256GB%20Wi-Fi"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:24:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재입고)ECOVACS 디봇 X8 473,240원(15%↓)",
-      "sale_price": 473240,
-      "normal_price": 558400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8582849665&itemId=24879357671&vendorItemId=91886157219"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:25:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
-      "sale_price": 11600,
-      "normal_price": 13700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:25:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:26:04",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] 애플 아이패드 프로 M5 1,725,000원(15%↓)",
-      "sale_price": 1725000,
-      "normal_price": 2035500,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=%EC%95%A0%ED%94%8C%20%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%20%ED%94%84%EB%A1%9C%20M5%2011%EC%9D%B8%EC%B9%98%20256GB%20Wi-Fi"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:26:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재입고)ECOVACS 디봇 X8 473,240원(15%↓)",
-      "sale_price": 473240,
-      "normal_price": 558400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8582849665&itemId=24879357671&vendorItemId=91886157219"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:26:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
-      "sale_price": 11600,
-      "normal_price": 13700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:27:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:27:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] 애플 아이패드 프로 M5 1,725,000원(15%↓)",
-      "sale_price": 1725000,
-      "normal_price": 2035500,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=%EC%95%A0%ED%94%8C%20%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%20%ED%94%84%EB%A1%9C%20M5%2011%EC%9D%B8%EC%B9%98%20256GB%20Wi-Fi"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:27:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재입고)ECOVACS 디봇 X8 473,240원(15%↓)",
-      "sale_price": 473240,
-      "normal_price": 558400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8582849665&itemId=24879357671&vendorItemId=91886157219"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:27:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
-      "sale_price": 11600,
-      "normal_price": 13700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:28:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:28:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] 애플 아이패드 프로 M5 1,725,000원(15%↓)",
-      "sale_price": 1725000,
-      "normal_price": 2035500,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=%EC%95%A0%ED%94%8C%20%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%20%ED%94%84%EB%A1%9C%20M5%2011%EC%9D%B8%EC%B9%98%20256GB%20Wi-Fi"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:29:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] (재입고)ECOVACS 디봇 X8 473,240원(15%↓)",
-      "sale_price": 473240,
-      "normal_price": 558400,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8582849665&itemId=24879357671&vendorItemId=91886157219"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:29:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
-      "sale_price": 11600,
-      "normal_price": 13700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:30:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:30:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] 애플 아이패드 프로 M5 1,725,000원(15%↓)",
-      "sale_price": 1725000,
-      "normal_price": 2035500,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=%EC%95%A0%ED%94%8C%20%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%20%ED%94%84%EB%A1%9C%20M5%2011%EC%9D%B8%EC%B9%98%20256GB%20Wi-Fi"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 11:30:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
-      "sale_price": 11600,
-      "normal_price": 13700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
-    }
-  },
-  {
     "audited_at": "2026-11-10 11:31:17",
     "passed_all": true,
     "violations": [],
@@ -1951,6 +1556,386 @@
       "sale_price": 11840,
       "normal_price": 14000,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8933708356&itemId=26180289127&vendorItemId=93159859803"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:04:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:04:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
+      "sale_price": 11600,
+      "normal_price": 13700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:05:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:05:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
+      "sale_price": 11600,
+      "normal_price": 13700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:05:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:06:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
+      "sale_price": 11600,
+      "normal_price": 13700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:06:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:06:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
+      "sale_price": 11600,
+      "normal_price": 13700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:07:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:07:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
+      "sale_price": 11600,
+      "normal_price": 13700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:08:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:08:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
+      "sale_price": 11600,
+      "normal_price": 13700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:09:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:09:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
+      "sale_price": 11600,
+      "normal_price": 13700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:10:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:10:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
+      "sale_price": 11600,
+      "normal_price": 13700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:11:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:11:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
+      "sale_price": 11600,
+      "normal_price": 13700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:12:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 12:12:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마즈 믹스드 패밀리팩 870g 11,600원(15%↓)",
+      "sale_price": 11600,
+      "normal_price": 13700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8334201803&itemId=24063678441&vendorItemId=87920092283"
     }
   }
 ]
