@@ -1,47 +1,5 @@
 [
   {
-    "audited_at": "2026-11-10 17:47:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 굿센 마그네슘 350mg 14포 8,900원(15%↓)",
-      "sale_price": 8900,
-      "normal_price": 10500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EA%B5%BF%EC%84%BC%20%EB%A7%88%EA%B7%B8%EB%84%A4%EC%8A%98%20350mg%2014%ED%8F%AC&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 17:48:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 굿센 마그네슘 350mg 14포 8,900원(15%↓)",
-      "sale_price": 8900,
-      "normal_price": 10500,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EA%B5%BF%EC%84%BC%20%EB%A7%88%EA%B7%B8%EB%84%A4%EC%8A%98%20350mg%2014%ED%8F%AC&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
     "audited_at": "2026-11-10 17:49:09",
     "passed_all": false,
     "violations": [
@@ -2017,6 +1975,44 @@
       "sale_price": 4280,
       "normal_price": 5100,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=196473&itemId=188711"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 23:16:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 육개장 사발면 86g, 6개 4,280원(16%↓)",
+      "sale_price": 4280,
+      "normal_price": 5100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=196473&itemId=188711"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 23:16:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 케라시스 두피 클리닉 단백질 샴푸 3,600원(14%↓)",
+      "sale_price": 3600,
+      "normal_price": 4200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6523616015&itemId=14463543113&vendorItemId=81706957630"
     }
   }
 ]
