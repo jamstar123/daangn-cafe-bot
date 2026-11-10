@@ -1,1846 +1,5 @@
 [
   {
-    "audited_at": "2026-11-10 02:42:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:42:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1267300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:42:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:43:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:43:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:43:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:44:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1267300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:44:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:45:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:45:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:45:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:45:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1267300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:45:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:46:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:46:58",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:47:10",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:47:22",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1267300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:47:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:48:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:48:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:48:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:49:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1267300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:49:17",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:50:14",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:50:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:50:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:50:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1267300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:51:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:51:17",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,700원(15%↓)",
-      "sale_price": 14700,
-      "normal_price": 17300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420902&vendorItemId=93542990288"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:52:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:52:30",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:52:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:52:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1267300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:53:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:53:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
-      "sale_price": 14250,
-      "normal_price": 16800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:54:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:54:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:54:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:54:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1267300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:54:57",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:55:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
-      "sale_price": 14250,
-      "normal_price": 16800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:56:04",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:56:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:56:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:56:30",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1267300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:56:33",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:56:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
-      "sale_price": 14250,
-      "normal_price": 16800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:57:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:57:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:57:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:58:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1267300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:58:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:58:31",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
-      "sale_price": 14250,
-      "normal_price": 16800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:59:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:59:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:59:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:59:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1267300,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:00:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:00:20",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
-      "sale_price": 14250,
-      "normal_price": 16800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:01:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:01:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:01:38",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:01:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:02:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
-      "sale_price": 14250,
-      "normal_price": 16800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:02:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:03:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:03:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:03:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:03:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
-      "sale_price": 14250,
-      "normal_price": 16800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:04:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:04:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:04:35",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:04:47",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:04:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
-      "sale_price": 14250,
-      "normal_price": 16800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:05:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:06:04",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:06:16",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:06:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:06:41",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
-      "sale_price": 14250,
-      "normal_price": 16800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:07:39",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:07:52",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:08:05",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 에어용 카메라 12,590원(16%↓)",
-      "sale_price": 12590,
-      "normal_price": 14900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=Apple%20%EC%95%84%EC%9D%B4%ED%8F%B0%20%EC%97%90%EC%96%B4%EC%9A%A9%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%20%EC%A7%80%EC%9B%90%20%EB%A7%A5%EC%84%B8%EC%9D%B4%ED%94%84%ED%98%95%20Beats%20%EC%BC%80%EC%9D%B4%EC%8A%A4%2C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:08:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 카메라 12,590원(16%↓)",
-      "sale_price": 12590,
-      "normal_price": 14900,
-      "affiliate_url": "https://www.coupang.com/np/search?q=Apple%20%EC%A0%95%ED%92%88%20%EC%95%84%EC%9D%B4%ED%8F%B0%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%20%EC%A7%80%EC%9B%90%20%EB%A7%A5%EC%84%B8%EC%9D%B4%ED%94%84%ED%98%95%20Beats%20%EC%BC%80%EC%9D%B4%EC%8A%A4%2C%20%EC%95%84%EC%9D%B4%ED%8F%B0%2017%20Pro%20Max%2C%20%EB%9D%BC%EC%9E%84%20%EC%8A%A4%ED%86%A4&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:08:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 카메라 12,590원(16%↓)",
-      "sale_price": 12590,
-      "normal_price": 14900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9052271812&itemId=26569116209&vendorItemId=93542690090"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:09:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:09:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:09:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 팔도 바지락짬뽕 120g 4개입 3,530원(16%↓)",
-      "sale_price": 3530,
-      "normal_price": 4200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9778472837"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:10:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:10:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:11:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:11:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
-      "sale_price": 15000,
-      "normal_price": 17700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:11:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
-      "sale_price": 14250,
-      "normal_price": 16800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:12:14",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 03:12:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
-      "sale_price": 26110,
-      "normal_price": 30800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
-    }
-  },
-  {
     "audited_at": "2026-11-10 03:12:39",
     "passed_all": true,
     "violations": [],
@@ -1952,6 +111,1792 @@
       "sale_price": 5900,
       "normal_price": 7000,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2335357598&itemId=24866044601&vendorItemId=92165539671"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:15:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:16:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:16:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:16:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:17:22",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:17:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:17:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:17:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:18:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:18:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:19:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:19:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:20:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:20:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:20:29",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:20:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:21:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:21:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:21:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:22:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:23:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:23:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:23:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:23:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:24:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:24:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:24:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:24:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:25:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:25:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:25:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:25:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:26:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:26:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:27:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:27:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:28:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:28:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:28:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:28:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:29:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:29:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:30:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:30:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:31:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:31:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:31:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:31:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:32:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:32:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:32:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:33:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:34:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:34:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:34:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:34:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:35:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:35:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:35:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:36:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:36:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:36:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:37:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:37:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:38:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:38:19",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:38:26",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:38:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:39:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:39:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 팔도 바지락짬뽕 120g 4개입, 3,530원(16%↓)",
+      "sale_price": 3530,
+      "normal_price": 4200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9778472837&itemId=29273764331&vendorItemId=96190734819"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:39:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:39:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:40:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:40:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:41:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 팔도 바지락짬뽕 120g 4개입, 3,530원(16%↓)",
+      "sale_price": 3530,
+      "normal_price": 4200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9778472837&itemId=29273764331&vendorItemId=96190734819"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:41:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:41:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:41:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:42:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:42:45",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 팔도 바지락짬뽕 120g 4개입, 3,530원(16%↓)",
+      "sale_price": 3530,
+      "normal_price": 4200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9778472837&itemId=29273764331&vendorItemId=96190734819"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:42:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:43:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:43:10",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:44:01",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:44:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 팔도 바지락짬뽕 120g 4개입, 3,530원(16%↓)",
+      "sale_price": 3530,
+      "normal_price": 4200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9778472837&itemId=29273764331&vendorItemId=96190734819"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:44:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:44:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:44:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:45:35",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:45:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 팔도 바지락짬뽕 120g 4개입, 3,530원(16%↓)",
+      "sale_price": 3530,
+      "normal_price": 4200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9778472837&itemId=29273764331&vendorItemId=96190734819"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:45:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 크린스킨 마스터 니트릴장갑, 블랙, 26,110원(15%↓)",
+      "sale_price": 26110,
+      "normal_price": 30800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2242206427&itemId=7097060868&vendorItemId=86285376771"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:46:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 아이폰 맥세이프 15,000원(15%↓)",
+      "sale_price": 15000,
+      "normal_price": 17700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7759445165&itemId=26569116062&vendorItemId=93542690038"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:46:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] Apple 정품 애플워치 스포츠 14,250원(15%↓)",
+      "sale_price": 14250,
+      "normal_price": 16800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8550251126&itemId=26569420912&vendorItemId=93542990292"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:46:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 새싹보리, 340ml, 20개 11,080원(15%↓)",
+      "sale_price": 11080,
+      "normal_price": 13100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7719137153&itemId=28172220258"
     }
   }
 ]
