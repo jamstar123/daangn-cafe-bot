@@ -1,46 +1,5 @@
 [
   {
-    "audited_at": "2026-11-10 02:41:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
-      "sale_price": 1074000,
-      "normal_price": 1288800,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
-    }
-  },
-  {
-    "audited_at": "2026-11-10 02:42:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "FAIL",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [네이버] U자형 바디필로우 16,900원(17%↓)",
-      "sale_price": 16900,
-      "normal_price": 20300,
-      "affiliate_url": "https://search.shopping.naver.com/search/all?query=U%EC%9E%90%ED%98%95%20%EB%B0%94%EB%94%94%ED%95%84%EB%A1%9C%EC%9A%B0"
-    }
-  },
-  {
     "audited_at": "2026-11-10 02:42:24",
     "passed_all": true,
     "violations": [],
@@ -1955,6 +1914,44 @@
       "sale_price": 3200,
       "normal_price": 3800,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6233011802&itemId=16856275912"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:14:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 03:15:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 카멕스 모이스처라이징 튜브 립밤 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2335357598&itemId=24866044601&vendorItemId=92165539671"
     }
   }
 ]
