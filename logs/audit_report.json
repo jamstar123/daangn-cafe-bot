@@ -1,27 +1,6 @@
 [
   {
-    "audited_at": "2026-11-09 22:57:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-09 22:57:38",
+    "audited_at": "2026-11-09 23:59:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -33,14 +12,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 10,740,000원(17%↓)",
+      "sale_price": 10740000,
+      "normal_price": 12888000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 22:57:41",
+    "audited_at": "2026-11-09 23:59:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -59,28 +38,45 @@
     }
   },
   {
-    "audited_at": "2026-11-09 22:58:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:00:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 10,740,000원(17%↓)",
+      "sale_price": 10740000,
+      "normal_price": 12888000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
+    }
+  },
+  {
+    "audited_at": "2026-11-10 00:01:09",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 22:58:37",
+    "audited_at": "2026-11-10 00:01:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -92,14 +88,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 22:58:50",
+    "audited_at": "2026-11-10 00:01:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -111,35 +107,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 22:59:44",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:01:50",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 22:59:56",
+    "audited_at": "2026-11-10 00:02:32",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -151,14 +145,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:00:08",
+    "audited_at": "2026-11-10 00:02:33",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -170,35 +164,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:01:02",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:03:14",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:01:11",
+    "audited_at": "2026-11-10 00:03:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -210,14 +202,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:01:19",
+    "audited_at": "2026-11-10 00:03:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -229,35 +221,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:02:15",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:03:54",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:02:27",
+    "audited_at": "2026-11-10 00:04:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -269,14 +259,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:02:39",
+    "audited_at": "2026-11-10 00:04:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -288,35 +278,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:03:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:05:16",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:03:36",
+    "audited_at": "2026-11-10 00:05:17",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -328,14 +316,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:03:40",
+    "audited_at": "2026-11-10 00:05:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -347,35 +335,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:04:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:05:58",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:04:34",
+    "audited_at": "2026-11-10 00:06:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -387,14 +373,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:04:46",
+    "audited_at": "2026-11-10 00:06:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -406,35 +392,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:05:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:07:26",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:05:53",
+    "audited_at": "2026-11-10 00:07:26",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -446,14 +430,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:06:05",
+    "audited_at": "2026-11-10 00:08:08",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -465,35 +449,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:07:00",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:08:08",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:07:12",
+    "audited_at": "2026-11-10 00:08:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -505,14 +487,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:07:24",
+    "audited_at": "2026-11-10 00:08:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -524,35 +506,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:08:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:09:31",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:08:22",
+    "audited_at": "2026-11-10 00:09:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -564,14 +544,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:08:35",
+    "audited_at": "2026-11-10 00:10:13",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -583,35 +563,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:09:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:10:13",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:09:40",
+    "audited_at": "2026-11-10 00:10:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -623,14 +601,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:09:52",
+    "audited_at": "2026-11-10 00:10:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -642,35 +620,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:10:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:11:35",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:10:59",
+    "audited_at": "2026-11-10 00:11:35",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -682,14 +658,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:11:12",
+    "audited_at": "2026-11-10 00:12:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -701,35 +677,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:12:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:12:17",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:12:06",
+    "audited_at": "2026-11-10 00:12:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -741,14 +715,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:12:10",
+    "audited_at": "2026-11-10 00:12:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -760,35 +734,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:13:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:13:39",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:13:06",
+    "audited_at": "2026-11-10 00:13:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -800,14 +772,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:13:07",
+    "audited_at": "2026-11-10 00:14:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -819,35 +791,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:14:00",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:14:32",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:14:04",
+    "audited_at": "2026-11-10 00:15:13",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -859,14 +829,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:14:13",
+    "audited_at": "2026-11-10 00:15:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -878,35 +848,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:15:01",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:16:08",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:15:04",
+    "audited_at": "2026-11-10 00:16:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -918,14 +886,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:15:07",
+    "audited_at": "2026-11-10 00:17:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -937,35 +905,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:16:02",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:17:04",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:16:14",
+    "audited_at": "2026-11-10 00:17:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -977,14 +943,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:16:26",
+    "audited_at": "2026-11-10 00:17:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -996,35 +962,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:17:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:18:38",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:17:28",
+    "audited_at": "2026-11-10 00:18:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1036,35 +1000,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 롯데웰푸드 빅 크런키, 82g, 20,750원(15%↓)",
-      "sale_price": 20750,
-      "normal_price": 24500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7665349503&itemId=29196572421&vendorItemId=85464805704"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:18:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:19:34",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:18:23",
+    "audited_at": "2026-11-10 00:19:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1076,14 +1038,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:18:35",
+    "audited_at": "2026-11-10 00:20:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1095,35 +1057,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:19:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:20:24",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:19:34",
+    "audited_at": "2026-11-10 00:21:06",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1135,14 +1095,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:19:46",
+    "audited_at": "2026-11-10 00:21:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1154,35 +1114,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:20:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:21:59",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:20:52",
+    "audited_at": "2026-11-10 00:22:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1194,14 +1152,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:21:04",
+    "audited_at": "2026-11-10 00:22:53",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1213,35 +1171,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:21:58",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:23:06",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:22:10",
+    "audited_at": "2026-11-10 00:23:47",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1253,14 +1209,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:22:23",
+    "audited_at": "2026-11-10 00:23:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1272,35 +1228,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:23:04",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:24:32",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:23:04",
+    "audited_at": "2026-11-10 00:24:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1312,14 +1266,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:23:06",
+    "audited_at": "2026-11-10 00:25:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1331,35 +1285,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:24:00",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:25:28",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:24:00",
+    "audited_at": "2026-11-10 00:26:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1371,14 +1323,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:24:12",
+    "audited_at": "2026-11-10 00:26:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1390,35 +1342,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:24:57",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:27:03",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:25:10",
+    "audited_at": "2026-11-10 00:27:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1430,14 +1380,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:25:19",
+    "audited_at": "2026-11-10 00:27:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1449,35 +1399,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:26:05",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:28:10",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:26:17",
+    "audited_at": "2026-11-10 00:28:50",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1489,14 +1437,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:26:19",
+    "audited_at": "2026-11-10 00:29:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1508,35 +1456,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:27:09",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:29:44",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:27:21",
+    "audited_at": "2026-11-10 00:29:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1548,14 +1494,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:27:34",
+    "audited_at": "2026-11-10 00:30:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1567,35 +1513,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:28:18",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:30:44",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:28:30",
+    "audited_at": "2026-11-10 00:31:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1607,14 +1551,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:28:30",
+    "audited_at": "2026-11-10 00:31:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1626,35 +1570,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:29:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:32:06",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:29:35",
+    "audited_at": "2026-11-10 00:32:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1666,14 +1608,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:29:38",
+    "audited_at": "2026-11-10 00:32:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1685,35 +1627,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:30:20",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:33:04",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:30:32",
+    "audited_at": "2026-11-10 00:33:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1725,14 +1665,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:30:43",
+    "audited_at": "2026-11-10 00:33:57",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1744,35 +1684,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:31:39",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:34:40",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:31:51",
+    "audited_at": "2026-11-10 00:34:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1784,14 +1722,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:32:03",
+    "audited_at": "2026-11-10 00:35:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1803,35 +1741,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:32:59",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:35:34",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:33:11",
+    "audited_at": "2026-11-10 00:36:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1843,14 +1779,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:33:23",
+    "audited_at": "2026-11-10 00:36:32",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1862,35 +1798,33 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:34:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
+    "audited_at": "2026-11-10 00:37:14",
+    "passed_all": true,
+    "violations": [],
     "scores": {
       "title_check": "PASS",
       "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
+      "affiliate_link": "PASS",
       "no_developer_jargon": "PASS",
       "realistic_pricing": "PASS",
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%20%EC%98%A4%EC%82%AC%EC%AF%94%2C%2060g%2C%2016%EA%B0%9C&lptag=AF2017901&subid=daangncafe"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:34:20",
+    "audited_at": "2026-11-10 00:37:26",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1902,14 +1836,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 해태제과 오사쯔, 60g, 16개 11,210원(15%↓)",
-      "sale_price": 11210,
-      "normal_price": 13200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1379454338&itemId=18039152578&vendorItemId=70407972149"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:34:29",
+    "audited_at": "2026-11-10 00:38:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1921,14 +1855,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] 아이폰 에어 256GB 1,074,000원(17%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1288800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:35:21",
+    "audited_at": "2026-11-10 00:38:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1940,14 +1874,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,254,000원(15%↓)",
-      "sale_price": 1254000,
-      "normal_price": 1479700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330171&vendorItemId=93437609616"
+      "title": "[역대가] [쿠팡] Apple 아이폰 Air 1,074,000원(15%↓)",
+      "sale_price": 1074000,
+      "normal_price": 1267300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9024167552&itemId=26462330152&vendorItemId=93437609622"
     }
   },
   {
-    "audited_at": "2026-11-09 23:35:33",
+    "audited_at": "2026-11-10 00:38:30",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1959,10 +1893,10 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 잇츠스킨 파워10 포뮬라 와이이 2,750원(14%↓)",
-      "sale_price": 2750,
-      "normal_price": 3200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9182619691&itemId=11226087296&vendorItemId=78503461566"
+      "title": "[역대가] [쿠팡] 해피홈 쿨액 50g, 2개 3,940원(14%↓)",
+      "sale_price": 3940,
+      "normal_price": 4600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=87045890&itemId=273508951&vendorItemId=3661809875"
     }
   }
 ]
