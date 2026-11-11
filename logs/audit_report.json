@@ -1,46 +1,6 @@
 [
   {
-    "audited_at": "2026-11-11 05:27:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
-      "sale_price": 6000,
-      "normal_price": 7100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 05:28:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
-      "sale_price": 4420,
-      "normal_price": 5200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 05:28:54",
+    "audited_at": "2026-11-11 06:03:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -59,7 +19,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:28:55",
+    "audited_at": "2026-11-11 06:04:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -78,7 +38,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:28:58",
+    "audited_at": "2026-11-11 06:04:03",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -99,7 +59,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:29:10",
+    "audited_at": "2026-11-11 06:04:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -118,7 +78,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:30:04",
+    "audited_at": "2026-11-11 06:05:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -137,7 +97,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:30:05",
+    "audited_at": "2026-11-11 06:05:08",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -156,7 +116,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:30:07",
+    "audited_at": "2026-11-11 06:05:09",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -177,7 +137,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:30:19",
+    "audited_at": "2026-11-11 06:05:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -196,26 +156,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:30:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 스너글 초고농축 섬유유연제 오리지널 6,850원(15%↓)",
-      "sale_price": 6850,
-      "normal_price": 8100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1703104504&itemId=24151278248&vendorItemId=91169996059"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 05:31:12",
+    "audited_at": "2026-11-11 06:06:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -234,7 +175,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:31:13",
+    "audited_at": "2026-11-11 06:06:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -253,7 +194,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:31:16",
+    "audited_at": "2026-11-11 06:06:05",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -274,7 +215,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:31:28",
+    "audited_at": "2026-11-11 06:06:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -293,7 +234,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:32:20",
+    "audited_at": "2026-11-11 06:07:01",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -312,7 +253,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:32:21",
+    "audited_at": "2026-11-11 06:07:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -331,7 +272,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:32:24",
+    "audited_at": "2026-11-11 06:07:04",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -352,7 +293,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:32:36",
+    "audited_at": "2026-11-11 06:07:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -371,7 +312,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:33:31",
+    "audited_at": "2026-11-11 06:08:08",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -390,7 +331,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:33:32",
+    "audited_at": "2026-11-11 06:08:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -409,7 +350,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:33:34",
+    "audited_at": "2026-11-11 06:08:12",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -430,7 +371,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:33:46",
+    "audited_at": "2026-11-11 06:08:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -449,7 +390,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:34:39",
+    "audited_at": "2026-11-11 06:09:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -468,7 +409,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:34:40",
+    "audited_at": "2026-11-11 06:09:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -487,7 +428,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:34:43",
+    "audited_at": "2026-11-11 06:09:19",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -508,7 +449,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:34:55",
+    "audited_at": "2026-11-11 06:09:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -527,7 +468,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:35:38",
+    "audited_at": "2026-11-11 06:10:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -546,7 +487,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:35:39",
+    "audited_at": "2026-11-11 06:10:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -565,7 +506,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:35:40",
+    "audited_at": "2026-11-11 06:10:26",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -586,7 +527,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:35:53",
+    "audited_at": "2026-11-11 06:10:39",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -605,7 +546,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:36:45",
+    "audited_at": "2026-11-11 06:11:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -624,7 +565,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:36:46",
+    "audited_at": "2026-11-11 06:11:32",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -643,7 +584,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:36:49",
+    "audited_at": "2026-11-11 06:11:33",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -664,7 +605,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:37:01",
+    "audited_at": "2026-11-11 06:11:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -683,7 +624,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:37:54",
+    "audited_at": "2026-11-11 06:12:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -702,7 +643,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:37:55",
+    "audited_at": "2026-11-11 06:12:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -721,7 +662,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:37:57",
+    "audited_at": "2026-11-11 06:12:41",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -742,7 +683,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:38:09",
+    "audited_at": "2026-11-11 06:12:53",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -761,7 +702,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:39:02",
+    "audited_at": "2026-11-11 06:13:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -780,7 +721,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:39:03",
+    "audited_at": "2026-11-11 06:13:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -799,7 +740,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:39:05",
+    "audited_at": "2026-11-11 06:13:47",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -820,7 +761,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:39:17",
+    "audited_at": "2026-11-11 06:14:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -839,7 +780,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:40:10",
+    "audited_at": "2026-11-11 06:14:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -858,7 +799,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:40:11",
+    "audited_at": "2026-11-11 06:14:53",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -877,7 +818,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:40:12",
+    "audited_at": "2026-11-11 06:14:54",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -898,7 +839,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:40:24",
+    "audited_at": "2026-11-11 06:15:06",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -917,7 +858,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:41:16",
+    "audited_at": "2026-11-11 06:15:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -936,7 +877,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:41:18",
+    "audited_at": "2026-11-11 06:16:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -955,7 +896,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:41:20",
+    "audited_at": "2026-11-11 06:16:02",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -976,7 +917,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:41:33",
+    "audited_at": "2026-11-11 06:16:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -995,7 +936,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:42:25",
+    "audited_at": "2026-11-11 06:17:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1014,7 +955,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:42:26",
+    "audited_at": "2026-11-11 06:17:08",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1033,7 +974,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:42:27",
+    "audited_at": "2026-11-11 06:17:10",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1054,7 +995,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:42:39",
+    "audited_at": "2026-11-11 06:17:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1073,7 +1014,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:43:31",
+    "audited_at": "2026-11-11 06:18:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1092,7 +1033,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:43:32",
+    "audited_at": "2026-11-11 06:18:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1111,7 +1052,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:43:36",
+    "audited_at": "2026-11-11 06:18:17",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1132,7 +1073,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:43:48",
+    "audited_at": "2026-11-11 06:18:29",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1151,7 +1092,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:44:40",
+    "audited_at": "2026-11-11 06:19:21",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1170,7 +1111,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:44:41",
+    "audited_at": "2026-11-11 06:19:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1189,7 +1130,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:44:43",
+    "audited_at": "2026-11-11 06:19:25",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1210,7 +1151,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:44:53",
+    "audited_at": "2026-11-11 06:19:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1229,7 +1170,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:45:45",
+    "audited_at": "2026-11-11 06:20:24",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1248,7 +1189,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:45:46",
+    "audited_at": "2026-11-11 06:20:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1267,7 +1208,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:45:47",
+    "audited_at": "2026-11-11 06:20:28",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1288,7 +1229,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:46:00",
+    "audited_at": "2026-11-11 06:20:40",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1307,7 +1248,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:46:48",
+    "audited_at": "2026-11-11 06:21:26",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1326,7 +1267,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:46:49",
+    "audited_at": "2026-11-11 06:21:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1345,7 +1286,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:46:52",
+    "audited_at": "2026-11-11 06:21:30",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1366,7 +1307,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:47:04",
+    "audited_at": "2026-11-11 06:21:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1385,7 +1326,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:47:56",
+    "audited_at": "2026-11-11 06:22:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1404,7 +1345,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:47:57",
+    "audited_at": "2026-11-11 06:22:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1423,7 +1364,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:48:00",
+    "audited_at": "2026-11-11 06:22:40",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1444,7 +1385,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:48:12",
+    "audited_at": "2026-11-11 06:22:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1463,7 +1404,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:49:05",
+    "audited_at": "2026-11-11 06:23:45",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1482,7 +1423,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:49:06",
+    "audited_at": "2026-11-11 06:23:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1501,7 +1442,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:49:09",
+    "audited_at": "2026-11-11 06:23:47",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1522,7 +1463,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:49:21",
+    "audited_at": "2026-11-11 06:23:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1541,7 +1482,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:50:14",
+    "audited_at": "2026-11-11 06:24:51",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1560,7 +1501,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:50:15",
+    "audited_at": "2026-11-11 06:24:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1579,7 +1520,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:50:18",
+    "audited_at": "2026-11-11 06:24:54",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1600,7 +1541,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:50:30",
+    "audited_at": "2026-11-11 06:25:06",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1619,7 +1560,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:51:23",
+    "audited_at": "2026-11-11 06:25:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1638,7 +1579,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:51:24",
+    "audited_at": "2026-11-11 06:25:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1657,7 +1598,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:51:27",
+    "audited_at": "2026-11-11 06:26:00",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1678,7 +1619,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:51:39",
+    "audited_at": "2026-11-11 06:26:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1697,7 +1638,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:52:32",
+    "audited_at": "2026-11-11 06:26:53",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1716,7 +1657,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:52:33",
+    "audited_at": "2026-11-11 06:26:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1735,7 +1676,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:52:35",
+    "audited_at": "2026-11-11 06:26:56",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1756,7 +1697,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:52:47",
+    "audited_at": "2026-11-11 06:27:09",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1775,7 +1716,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:53:41",
+    "audited_at": "2026-11-11 06:28:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1794,7 +1735,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:53:42",
+    "audited_at": "2026-11-11 06:28:01",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1813,7 +1754,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:53:45",
+    "audited_at": "2026-11-11 06:28:03",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1834,7 +1775,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:53:57",
+    "audited_at": "2026-11-11 06:28:15",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1853,7 +1794,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:54:50",
+    "audited_at": "2026-11-11 06:29:02",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1872,7 +1813,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:54:51",
+    "audited_at": "2026-11-11 06:29:03",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1891,7 +1832,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:54:52",
+    "audited_at": "2026-11-11 06:29:07",
     "passed_all": false,
     "violations": [
       "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
@@ -1912,7 +1853,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:55:05",
+    "audited_at": "2026-11-11 06:29:19",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1931,7 +1872,7 @@
     }
   },
   {
-    "audited_at": "2026-11-11 05:55:17",
+    "audited_at": "2026-11-11 06:30:01",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1943,10 +1884,69 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[역대가] [쿠팡] 피지 모락셀라 냄새제거 세탁세제 12,300원(15%↓)",
-      "sale_price": 12300,
-      "normal_price": 14500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8527004003&itemId=24689455523"
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:30:03",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:30:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:30:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 역대최저가 33,850원(15%↓)",
+      "sale_price": 33850,
+      "normal_price": 39900,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9052709319&itemId=26571080439"
     }
   }
 ]
