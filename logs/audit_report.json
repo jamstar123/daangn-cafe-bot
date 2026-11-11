@@ -1,785 +1,5 @@
 [
   {
-    "audited_at": "2026-11-11 06:18:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
-      "sale_price": 4420,
-      "normal_price": 5200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:19:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 짜파게티 범벅 컵라면 70g, 6개 3,190원(30%↓)",
-      "sale_price": 3190,
-      "normal_price": 4560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244031658&itemId=175287"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:19:22",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
-      "sale_price": 3070,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:19:25",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
-      "sale_price": 6000,
-      "normal_price": 7100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:19:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
-      "sale_price": 4420,
-      "normal_price": 5200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:20:24",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 짜파게티 범벅 컵라면 70g, 6개 3,190원(30%↓)",
-      "sale_price": 3190,
-      "normal_price": 4560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244031658&itemId=175287"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:20:25",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
-      "sale_price": 3070,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:20:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
-      "sale_price": 6000,
-      "normal_price": 7100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:20:40",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
-      "sale_price": 4420,
-      "normal_price": 5200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:21:26",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 짜파게티 범벅 컵라면 70g, 6개 3,190원(30%↓)",
-      "sale_price": 3190,
-      "normal_price": 4560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244031658&itemId=175287"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:21:27",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
-      "sale_price": 3070,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:21:30",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
-      "sale_price": 6000,
-      "normal_price": 7100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:21:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
-      "sale_price": 4420,
-      "normal_price": 5200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:22:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 짜파게티 범벅 컵라면 70g, 6개 3,190원(30%↓)",
-      "sale_price": 3190,
-      "normal_price": 4560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244031658&itemId=175287"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:22:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
-      "sale_price": 3070,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:22:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
-      "sale_price": 6000,
-      "normal_price": 7100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:22:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
-      "sale_price": 4420,
-      "normal_price": 5200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:23:45",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 짜파게티 범벅 컵라면 70g, 6개 3,190원(30%↓)",
-      "sale_price": 3190,
-      "normal_price": 4560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244031658&itemId=175287"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:23:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
-      "sale_price": 3070,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:23:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
-      "sale_price": 6000,
-      "normal_price": 7100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:23:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
-      "sale_price": 4420,
-      "normal_price": 5200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:24:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 짜파게티 범벅 컵라면 70g, 6개 3,190원(30%↓)",
-      "sale_price": 3190,
-      "normal_price": 4560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244031658&itemId=175287"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:24:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
-      "sale_price": 3070,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:24:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
-      "sale_price": 6000,
-      "normal_price": 7100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:25:06",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
-      "sale_price": 4420,
-      "normal_price": 5200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:25:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 짜파게티 범벅 컵라면 70g, 6개 3,190원(30%↓)",
-      "sale_price": 3190,
-      "normal_price": 4560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244031658&itemId=175287"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:25:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
-      "sale_price": 3070,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:26:00",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
-      "sale_price": 6000,
-      "normal_price": 7100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:26:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
-      "sale_price": 4420,
-      "normal_price": 5200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:26:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 짜파게티 범벅 컵라면 70g, 6개 3,190원(30%↓)",
-      "sale_price": 3190,
-      "normal_price": 4560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244031658&itemId=175287"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:26:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
-      "sale_price": 3070,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:26:56",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
-      "sale_price": 6000,
-      "normal_price": 7100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:27:09",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
-      "sale_price": 4420,
-      "normal_price": 5200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:28:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 짜파게티 범벅 컵라면 70g, 6개 3,190원(30%↓)",
-      "sale_price": 3190,
-      "normal_price": 4560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244031658&itemId=175287"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:28:01",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
-      "sale_price": 3070,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:28:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
-      "sale_price": 6000,
-      "normal_price": 7100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:28:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
-      "sale_price": 4420,
-      "normal_price": 5200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:29:02",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 짜파게티 범벅 컵라면 70g, 6개 3,190원(30%↓)",
-      "sale_price": 3190,
-      "normal_price": 4560,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8244031658&itemId=175287"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:29:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
-      "sale_price": 3070,
-      "normal_price": 3700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
-    }
-  },
-  {
-    "audited_at": "2026-11-11 06:29:07",
-    "passed_all": false,
-    "violations": [
-      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "FAIL",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
-      "sale_price": 6000,
-      "normal_price": 7100,
-      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
-    }
-  },
-  {
     "audited_at": "2026-11-11 06:29:19",
     "passed_all": true,
     "violations": [],
@@ -1953,6 +1173,792 @@
       "sale_price": 4120,
       "normal_price": 4900,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=825878&itemId=19018634705"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:48:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:48:50",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:48:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:49:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:49:35",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:49:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:50:28",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:50:30",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:50:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:51:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:51:18",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:51:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:52:13",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:52:14",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:52:26",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:53:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:53:09",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:53:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:54:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:54:05",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:54:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:54:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:55:00",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:55:12",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:55:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:55:55",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:56:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:56:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:56:50",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:57:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:57:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:57:46",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:57:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:58:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:58:40",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:58:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:59:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 삼양 불닭볶음면 5봉 3,070원(17%↓)",
+      "sale_price": 3070,
+      "normal_price": 3700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460681274&itemId=20168025708"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:59:39",
+    "passed_all": false,
+    "violations": [
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 이달의 할인 교촌 무제한 할인 6,000원(15%↓)",
+      "sale_price": 6000,
+      "normal_price": 7100,
+      "affiliate_url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%AC%EC%9D%98%20%ED%95%A0%EC%9D%B8%20%EA%B5%90%EC%B4%8C%20%EB%AC%B4%EC%A0%9C%ED%95%9C%20%ED%95%A0%EC%9D%B8%20%28%EA%B0%80%EA%B2%A9%EB%8B%A4%EC%96%91%29&lptag=AF2017901&subid=daangncafe"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 06:59:51",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 곰곰 쌀 떡국떡, 1kg, 2개 4,420원(15%↓)",
+      "sale_price": 4420,
+      "normal_price": 5200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1548173551&itemId=19223912770&vendorItemId=86340595296"
+    }
+  },
+  {
+    "audited_at": "2026-11-11 07:00:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 지금특가 * 1L 6,930원(15%↓)",
+      "sale_price": 6930,
+      "normal_price": 8200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=5307855301&itemId=7680087171"
     }
   }
 ]
