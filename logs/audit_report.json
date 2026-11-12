@@ -1,6 +1,27 @@
 [
   {
-    "audited_at": "2026-11-12 13:09:45",
+    "audited_at": "2026-11-12 18:39:10",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 18:39:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -19,10 +40,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:10:48",
+    "audited_at": "2026-11-12 18:40:01",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -33,35 +54,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:10:49",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:10:51",
+    "audited_at": "2026-11-12 18:40:05",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -80,10 +80,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:11:55",
+    "audited_at": "2026-11-12 18:40:53",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -94,35 +94,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:12:07",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:12:08",
+    "audited_at": "2026-11-12 18:40:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -141,10 +120,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:13:12",
+    "audited_at": "2026-11-12 18:41:44",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -155,35 +134,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:13:24",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:13:26",
+    "audited_at": "2026-11-12 18:41:46",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -202,10 +160,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:14:27",
+    "audited_at": "2026-11-12 18:42:33",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -216,35 +174,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:14:27",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:14:29",
+    "audited_at": "2026-11-12 18:42:34",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -263,10 +200,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:15:31",
+    "audited_at": "2026-11-12 18:43:23",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -277,35 +214,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:15:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:15:46",
+    "audited_at": "2026-11-12 18:43:25",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -324,10 +240,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:16:49",
+    "audited_at": "2026-11-12 18:44:14",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -338,35 +254,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:16:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:16:55",
+    "audited_at": "2026-11-12 18:44:16",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -385,10 +280,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:17:58",
+    "audited_at": "2026-11-12 18:45:09",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -399,35 +294,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:18:10",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:18:12",
+    "audited_at": "2026-11-12 18:45:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -446,10 +320,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:19:18",
+    "audited_at": "2026-11-12 18:45:58",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -460,35 +334,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:19:30",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:19:31",
+    "audited_at": "2026-11-12 18:45:59",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -507,10 +360,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:20:34",
+    "audited_at": "2026-11-12 18:46:46",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -521,35 +374,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:20:46",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:20:49",
+    "audited_at": "2026-11-12 18:46:48",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -568,10 +400,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:21:51",
+    "audited_at": "2026-11-12 18:47:36",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -582,35 +414,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:22:04",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:22:06",
+    "audited_at": "2026-11-12 18:47:37",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -629,10 +440,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:23:08",
+    "audited_at": "2026-11-12 18:48:25",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -643,35 +454,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:23:20",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:23:26",
+    "audited_at": "2026-11-12 18:48:27",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -690,10 +480,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:24:29",
+    "audited_at": "2026-11-12 18:49:16",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -704,35 +494,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:24:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:24:44",
+    "audited_at": "2026-11-12 18:49:18",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -751,10 +520,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:25:49",
+    "audited_at": "2026-11-12 18:50:10",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -765,35 +534,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:25:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:25:51",
+    "audited_at": "2026-11-12 18:50:12",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -812,10 +560,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:26:55",
+    "audited_at": "2026-11-12 18:51:01",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -826,35 +574,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:26:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:26:58",
+    "audited_at": "2026-11-12 18:51:04",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -873,10 +600,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:28:00",
+    "audited_at": "2026-11-12 18:51:54",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -887,35 +614,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:28:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:28:14",
+    "audited_at": "2026-11-12 18:51:55",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -934,10 +640,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:29:10",
+    "audited_at": "2026-11-12 18:52:47",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -948,35 +654,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:29:22",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:29:24",
+    "audited_at": "2026-11-12 18:52:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -995,10 +680,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:30:25",
+    "audited_at": "2026-11-12 18:53:37",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1009,35 +694,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:30:38",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:30:40",
+    "audited_at": "2026-11-12 18:53:38",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1056,10 +720,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:31:43",
+    "audited_at": "2026-11-12 18:54:28",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1070,35 +734,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:31:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:31:50",
+    "audited_at": "2026-11-12 18:54:29",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1117,10 +760,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:32:54",
+    "audited_at": "2026-11-12 18:55:21",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1131,35 +774,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:32:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:32:56",
+    "audited_at": "2026-11-12 18:55:22",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1178,10 +800,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:34:00",
+    "audited_at": "2026-11-12 18:56:13",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1192,35 +814,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:34:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:34:15",
+    "audited_at": "2026-11-12 18:56:14",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1239,10 +840,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:35:08",
+    "audited_at": "2026-11-12 18:57:05",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1253,35 +854,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:35:20",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:35:22",
+    "audited_at": "2026-11-12 18:57:07",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1300,10 +880,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:36:24",
+    "audited_at": "2026-11-12 18:57:56",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1314,35 +894,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:36:37",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:36:40",
+    "audited_at": "2026-11-12 18:57:58",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1361,10 +920,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:37:45",
+    "audited_at": "2026-11-12 18:58:49",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1375,35 +934,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:37:57",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:38:00",
+    "audited_at": "2026-11-12 18:58:52",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1422,10 +960,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:39:04",
+    "audited_at": "2026-11-12 18:59:42",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1436,35 +974,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:39:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:39:19",
+    "audited_at": "2026-11-12 18:59:44",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1483,10 +1000,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:40:24",
+    "audited_at": "2026-11-12 19:00:35",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1497,35 +1014,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:40:29",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:40:31",
+    "audited_at": "2026-11-12 19:00:36",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1544,10 +1040,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:41:35",
+    "audited_at": "2026-11-12 19:01:29",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1558,35 +1054,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:41:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:41:48",
+    "audited_at": "2026-11-12 19:01:31",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1605,10 +1080,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:42:53",
+    "audited_at": "2026-11-12 19:02:19",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1619,35 +1094,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:42:54",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:42:56",
+    "audited_at": "2026-11-12 19:02:20",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1666,10 +1120,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:43:50",
+    "audited_at": "2026-11-12 19:03:08",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1680,35 +1134,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:44:02",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:44:04",
+    "audited_at": "2026-11-12 19:03:10",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1727,10 +1160,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:45:09",
+    "audited_at": "2026-11-12 19:04:09",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1741,35 +1174,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:45:20",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:45:22",
+    "audited_at": "2026-11-12 19:04:11",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1788,10 +1200,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:46:26",
+    "audited_at": "2026-11-12 19:04:59",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1802,35 +1214,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:46:38",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:46:42",
+    "audited_at": "2026-11-12 19:05:00",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1849,10 +1240,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:47:46",
+    "audited_at": "2026-11-12 19:05:51",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1863,35 +1254,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:47:58",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:48:00",
+    "audited_at": "2026-11-12 19:05:54",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1910,10 +1280,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:49:04",
+    "audited_at": "2026-11-12 19:06:46",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1924,35 +1294,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:49:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 13:49:18",
+    "audited_at": "2026-11-12 19:06:49",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -1971,10 +1320,10 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:50:17",
+    "audited_at": "2026-11-12 19:07:39",
     "passed_all": false,
     "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 31,350원 대비 정상가가 49,500원(차액 18,150원, 1.58배)으로 과도하게 높습니다."
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
     ],
     "scores": {
       "title_check": "PASS",
@@ -1985,14 +1334,14 @@
       "deal_freshness": "실시간 감지"
     },
     "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 덴마크 유산균이야기, 31,350원(37%↓)",
-      "sale_price": 31350,
-      "normal_price": 49500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6063894601&itemId=12826882523&vendorItemId=85873893645"
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
     }
   },
   {
-    "audited_at": "2026-11-12 13:50:18",
+    "audited_at": "2026-11-12 19:07:42",
     "passed_all": true,
     "violations": [],
     "scores": {
@@ -2011,7 +1360,628 @@
     }
   },
   {
-    "audited_at": "2026-11-12 13:51:12",
+    "audited_at": "2026-11-12 19:08:42",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:08:44",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:09:36",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:09:37",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:10:29",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:10:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:11:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:11:26",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:12:25",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:12:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:13:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:13:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:14:15",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:14:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:15:05",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:15:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:15:55",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:16:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:16:49",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:16:53",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:17:41",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:17:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:18:30",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:18:33",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:19:21",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:19:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:20:12",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:20:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:21:12",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:21:15",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 프리미엄 줄넘기 성인 어린이 5,900원(16%↓)",
+      "sale_price": 5900,
+      "normal_price": 7000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9766647640&vendorItemId=9615112627%E2%80%A6"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:22:09",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 23,800원 대비 정상가가 66,000원(차액 42,200원, 2.77배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[가격오류급] [쿠팡] 업밸런스 키오스 매스틱 검 23,800원(64%↓)",
+      "sale_price": 23800,
+      "normal_price": 66000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9809706202&itemId=29377541019"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 19:22:12",
     "passed_all": true,
     "violations": [],
     "scores": {
