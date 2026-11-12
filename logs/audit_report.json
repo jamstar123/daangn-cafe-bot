@@ -1,104 +1,5 @@
 [
   {
-    "audited_at": "2026-11-12 01:59:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,200원 대비 정상가가 33,000원(차액 13,800원, 1.72배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 정품 덴마크 19,200원(42%↓)",
-      "sale_price": 19200,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6659211729&itemId=19566242505&vendorItemId=86674101899"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 01:59:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 01:59:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마니커에프앤지 통살 케이준 치킨텐더 18,700원(15%↓)",
-      "sale_price": 18700,
-      "normal_price": 22100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8479163070&itemId=24558739203&vendorItemId=91570988966"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 01:59:19",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 마니커에프앤지 통살 케이준 치킨텐더 18,700원(15%↓)",
-      "sale_price": 18700,
-      "normal_price": 22100,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8479163070&itemId=24558739203&vendorItemId=91570988966"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 02:00:17",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,200원 대비 정상가가 33,000원(차액 13,800원, 1.72배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 정품 덴마크 19,200원(42%↓)",
-      "sale_price": 19200,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6659211729&itemId=19566242505&vendorItemId=86674101899"
-    }
-  },
-  {
     "audited_at": "2026-11-12 02:00:18",
     "passed_all": true,
     "violations": [],
@@ -1947,6 +1848,103 @@
       "sale_price": 9900,
       "normal_price": 11700,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=201018970&itemId=585458969"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 02:29:51",
+    "passed_all": false,
+    "violations": [
+      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,200원 대비 정상가가 33,000원(차액 13,800원, 1.72배)으로 과도하게 높습니다."
+    ],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "FAIL",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 덴프스 정품 덴마크 19,200원(42%↓)",
+      "sale_price": 19200,
+      "normal_price": 33000,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6659211729&itemId=19566242505&vendorItemId=86674101899"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 02:29:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
+      "sale_price": 3780,
+      "normal_price": 4500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 02:29:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마니커에프앤지 통살 케이준 치킨텐더 18,700원(15%↓)",
+      "sale_price": 18700,
+      "normal_price": 22100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8479163070&itemId=24558739203&vendorItemId=91570988966"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 02:30:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 마니커에프앤지 통살 케이준 치킨텐더 18,700원(15%↓)",
+      "sale_price": 18700,
+      "normal_price": 22100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8479163070&itemId=24558739203&vendorItemId=91570988966"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 02:30:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 역대최저가 10,600원(15%↓)",
+      "sale_price": 10600,
+      "normal_price": 12500,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=327206043&itemId=1046983266"
     }
   }
 ]
