@@ -1,488 +1,5 @@
 [
   {
-    "audited_at": "2026-11-12 04:38:05",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:38:57",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,200원 대비 정상가가 33,000원(차액 13,800원, 1.72배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 정품 덴마크 19,200원(42%↓)",
-      "sale_price": 19200,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6659211729&itemId=19566242505&vendorItemId=86674101899"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:38:59",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:39:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,200원 대비 정상가가 33,000원(차액 13,800원, 1.72배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 정품 덴마크 19,200원(42%↓)",
-      "sale_price": 19200,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6659211729&itemId=19566242505&vendorItemId=86674101899"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:39:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:40:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,200원 대비 정상가가 33,000원(차액 13,800원, 1.72배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 정품 덴마크 19,200원(42%↓)",
-      "sale_price": 19200,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6659211729&itemId=19566242505&vendorItemId=86674101899"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:40:44",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:41:28",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 19,200원 대비 정상가가 33,000원(차액 13,800원, 1.72배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[무지성 구매급] [쿠팡] 덴프스 정품 덴마크 19,200원(42%↓)",
-      "sale_price": 19200,
-      "normal_price": 33000,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6659211729&itemId=19566242505&vendorItemId=86674101899"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:41:29",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:42:10",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:42:52",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:43:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:44:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:44:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:45:34",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:46:14",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:46:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:47:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:48:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:48:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:49:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:50:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:50:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:51:36",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
-    "audited_at": "2026-11-12 04:52:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 농심 김치 사발면 86g 6개 3,780원(16%↓)",
-      "sale_price": 3780,
-      "normal_price": 4500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=86564&itemId=175470&vendorItemId=3000104081"
-    }
-  },
-  {
     "audited_at": "2026-11-12 04:52:57",
     "passed_all": true,
     "violations": [],
@@ -1905,6 +1422,553 @@
       "sale_price": 5680,
       "normal_price": 6700,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7373195965&itemId=17912011094&vendorItemId=3010626308"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:11:08",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:12:00",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:13:00",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:13:53",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:14:53",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:15:45",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:16:39",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:17:33",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:18:25",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:19:17",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:20:09",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:21:00",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:21:51",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:22:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:23:37",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:24:29",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:25:24",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:26:15",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:27:09",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:28:00",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:28:53",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:29:44",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:30:40",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:31:34",
+    "passed_all": false,
+    "violations": [
+      "[원칙1 위반] 제목이 '[역대가] [쿠팡]' 표준 태그 형식으로 시작하지 않습니다.",
+      "[원칙3 위반] 구매 링크 결함: 공식 단축 도메인(link.coupang.com)이 아닙니다., 대표님 파트너스 ID(AF2017901)가 누락되었습니다., 채널 트래킹 서브ID(subid=daangncafe)가 누락되었습니다., 쿠팡 상품 고유식별자(pageKey)가 누락되었습니다."
+    ],
+    "scores": {
+      "title_check": "FAIL",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "FAIL",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [네이버] GNC 메가맨 남성 멀티 비타민 81,900원(15%↓)",
+      "sale_price": 81900,
+      "normal_price": 96600,
+      "affiliate_url": "https://search.shopping.naver.com/search/all?query=GNC%20%EB%A9%94%EA%B0%80%EB%A7%A8%20%EB%82%A8%EC%84%B1%20%EB%A9%80%ED%8B%B0%20%EB%B9%84%ED%83%80%EB%AF%BC%20180%EC%A0%95%202%EA%B0%9C"
+    }
+  },
+  {
+    "audited_at": "2026-11-12 06:32:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 파워오투 오렌지레몬, 500ml, 7,420원(16%↓)",
+      "sale_price": 7420,
+      "normal_price": 8800,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8144847783&itemId=19643291517"
     }
   }
 ]
