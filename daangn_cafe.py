@@ -32,8 +32,11 @@ EXIT_AUTH_EXPIRED = 2       # 쿠키 만료 또는 super_host 권한 없음 -> �
 EXIT_ACTION_ID_CHANGED = 3  # Next-Action ID 불일치/변경 감지 -> 재확인 필요
 EXIT_RATE_LIMIT_FAILED = 4  # 요청 제한 대기 후 재시도 초과
 
-DEFAULT_POST_ACTION_ID = "40ec4883aa4a0be726249db944264360e828b02bb2"
-DEFAULT_IMAGE_ACTION_ID = "40c9d529704d23a3514ffcea26bda581a58a0672ca"
+# 2026-11-16 갱신: 당근 재배포(빌드 2e0b9ac, 2026-11-12/13)로 구 ID가 무효화돼
+# 11-12 이후 발행이 전부 실패함. 라이브 청크(3gb2kvrjgawpo.js → 0sc0frl6oq6s5.js)의
+# createServerReference 쌍에서 재추출한 값 (저탄수 헬퍼와 동일).
+DEFAULT_POST_ACTION_ID = "402f5a7c2fc9904da9e01dae909ef0f2cd05e52ae9"
+DEFAULT_IMAGE_ACTION_ID = "405f02288844f7079cb0daafe72ecf1e55f48835a3"
 DEFAULT_BASE_URL = "https://cafe.daangn.com"
 
 
@@ -243,32 +246,44 @@ class DaangnCafeClient:
         """
         당근 마켓이 프론트엔드를 신규 배포하여 Next-Action ID가 변경된 경우,
         posts/new 페이지 및 dynamic chunk를 자동으로 추적하여 최신 action ID로 자가 갱신합니다.
+        (2026-11-16 수정: 빌드 2e0b9ac부터 RSC 페이로드 구조가 바뀌어 구 정규식이
+        동작하지 않음 — WritePageClient와 청크 URL 사이에 ']'가 들어감, 청크 URL 뒤에
+        이스케이프 백슬래시가 붙음, 청크 참조가 상대 경로임, 액션 ID가 42자로 늘어남.
+        createServerReference 쌍으로 직접 추출하게 고침.)
         """
         try:
             url = f"{self.base_url}/{self.slug}/posts/new"
             headers = {"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"}
             _, _, html = self._request("GET", url, headers=headers, include_cookie=True)
-            w_match = re.search(r'\"([^\"]*static/chunks/[^\"]+)\"[^\]]*WritePageClient', html)
+            w_match = re.search(r'\"([^\"]*static/chunks/[^\"]+)\"[\s\S]{0,500}?WritePageClient', html)
             if not w_match:
                 return False
-            w_url = w_match.group(1)
+            w_url = w_match.group(1).rstrip("\\")
             if not w_url.startswith("http"):
                 w_url = urllib.parse.urljoin(self.base_url, w_url)
 
             _, _, w_js = self._request("GET", w_url, include_cookie=False)
             chunk_matches = re.findall(r'\"([^\"]*static/chunks/[^\"]+\.js)\"', w_js)
+            # 청크 참조는 _next/ 기준 상대 경로라, 청크 URL에 urljoin하면
+            # static/chunks/가 두 번 붙어 403이 된다. _next/를 기준으로 푼다.
+            next_base = w_url.split("_next/")[0] + "_next/" if "_next/" in w_url else self.base_url + "/"
             found = False
             for chunk_path in chunk_matches:
-                c_url = chunk_path if chunk_path.startswith("http") else urllib.parse.urljoin(w_url, chunk_path)
+                chunk_path = chunk_path.rstrip("\\")
+                if chunk_path.startswith("http"):
+                    c_url = chunk_path
+                else:
+                    c_url = urllib.parse.urljoin(next_base, chunk_path.lstrip("/"))
                 try:
                     _, _, c_js = self._request("GET", c_url, include_cookie=False)
-                    post_m = re.search(r'\"(4[a-f0-9]{39})\".*?createPostAction', c_js)
-                    img_m = re.search(r'\"(4[a-f0-9]{39})\".*?getImageUploadUrl', c_js)
-                    if post_m:
-                        self.post_action_id = post_m.group(1)
-                        found = True
-                    if img_m:
-                        self.image_action_id = img_m.group(1)
+                    for m in re.finditer(
+                        r'createServerReference\)\("([0-9a-f]{42})",[^)]*?"(createPostAction|getImageUploadUrl)"',
+                        c_js,
+                    ):
+                        if m.group(2) == "createPostAction":
+                            self.post_action_id = m.group(1)
+                        else:
+                            self.image_action_id = m.group(1)
                         found = True
                 except Exception:
                     continue
