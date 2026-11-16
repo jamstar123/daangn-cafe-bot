@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-16 09:52:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 삼양라면 120g 10개 5,540원(27%↓)",
-      "sale_price": 5540,
-      "normal_price": 7600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7460637047&itemId=20016461988"
-    }
-  },
-  {
     "audited_at": "2026-11-16 09:53:02",
     "passed_all": true,
     "violations": [],
@@ -1897,6 +1878,25 @@
       "sale_price": 3690,
       "normal_price": 4400,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8145265896&itemId=23156735806&vendorItemId=90189542736"
+    }
+  },
+  {
+    "audited_at": "2026-11-16 13:54:26",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 스윗토 스테비아 완숙토마토, 11,590원(15%↓)",
+      "sale_price": 11590,
+      "normal_price": 13700,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4382628189&itemId=5183080107&vendorItemId=72492320127"
     }
   }
 ]
