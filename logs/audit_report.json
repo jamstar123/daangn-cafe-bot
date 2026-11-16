@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-16 16:11:12",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 2024 아이패드 1,215,200원(15%↓)",
-      "sale_price": 1215200,
-      "normal_price": 1433900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8409598558&itemId=24314362623&vendorItemId=91330172632"
-    }
-  },
-  {
     "audited_at": "2026-11-16 16:12:15",
     "passed_all": true,
     "violations": [],
@@ -1897,6 +1878,25 @@
       "sale_price": 12070,
       "normal_price": 14200,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=4562898774&itemId=5561133107&vendorItemId=72860521400"
+    }
+  },
+  {
+    "audited_at": "2026-11-16 23:12:03",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 위드샨 60초 건조 매니큐어 2,700원(16%↓)",
+      "sale_price": 2700,
+      "normal_price": 3200,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9075205287&itemId=5198106362"
     }
   }
 ]
