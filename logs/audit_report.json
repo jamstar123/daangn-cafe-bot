@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-17 01:53:37",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
     "audited_at": "2026-11-17 01:54:28",
     "passed_all": false,
     "violations": [
@@ -2019,6 +2000,25 @@
       "sale_price": 9900,
       "normal_price": 11700,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8133237955&itemId=824520014"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:09:54",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
     }
   }
 ]
