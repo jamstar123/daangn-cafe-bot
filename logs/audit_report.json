@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-17 10:49:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] MYCHEF 버섯가득 소불고기전골 8,670원(15%↓)",
-      "sale_price": 8670,
-      "normal_price": 10200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2239274325&itemId=3824670244&vendorItemId=71809537003"
-    }
-  },
-  {
     "audited_at": "2026-11-17 10:50:57",
     "passed_all": true,
     "violations": [],
@@ -1897,6 +1878,25 @@
       "sale_price": 17360,
       "normal_price": 20500,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1112278073&itemId=2075966375&vendorItemId=70075069085"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 17:27:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 해태 포도봉봉 340ml 24개 12,000원(17%↓)",
+      "sale_price": 12000,
+      "normal_price": 14400,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1255081660&itemId=20122409398"
     }
   }
 ]
