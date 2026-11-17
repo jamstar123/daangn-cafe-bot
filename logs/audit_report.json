@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-17 09:53:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] MYCHEF 버섯가득 소불고기전골 8,670원(15%↓)",
-      "sale_price": 8670,
-      "normal_price": 10200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2239274325&itemId=3824670244&vendorItemId=71809537003"
-    }
-  },
-  {
     "audited_at": "2026-11-17 09:54:18",
     "passed_all": false,
     "violations": [
@@ -1901,6 +1882,25 @@
       "sale_price": 21280,
       "normal_price": 25100,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9341889004&itemId=27706013223&vendorItemId=94667634111"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 13:27:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 샤크 에보파워 시스템 NEO 무선 498,000원(15%↓)",
+      "sale_price": 498000,
+      "normal_price": 587600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7986452450&itemId=22185543357&vendorItemId=89231831968"
     }
   }
 ]
