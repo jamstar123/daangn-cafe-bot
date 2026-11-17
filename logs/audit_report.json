@@ -1,1381 +1,5 @@
 [
   {
-    "audited_at": "2026-11-17 02:13:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:14:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:14:48",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:15:38",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:15:51",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:16:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:16:55",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:17:46",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:17:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:18:43",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:18:50",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:19:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:19:42",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:20:34",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:20:46",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:21:40",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:21:53",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:22:44",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:22:56",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:23:47",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:24:00",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:24:50",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:25:03",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:25:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:26:07",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:26:57",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:27:10",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:28:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:28:15",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:29:06",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:29:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:30:09",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:30:21",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:31:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:31:18",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 홀리카홀리카 마이 페이브 피스 2,960원(15%↓)",
-      "sale_price": 2960,
-      "normal_price": 3500,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=6671363425&itemId=27128563336"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:32:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:32:55",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:33:41",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:34:21",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:35:09",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:35:58",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:36:37",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:37:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:38:03",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:38:42",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:39:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:40:15",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:41:05",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:41:53",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:42:36",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:43:26",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:44:16",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:45:05",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:45:58",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:46:46",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:47:35",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:48:23",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:49:12",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:50:01",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:50:49",
-    "passed_all": false,
-    "violations": [
-      "[원칙5 위반] 정상가 뻥튀기 의심: 할인가 10,960원 대비 정상가가 21,600원(차액 10,640원, 1.97배)으로 과도하게 높습니다."
-    ],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "FAIL",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[가격오류급] [쿠팡] 나랑드사이다 제로, 245ml, 10,960원(49%↓)",
-      "sale_price": 10960,
-      "normal_price": 21600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7447842898&itemId=19382112694"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 02:51:43",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 롯데햄 롯데비엔나 소시지, 1kg, 9,900원(15%↓)",
-      "sale_price": 9900,
-      "normal_price": 11700,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8133237955&itemId=824520014"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 03:09:54",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
-      "sale_price": 8960,
-      "normal_price": 10600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 03:10:49",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
-      "sale_price": 8960,
-      "normal_price": 10600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 03:11:41",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
-      "sale_price": 8960,
-      "normal_price": 10600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 03:12:32",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
-      "sale_price": 8960,
-      "normal_price": 10600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 03:13:23",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
-      "sale_price": 8960,
-      "normal_price": 10600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 03:14:13",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
-      "sale_price": 8960,
-      "normal_price": 10600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
-    }
-  },
-  {
-    "audited_at": "2026-11-17 03:15:08",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
-      "sale_price": 8960,
-      "normal_price": 10600,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
-    }
-  },
-  {
     "audited_at": "2026-11-17 03:16:01",
     "passed_all": true,
     "violations": [],
@@ -1981,6 +605,1298 @@
       "sale_price": 13030,
       "normal_price": 15400,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=754720&itemId=25556995564&vendorItemId=92548376043"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:40:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:41:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:41:57",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:42:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:43:20",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:44:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:44:55",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:45:46",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:46:36",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:47:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:48:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:48:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:49:50",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:50:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:51:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:52:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:52:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:53:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:54:42",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:55:27",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:56:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:57:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:57:59",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:58:49",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 03:59:40",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:00:18",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:01:09",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:02:00",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:02:52",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:03:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:04:25",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:05:17",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:06:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:06:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:07:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:08:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:09:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:10:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:11:02",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:11:43",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:12:34",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:13:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:14:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:15:06",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:15:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:16:47",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:17:38",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:18:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:19:11",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:20:04",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:20:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:21:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:22:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:23:32",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:24:24",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:25:16",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:26:07",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:26:58",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:27:48",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:28:39",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:29:30",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:30:23",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:31:14",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:32:05",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:32:56",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:33:41",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:34:31",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 엠바레 밀크 카라멜, 720g, 2개 8,960원(15%↓)",
+      "sale_price": 8960,
+      "normal_price": 10600,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=55397&itemId=272427694&vendorItemId=85322097325"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 04:35:26",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[무지성 구매급] [쿠팡] 굽네 소스가 맛잇는 닭가슴살 15,390원(33%↓)",
+      "sale_price": 15390,
+      "normal_price": 23100,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=1138891491&itemId=2109535018&vendorItemId=70108295142"
     }
   }
 ]
