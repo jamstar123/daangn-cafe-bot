@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-16 17:08:28",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] Apple 2024 아이패드 1,215,200원(15%↓)",
-      "sale_price": 1215200,
-      "normal_price": 1433900,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8409598558&itemId=24314362623&vendorItemId=91330172632"
-    }
-  },
-  {
     "audited_at": "2026-11-16 17:09:31",
     "passed_all": true,
     "violations": [],
@@ -1901,6 +1882,25 @@
       "sale_price": 17900,
       "normal_price": 21100,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=9535854247&itemId=28441203397&vendorItemId=94199124152"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 00:58:08",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 벡셀 아이프라임 알카라인 AA건전지 10,390원(16%↓)",
+      "sale_price": 10390,
+      "normal_price": 12300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7370852457&itemId=22052097472&vendorItemId=89099363642"
     }
   }
 ]
