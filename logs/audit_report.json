@@ -1,24 +1,5 @@
 [
   {
-    "audited_at": "2026-11-17 09:51:58",
-    "passed_all": true,
-    "violations": [],
-    "scores": {
-      "title_check": "PASS",
-      "no_rocket_delivery": "PASS",
-      "affiliate_link": "PASS",
-      "no_developer_jargon": "PASS",
-      "realistic_pricing": "PASS",
-      "deal_freshness": "실시간 감지"
-    },
-    "details": {
-      "title": "[역대가] [쿠팡] MYCHEF 버섯가득 소불고기전골 8,670원(15%↓)",
-      "sale_price": 8670,
-      "normal_price": 10200,
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=2239274325&itemId=3824670244&vendorItemId=71809537003"
-    }
-  },
-  {
     "audited_at": "2026-11-17 09:53:02",
     "passed_all": false,
     "violations": [
@@ -1903,6 +1884,25 @@
       "sale_price": 8560,
       "normal_price": 10100,
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=8544432361&itemId=24739509746&vendorItemId=91748225140"
+    }
+  },
+  {
+    "audited_at": "2026-11-17 12:33:21",
+    "passed_all": true,
+    "violations": [],
+    "scores": {
+      "title_check": "PASS",
+      "no_rocket_delivery": "PASS",
+      "affiliate_link": "PASS",
+      "no_developer_jargon": "PASS",
+      "realistic_pricing": "PASS",
+      "deal_freshness": "실시간 감지"
+    },
+    "details": {
+      "title": "[역대가] [쿠팡] 글래드 늘어나는 매직 지퍼백 7,890원(15%↓)",
+      "sale_price": 7890,
+      "normal_price": 9300,
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF2017901&subid=daangncafe&pageKey=7396582199&itemId=19292025475&vendorItemId=86406753462"
     }
   }
 ]
